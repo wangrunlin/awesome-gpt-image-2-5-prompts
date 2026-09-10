@@ -10,6 +10,7 @@
     "build": "node scripts/build.mjs",
     "validate": "node scripts/validate.mjs",
     "test": "node --test",
-    "check": "npm run validate && npm test && node scripts/build.mjs --check"
+    "check": "npm run validate && npm test && node scripts/build.mjs --check",
+    "metrics:snapshot": "node scripts/traffic-snapshot.mjs"
   }
 }

@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "id": "geometry-locked-product-render",
+  "title": {
+    "en": "Geometry-locked product render",
+    "zh": "锁定几何结构的产品渲染"
+  },
+  "summary": {
+    "en": "Turn a rough geometry guide into one polished studio frame while retaining the supplied pose.",
+    "zh": "将粗糙几何参考图变为精致棚拍静帧，同时保留输入姿态。"
+  },
+  "category": "products",
+  "tags": [
+    "product-render",
+    "geometry",
+    "reference-image",
+    "studio-lighting"
+  ],
+  "mode": "edit",
+  "featured": false,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/higgsfield/status/2097514650518831462",
+    "evidence": "The creator names GPT Image 2.5 in the showcase post; the output model is not independently verified."
+  },
+  "prompt": {
+    "kind": "adaptation",
+    "original_language": null,
+    "steps": [
+      {
+        "en": "Use the supplied rough geometry image as a strict guide for one square studio image of the orange spiral sculpture. Keep its silhouette, coil count, handedness, pitch, tube thickness, pose, camera angle, scale, and image placement unchanged. Refine only the surface and lighting: opaque satin orange near #F28A2E, smooth tubing, subtle highlights, a neutral off-white seamless background, and a short soft contact shadow from a large light above camera-left. Remove viewport shading and mesh facets without altering contours. Add no pedestal, text, borders, or extra objects. The guide already contains the correct pose; do not rotate or mirror it.",
+        "zh": "以提供的粗糙几何图为严格参考，生成橙色螺旋雕塑的一张方形棚拍图。保持轮廓、圈数、旋向、螺距、管径、姿态、机位、比例及画面位置不变。只优化表面和照明：接近 #F28A2E 的不透明缎面橙色、平滑管体、细微高光、中性灰白无缝背景，以及来自相机左上方大型柔光源的短柔接触阴影。去掉视口阴影与网格棱面，但不改变边缘。不要添加底座、文字、边框或其他物体。参考图已包含正确姿态，不要旋转或镜像。"
+      }
+    ]
+  },
+  "inputs": [
+    {
+      "en": "A rough geometry/viewport image of the orange spiral sculpture in the desired pose. The published result alone is not that input guide.",
+      "zh": "所需姿态下橙色螺旋雕塑的粗糙几何／视口参考图。公开结果图本身不是该输入参考。"
+    }
+  ],
+  "notes": [
+    {
+      "en": "Editorial condensation of the creator’s full author reply. The original uses a {FRAME} variable for a sequence; this adaptation targets one still frame and does not create the spring animation.",
+      "zh": "根据作者完整回复压缩整理。原文使用 {FRAME} 变量制作序列；此改编仅针对单张静帧，不生成弹簧动画。"
+    },
+    {
+      "en": "The preview is the original showcase video thumbnail, not a verified output of this adapted prompt. The source’s guide image is not supplied by this catalog.",
+      "zh": "预览是原帖视频缩略图，不是此改编提示词的已验证输出。本目录不提供原流程的几何输入图。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "higgsfield",
+    "url": "https://x.com/higgsfield/status/2097514650518831462",
+    "prompt_url": "https://x.com/higgsfield/status/2097514684811554911",
+    "checked_at": "2026-09-10T16:37:42.009Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097513089268842496/img/gIhm45SziKF5_TBr.jpg",
+      "kind": "source-result",
+      "credit": "@higgsfield",
+      "source_url": "https://x.com/higgsfield/status/2097514650518831462"
+    }
+  ],
+  "engagement": {
+    "likes": 70,
+    "reposts": 2,
+    "replies": 6,
+    "bookmarks": 12,
+    "views": 10773,
+    "observed_at": "2026-09-10T16:37:42.009Z",
+    "source_url": "https://x.com/higgsfield/status/2097514650518831462",
+    "method": "X public post UI; showcase engagement group"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  }
+}

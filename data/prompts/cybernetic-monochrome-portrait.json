@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "id": "cybernetic-monochrome-portrait",
+  "title": {
+    "en": "Monochrome cybernetic portrait",
+    "zh": "黑白机械人像"
+  },
+  "summary": {
+    "en": "Build a high-contrast portrait around porcelain, cables, and dramatic studio lighting.",
+    "zh": "围绕瓷质面具、线缆与戏剧性棚灯构建高反差人像。"
+  },
+  "category": "photography",
+  "tags": [
+    "portrait",
+    "monochrome",
+    "cinematic",
+    "texture"
+  ],
+  "mode": "generate",
+  "featured": false,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/meng_dagg695/status/2097558679956664521",
+    "evidence": "The creator names GPT Image 2.5 in the showcase post; the output model is not independently verified."
+  },
+  "prompt": {
+    "kind": "original",
+    "original_language": "en",
+    "steps": [
+      {
+        "en": "Cybernetic horror portrait, gaunt humanoid figure with cracked porcelain-white skull-like mask, mismatched hollow eye sockets (one sunken void, one recessed metallic ring), jagged exposed teeth, surrounded by a chaotic tangle of thick black cables and industrial bobbin/coil attachments wired into the head, tattered dark fabric top, dramatic low-key lighting, deep black background, high contrast monochrome, horror photography, cinematic, hyperdetailed texture, 85mm lens, shallow depth.",
+        "zh": "机械恐怖人像：消瘦的人形角色戴着布满裂纹的瓷白色骷髅状面具，两个空洞眼窝不对称，一侧是凹陷空洞，另一侧是内嵌金属环；牙齿参差外露，头部连接着杂乱粗黑线缆和工业线轴／线圈组件，身着破旧深色布料上衣。戏剧性低调照明、深黑背景、高反差黑白效果、恐怖摄影、电影感、极细致纹理、85mm 镜头、浅景深。"
+      }
+    ]
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "The creator publishes the English prompt and three result images in the same post. This preview is the first source image.",
+      "zh": "作者在同一帖子中公开英文提示词和三张结果图。此处预览为第一张原图。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "meng_dagg695",
+    "url": "https://x.com/meng_dagg695/status/2097558679956664521",
+    "prompt_url": "https://x.com/meng_dagg695/status/2097558679956664521",
+    "checked_at": "2026-09-10T16:38:04.941Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRwGeNGa0AAEpHk?format=jpg&name=900x900",
+      "kind": "source-result",
+      "credit": "@meng_dagg695",
+      "source_url": "https://x.com/meng_dagg695/status/2097558679956664521"
+    }
+  ],
+  "engagement": {
+    "likes": 120,
+    "reposts": 9,
+    "replies": 40,
+    "bookmarks": 16,
+    "views": 6752,
+    "observed_at": "2026-09-10T16:38:04.941Z",
+    "source_url": "https://x.com/meng_dagg695/status/2097558679956664521",
+    "method": "X public post UI; showcase engagement group"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  }
+}

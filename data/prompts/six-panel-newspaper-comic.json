@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "id": "six-panel-newspaper-comic",
+  "title": {
+    "en": "Six-panel newspaper comic",
+    "zh": "六格报纸漫画"
+  },
+  "summary": {
+    "en": "Explore a fixed six-panel layout with recurring characters and a silent panel.",
+    "zh": "探索固定六格布局、重复角色与无对白分镜。"
+  },
+  "category": "design",
+  "tags": [
+    "comic",
+    "layout",
+    "character-consistency",
+    "print-design"
+  ],
+  "mode": "generate",
+  "featured": false,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": "sunburst",
+    "evidence_url": "https://x.com/ImagineArt_X/status/2097520459969601977",
+    "evidence": "The creator’s parent comparison post names GPT Image 2.5 Sunburst and identifies the right-hand result as 2.5; output model not independently verified."
+  },
+  "prompt": {
+    "kind": "original",
+    "original_language": "en",
+    "steps": [
+      {
+        "en": "a 1960s Sunday newspaper comic strip on yellowed newsprint, six panels in two rows of three. A park ranger and a bear with a notched ear, the same campsite in every panel, dialogue specified word for word, one sound effect, and one panel with no dialogue at all.",
+        "zh": "在泛黄新闻纸上绘制一幅 1960 年代周日报纸连环漫画，六格分成两行，每行三格。主角是公园管理员和一只耳朵有缺口的熊，每格都是同一个露营地；对白逐字指定，包含一个音效，并有一格完全没有对白。"
+      }
+    ]
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "The creator’s parent thread identifies GPT Image 2.5 Sunburst and says GPT Image 2 is on the left and 2.5 on the right. This preview links the second source image. This is a creator claim, not a maintainer test.",
+      "zh": "作者在线程首帖中标明 GPT Image 2.5 Sunburst，并说明左侧为 GPT Image 2、右侧为 2.5。此处预览链接第二张原帖图片。这是作者声明，不是维护者复测。"
+    },
+    {
+      "en": "The English block preserves the published brief, excluding its “Prompt N:” label. Engagement belongs to this individual reply, not the entire comparison thread.",
+      "zh": "英文块保留已发布的提示词，去掉“Prompt N:”编号标签。互动量属于这条独立回复，不是整个对比线程。"
+    },
+    {
+      "en": "The published brief asks for word-for-word dialogue but supplies no actual dialogue. Add your own dialogue separately when adapting it; this catalog does not invent missing source text.",
+      "zh": "公开提示词要求逐字对白，却没有提供具体对白。改编时请另外写明自己的对白；本目录不补造缺失的原文。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "ImagineArt_X",
+    "url": "https://x.com/ImagineArt_X/status/2097520479246704871",
+    "prompt_url": "https://x.com/ImagineArt_X/status/2097520479246704871",
+    "checked_at": "2026-09-10T16:35:40.097Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRvhZGHaQAAlzoS?format=jpg&name=large",
+      "kind": "source-result",
+      "credit": "@ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread",
+      "source_url": "https://x.com/ImagineArt_X/status/2097520479246704871"
+    }
+  ],
+  "engagement": {
+    "likes": 113,
+    "reposts": 2,
+    "replies": 2,
+    "bookmarks": 46,
+    "views": 43848,
+    "observed_at": "2026-09-10T16:35:40.097Z",
+    "source_url": "https://x.com/ImagineArt_X/status/2097520479246704871",
+    "method": "X public post UI; individual reply engagement group"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  }
+}

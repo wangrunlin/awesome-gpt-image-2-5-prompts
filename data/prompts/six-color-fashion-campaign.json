@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "id": "six-color-fashion-campaign",
+  "title": {
+    "en": "Six-color fashion campaign",
+    "zh": "六色时装广告"
+  },
+  "summary": {
+    "en": "Coordinate six distinct colors and poses in a low-angle fashion campaign.",
+    "zh": "用低机位组织六种服装色彩和不同人物姿势。"
+  },
+  "category": "products",
+  "tags": [
+    "fashion",
+    "advertising",
+    "wide-angle",
+    "color-palette"
+  ],
+  "mode": "generate",
+  "featured": true,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": "sunburst",
+    "evidence_url": "https://x.com/ImagineArt_X/status/2097520459969601977",
+    "evidence": "The creator’s parent comparison post names GPT Image 2.5 Sunburst and identifies the right-hand result as 2.5; output model not independently verified."
+  },
+  "prompt": {
+    "kind": "original",
+    "original_language": "en",
+    "steps": [
+      {
+        "en": "a fashion campaign for an invented label, shot from a camera on the ground with a 24mm lens tilted fifteen degrees. Six people in electric blue, tomato red, lime green, hot pink, butter yellow and lilac, all posed differently, against plain cobalt sky.",
+        "zh": "为一个虚构品牌拍摄时装广告，摄影机置于地面，使用倾斜十五度的 24mm 镜头。六个人分别穿电光蓝、番茄红、青柠绿、亮粉色、奶油黄和淡紫色服装，姿势各不相同，背景是纯净的钴蓝色天空。"
+      }
+    ]
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "The creator’s parent thread identifies GPT Image 2.5 Sunburst and says GPT Image 2 is on the left and 2.5 on the right. This preview links the second source image. This is a creator claim, not a maintainer test.",
+      "zh": "作者在线程首帖中标明 GPT Image 2.5 Sunburst，并说明左侧为 GPT Image 2、右侧为 2.5。此处预览链接第二张原帖图片。这是作者声明，不是维护者复测。"
+    },
+    {
+      "en": "The English block preserves the published brief, excluding its “Prompt N:” label. Engagement belongs to this individual reply, not the entire comparison thread.",
+      "zh": "英文块保留已发布的提示词，去掉“Prompt N:”编号标签。互动量属于这条独立回复，不是整个对比线程。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "ImagineArt_X",
+    "url": "https://x.com/ImagineArt_X/status/2097520463811608862",
+    "prompt_url": "https://x.com/ImagineArt_X/status/2097520463811608862",
+    "checked_at": "2026-09-10T16:35:00.387Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRvg8ccbkAAZ3NQ?format=jpg&name=large",
+      "kind": "source-result",
+      "credit": "@ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread",
+      "source_url": "https://x.com/ImagineArt_X/status/2097520463811608862"
+    }
+  ],
+  "engagement": {
+    "likes": 97,
+    "reposts": 5,
+    "replies": 6,
+    "bookmarks": 46,
+    "views": 47772,
+    "observed_at": "2026-09-10T16:35:00.387Z",
+    "source_url": "https://x.com/ImagineArt_X/status/2097520463811608862",
+    "method": "X public post UI; individual reply engagement group"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  }
+}

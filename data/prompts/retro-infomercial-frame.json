@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "id": "retro-infomercial-frame",
+  "title": {
+    "en": "Retro infomercial advertising frame",
+    "zh": "复古电视购物广告画面"
+  },
+  "summary": {
+    "en": "Create a nostalgic advertising still that mixes a product display with dense overlay text.",
+    "zh": "制作将产品展示与密集叠加文字结合的怀旧广告静帧。"
+  },
+  "category": "products",
+  "tags": [
+    "advertising",
+    "retro",
+    "typography",
+    "product-display"
+  ],
+  "mode": "generate",
+  "featured": false,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": "sunburst",
+    "evidence_url": "https://x.com/ImagineArt_X/status/2097520459969601977",
+    "evidence": "The creator’s parent comparison post names GPT Image 2.5 Sunburst and identifies the right-hand result as 2.5; output model not independently verified."
+  },
+  "prompt": {
+    "kind": "original",
+    "original_language": "en",
+    "steps": [
+      {
+        "en": "a frame grab from a 1994 infomercial, standard definition video with scanlines. A host in a teal blazer, a battered saucer on a rotating plinth with Antarctic ice frozen around one leg, a price starburst, a phone number, and three lines of legal small print.",
+        "zh": "一帧取自 1994 年电视购物广告的画面，采用带扫描线的标清视频质感。主持人穿蓝绿色西装外套；旋转展台上放着一个破旧飞碟，其中一条支腿结着南极冰。画面还包含爆炸形价格标签、电话号码和三行法律小字。"
+      }
+    ]
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "The creator’s parent thread identifies GPT Image 2.5 Sunburst and says GPT Image 2 is on the left and 2.5 on the right. This preview links the second source image. This is a creator claim, not a maintainer test.",
+      "zh": "作者在线程首帖中标明 GPT Image 2.5 Sunburst，并说明左侧为 GPT Image 2、右侧为 2.5。此处预览链接第二张原帖图片。这是作者声明，不是维护者复测。"
+    },
+    {
+      "en": "The English block preserves the published brief, excluding its “Prompt N:” label. Engagement belongs to this individual reply, not the entire comparison thread.",
+      "zh": "英文块保留已发布的提示词，去掉“Prompt N:”编号标签。互动量属于这条独立回复，不是整个对比线程。"
+    },
+    {
+      "en": "The source does not specify a price, phone number, or legal copy. For an actual advertisement, provide your own approved values. The requested output is a still image, not a finished video.",
+      "zh": "原文没有指定价格、电话号码或法律文案。用于真实广告时需提供自己的已确认内容。要求的输出是静帧，不是完整视频。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "ImagineArt_X",
+    "url": "https://x.com/ImagineArt_X/status/2097520474226147462",
+    "prompt_url": "https://x.com/ImagineArt_X/status/2097520474226147462",
+    "checked_at": "2026-09-10T16:35:40.097Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRvhPCSaIAA9WfW?format=jpg&name=large",
+      "kind": "source-result",
+      "credit": "@ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread",
+      "source_url": "https://x.com/ImagineArt_X/status/2097520474226147462"
+    }
+  ],
+  "engagement": {
+    "likes": 58,
+    "reposts": 2,
+    "replies": 4,
+    "bookmarks": 27,
+    "views": 46021,
+    "observed_at": "2026-09-10T16:35:40.097Z",
+    "source_url": "https://x.com/ImagineArt_X/status/2097520474226147462",
+    "method": "X public post UI; individual reply engagement group"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  }
+}

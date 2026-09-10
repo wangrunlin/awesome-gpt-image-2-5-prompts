@@ -3,7 +3,7 @@
 
 # Awesome GPT Image 2.5 Prompts
 
-[![Validate](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts/actions/workflows/validate.yml/badge.svg)](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts/actions/workflows/validate.yml) [![Prompts](https://img.shields.io/badge/prompts-16-3456CE)](#collection) [![Source checked](https://img.shields.io/badge/source%20checked-2026--09--10-202824)](docs/CURATION.md) [![MIT tooling](https://img.shields.io/badge/tooling-MIT-3456CE)](LICENSE)
+[![Validate](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts/actions/workflows/validate.yml/badge.svg)](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts/actions/workflows/validate.yml) [![Prompts](https://img.shields.io/badge/prompts-24-3456CE)](#collection) [![Source checked](https://img.shields.io/badge/source%20checked-2026--09--10-202824)](docs/CURATION.md) [![MIT tooling](https://img.shields.io/badge/tooling-MIT-3456CE)](LICENSE)
 
 **[English](README.md) · [简体中文](README.zh-CN.md)**
 
@@ -11,7 +11,7 @@
 
 由 **[Image 2.5](https://image-2-5.com)** 维护 — **[image-2-5.com](https://image-2-5.com)**。在这里寻找灵感，再[打开 Image 2.5](https://image-2-5.com)，将提示词用于图片创作。
 
-**16 个案例 · 6 个分类 · 7 条原始英文提示词 · 9 条明确标注的改写。** 每条均链接到创作者和来源。X 公开数据是带日期的快照，不是实时榜单，也不是独立质量测试。
+**24 个案例 · 6 个分类 · 14 条原始英文提示词 · 10 条明确标注的改写。** 每条均链接到创作者和来源。X 公开数据是带日期的快照，不是实时榜单，也不是独立质量测试。
 
 首批条目均为**原帖已核对，本仓库尚未独立生图测试**。创作者结果预览对应原帖，不代表改写后的配方能够复现同一张图片。
 
@@ -59,6 +59,26 @@
 
 [复制提示词并查看步骤](prompts/travel-magazine-page.md#中文) · [打开 Image 2.5](https://image-2-5.com)
 
+### [六色时装广告](prompts/six-color-fashion-campaign.md#中文)
+
+<a href="https://x.com/ImagineArt_X/status/2097520463811608862"><img src="https://pbs.twimg.com/media/HRvg8ccbkAAZ3NQ?format=jpg&amp;name=large" width="280" alt="六色时装广告 — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread source example" loading="lazy"></a>
+
+用低机位组织六种服装色彩和不同人物姿势。
+
+**原始英文 prompt** · 文生图 · [@ImagineArt_X](https://x.com/ImagineArt_X/status/2097520463811608862) · 97 赞 · 46 收藏 · 47,772 浏览
+
+[复制提示词并查看步骤](prompts/six-color-fashion-campaign.md#中文) · [打开 Image 2.5](https://image-2-5.com)
+
+### [咖啡机维修手册剖面图](prompts/espresso-service-manual.md#中文)
+
+<a href="https://x.com/ImagineArt_X/status/2097520469150986457"><img src="https://pbs.twimg.com/media/HRvhFOtb0AAGMeg?format=jpg&amp;name=large" width="280" alt="咖啡机维修手册剖面图 — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread source example" loading="lazy"></a>
+
+将剖面插画、编号标注、图例与指定标题组合在一页中。
+
+**原始英文 prompt** · 文生图 · [@ImagineArt_X](https://x.com/ImagineArt_X/status/2097520469150986457) · 86 赞 · 43 收藏 · 47,674 浏览
+
+[复制提示词并查看步骤](prompts/espresso-service-manual.md#中文) · [打开 Image 2.5](https://image-2-5.com)
+
 <a id="how-to-use"></a>
 ## 使用方法
 
@@ -88,6 +108,9 @@
 | 案例 | 提示词 | 类型 | 赞 | 收藏 | 浏览 |
 | --- | --- | --- | ---: | ---: | ---: |
 | [参考风格的产品 UGC](prompts/style-reference-product-ugc.md#中文) | 编辑改写 | 多步骤工作流 | 282 | 544 | 34,356 |
+| [六色时装广告](prompts/six-color-fashion-campaign.md#中文) | 原始英文 prompt | 文生图 | 97 | 46 | 47,772 |
+| [锁定几何结构的产品渲染](prompts/geometry-locked-product-render.md#中文) | 编辑改写 | 参考图编辑 | 70 | 12 | 10,773 |
+| [复古电视购物广告画面](prompts/retro-infomercial-frame.md#中文) | 原始英文 prompt | 文生图 | 58 | 27 | 46,021 |
 
 ### 人像与摄影
 
@@ -95,6 +118,7 @@
 | --- | --- | --- | ---: | ---: | ---: |
 | [森林细节压力测试](prompts/forest-detail-stress-test.md#中文) | 原始英文 prompt | 文生图 | 414 | 57 | 38,893 |
 | [梦幻旗袍人像](prompts/dreamy-qipao-portrait.md#中文) | 原始英文 prompt | 文生图 | 222 | 116 | 13,614 |
+| [黑白机械人像](prompts/cybernetic-monochrome-portrait.md#中文) | 原始英文 prompt | 文生图 | 120 | 16 | 6,752 |
 | [咖啡馆手机随拍](prompts/candid-cafe-photo.md#中文) | 原始英文 prompt | 文生图 | 89 | 24 | 14,746 |
 
 ### 海报与编辑设计
@@ -102,6 +126,9 @@
 | 案例 | 提示词 | 类型 | 赞 | 收藏 | 浏览 |
 | --- | --- | --- | ---: | ---: | ---: |
 | [个性化旅行杂志页](prompts/travel-magazine-page.md#中文) | 编辑改写 | 参考图编辑 | 125 | 151 | 53,937 |
+| [六格报纸漫画](prompts/six-panel-newspaper-comic.md#中文) | 原始英文 prompt | 文生图 | 113 | 46 | 43,848 |
+| [咖啡机维修手册剖面图](prompts/espresso-service-manual.md#中文) | 原始英文 prompt | 文生图 | 86 | 43 | 47,674 |
+| [混合排版的乡村公告板](prompts/village-notice-board.md#中文) | 原始英文 prompt | 文生图 | 54 | 11 | 40,735 |
 | [保留世界观的海报重设计](prompts/poster-perspective-redesign.md#中文) | 编辑改写 | 参考图编辑 | 20 | 15 | 8,373 |
 
 ### 角色与精灵图工作流
@@ -111,6 +138,7 @@
 | [战斗精灵表与透明 GIF](prompts/combat-sprite-sheet.md#中文) | 编辑改写 | 多步骤工作流 | 5,658 | 5,524 | 726,156 |
 | [参考角色待机循环](prompts/character-idle-sprite-loop.md#中文) | 编辑改写 | 多步骤工作流 | 162 | 184 | 34,685 |
 | [通过独立差分帧制作动画](prompts/separate-frame-animation.md#中文) | 编辑改写 | 多步骤工作流 | 157 | 109 | 14,699 |
+| [火山沙滩上的赛璐璐动画对决](prompts/cel-animation-duel.md#中文) | 原始英文 prompt | 文生图 | 75 | 18 | 37,752 |
 | [哥布林弓箭手动画](prompts/goblin-archer-animation.md#中文) | 编辑改写 | 多步骤工作流 | 21 | 10 | 7,298 |
 
 ### 草图引导创作

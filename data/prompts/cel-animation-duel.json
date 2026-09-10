@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "id": "cel-animation-duel",
+  "title": {
+    "en": "Cel-animation duel on volcanic sand",
+    "zh": "火山沙滩上的赛璐璐动画对决"
+  },
+  "summary": {
+    "en": "Generate a single illustrated film still with contrasting character poses and directional petals.",
+    "zh": "生成一张具有对照人物姿势和定向花瓣的动画电影静帧。"
+  },
+  "category": "characters",
+  "tags": [
+    "illustration",
+    "cel-animation",
+    "cinematic",
+    "composition"
+  ],
+  "mode": "generate",
+  "featured": false,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": "sunburst",
+    "evidence_url": "https://x.com/ImagineArt_X/status/2097520459969601977",
+    "evidence": "The creator’s parent comparison post names GPT Image 2.5 Sunburst and identifies the right-hand result as 2.5; output model not independently verified."
+  },
+  "prompt": {
+    "kind": "original",
+    "original_language": "en",
+    "steps": [
+      {
+        "en": "a still from a hand drawn Japanese animated film, late 1990s cel style, painted watercolour background. A dawn duel on black volcanic sand, a woman with a drawn katana facing an older man with a sheathed one, cherry blossom blowing right to left.",
+        "zh": "一帧手绘日本动画电影画面，采用 1990 年代末的赛璐璐风格与水彩背景。黎明时分，两人在黑色火山沙地上对决：一名拔出武士刀的女子面对一名刀仍在鞘中的年长男子，樱花从右向左吹过。"
+      }
+    ]
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "The creator’s parent thread identifies GPT Image 2.5 Sunburst and says GPT Image 2 is on the left and 2.5 on the right. This preview links the second source image. This is a creator claim, not a maintainer test.",
+      "zh": "作者在线程首帖中标明 GPT Image 2.5 Sunburst，并说明左侧为 GPT Image 2、右侧为 2.5。此处预览链接第二张原帖图片。这是作者声明，不是维护者复测。"
+    },
+    {
+      "en": "The English block preserves the published brief, excluding its “Prompt N:” label. Engagement belongs to this individual reply, not the entire comparison thread.",
+      "zh": "英文块保留已发布的提示词，去掉“Prompt N:”编号标签。互动量属于这条独立回复，不是整个对比线程。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "ImagineArt_X",
+    "url": "https://x.com/ImagineArt_X/status/2097520490013433944",
+    "prompt_url": "https://x.com/ImagineArt_X/status/2097520490013433944",
+    "checked_at": "2026-09-10T16:35:40.097Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRvht74akAA4dMU?format=jpg&name=large",
+      "kind": "source-result",
+      "credit": "@ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread",
+      "source_url": "https://x.com/ImagineArt_X/status/2097520490013433944"
+    }
+  ],
+  "engagement": {
+    "likes": 75,
+    "reposts": 3,
+    "replies": 2,
+    "bookmarks": 18,
+    "views": 37752,
+    "observed_at": "2026-09-10T16:35:40.097Z",
+    "source_url": "https://x.com/ImagineArt_X/status/2097520490013433944",
+    "method": "X public post UI; individual reply engagement group"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  }
+}

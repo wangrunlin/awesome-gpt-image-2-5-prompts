@@ -3,7 +3,7 @@
 
 # Awesome GPT Image 2.5 Prompts
 
-[![Validate](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts/actions/workflows/validate.yml/badge.svg)](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts/actions/workflows/validate.yml) [![Prompts](https://img.shields.io/badge/prompts-16-3456CE)](#collection) [![Source checked](https://img.shields.io/badge/source%20checked-2026--09--10-202824)](docs/CURATION.md) [![MIT tooling](https://img.shields.io/badge/tooling-MIT-3456CE)](LICENSE)
+[![Validate](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts/actions/workflows/validate.yml/badge.svg)](https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts/actions/workflows/validate.yml) [![Prompts](https://img.shields.io/badge/prompts-24-3456CE)](#collection) [![Source checked](https://img.shields.io/badge/source%20checked-2026--09--10-202824)](docs/CURATION.md) [![MIT tooling](https://img.shields.io/badge/tooling-MIT-3456CE)](LICENSE)
 
 **[English](README.md) · [简体中文](README.zh-CN.md)**
 
@@ -11,7 +11,7 @@ A curated collection of **GPT Image 2.5 prompts**, source examples, and practica
 
 Maintained by **[Image 2.5](https://image-2-5.com)** — **[image-2-5.com](https://image-2-5.com)**. Explore the collection here, then [open Image 2.5](https://image-2-5.com) to use a prompt in your image workflow.
 
-**16 cases · 6 categories · 7 original English prompts · 9 labeled adaptations.** Every entry links to its creator and source. Public X metrics are dated observations, not a live ranking or an independent quality test.
+**24 cases · 6 categories · 14 original English prompts · 10 labeled adaptations.** Every entry links to its creator and source. Public X metrics are dated observations, not a live ranking or an independent quality test.
 
 All launch entries are **source-checked, not independently generated or tested by this repository**. Creator result previews illustrate the source posts; they do not prove that an edited recipe reproduces those exact images.
 
@@ -59,6 +59,26 @@ Combine a traveler reference, destination, photos, and dense editorial typograph
 
 [Copy the prompt and read the steps](prompts/travel-magazine-page.md) · [Open Image 2.5](https://image-2-5.com)
 
+### [Six-color fashion campaign](prompts/six-color-fashion-campaign.md)
+
+<a href="https://x.com/ImagineArt_X/status/2097520463811608862"><img src="https://pbs.twimg.com/media/HRvg8ccbkAAZ3NQ?format=jpg&amp;name=large" width="280" alt="Six-color fashion campaign — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread source example" loading="lazy"></a>
+
+Coordinate six distinct colors and poses in a low-angle fashion campaign.
+
+**Original prompt** · Text to image · [@ImagineArt_X](https://x.com/ImagineArt_X/status/2097520463811608862) · 97 likes · 46 bookmarks · 47,772 views
+
+[Copy the prompt and read the steps](prompts/six-color-fashion-campaign.md) · [Open Image 2.5](https://image-2-5.com)
+
+### [Espresso machine service-manual diagram](prompts/espresso-service-manual.md)
+
+<a href="https://x.com/ImagineArt_X/status/2097520469150986457"><img src="https://pbs.twimg.com/media/HRvhFOtb0AAGMeg?format=jpg&amp;name=large" width="280" alt="Espresso machine service-manual diagram — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread source example" loading="lazy"></a>
+
+Combine a cutaway illustration, numbered labels, a legend, and an exact title block.
+
+**Original prompt** · Text to image · [@ImagineArt_X](https://x.com/ImagineArt_X/status/2097520469150986457) · 86 likes · 43 bookmarks · 47,674 views
+
+[Copy the prompt and read the steps](prompts/espresso-service-manual.md) · [Open Image 2.5](https://image-2-5.com)
+
 <a id="how-to-use"></a>
 ## How to use
 
@@ -88,6 +108,9 @@ Snapshot: **2026-09-10 (UTC)**. Sorted by observed likes within each category fo
 | Case | Prompt | Mode | Likes | Saves | Views |
 | --- | --- | --- | ---: | ---: | ---: |
 | [Style-reference product UGC](prompts/style-reference-product-ugc.md) | Editor adaptation | Multi-step workflow | 282 | 544 | 34,356 |
+| [Six-color fashion campaign](prompts/six-color-fashion-campaign.md) | Original prompt | Text to image | 97 | 46 | 47,772 |
+| [Geometry-locked product render](prompts/geometry-locked-product-render.md) | Editor adaptation | Reference edit | 70 | 12 | 10,773 |
+| [Retro infomercial advertising frame](prompts/retro-infomercial-frame.md) | Original prompt | Text to image | 58 | 27 | 46,021 |
 
 ### Portraits and photography
 
@@ -95,6 +118,7 @@ Snapshot: **2026-09-10 (UTC)**. Sorted by observed likes within each category fo
 | --- | --- | --- | ---: | ---: | ---: |
 | [A forest detail stress test](prompts/forest-detail-stress-test.md) | Original prompt | Text to image | 414 | 57 | 38,893 |
 | [A dreamy qipao portrait](prompts/dreamy-qipao-portrait.md) | Original prompt | Text to image | 222 | 116 | 13,614 |
+| [Monochrome cybernetic portrait](prompts/cybernetic-monochrome-portrait.md) | Original prompt | Text to image | 120 | 16 | 6,752 |
 | [A candid café phone photo](prompts/candid-cafe-photo.md) | Original prompt | Text to image | 89 | 24 | 14,746 |
 
 ### Posters and editorial design
@@ -102,6 +126,9 @@ Snapshot: **2026-09-10 (UTC)**. Sorted by observed likes within each category fo
 | Case | Prompt | Mode | Likes | Saves | Views |
 | --- | --- | --- | ---: | ---: | ---: |
 | [A personalized travel magazine page](prompts/travel-magazine-page.md) | Editor adaptation | Reference edit | 125 | 151 | 53,937 |
+| [Six-panel newspaper comic](prompts/six-panel-newspaper-comic.md) | Original prompt | Text to image | 113 | 46 | 43,848 |
+| [Espresso machine service-manual diagram](prompts/espresso-service-manual.md) | Original prompt | Text to image | 86 | 43 | 47,674 |
+| [Village notice board with mixed typography](prompts/village-notice-board.md) | Original prompt | Text to image | 54 | 11 | 40,735 |
 | [Redesign a poster while retaining its world](prompts/poster-perspective-redesign.md) | Editor adaptation | Reference edit | 20 | 15 | 8,373 |
 
 ### Characters and sprite workflows
@@ -111,6 +138,7 @@ Snapshot: **2026-09-10 (UTC)**. Sorted by observed likes within each category fo
 | [Combat sprite sheet and transparent GIF](prompts/combat-sprite-sheet.md) | Editor adaptation | Multi-step workflow | 5,658 | 5,524 | 726,156 |
 | [A reference character idle loop](prompts/character-idle-sprite-loop.md) | Editor adaptation | Multi-step workflow | 162 | 184 | 34,685 |
 | [Animate with separate image variations](prompts/separate-frame-animation.md) | Editor adaptation | Multi-step workflow | 157 | 109 | 14,699 |
+| [Cel-animation duel on volcanic sand](prompts/cel-animation-duel.md) | Original prompt | Text to image | 75 | 18 | 37,752 |
 | [A goblin archer animation](prompts/goblin-archer-animation.md) | Editor adaptation | Multi-step workflow | 21 | 10 | 7,298 |
 
 ### Sketch-guided creation

@@ -914,6 +914,255 @@
     },
     {
       "schema_version": 1,
+      "id": "cybernetic-monochrome-portrait",
+      "title": {
+        "en": "Monochrome cybernetic portrait",
+        "zh": "黑白机械人像"
+      },
+      "summary": {
+        "en": "Build a high-contrast portrait around porcelain, cables, and dramatic studio lighting.",
+        "zh": "围绕瓷质面具、线缆与戏剧性棚灯构建高反差人像。"
+      },
+      "category": "photography",
+      "tags": [
+        "portrait",
+        "monochrome",
+        "cinematic",
+        "texture"
+      ],
+      "mode": "generate",
+      "featured": false,
+      "model": {
+        "family": "GPT Image 2.5",
+        "variant": null,
+        "evidence_url": "https://x.com/meng_dagg695/status/2097558679956664521",
+        "evidence": "The creator names GPT Image 2.5 in the showcase post; the output model is not independently verified."
+      },
+      "prompt": {
+        "kind": "original",
+        "original_language": "en",
+        "steps": [
+          {
+            "en": "Cybernetic horror portrait, gaunt humanoid figure with cracked porcelain-white skull-like mask, mismatched hollow eye sockets (one sunken void, one recessed metallic ring), jagged exposed teeth, surrounded by a chaotic tangle of thick black cables and industrial bobbin/coil attachments wired into the head, tattered dark fabric top, dramatic low-key lighting, deep black background, high contrast monochrome, horror photography, cinematic, hyperdetailed texture, 85mm lens, shallow depth.",
+            "zh": "机械恐怖人像：消瘦的人形角色戴着布满裂纹的瓷白色骷髅状面具，两个空洞眼窝不对称，一侧是凹陷空洞，另一侧是内嵌金属环；牙齿参差外露，头部连接着杂乱粗黑线缆和工业线轴／线圈组件，身着破旧深色布料上衣。戏剧性低调照明、深黑背景、高反差黑白效果、恐怖摄影、电影感、极细致纹理、85mm 镜头、浅景深。"
+          }
+        ]
+      },
+      "inputs": [],
+      "notes": [
+        {
+          "en": "The creator publishes the English prompt and three result images in the same post. This preview is the first source image.",
+          "zh": "作者在同一帖子中公开英文提示词和三张结果图。此处预览为第一张原图。"
+        }
+      ],
+      "source": {
+        "platform": "x",
+        "author": "meng_dagg695",
+        "url": "https://x.com/meng_dagg695/status/2097558679956664521",
+        "prompt_url": "https://x.com/meng_dagg695/status/2097558679956664521",
+        "checked_at": "2026-09-10T16:38:04.941Z",
+        "status": "source-checked",
+        "disclosure": null
+      },
+      "previews": [
+        {
+          "url": "https://pbs.twimg.com/media/HRwGeNGa0AAEpHk?format=jpg&name=900x900",
+          "kind": "source-result",
+          "credit": "@meng_dagg695",
+          "source_url": "https://x.com/meng_dagg695/status/2097558679956664521"
+        }
+      ],
+      "engagement": {
+        "likes": 120,
+        "reposts": 9,
+        "replies": 40,
+        "bookmarks": 16,
+        "views": 6752,
+        "observed_at": "2026-09-10T16:38:04.941Z",
+        "source_url": "https://x.com/meng_dagg695/status/2097558679956664521",
+        "method": "X public post UI; showcase engagement group"
+      },
+      "verification": {
+        "independently_tested": false,
+        "test_url": null
+      },
+      "rights": {
+        "status": "third-party-terms",
+        "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+      }
+    },
+    {
+      "schema_version": 1,
+      "id": "six-panel-newspaper-comic",
+      "title": {
+        "en": "Six-panel newspaper comic",
+        "zh": "六格报纸漫画"
+      },
+      "summary": {
+        "en": "Explore a fixed six-panel layout with recurring characters and a silent panel.",
+        "zh": "探索固定六格布局、重复角色与无对白分镜。"
+      },
+      "category": "design",
+      "tags": [
+        "comic",
+        "layout",
+        "character-consistency",
+        "print-design"
+      ],
+      "mode": "generate",
+      "featured": false,
+      "model": {
+        "family": "GPT Image 2.5",
+        "variant": "sunburst",
+        "evidence_url": "https://x.com/ImagineArt_X/status/2097520459969601977",
+        "evidence": "The creator’s parent comparison post names GPT Image 2.5 Sunburst and identifies the right-hand result as 2.5; output model not independently verified."
+      },
+      "prompt": {
+        "kind": "original",
+        "original_language": "en",
+        "steps": [
+          {
+            "en": "a 1960s Sunday newspaper comic strip on yellowed newsprint, six panels in two rows of three. A park ranger and a bear with a notched ear, the same campsite in every panel, dialogue specified word for word, one sound effect, and one panel with no dialogue at all.",
+            "zh": "在泛黄新闻纸上绘制一幅 1960 年代周日报纸连环漫画，六格分成两行，每行三格。主角是公园管理员和一只耳朵有缺口的熊，每格都是同一个露营地；对白逐字指定，包含一个音效，并有一格完全没有对白。"
+          }
+        ]
+      },
+      "inputs": [],
+      "notes": [
+        {
+          "en": "The creator’s parent thread identifies GPT Image 2.5 Sunburst and says GPT Image 2 is on the left and 2.5 on the right. This preview links the second source image. This is a creator claim, not a maintainer test.",
+          "zh": "作者在线程首帖中标明 GPT Image 2.5 Sunburst，并说明左侧为 GPT Image 2、右侧为 2.5。此处预览链接第二张原帖图片。这是作者声明，不是维护者复测。"
+        },
+        {
+          "en": "The English block preserves the published brief, excluding its “Prompt N:” label. Engagement belongs to this individual reply, not the entire comparison thread.",
+          "zh": "英文块保留已发布的提示词，去掉“Prompt N:”编号标签。互动量属于这条独立回复，不是整个对比线程。"
+        },
+        {
+          "en": "The published brief asks for word-for-word dialogue but supplies no actual dialogue. Add your own dialogue separately when adapting it; this catalog does not invent missing source text.",
+          "zh": "公开提示词要求逐字对白，却没有提供具体对白。改编时请另外写明自己的对白；本目录不补造缺失的原文。"
+        }
+      ],
+      "source": {
+        "platform": "x",
+        "author": "ImagineArt_X",
+        "url": "https://x.com/ImagineArt_X/status/2097520479246704871",
+        "prompt_url": "https://x.com/ImagineArt_X/status/2097520479246704871",
+        "checked_at": "2026-09-10T16:35:40.097Z",
+        "status": "source-checked",
+        "disclosure": null
+      },
+      "previews": [
+        {
+          "url": "https://pbs.twimg.com/media/HRvhZGHaQAAlzoS?format=jpg&name=large",
+          "kind": "source-result",
+          "credit": "@ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread",
+          "source_url": "https://x.com/ImagineArt_X/status/2097520479246704871"
+        }
+      ],
+      "engagement": {
+        "likes": 113,
+        "reposts": 2,
+        "replies": 2,
+        "bookmarks": 46,
+        "views": 43848,
+        "observed_at": "2026-09-10T16:35:40.097Z",
+        "source_url": "https://x.com/ImagineArt_X/status/2097520479246704871",
+        "method": "X public post UI; individual reply engagement group"
+      },
+      "verification": {
+        "independently_tested": false,
+        "test_url": null
+      },
+      "rights": {
+        "status": "third-party-terms",
+        "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+      }
+    },
+    {
+      "schema_version": 1,
+      "id": "six-color-fashion-campaign",
+      "title": {
+        "en": "Six-color fashion campaign",
+        "zh": "六色时装广告"
+      },
+      "summary": {
+        "en": "Coordinate six distinct colors and poses in a low-angle fashion campaign.",
+        "zh": "用低机位组织六种服装色彩和不同人物姿势。"
+      },
+      "category": "products",
+      "tags": [
+        "fashion",
+        "advertising",
+        "wide-angle",
+        "color-palette"
+      ],
+      "mode": "generate",
+      "featured": true,
+      "model": {
+        "family": "GPT Image 2.5",
+        "variant": "sunburst",
+        "evidence_url": "https://x.com/ImagineArt_X/status/2097520459969601977",
+        "evidence": "The creator’s parent comparison post names GPT Image 2.5 Sunburst and identifies the right-hand result as 2.5; output model not independently verified."
+      },
+      "prompt": {
+        "kind": "original",
+        "original_language": "en",
+        "steps": [
+          {
+            "en": "a fashion campaign for an invented label, shot from a camera on the ground with a 24mm lens tilted fifteen degrees. Six people in electric blue, tomato red, lime green, hot pink, butter yellow and lilac, all posed differently, against plain cobalt sky.",
+            "zh": "为一个虚构品牌拍摄时装广告，摄影机置于地面，使用倾斜十五度的 24mm 镜头。六个人分别穿电光蓝、番茄红、青柠绿、亮粉色、奶油黄和淡紫色服装，姿势各不相同，背景是纯净的钴蓝色天空。"
+          }
+        ]
+      },
+      "inputs": [],
+      "notes": [
+        {
+          "en": "The creator’s parent thread identifies GPT Image 2.5 Sunburst and says GPT Image 2 is on the left and 2.5 on the right. This preview links the second source image. This is a creator claim, not a maintainer test.",
+          "zh": "作者在线程首帖中标明 GPT Image 2.5 Sunburst，并说明左侧为 GPT Image 2、右侧为 2.5。此处预览链接第二张原帖图片。这是作者声明，不是维护者复测。"
+        },
+        {
+          "en": "The English block preserves the published brief, excluding its “Prompt N:” label. Engagement belongs to this individual reply, not the entire comparison thread.",
+          "zh": "英文块保留已发布的提示词，去掉“Prompt N:”编号标签。互动量属于这条独立回复，不是整个对比线程。"
+        }
+      ],
+      "source": {
+        "platform": "x",
+        "author": "ImagineArt_X",
+        "url": "https://x.com/ImagineArt_X/status/2097520463811608862",
+        "prompt_url": "https://x.com/ImagineArt_X/status/2097520463811608862",
+        "checked_at": "2026-09-10T16:35:00.387Z",
+        "status": "source-checked",
+        "disclosure": null
+      },
+      "previews": [
+        {
+          "url": "https://pbs.twimg.com/media/HRvg8ccbkAAZ3NQ?format=jpg&name=large",
+          "kind": "source-result",
+          "credit": "@ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread",
+          "source_url": "https://x.com/ImagineArt_X/status/2097520463811608862"
+        }
+      ],
+      "engagement": {
+        "likes": 97,
+        "reposts": 5,
+        "replies": 6,
+        "bookmarks": 46,
+        "views": 47772,
+        "observed_at": "2026-09-10T16:35:00.387Z",
+        "source_url": "https://x.com/ImagineArt_X/status/2097520463811608862",
+        "method": "X public post UI; individual reply engagement group"
+      },
+      "verification": {
+        "independently_tested": false,
+        "test_url": null
+      },
+      "rights": {
+        "status": "third-party-terms",
+        "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+      }
+    },
+    {
+      "schema_version": 1,
       "id": "candid-cafe-photo",
       "title": {
         "en": "A candid café phone photo",
@@ -980,6 +1229,264 @@
         "observed_at": "2026-09-10T15:32:10.082Z",
         "source_url": "https://x.com/blueemi99/status/2097602273085931662",
         "method": "X public post UI"
+      },
+      "verification": {
+        "independently_tested": false,
+        "test_url": null
+      },
+      "rights": {
+        "status": "third-party-terms",
+        "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+      }
+    },
+    {
+      "schema_version": 1,
+      "id": "espresso-service-manual",
+      "title": {
+        "en": "Espresso machine service-manual diagram",
+        "zh": "咖啡机维修手册剖面图"
+      },
+      "summary": {
+        "en": "Combine a cutaway illustration, numbered labels, a legend, and an exact title block.",
+        "zh": "将剖面插画、编号标注、图例与指定标题组合在一页中。"
+      },
+      "category": "design",
+      "tags": [
+        "diagram",
+        "typography",
+        "technical-illustration",
+        "print-design"
+      ],
+      "mode": "generate",
+      "featured": true,
+      "model": {
+        "family": "GPT Image 2.5",
+        "variant": "sunburst",
+        "evidence_url": "https://x.com/ImagineArt_X/status/2097520459969601977",
+        "evidence": "The creator’s parent comparison post names GPT Image 2.5 Sunburst and identifies the right-hand result as 2.5; output model not independently verified."
+      },
+      "prompt": {
+        "kind": "original",
+        "original_language": "en",
+        "steps": [
+          {
+            "en": "a domestic espresso machine drawn in section, 1960s service manual style, fine black line work with flat spot colour on cream paper. Fourteen numbered leader lines, a key down the right listing all fourteen parts, a scale bar in centimetres, and a title block reading FIG. 3 SECTIONAL VIEW MODEL C2.",
+            "zh": "绘制一台家用意式咖啡机的剖面图，采用 1960 年代维修手册风格：奶油色纸张、精细黑色线条和平涂专色。包含十四条编号引线，右侧图例列出全部十四个部件，使用厘米比例尺，标题栏写上 FIG. 3 SECTIONAL VIEW MODEL C2。"
+          }
+        ]
+      },
+      "inputs": [],
+      "notes": [
+        {
+          "en": "The creator’s parent thread identifies GPT Image 2.5 Sunburst and says GPT Image 2 is on the left and 2.5 on the right. This preview links the second source image. This is a creator claim, not a maintainer test.",
+          "zh": "作者在线程首帖中标明 GPT Image 2.5 Sunburst，并说明左侧为 GPT Image 2、右侧为 2.5。此处预览链接第二张原帖图片。这是作者声明，不是维护者复测。"
+        },
+        {
+          "en": "The English block preserves the published brief, excluding its “Prompt N:” label. Engagement belongs to this individual reply, not the entire comparison thread.",
+          "zh": "英文块保留已发布的提示词，去掉“Prompt N:”编号标签。互动量属于这条独立回复，不是整个对比线程。"
+        },
+        {
+          "en": "This is an illustration/layout exercise, not a verified repair diagram. The source does not list the fourteen part names; supply exact labels for a real documentation project.",
+          "zh": "这是插画与排版练习，不是已验证的维修图。原文没有列出十四个部件名称；用于真实文档时需补充准确标签。"
+        }
+      ],
+      "source": {
+        "platform": "x",
+        "author": "ImagineArt_X",
+        "url": "https://x.com/ImagineArt_X/status/2097520469150986457",
+        "prompt_url": "https://x.com/ImagineArt_X/status/2097520469150986457",
+        "checked_at": "2026-09-10T16:35:03.652Z",
+        "status": "source-checked",
+        "disclosure": null
+      },
+      "previews": [
+        {
+          "url": "https://pbs.twimg.com/media/HRvhFOtb0AAGMeg?format=jpg&name=large",
+          "kind": "source-result",
+          "credit": "@ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread",
+          "source_url": "https://x.com/ImagineArt_X/status/2097520469150986457"
+        }
+      ],
+      "engagement": {
+        "likes": 86,
+        "reposts": 1,
+        "replies": 1,
+        "bookmarks": 43,
+        "views": 47674,
+        "observed_at": "2026-09-10T16:35:03.652Z",
+        "source_url": "https://x.com/ImagineArt_X/status/2097520469150986457",
+        "method": "X public post UI; individual reply engagement group"
+      },
+      "verification": {
+        "independently_tested": false,
+        "test_url": null
+      },
+      "rights": {
+        "status": "third-party-terms",
+        "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+      }
+    },
+    {
+      "schema_version": 1,
+      "id": "cel-animation-duel",
+      "title": {
+        "en": "Cel-animation duel on volcanic sand",
+        "zh": "火山沙滩上的赛璐璐动画对决"
+      },
+      "summary": {
+        "en": "Generate a single illustrated film still with contrasting character poses and directional petals.",
+        "zh": "生成一张具有对照人物姿势和定向花瓣的动画电影静帧。"
+      },
+      "category": "characters",
+      "tags": [
+        "illustration",
+        "cel-animation",
+        "cinematic",
+        "composition"
+      ],
+      "mode": "generate",
+      "featured": false,
+      "model": {
+        "family": "GPT Image 2.5",
+        "variant": "sunburst",
+        "evidence_url": "https://x.com/ImagineArt_X/status/2097520459969601977",
+        "evidence": "The creator’s parent comparison post names GPT Image 2.5 Sunburst and identifies the right-hand result as 2.5; output model not independently verified."
+      },
+      "prompt": {
+        "kind": "original",
+        "original_language": "en",
+        "steps": [
+          {
+            "en": "a still from a hand drawn Japanese animated film, late 1990s cel style, painted watercolour background. A dawn duel on black volcanic sand, a woman with a drawn katana facing an older man with a sheathed one, cherry blossom blowing right to left.",
+            "zh": "一帧手绘日本动画电影画面，采用 1990 年代末的赛璐璐风格与水彩背景。黎明时分，两人在黑色火山沙地上对决：一名拔出武士刀的女子面对一名刀仍在鞘中的年长男子，樱花从右向左吹过。"
+          }
+        ]
+      },
+      "inputs": [],
+      "notes": [
+        {
+          "en": "The creator’s parent thread identifies GPT Image 2.5 Sunburst and says GPT Image 2 is on the left and 2.5 on the right. This preview links the second source image. This is a creator claim, not a maintainer test.",
+          "zh": "作者在线程首帖中标明 GPT Image 2.5 Sunburst，并说明左侧为 GPT Image 2、右侧为 2.5。此处预览链接第二张原帖图片。这是作者声明，不是维护者复测。"
+        },
+        {
+          "en": "The English block preserves the published brief, excluding its “Prompt N:” label. Engagement belongs to this individual reply, not the entire comparison thread.",
+          "zh": "英文块保留已发布的提示词，去掉“Prompt N:”编号标签。互动量属于这条独立回复，不是整个对比线程。"
+        }
+      ],
+      "source": {
+        "platform": "x",
+        "author": "ImagineArt_X",
+        "url": "https://x.com/ImagineArt_X/status/2097520490013433944",
+        "prompt_url": "https://x.com/ImagineArt_X/status/2097520490013433944",
+        "checked_at": "2026-09-10T16:35:40.097Z",
+        "status": "source-checked",
+        "disclosure": null
+      },
+      "previews": [
+        {
+          "url": "https://pbs.twimg.com/media/HRvht74akAA4dMU?format=jpg&name=large",
+          "kind": "source-result",
+          "credit": "@ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread",
+          "source_url": "https://x.com/ImagineArt_X/status/2097520490013433944"
+        }
+      ],
+      "engagement": {
+        "likes": 75,
+        "reposts": 3,
+        "replies": 2,
+        "bookmarks": 18,
+        "views": 37752,
+        "observed_at": "2026-09-10T16:35:40.097Z",
+        "source_url": "https://x.com/ImagineArt_X/status/2097520490013433944",
+        "method": "X public post UI; individual reply engagement group"
+      },
+      "verification": {
+        "independently_tested": false,
+        "test_url": null
+      },
+      "rights": {
+        "status": "third-party-terms",
+        "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+      }
+    },
+    {
+      "schema_version": 1,
+      "id": "geometry-locked-product-render",
+      "title": {
+        "en": "Geometry-locked product render",
+        "zh": "锁定几何结构的产品渲染"
+      },
+      "summary": {
+        "en": "Turn a rough geometry guide into one polished studio frame while retaining the supplied pose.",
+        "zh": "将粗糙几何参考图变为精致棚拍静帧，同时保留输入姿态。"
+      },
+      "category": "products",
+      "tags": [
+        "product-render",
+        "geometry",
+        "reference-image",
+        "studio-lighting"
+      ],
+      "mode": "edit",
+      "featured": false,
+      "model": {
+        "family": "GPT Image 2.5",
+        "variant": null,
+        "evidence_url": "https://x.com/higgsfield/status/2097514650518831462",
+        "evidence": "The creator names GPT Image 2.5 in the showcase post; the output model is not independently verified."
+      },
+      "prompt": {
+        "kind": "adaptation",
+        "original_language": null,
+        "steps": [
+          {
+            "en": "Use the supplied rough geometry image as a strict guide for one square studio image of the orange spiral sculpture. Keep its silhouette, coil count, handedness, pitch, tube thickness, pose, camera angle, scale, and image placement unchanged. Refine only the surface and lighting: opaque satin orange near #F28A2E, smooth tubing, subtle highlights, a neutral off-white seamless background, and a short soft contact shadow from a large light above camera-left. Remove viewport shading and mesh facets without altering contours. Add no pedestal, text, borders, or extra objects. The guide already contains the correct pose; do not rotate or mirror it.",
+            "zh": "以提供的粗糙几何图为严格参考，生成橙色螺旋雕塑的一张方形棚拍图。保持轮廓、圈数、旋向、螺距、管径、姿态、机位、比例及画面位置不变。只优化表面和照明：接近 #F28A2E 的不透明缎面橙色、平滑管体、细微高光、中性灰白无缝背景，以及来自相机左上方大型柔光源的短柔接触阴影。去掉视口阴影与网格棱面，但不改变边缘。不要添加底座、文字、边框或其他物体。参考图已包含正确姿态，不要旋转或镜像。"
+          }
+        ]
+      },
+      "inputs": [
+        {
+          "en": "A rough geometry/viewport image of the orange spiral sculpture in the desired pose. The published result alone is not that input guide.",
+          "zh": "所需姿态下橙色螺旋雕塑的粗糙几何／视口参考图。公开结果图本身不是该输入参考。"
+        }
+      ],
+      "notes": [
+        {
+          "en": "Editorial condensation of the creator’s full author reply. The original uses a {FRAME} variable for a sequence; this adaptation targets one still frame and does not create the spring animation.",
+          "zh": "根据作者完整回复压缩整理。原文使用 {FRAME} 变量制作序列；此改编仅针对单张静帧，不生成弹簧动画。"
+        },
+        {
+          "en": "The preview is the original showcase video thumbnail, not a verified output of this adapted prompt. The source’s guide image is not supplied by this catalog.",
+          "zh": "预览是原帖视频缩略图，不是此改编提示词的已验证输出。本目录不提供原流程的几何输入图。"
+        }
+      ],
+      "source": {
+        "platform": "x",
+        "author": "higgsfield",
+        "url": "https://x.com/higgsfield/status/2097514650518831462",
+        "prompt_url": "https://x.com/higgsfield/status/2097514684811554911",
+        "checked_at": "2026-09-10T16:37:42.009Z",
+        "status": "source-checked",
+        "disclosure": null
+      },
+      "previews": [
+        {
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097513089268842496/img/gIhm45SziKF5_TBr.jpg",
+          "kind": "source-result",
+          "credit": "@higgsfield",
+          "source_url": "https://x.com/higgsfield/status/2097514650518831462"
+        }
+      ],
+      "engagement": {
+        "likes": 70,
+        "reposts": 2,
+        "replies": 6,
+        "bookmarks": 12,
+        "views": 10773,
+        "observed_at": "2026-09-10T16:37:42.009Z",
+        "source_url": "https://x.com/higgsfield/status/2097514650518831462",
+        "method": "X public post UI; showcase engagement group"
       },
       "verification": {
         "independently_tested": false,
@@ -1063,6 +1570,176 @@
         "observed_at": "2026-09-10T15:32:44.578Z",
         "source_url": "https://x.com/higgsfield_ai/status/2097515081802379736",
         "method": "X public post UI"
+      },
+      "verification": {
+        "independently_tested": false,
+        "test_url": null
+      },
+      "rights": {
+        "status": "third-party-terms",
+        "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+      }
+    },
+    {
+      "schema_version": 1,
+      "id": "retro-infomercial-frame",
+      "title": {
+        "en": "Retro infomercial advertising frame",
+        "zh": "复古电视购物广告画面"
+      },
+      "summary": {
+        "en": "Create a nostalgic advertising still that mixes a product display with dense overlay text.",
+        "zh": "制作将产品展示与密集叠加文字结合的怀旧广告静帧。"
+      },
+      "category": "products",
+      "tags": [
+        "advertising",
+        "retro",
+        "typography",
+        "product-display"
+      ],
+      "mode": "generate",
+      "featured": false,
+      "model": {
+        "family": "GPT Image 2.5",
+        "variant": "sunburst",
+        "evidence_url": "https://x.com/ImagineArt_X/status/2097520459969601977",
+        "evidence": "The creator’s parent comparison post names GPT Image 2.5 Sunburst and identifies the right-hand result as 2.5; output model not independently verified."
+      },
+      "prompt": {
+        "kind": "original",
+        "original_language": "en",
+        "steps": [
+          {
+            "en": "a frame grab from a 1994 infomercial, standard definition video with scanlines. A host in a teal blazer, a battered saucer on a rotating plinth with Antarctic ice frozen around one leg, a price starburst, a phone number, and three lines of legal small print.",
+            "zh": "一帧取自 1994 年电视购物广告的画面，采用带扫描线的标清视频质感。主持人穿蓝绿色西装外套；旋转展台上放着一个破旧飞碟，其中一条支腿结着南极冰。画面还包含爆炸形价格标签、电话号码和三行法律小字。"
+          }
+        ]
+      },
+      "inputs": [],
+      "notes": [
+        {
+          "en": "The creator’s parent thread identifies GPT Image 2.5 Sunburst and says GPT Image 2 is on the left and 2.5 on the right. This preview links the second source image. This is a creator claim, not a maintainer test.",
+          "zh": "作者在线程首帖中标明 GPT Image 2.5 Sunburst，并说明左侧为 GPT Image 2、右侧为 2.5。此处预览链接第二张原帖图片。这是作者声明，不是维护者复测。"
+        },
+        {
+          "en": "The English block preserves the published brief, excluding its “Prompt N:” label. Engagement belongs to this individual reply, not the entire comparison thread.",
+          "zh": "英文块保留已发布的提示词，去掉“Prompt N:”编号标签。互动量属于这条独立回复，不是整个对比线程。"
+        },
+        {
+          "en": "The source does not specify a price, phone number, or legal copy. For an actual advertisement, provide your own approved values. The requested output is a still image, not a finished video.",
+          "zh": "原文没有指定价格、电话号码或法律文案。用于真实广告时需提供自己的已确认内容。要求的输出是静帧，不是完整视频。"
+        }
+      ],
+      "source": {
+        "platform": "x",
+        "author": "ImagineArt_X",
+        "url": "https://x.com/ImagineArt_X/status/2097520474226147462",
+        "prompt_url": "https://x.com/ImagineArt_X/status/2097520474226147462",
+        "checked_at": "2026-09-10T16:35:40.097Z",
+        "status": "source-checked",
+        "disclosure": null
+      },
+      "previews": [
+        {
+          "url": "https://pbs.twimg.com/media/HRvhPCSaIAA9WfW?format=jpg&name=large",
+          "kind": "source-result",
+          "credit": "@ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread",
+          "source_url": "https://x.com/ImagineArt_X/status/2097520474226147462"
+        }
+      ],
+      "engagement": {
+        "likes": 58,
+        "reposts": 2,
+        "replies": 4,
+        "bookmarks": 27,
+        "views": 46021,
+        "observed_at": "2026-09-10T16:35:40.097Z",
+        "source_url": "https://x.com/ImagineArt_X/status/2097520474226147462",
+        "method": "X public post UI; individual reply engagement group"
+      },
+      "verification": {
+        "independently_tested": false,
+        "test_url": null
+      },
+      "rights": {
+        "status": "third-party-terms",
+        "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+      }
+    },
+    {
+      "schema_version": 1,
+      "id": "village-notice-board",
+      "title": {
+        "en": "Village notice board with mixed typography",
+        "zh": "混合排版的乡村公告板"
+      },
+      "summary": {
+        "en": "Arrange seven different notice-board elements while keeping their formats distinct.",
+        "zh": "排列七类公告板元素，并保持各自的排版形式。"
+      },
+      "category": "design",
+      "tags": [
+        "typography",
+        "layout",
+        "notice-board",
+        "mixed-media"
+      ],
+      "mode": "generate",
+      "featured": false,
+      "model": {
+        "family": "GPT Image 2.5",
+        "variant": "sunburst",
+        "evidence_url": "https://x.com/ImagineArt_X/status/2097520459969601977",
+        "evidence": "The creator’s parent comparison post names GPT Image 2.5 Sunburst and identifies the right-hand result as 2.5; output model not independently verified."
+      },
+      "prompt": {
+        "kind": "original",
+        "original_language": "en",
+        "steps": [
+          {
+            "en": "a cork notice board outside a Welsh village post office, overcast light, seven pinned items. A choral society flyer, a lost cat poster on yellow paper, a handwritten piano card, a bus timetable with four times, a sheepdog photo, tear off tabs, and one blank white card.",
+            "zh": "威尔士乡村邮局外的一块软木公告板，阴天光线，上面钉着七项内容：合唱团传单、黄色纸张的寻猫启事、手写钢琴课程卡、列出四个时间的公交时刻表、牧羊犬照片、可撕下的小条，以及一张空白白色卡片。"
+          }
+        ]
+      },
+      "inputs": [],
+      "notes": [
+        {
+          "en": "The creator’s parent thread identifies GPT Image 2.5 Sunburst and says GPT Image 2 is on the left and 2.5 on the right. This preview links the second source image. This is a creator claim, not a maintainer test.",
+          "zh": "作者在线程首帖中标明 GPT Image 2.5 Sunburst，并说明左侧为 GPT Image 2、右侧为 2.5。此处预览链接第二张原帖图片。这是作者声明，不是维护者复测。"
+        },
+        {
+          "en": "The English block preserves the published brief, excluding its “Prompt N:” label. Engagement belongs to this individual reply, not the entire comparison thread.",
+          "zh": "英文块保留已发布的提示词，去掉“Prompt N:”编号标签。互动量属于这条独立回复，不是整个对比线程。"
+        }
+      ],
+      "source": {
+        "platform": "x",
+        "author": "ImagineArt_X",
+        "url": "https://x.com/ImagineArt_X/status/2097520484569276860",
+        "prompt_url": "https://x.com/ImagineArt_X/status/2097520484569276860",
+        "checked_at": "2026-09-10T16:35:40.097Z",
+        "status": "source-checked",
+        "disclosure": null
+      },
+      "previews": [
+        {
+          "url": "https://pbs.twimg.com/media/HRvhj4Oa8AAjwoe?format=jpg&name=large",
+          "kind": "source-result",
+          "credit": "@ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread",
+          "source_url": "https://x.com/ImagineArt_X/status/2097520484569276860"
+        }
+      ],
+      "engagement": {
+        "likes": 54,
+        "reposts": 1,
+        "replies": 2,
+        "bookmarks": 11,
+        "views": 40735,
+        "observed_at": "2026-09-10T16:35:40.097Z",
+        "source_url": "https://x.com/ImagineArt_X/status/2097520484569276860",
+        "method": "X public post UI; individual reply engagement group"
       },
       "verification": {
         "independently_tested": false,

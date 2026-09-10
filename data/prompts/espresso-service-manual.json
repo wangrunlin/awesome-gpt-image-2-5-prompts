@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "id": "espresso-service-manual",
+  "title": {
+    "en": "Espresso machine service-manual diagram",
+    "zh": "咖啡机维修手册剖面图"
+  },
+  "summary": {
+    "en": "Combine a cutaway illustration, numbered labels, a legend, and an exact title block.",
+    "zh": "将剖面插画、编号标注、图例与指定标题组合在一页中。"
+  },
+  "category": "design",
+  "tags": [
+    "diagram",
+    "typography",
+    "technical-illustration",
+    "print-design"
+  ],
+  "mode": "generate",
+  "featured": true,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": "sunburst",
+    "evidence_url": "https://x.com/ImagineArt_X/status/2097520459969601977",
+    "evidence": "The creator’s parent comparison post names GPT Image 2.5 Sunburst and identifies the right-hand result as 2.5; output model not independently verified."
+  },
+  "prompt": {
+    "kind": "original",
+    "original_language": "en",
+    "steps": [
+      {
+        "en": "a domestic espresso machine drawn in section, 1960s service manual style, fine black line work with flat spot colour on cream paper. Fourteen numbered leader lines, a key down the right listing all fourteen parts, a scale bar in centimetres, and a title block reading FIG. 3 SECTIONAL VIEW MODEL C2.",
+        "zh": "绘制一台家用意式咖啡机的剖面图，采用 1960 年代维修手册风格：奶油色纸张、精细黑色线条和平涂专色。包含十四条编号引线，右侧图例列出全部十四个部件，使用厘米比例尺，标题栏写上 FIG. 3 SECTIONAL VIEW MODEL C2。"
+      }
+    ]
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "The creator’s parent thread identifies GPT Image 2.5 Sunburst and says GPT Image 2 is on the left and 2.5 on the right. This preview links the second source image. This is a creator claim, not a maintainer test.",
+      "zh": "作者在线程首帖中标明 GPT Image 2.5 Sunburst，并说明左侧为 GPT Image 2、右侧为 2.5。此处预览链接第二张原帖图片。这是作者声明，不是维护者复测。"
+    },
+    {
+      "en": "The English block preserves the published brief, excluding its “Prompt N:” label. Engagement belongs to this individual reply, not the entire comparison thread.",
+      "zh": "英文块保留已发布的提示词，去掉“Prompt N:”编号标签。互动量属于这条独立回复，不是整个对比线程。"
+    },
+    {
+      "en": "This is an illustration/layout exercise, not a verified repair diagram. The source does not list the fourteen part names; supply exact labels for a real documentation project.",
+      "zh": "这是插画与排版练习，不是已验证的维修图。原文没有列出十四个部件名称；用于真实文档时需补充准确标签。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "ImagineArt_X",
+    "url": "https://x.com/ImagineArt_X/status/2097520469150986457",
+    "prompt_url": "https://x.com/ImagineArt_X/status/2097520469150986457",
+    "checked_at": "2026-09-10T16:35:03.652Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRvhFOtb0AAGMeg?format=jpg&name=large",
+      "kind": "source-result",
+      "credit": "@ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread",
+      "source_url": "https://x.com/ImagineArt_X/status/2097520469150986457"
+    }
+  ],
+  "engagement": {
+    "likes": 86,
+    "reposts": 1,
+    "replies": 1,
+    "bookmarks": 43,
+    "views": 47674,
+    "observed_at": "2026-09-10T16:35:03.652Z",
+    "source_url": "https://x.com/ImagineArt_X/status/2097520469150986457",
+    "method": "X public post UI; individual reply engagement group"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "brand": "Image 2.5",
+  "url": "https://image-2-5.com",
+  "promptDestination": "https://image-2-5.com",
+  "repository": "https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts",
+  "contact": "support@image-2-5.com",
+  "categories": [
+    { "id": "editing", "en": "Editing and restoration", "zh": "局部编辑与修复" },
+    { "id": "products", "en": "Products and UGC", "zh": "产品与 UGC" },
+    { "id": "photography", "en": "Portraits and photography", "zh": "人像与摄影" },
+    { "id": "design", "en": "Posters and editorial design", "zh": "海报与编辑设计" },
+    { "id": "characters", "en": "Characters and sprite workflows", "zh": "角色与精灵图工作流" },
+    { "id": "sketch", "en": "Sketch-guided creation", "zh": "草图引导创作" }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "id": "sketch-guided-composition",
+  "title": {
+    "en": "Recompose a scene from a sketch",
+    "zh": "用草图重排构图"
+  },
+  "summary": {
+    "en": "Use a rough sketch to communicate where existing subjects should move.",
+    "zh": "通过粗略草图说明现有主体的新位置。"
+  },
+  "category": "sketch",
+  "tags": [
+    "composition",
+    "sketch",
+    "reference-image"
+  ],
+  "mode": "edit",
+  "featured": false,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/Synthetic_Copy/status/2097461076866560320",
+    "evidence": "The creator names GPT Image 2.5 in the source post; the repository has not independently verified the output model."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "change the composition to this",
+        "zh": "把构图改成这样"
+      }
+    ],
+    "original_language": "en"
+  },
+  "inputs": [
+    {
+      "en": "The original scene and a sketch showing the desired arrangement.",
+      "zh": "原始场景图与标明目标布局的草图。"
+    }
+  ],
+  "notes": [
+    {
+      "en": "“This” refers to the attached sketch. Without both inputs, the short prompt is incomplete.",
+      "zh": "“这样”指附件草图。缺少任一输入时，这条短提示词不完整。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "Synthetic_Copy",
+    "url": "https://x.com/Synthetic_Copy/status/2097461076866560320",
+    "prompt_url": "https://x.com/Synthetic_Copy/status/2097461076866560320",
+    "checked_at": "2026-09-10T15:25:52.079Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRutuxdaQAAumX3?format=jpg&name=900x900",
+      "kind": "source-result",
+      "credit": "@Synthetic_Copy",
+      "source_url": "https://x.com/Synthetic_Copy/status/2097461076866560320"
+    }
+  ],
+  "engagement": {
+    "likes": 34,
+    "reposts": 2,
+    "replies": 2,
+    "bookmarks": 9,
+    "views": 2389,
+    "observed_at": "2026-09-10T15:25:52.079Z",
+    "source_url": "https://x.com/Synthetic_Copy/status/2097461076866560320",
+    "method": "X public post UI"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  }
+}

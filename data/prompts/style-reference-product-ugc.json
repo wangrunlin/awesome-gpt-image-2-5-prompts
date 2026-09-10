@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "id": "style-reference-product-ugc",
+  "title": {
+    "en": "Style-reference product UGC",
+    "zh": "参考风格的产品 UGC"
+  },
+  "summary": {
+    "en": "Extract a visual style from a reference, then use it to stage a person holding a product.",
+    "zh": "先从参考图提取视觉风格，再生成手持产品的人像。"
+  },
+  "category": "products",
+  "tags": [
+    "product-photography",
+    "ugc",
+    "reference-image",
+    "style"
+  ],
+  "mode": "workflow",
+  "featured": true,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/Mho_23/status/2097483045221917131",
+    "evidence": "The creator names GPT Image 2.5 in the source post; the repository has not independently verified the output model."
+  },
+  "prompt": {
+    "kind": "adaptation",
+    "steps": [
+      {
+        "en": "Describe the reference photo as a reusable JSON style recipe: lighting, camera angle, palette, background, and photographic texture. Keep product and person identity out of the style fields.",
+        "zh": "把参考照片概括为可复用的 JSON 风格配方：光线、机位、配色、背景和摄影质感。风格字段不包含产品或人物身份。"
+      },
+      {
+        "en": "Using the style recipe and attached product photo, create a natural photograph of a person holding the product. Preserve the product shape and visible label.",
+        "zh": "使用风格配方和附件产品照片，生成一个人自然手持该产品的照片，保留产品形状和可见标签。"
+      }
+    ],
+    "original_language": null
+  },
+  "inputs": [
+    {
+      "en": "A style reference and a product photo; a text model for extracting the style recipe.",
+      "zh": "风格参考图与产品图；提取风格配方需要文本模型。"
+    }
+  ],
+  "notes": [
+    {
+      "en": "Editorial adaptation of the creator’s two-stage recipe. The source first analyzes the reference with GPT-6 Astra, then generates the image.",
+      "zh": "依据作者两阶段流程改写。原帖先使用 GPT-6 Astra 分析参考图，再生成图片。"
+    },
+    {
+      "en": "Save the first approved character image as a reference for later variations. The source post displays a paid-partnership label.",
+      "zh": "将第一张满意的角色图保留为后续变体的参考图。原帖展示了付费合作标签。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "Mho_23",
+    "url": "https://x.com/Mho_23/status/2097483045221917131",
+    "prompt_url": "https://x.com/Mho_23/status/2097483045221917131",
+    "checked_at": "2026-09-10T15:24:56.932Z",
+    "status": "source-checked",
+    "disclosure": "Paid-partnership label displayed on the source post."
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRvBtnraAAAChs3?format=jpg&name=medium",
+      "kind": "source-result",
+      "credit": "@Mho_23",
+      "source_url": "https://x.com/Mho_23/status/2097483045221917131"
+    }
+  ],
+  "engagement": {
+    "likes": 282,
+    "reposts": 18,
+    "replies": 16,
+    "bookmarks": 544,
+    "views": 34356,
+    "observed_at": "2026-09-10T15:24:56.932Z",
+    "source_url": "https://x.com/Mho_23/status/2097483045221917131",
+    "method": "X public post UI"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  }
+}

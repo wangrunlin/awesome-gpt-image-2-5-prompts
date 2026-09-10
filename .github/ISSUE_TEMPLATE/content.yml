@@ -1,0 +1,17 @@
+name: Content correction or removal
+description: Correct a source, attribution, model, metric, or request removal.
+title: 'fix(content): '
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry ID or URL
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Requested correction
+      description: Explain what should change and link supporting evidence. For private requests, email support@image-2-5.com.
+    validations:
+      required: true

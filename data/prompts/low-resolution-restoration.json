@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "id": "low-resolution-restoration",
+  "title": {
+    "en": "Restore a low-resolution image",
+    "zh": "低分辨率图片修复"
+  },
+  "summary": {
+    "en": "Make a noisy image clearer while retaining its original illustration style and composition.",
+    "zh": "在保留原画风和构图的前提下改善低清、噪点图片。"
+  },
+  "category": "editing",
+  "tags": [
+    "restoration",
+    "upscale",
+    "illustration"
+  ],
+  "mode": "edit",
+  "featured": false,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/k_matsumaru/status/2097506834659893340",
+    "evidence": "The creator names GPT Image 2.5 in the source post; the repository has not independently verified the output model."
+  },
+  "prompt": {
+    "kind": "adaptation",
+    "steps": [
+      {
+        "en": "Restore this low-resolution image. Preserve its drawing style, colors, and composition. Clean up noisy areas and improve clarity without adding new objects or invented surface details.",
+        "zh": "修复这张低分辨率图片，保留原有画风、色彩和构图。清理噪点并提升清晰度，不添加新物体或臆造表面细节。"
+      }
+    ],
+    "original_language": null
+  },
+  "inputs": [
+    {
+      "en": "A low-resolution source image.",
+      "zh": "一张低分辨率原图。"
+    }
+  ],
+  "notes": [
+    {
+      "en": "Concise English adaptation of the creator’s Japanese prompt. Restoration can invent details; compare the result against the original.",
+      "zh": "作者日文提示词的英文精简改写。修复可能补出原图没有的细节，需要对照检查。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "k_matsumaru",
+    "url": "https://x.com/k_matsumaru/status/2097506834659893340",
+    "prompt_url": "https://x.com/k_matsumaru/status/2097506834659893340",
+    "checked_at": "2026-09-10T15:23:27.450Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRvWtOca8AA3CNW?format=jpg&name=large",
+      "kind": "source-result",
+      "credit": "@k_matsumaru",
+      "source_url": "https://x.com/k_matsumaru/status/2097506834659893340"
+    }
+  ],
+  "engagement": {
+    "likes": 267,
+    "reposts": 36,
+    "replies": 5,
+    "bookmarks": 195,
+    "views": 19727,
+    "observed_at": "2026-09-10T15:23:27.450Z",
+    "source_url": "https://x.com/k_matsumaru/status/2097506834659893340",
+    "method": "X public post UI"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  }
+}

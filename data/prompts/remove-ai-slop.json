@@ -1,0 +1,86 @@
+{
+  "schema_version": 1,
+  "id": "remove-ai-slop",
+  "title": {
+    "en": "A two-word realism edit",
+    "zh": "两个词的真实感编辑"
+  },
+  "summary": {
+    "en": "A minimal editing prompt shared with a before-and-after demonstration.",
+    "zh": "带有前后对比演示的极简编辑提示词。"
+  },
+  "category": "editing",
+  "tags": [
+    "realism",
+    "minimal-prompt"
+  ],
+  "mode": "edit",
+  "featured": true,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/higgsfield_ai/status/2097556101155955113",
+    "evidence": "The creator names GPT Image 2.5 in the source post; the repository has not independently verified the output model."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "remove slop",
+        "zh": "去掉 AI 味"
+      }
+    ],
+    "original_language": "en"
+  },
+  "inputs": [
+    {
+      "en": "An existing image to edit.",
+      "zh": "一张待编辑图片。"
+    }
+  ],
+  "notes": [
+    {
+      "en": "“Slop” is subjective. Use this as a quick exploration, then specify concrete changes if the result drifts.",
+      "zh": "“AI 味”是主观描述。适合快速探索；若结果偏离预期，再补充具体修改要求。"
+    },
+    {
+      "en": "The preview is a source video thumbnail; watch the original post for the comparison.",
+      "zh": "预览是原帖视频缩略图；完整对比请查看原帖。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "higgsfield_ai",
+    "url": "https://x.com/higgsfield_ai/status/2097556101155955113",
+    "prompt_url": "https://x.com/higgsfield_ai/status/2097556101155955113",
+    "checked_at": "2026-09-10T15:43:24.179Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097555838105976832/img/61hSRq_QBrGkv9-6.jpg",
+      "kind": "source-result",
+      "credit": "@higgsfield_ai",
+      "source_url": "https://x.com/higgsfield_ai/status/2097556101155955113"
+    }
+  ],
+  "engagement": {
+    "likes": 789,
+    "reposts": 31,
+    "replies": 18,
+    "bookmarks": 310,
+    "views": 59690,
+    "observed_at": "2026-09-10T15:43:24.179Z",
+    "source_url": "https://x.com/higgsfield_ai/status/2097556101155955113",
+    "method": "X public post UI"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  }
+}

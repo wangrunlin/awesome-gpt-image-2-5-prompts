@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "id": "goblin-archer-animation",
+  "title": {
+    "en": "A goblin archer animation",
+    "zh": "哥布林弓箭手动画"
+  },
+  "summary": {
+    "en": "Generate an action sheet, then turn its frames into a looping animation.",
+    "zh": "生成动作精灵表，再将各帧组合为循环动画。"
+  },
+  "category": "characters",
+  "tags": [
+    "pixel-art",
+    "sprite-sheet",
+    "gif"
+  ],
+  "mode": "workflow",
+  "featured": false,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/Fomsky_Wei/status/2097559943075533257",
+    "evidence": "The creator names GPT Image 2.5 in the source post; the repository has not independently verified the output model."
+  },
+  "prompt": {
+    "kind": "adaptation",
+    "steps": [
+      {
+        "en": "Draw a pixel-art male goblin performing one bow-and-arrow action across 16 consecutive frames. Arrange the sequence as a sprite sheet with consistent scale and alignment.",
+        "zh": "用像素风绘制男性哥布林拉弓射箭的一组连续动作，共 16 帧。排列为精灵表，保持角色大小和对齐一致。"
+      },
+      {
+        "en": "Separate the sprite sheet into frames and assemble a looping GIF. Inspect the loop for position jumps and frame-order mistakes.",
+        "zh": "把精灵表拆分为单帧并组装循环 GIF，检查循环中的位置跳动与帧顺序错误。"
+      }
+    ],
+    "original_language": null
+  },
+  "inputs": [
+    {
+      "en": "An image-generation tool and a file-processing tool.",
+      "zh": "图像生成工具与文件处理工具。"
+    }
+  ],
+  "notes": [
+    {
+      "en": "The source compares GPT Image 2.5 with an older model. Open the post and use the first demonstration for the 2.5 example.",
+      "zh": "原帖对比了 GPT Image 2.5 与旧模型；2.5 对应第一段演示。"
+    },
+    {
+      "en": "The recipe is adapted; frame alignment and smooth motion are not guaranteed.",
+      "zh": "这是改写配方，不能保证逐帧对齐或运动流畅。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "Fomsky_Wei",
+    "url": "https://x.com/Fomsky_Wei/status/2097559943075533257",
+    "prompt_url": "https://x.com/Fomsky_Wei/status/2097559943075533257",
+    "checked_at": "2026-09-10T15:25:52.452Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/tweet_video_thumb/HRwEaI1aAAAk6UX.jpg",
+      "kind": "source-result",
+      "credit": "@Fomsky_Wei",
+      "source_url": "https://x.com/Fomsky_Wei/status/2097559943075533257"
+    }
+  ],
+  "engagement": {
+    "likes": 21,
+    "reposts": 1,
+    "replies": 7,
+    "bookmarks": 10,
+    "views": 7298,
+    "observed_at": "2026-09-10T15:25:52.452Z",
+    "source_url": "https://x.com/Fomsky_Wei/status/2097559943075533257",
+    "method": "X public post UI"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  }
+}

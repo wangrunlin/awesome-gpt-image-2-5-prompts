@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "id": "robot-sequential-edits",
+  "title": {
+    "en": "A robot through nine sequential edits",
+    "zh": "机器人九轮连续编辑"
+  },
+  "summary": {
+    "en": "Repeat a small action cycle while feeding each result into the next edit.",
+    "zh": "重复一个小动作循环，并将每次结果作为下一轮编辑的输入。"
+  },
+  "category": "editing",
+  "tags": [
+    "consistency",
+    "sequential-edit",
+    "character"
+  ],
+  "mode": "workflow",
+  "featured": false,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/ctgptlb/status/2097479691368337900",
+    "evidence": "The creator names GPT Image 2.5 in the source post; the repository has not independently verified the output model."
+  },
+  "prompt": {
+    "kind": "adaptation",
+    "steps": [
+      {
+        "en": "Make the robot pick up the star.",
+        "zh": "让机器人捡起星星。"
+      },
+      {
+        "en": "Make the robot raise the star.",
+        "zh": "让机器人举起星星。"
+      },
+      {
+        "en": "Make the robot return the star to its starting position.",
+        "zh": "让机器人把星星放回原位。"
+      }
+    ],
+    "original_language": null
+  },
+  "inputs": [
+    {
+      "en": "An initial robot-and-star image. Use each output as the next input; repeat the three-step cycle three times.",
+      "zh": "一张机器人与星星的初始图。每轮输出作为下一轮输入，将三步循环重复三次。"
+    }
+  ],
+  "notes": [
+    {
+      "en": "English editorial rendering of the Japanese action sequence. Inspect identity, texture, and background after every step.",
+      "zh": "这是日文动作序列的英文编辑整理版。每一步都要检查角色身份、材质和背景。"
+    },
+    {
+      "en": "The original video is a side-by-side model comparison, not an independent repository test.",
+      "zh": "原帖视频是模型对比，并非本仓库独立测试。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "ctgptlb",
+    "url": "https://x.com/ctgptlb/status/2097479691368337900",
+    "prompt_url": "https://x.com/ctgptlb/status/2097479691368337900",
+    "checked_at": "2026-09-10T15:32:44.224Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/amplify_video_thumb/2097478204055556096/img/k3LUsecrIzgwwSFG.jpg",
+      "kind": "source-result",
+      "credit": "@ctgptlb",
+      "source_url": "https://x.com/ctgptlb/status/2097479691368337900"
+    }
+  ],
+  "engagement": {
+    "likes": 181,
+    "reposts": 30,
+    "replies": 2,
+    "bookmarks": 75,
+    "views": 52898,
+    "observed_at": "2026-09-10T15:32:44.224Z",
+    "source_url": "https://x.com/ctgptlb/status/2097479691368337900",
+    "method": "X public post UI"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  }
+}

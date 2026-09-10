@@ -1,0 +1,15 @@
+name: Report a tooling bug
+description: Broken generated docs, validation, or local tooling.
+title: 'fix: '
+body:
+  - type: textarea
+    id: steps
+    attributes:
+      label: Reproduction and expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment and output
+      description: Node version, OS, and relevant output. Remove secrets before posting.

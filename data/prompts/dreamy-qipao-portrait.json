@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "id": "dreamy-qipao-portrait",
+  "title": {
+    "en": "A dreamy qipao portrait",
+    "zh": "梦幻旗袍人像"
+  },
+  "summary": {
+    "en": "A compact portrait prompt combining high-angle framing, bloom, and soft focus.",
+    "zh": "结合俯拍、柔光泛光和朦胧焦点的简洁人像提示词。"
+  },
+  "category": "photography",
+  "tags": [
+    "portrait",
+    "fashion",
+    "soft-light"
+  ],
+  "mode": "generate",
+  "featured": false,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/BubbleBrain/status/2097513469172129825",
+    "evidence": "The creator names GPT Image 2.5 in the source post; the repository has not independently verified the output model."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "9:16, wearing a qipao, soft light bloom, dreamy blur, high-angle shot looking down, tall slender model figure, refined makeup, fox-like beauty face",
+        "zh": "9:16，穿着旗袍，柔和泛光，梦幻虚化，从高处向下俯拍，高挑纤细的模特身形，精致妆容，狐系美人面容"
+      }
+    ],
+    "original_language": "en"
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "The English block preserves the published wording; the Chinese block is a translation.",
+      "zh": "英文保留原帖措辞；中文为译文。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "BubbleBrain",
+    "url": "https://x.com/BubbleBrain/status/2097513469172129825",
+    "prompt_url": "https://x.com/BubbleBrain/status/2097513469172129825",
+    "checked_at": "2026-09-10T15:25:52.754Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRvdLStaoAAAkSy?format=jpg&name=medium",
+      "kind": "source-result",
+      "credit": "@BubbleBrain",
+      "source_url": "https://x.com/BubbleBrain/status/2097513469172129825"
+    }
+  ],
+  "engagement": {
+    "likes": 222,
+    "reposts": 16,
+    "replies": 7,
+    "bookmarks": 116,
+    "views": 13614,
+    "observed_at": "2026-09-10T15:25:52.754Z",
+    "source_url": "https://x.com/BubbleBrain/status/2097513469172129825",
+    "method": "X public post UI"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  }
+}

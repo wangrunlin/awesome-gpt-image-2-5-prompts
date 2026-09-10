@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "id": "candid-cafe-photo",
+  "title": {
+    "en": "A candid café phone photo",
+    "zh": "咖啡馆手机随拍"
+  },
+  "summary": {
+    "en": "A useful short baseline for natural-looking everyday photography.",
+    "zh": "用于日常自然摄影风格的简短基线提示词。"
+  },
+  "category": "photography",
+  "tags": [
+    "photography",
+    "portrait",
+    "minimal-prompt"
+  ],
+  "mode": "generate",
+  "featured": false,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/blueemi99/status/2097602273085931662",
+    "evidence": "The creator names GPT Image 2.5 in the source post; the repository has not independently verified the output model."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "make me a realistic iphone photo of a woman in a cafe",
+        "zh": "给我生成一张真实感的 iPhone 照片，内容是一名身处咖啡馆的女性"
+      }
+    ],
+    "original_language": "en"
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "A minimal baseline, with no guaranteed camera metadata or device-specific output.",
+      "zh": "这是极简基线提示词，不保证真实相机元数据或特定设备成像。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "blueemi99",
+    "url": "https://x.com/blueemi99/status/2097602273085931662",
+    "prompt_url": "https://x.com/blueemi99/status/2097602273085931662",
+    "checked_at": "2026-09-10T15:32:10.082Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRwuCVkaQAAJS1X?format=jpg&name=medium",
+      "kind": "source-result",
+      "credit": "@blueemi99",
+      "source_url": "https://x.com/blueemi99/status/2097602273085931662"
+    }
+  ],
+  "engagement": {
+    "likes": 89,
+    "reposts": 4,
+    "replies": 23,
+    "bookmarks": 24,
+    "views": 14746,
+    "observed_at": "2026-09-10T15:32:10.082Z",
+    "source_url": "https://x.com/blueemi99/status/2097602273085931662",
+    "method": "X public post UI"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  }
+}

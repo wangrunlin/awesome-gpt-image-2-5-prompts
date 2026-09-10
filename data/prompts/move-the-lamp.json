@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "id": "move-the-lamp",
+  "title": {
+    "en": "Move a lamp in a room",
+    "zh": "移动室内台灯"
+  },
+  "summary": {
+    "en": "A short instruction for testing localized object movement and the surrounding light.",
+    "zh": "用一句话观察局部物体移动及周围光线的变化。"
+  },
+  "category": "editing",
+  "tags": [
+    "interior",
+    "lighting",
+    "local-edit"
+  ],
+  "mode": "edit",
+  "featured": false,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/higgsfield_ai/status/2097515081802379736",
+    "evidence": "The creator names GPT Image 2.5 in the source post; the repository has not independently verified the output model."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "Move the lamp to the right",
+        "zh": "把台灯移到右边"
+      }
+    ],
+    "original_language": "en"
+  },
+  "inputs": [
+    {
+      "en": "A room image containing a lamp.",
+      "zh": "一张包含台灯的室内图片。"
+    }
+  ],
+  "notes": [
+    {
+      "en": "Inspect the old lamp position, cast shadows, and nearby objects after editing.",
+      "zh": "编辑后检查台灯原位置、投影和附近物体。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "higgsfield_ai",
+    "url": "https://x.com/higgsfield_ai/status/2097515081802379736",
+    "prompt_url": "https://x.com/higgsfield_ai/status/2097515081802379736",
+    "checked_at": "2026-09-10T15:32:44.578Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRvacfWbcAAswbV?format=jpg&name=medium",
+      "kind": "source-result",
+      "credit": "@higgsfield_ai",
+      "source_url": "https://x.com/higgsfield_ai/status/2097515081802379736"
+    }
+  ],
+  "engagement": {
+    "likes": 60,
+    "reposts": 9,
+    "replies": 4,
+    "bookmarks": 5,
+    "views": 8583,
+    "observed_at": "2026-09-10T15:32:44.578Z",
+    "source_url": "https://x.com/higgsfield_ai/status/2097515081802379736",
+    "method": "X public post UI"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  }
+}

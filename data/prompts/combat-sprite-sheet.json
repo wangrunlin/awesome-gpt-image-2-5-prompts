@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "id": "combat-sprite-sheet",
+  "title": {
+    "en": "Combat sprite sheet and transparent GIF",
+    "zh": "战斗精灵表与透明 GIF"
+  },
+  "summary": {
+    "en": "A widely shared workflow for turning character art into combat frames, followed by transparency repair and GIF assembly.",
+    "zh": "把角色图转为战斗动作帧，再修复透明背景并组装 GIF 的高传播工作流。"
+  },
+  "category": "characters",
+  "tags": [
+    "pixel-art",
+    "sprite-sheet",
+    "gif",
+    "transparency"
+  ],
+  "mode": "workflow",
+  "featured": true,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/8co28/status/2097423580229521849",
+    "evidence": "The creator names GPT Image 2.5 in the source post; the repository has not independently verified the output model."
+  },
+  "prompt": {
+    "kind": "adaptation",
+    "steps": [
+      {
+        "en": "Use the attached character as the reference. Draw a pixel-art combat sequence in a 4-by-4 sprite sheet. Keep the character scale and ground contact consistent between cells.",
+        "zh": "以附件角色为参考，绘制 4×4 像素风战斗动作精灵表，保持每格中的角色大小与落脚点一致。"
+      },
+      {
+        "en": "In a fresh chat, remove the background from the sheet, separate its 16 cells, align the character in each frame, and assemble a looping GIF.",
+        "zh": "在新对话中去除精灵表背景，拆分 16 格，逐帧对齐角色并组装循环 GIF。"
+      }
+    ],
+    "original_language": null
+  },
+  "inputs": [
+    {
+      "en": "A character reference; a file-processing tool for the GIF step.",
+      "zh": "角色参考图；GIF 步骤需要文件处理工具。"
+    }
+  ],
+  "notes": [
+    {
+      "en": "This is an editorial recipe based on the published workflow, not a transcription of the original generation prompt.",
+      "zh": "这是依据作者公开工作流整理的编辑配方，并非最初生图提示词的逐字抄录。"
+    },
+    {
+      "en": "The creator reported a failed transparency pass and used a fresh chat to repair it. A sprite sheet is not itself an animated GIF.",
+      "zh": "作者报告首次透明化失败，随后用新对话修复。精灵表本身不是动态 GIF。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "8co28",
+    "url": "https://x.com/8co28/status/2097423580229521849",
+    "prompt_url": "https://x.com/8co28/status/2097423580229521849",
+    "checked_at": "2026-09-10T15:32:09.716Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRuLMxZaQAAZfOo?format=jpg&name=900x900",
+      "kind": "source-result",
+      "credit": "@8co28",
+      "source_url": "https://x.com/8co28/status/2097423580229521849"
+    }
+  ],
+  "engagement": {
+    "likes": 5658,
+    "reposts": 898,
+    "replies": 57,
+    "bookmarks": 5524,
+    "views": 726156,
+    "observed_at": "2026-09-10T15:32:09.716Z",
+    "source_url": "https://x.com/8co28/status/2097423580229521849",
+    "method": "X public post UI"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  }
+}

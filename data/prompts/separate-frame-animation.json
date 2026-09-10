@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "id": "separate-frame-animation",
+  "title": {
+    "en": "Animate with separate image variations",
+    "zh": "通过独立差分帧制作动画"
+  },
+  "summary": {
+    "en": "Use separate edited frames when a sprite grid distorts the character too much.",
+    "zh": "精灵表导致角色变形时，改用独立编辑的差分帧。"
+  },
+  "category": "characters",
+  "tags": [
+    "gif",
+    "consistency",
+    "character"
+  ],
+  "mode": "workflow",
+  "featured": false,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/elle_elle_e/status/2097439673308389840",
+    "evidence": "The creator names GPT Image 2.5 in the source post; the repository has not independently verified the output model."
+  },
+  "prompt": {
+    "kind": "adaptation",
+    "steps": [
+      {
+        "en": "Create nine separate variations of the supplied character image for a gentle animation. Change the pose only slightly between frames. Keep the character’s size, position, identity, and background consistent.",
+        "zh": "基于提供的角色图，创建九张独立差分图用于轻柔动画。每帧只轻微改变姿势，保持角色大小、位置、身份和背景一致。"
+      },
+      {
+        "en": "Inspect and align the frames, then assemble them into a looping GIF. If the motion needs more in-between frames, create another set using the same references.",
+        "zh": "检查并对齐各帧，再组装循环 GIF。若需要更多中间帧，使用相同参考再生成一组。"
+      }
+    ],
+    "original_language": null
+  },
+  "inputs": [
+    {
+      "en": "A character image; image editing and GIF assembly tools.",
+      "zh": "角色图；图像编辑与 GIF 组装工具。"
+    }
+  ],
+  "notes": [
+    {
+      "en": "Editorial workflow adaptation. The creator reports using two sets of nine separate variations after a 3-by-3 sheet changed the design too much.",
+      "zh": "这是工作流编辑改写。作者报告 3×3 精灵表导致设计变化过大，随后改为两组各九张独立差分图。"
+    },
+    {
+      "en": "The original base image was made with Nano Banana Pro; GPT Image 2.5 was used for subsequent edits.",
+      "zh": "原始底图由 Nano Banana Pro 制作，后续编辑使用 GPT Image 2.5。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "elle_elle_e",
+    "url": "https://x.com/elle_elle_e/status/2097439673308389840",
+    "prompt_url": "https://x.com/elle_elle_e/status/2097439673308389840",
+    "checked_at": "2026-09-10T15:33:02.404Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRuaOTLa8AABSjw?format=jpg&name=medium",
+      "kind": "source-result",
+      "credit": "@elle_elle_e",
+      "source_url": "https://x.com/elle_elle_e/status/2097439673308389840"
+    }
+  ],
+  "engagement": {
+    "likes": 157,
+    "reposts": 20,
+    "replies": 2,
+    "bookmarks": 109,
+    "views": 14699,
+    "observed_at": "2026-09-10T15:33:02.404Z",
+    "source_url": "https://x.com/elle_elle_e/status/2097439673308389840",
+    "method": "X public post UI"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  }
+}

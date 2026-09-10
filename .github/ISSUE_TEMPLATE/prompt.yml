@@ -1,0 +1,37 @@
+name: Suggest a prompt
+description: Share a source-backed GPT Image 2.5 prompt or workflow.
+title: 'feat(prompts): '
+body:
+  - type: input
+    id: source
+    attributes:
+      label: Original source and creator
+      description: Link the original post, not just a repost or gallery.
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt and prompt source
+      description: Include the complete prompt or your labeled adaptation. Link the author's reply if needed.
+    validations:
+      required: true
+  - type: textarea
+    id: inputs
+    attributes:
+      label: Model, reference images, and steps
+      description: State the exact model if known and any required input images or file-processing steps.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Result example and rights
+      description: Link a public example. State whether you own it or have permission to redistribute it.
+    validations:
+      required: true
+  - type: textarea
+    id: metrics
+    attributes:
+      label: Optional engagement snapshot
+      description: Public counts plus capture time. Unknown is fine; do not guess.

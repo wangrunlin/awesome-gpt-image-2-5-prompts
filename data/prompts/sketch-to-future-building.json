@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "id": "sketch-to-future-building",
+  "title": {
+    "en": "Turn a sketch into a future building",
+    "zh": "把草图变为未来建筑"
+  },
+  "summary": {
+    "en": "A minimal sketch-to-architecture prompt with a visual reference doing most of the work.",
+    "zh": "主要依赖视觉参考的极简草图转建筑提示词。"
+  },
+  "category": "sketch",
+  "tags": [
+    "architecture",
+    "sketch",
+    "minimal-prompt"
+  ],
+  "mode": "edit",
+  "featured": false,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/peter6759/status/2097503664789430530",
+    "evidence": "The creator names GPT Image 2.5 in the source post; the repository has not independently verified the output model."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "turn it into a future building",
+        "zh": "把它变成一座未来建筑"
+      }
+    ],
+    "original_language": "en"
+  },
+  "inputs": [
+    {
+      "en": "A sketch that supplies the building shape.",
+      "zh": "提供建筑形状的草图。"
+    }
+  ],
+  "notes": [
+    {
+      "en": "The source post shows both the rough input and the building result.",
+      "zh": "原帖同时展示了粗略输入与建筑结果。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "peter6759",
+    "url": "https://x.com/peter6759/status/2097503664789430530",
+    "prompt_url": "https://x.com/peter6759/status/2097503664789430530",
+    "checked_at": "2026-09-10T15:31:42.777Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRvUPvMaIAAMWkE?format=jpg&name=900x900",
+      "kind": "source-result",
+      "credit": "@peter6759",
+      "source_url": "https://x.com/peter6759/status/2097503664789430530"
+    }
+  ],
+  "engagement": {
+    "likes": 3,
+    "reposts": 2,
+    "replies": 2,
+    "bookmarks": 1,
+    "views": 1341,
+    "observed_at": "2026-09-10T15:31:42.777Z",
+    "source_url": "https://x.com/peter6759/status/2097503664789430530",
+    "method": "X public post UI"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "id": "travel-magazine-page",
+  "title": {
+    "en": "A personalized travel magazine page",
+    "zh": "个性化旅行杂志页"
+  },
+  "summary": {
+    "en": "Combine a traveler reference, destination, photos, and dense editorial typography on one page.",
+    "zh": "将旅行者参考图、目的地、照片和密集编辑排版组合为一页。"
+  },
+  "category": "design",
+  "tags": [
+    "magazine",
+    "typography",
+    "travel",
+    "reference-image"
+  ],
+  "mode": "edit",
+  "featured": true,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/minchoi/status/2097525572591136869",
+    "evidence": "The creator names GPT Image 2.5 in the source post; the repository has not independently verified the output model."
+  },
+  "prompt": {
+    "kind": "adaptation",
+    "steps": [
+      {
+        "en": "Create a vertical 9:16 travel-magazine page about [DESTINATION]. Blend the attached person naturally into the destination photography. Include a clear headline, short travel tips, recommendations, and photo captions. Use the whole page with a readable editorial hierarchy. Check every visible word.",
+        "zh": "制作一张介绍 [目的地] 的 9:16 竖版旅行杂志页。把附件人物自然融入目的地照片，加入清晰标题、简短旅行提示、推荐和图片说明。充分利用版面，保证编辑层级清晰，并检查所有可见文字。"
+      }
+    ],
+    "original_language": null
+  },
+  "inputs": [
+    {
+      "en": "A person reference and a destination. Replace the bracketed placeholder.",
+      "zh": "人物参考图与目的地；替换方括号占位符。"
+    }
+  ],
+  "notes": [
+    {
+      "en": "This condensed adaptation adds an explicit text-review step. The complete creator prompt is in the linked author reply.",
+      "zh": "这是压缩改写版本，并明确增加了文字检查步骤。作者完整提示词见回复链接。"
+    },
+    {
+      "en": "Generated travel details need factual checking before publication.",
+      "zh": "生成的旅行信息需在发布前核实。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "minchoi",
+    "url": "https://x.com/minchoi/status/2097525572591136869",
+    "prompt_url": "https://x.com/minchoi/status/2097525574730223687",
+    "checked_at": "2026-09-10T15:24:57.746Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRvnVMIbMAE5-nd?format=jpg&name=medium",
+      "kind": "source-result",
+      "credit": "@minchoi",
+      "source_url": "https://x.com/minchoi/status/2097525572591136869"
+    }
+  ],
+  "engagement": {
+    "likes": 125,
+    "reposts": 15,
+    "replies": 13,
+    "bookmarks": 151,
+    "views": 53937,
+    "observed_at": "2026-09-10T15:24:57.746Z",
+    "source_url": "https://x.com/minchoi/status/2097525572591136869",
+    "method": "X public post UI"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  }
+}

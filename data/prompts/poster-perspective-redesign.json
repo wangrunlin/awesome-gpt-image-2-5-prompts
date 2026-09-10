@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "id": "poster-perspective-redesign",
+  "title": {
+    "en": "Redesign a poster while retaining its world",
+    "zh": "保留世界观的海报重设计"
+  },
+  "summary": {
+    "en": "Change the perspective and copy while preserving a poster’s overall visual structure.",
+    "zh": "改变视角和文案，同时保留海报整体视觉结构。"
+  },
+  "category": "design",
+  "tags": [
+    "poster",
+    "typography",
+    "reference-image"
+  ],
+  "mode": "edit",
+  "featured": false,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/ponzponz15/status/2097513870969688188",
+    "evidence": "The creator names GPT Image 2.5 in the source post; the repository has not independently verified the output model."
+  },
+  "prompt": {
+    "kind": "adaptation",
+    "steps": [
+      {
+        "en": "Using the original poster as reference, retain its overall composition and visual world. Reinterpret it from a male perspective and replace all visible text with new copy that fits the revised concept.",
+        "zh": "以原海报为参考，保留整体构图和视觉世界观，从男性视角重新演绎，并将所有可见文字替换为符合新概念的文案。"
+      }
+    ],
+    "original_language": null
+  },
+  "inputs": [
+    {
+      "en": "The original poster. For production work, provide the exact replacement copy.",
+      "zh": "原始海报；用于正式成品时请提供需要替换的准确文案。"
+    }
+  ],
+  "notes": [
+    {
+      "en": "English adaptation of the Japanese instruction. The original post labels the new result on the left and the earlier-model original on the right.",
+      "zh": "依据日文指令改写。原帖说明左侧为新结果，右侧为旧模型原图。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "ponzponz15",
+    "url": "https://x.com/ponzponz15/status/2097513870969688188",
+    "prompt_url": "https://x.com/ponzponz15/status/2097513870969688188",
+    "checked_at": "2026-09-10T15:31:42.414Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRvc0HEaIAAlJj4?format=jpg&name=large",
+      "kind": "source-result",
+      "credit": "@ponzponz15",
+      "source_url": "https://x.com/ponzponz15/status/2097513870969688188"
+    }
+  ],
+  "engagement": {
+    "likes": 20,
+    "reposts": 2,
+    "replies": null,
+    "bookmarks": 15,
+    "views": 8373,
+    "observed_at": "2026-09-10T15:31:42.414Z",
+    "source_url": "https://x.com/ponzponz15/status/2097513870969688188",
+    "method": "X public post UI"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  }
+}

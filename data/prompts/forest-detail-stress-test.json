@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "id": "forest-detail-stress-test",
+  "title": {
+    "en": "A forest detail stress test",
+    "zh": "森林细节压力测试"
+  },
+  "summary": {
+    "en": "Dense foliage makes a useful visual test for repeated texture and noise artifacts.",
+    "zh": "密集树叶可用于观察重复纹理与噪点伪影。"
+  },
+  "category": "photography",
+  "tags": [
+    "landscape",
+    "texture",
+    "stress-test"
+  ],
+  "mode": "generate",
+  "featured": false,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/mark_k/status/2097411028510179759",
+    "evidence": "The creator names GPT Image 2.5 in the source post; the repository has not independently verified the output model."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "Photo of a clearing in the woods with lots of green foliage, highly detailed",
+        "zh": "一张林间空地的照片，周围有大量绿色树叶，高度细致"
+      }
+    ],
+    "original_language": "en"
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "The creator described the outcome as mixed. This is included as a useful stress test, not a flawless showcase.",
+      "zh": "作者认为结果好坏参半。收录原因是测试价值，并非将其当作完美样片。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "mark_k",
+    "url": "https://x.com/mark_k/status/2097411028510179759",
+    "prompt_url": "https://x.com/mark_k/status/2097411028510179759",
+    "checked_at": "2026-09-10T15:31:42.128Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRt_pW_XEAAYiCE?format=jpg&name=medium",
+      "kind": "source-result",
+      "credit": "@mark_k",
+      "source_url": "https://x.com/mark_k/status/2097411028510179759"
+    }
+  ],
+  "engagement": {
+    "likes": 414,
+    "reposts": 17,
+    "replies": 101,
+    "bookmarks": 57,
+    "views": 38893,
+    "observed_at": "2026-09-10T15:31:42.128Z",
+    "source_url": "https://x.com/mark_k/status/2097411028510179759",
+    "method": "X public post UI"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  }
+}

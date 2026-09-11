@@ -3,7 +3,7 @@
 
 <a href="https://x.com/ImagineArt_X/status/2097520463811608862"><img src="https://pbs.twimg.com/media/HRvg8ccbkAAZ3NQ?format=jpg&amp;name=large" width="640" alt="Six-color fashion campaign — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-six-color-fashion-campaign) · [简体中文](../README.zh-CN.md#case-six-color-fashion-campaign) · [繁體中文](../README.zh-TW.md#case-six-color-fashion-campaign) · [日本語](../README.ja.md#case-six-color-fashion-campaign) · [한국어](../README.ko.md#case-six-color-fashion-campaign) · [Français](../README.fr.md#case-six-color-fashion-campaign) · [Deutsch](../README.de.md#case-six-color-fashion-campaign) · [Español](../README.es.md#case-six-color-fashion-campaign) · [Português (Brasil)](../README.pt-BR.md#case-six-color-fashion-campaign)
+[English](../README.md#user-content-case-six-color-fashion-campaign) · [简体中文](../README.zh-CN.md#user-content-case-six-color-fashion-campaign) · [繁體中文](../README.zh-TW.md#user-content-case-six-color-fashion-campaign) · [日本語](../README.ja.md#user-content-case-six-color-fashion-campaign) · [한국어](../README.ko.md#user-content-case-six-color-fashion-campaign) · [Français](../README.fr.md#user-content-case-six-color-fashion-campaign) · [Deutsch](../README.de.md#user-content-case-six-color-fashion-campaign) · [Español](../README.es.md#user-content-case-six-color-fashion-campaign) · [Português (Brasil)](../README.pt-BR.md#user-content-case-six-color-fashion-campaign)
 
 Coordinate six distinct colors and poses in a low-angle fashion campaign.
 
@@ -14,6 +14,6 @@ Coordinate six distinct colors and poses in a low-angle fashion campaign.
 
 <a href="https://x.com/ImagineArt_X/status/2097520463811608862"><img src="https://pbs.twimg.com/media/HRvg8ccbkAAZ3NQ?format=jpg&amp;name=large" width="640" alt="六色时装广告 — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-six-color-fashion-campaign)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-six-color-fashion-campaign)
 
-[English](../README.md#case-six-color-fashion-campaign) · [简体中文](../README.zh-CN.md#case-six-color-fashion-campaign) · [繁體中文](../README.zh-TW.md#case-six-color-fashion-campaign) · [日本語](../README.ja.md#case-six-color-fashion-campaign) · [한국어](../README.ko.md#case-six-color-fashion-campaign) · [Français](../README.fr.md#case-six-color-fashion-campaign) · [Deutsch](../README.de.md#case-six-color-fashion-campaign) · [Español](../README.es.md#case-six-color-fashion-campaign) · [Português (Brasil)](../README.pt-BR.md#case-six-color-fashion-campaign)
+[English](../README.md#user-content-case-six-color-fashion-campaign) · [简体中文](../README.zh-CN.md#user-content-case-six-color-fashion-campaign) · [繁體中文](../README.zh-TW.md#user-content-case-six-color-fashion-campaign) · [日本語](../README.ja.md#user-content-case-six-color-fashion-campaign) · [한국어](../README.ko.md#user-content-case-six-color-fashion-campaign) · [Français](../README.fr.md#user-content-case-six-color-fashion-campaign) · [Deutsch](../README.de.md#user-content-case-six-color-fashion-campaign) · [Español](../README.es.md#user-content-case-six-color-fashion-campaign) · [Português (Brasil)](../README.pt-BR.md#user-content-case-six-color-fashion-campaign)

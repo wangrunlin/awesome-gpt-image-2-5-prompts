@@ -3,7 +3,7 @@
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/tweet_video_thumb/HR26LYObMAAH2TT.jpg" width="640" alt="Six-frame expression performance GIF — @AdrianPunk115 — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-six-frame-expression-gif) · [简体中文](../README.zh-CN.md#case-six-frame-expression-gif) · [繁體中文](../README.zh-TW.md#case-six-frame-expression-gif) · [日本語](../README.ja.md#case-six-frame-expression-gif) · [한국어](../README.ko.md#case-six-frame-expression-gif) · [Français](../README.fr.md#case-six-frame-expression-gif) · [Deutsch](../README.de.md#case-six-frame-expression-gif) · [Español](../README.es.md#case-six-frame-expression-gif) · [Português (Brasil)](../README.pt-BR.md#case-six-frame-expression-gif)
+[English](../README.md#user-content-case-six-frame-expression-gif) · [简体中文](../README.zh-CN.md#user-content-case-six-frame-expression-gif) · [繁體中文](../README.zh-TW.md#user-content-case-six-frame-expression-gif) · [日本語](../README.ja.md#user-content-case-six-frame-expression-gif) · [한국어](../README.ko.md#user-content-case-six-frame-expression-gif) · [Français](../README.fr.md#user-content-case-six-frame-expression-gif) · [Deutsch](../README.de.md#user-content-case-six-frame-expression-gif) · [Español](../README.es.md#user-content-case-six-frame-expression-gif) · [Português (Brasil)](../README.pt-BR.md#user-content-case-six-frame-expression-gif)
 
 Draw six new stages of one expression, then split and assemble the actual frames.
 
@@ -14,6 +14,6 @@ Draw six new stages of one expression, then split and assemble the actual frames
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/tweet_video_thumb/HR26LYObMAAH2TT.jpg" width="640" alt="六帧表情动作 GIF — @AdrianPunk115 — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-six-frame-expression-gif)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-six-frame-expression-gif)
 
-[English](../README.md#case-six-frame-expression-gif) · [简体中文](../README.zh-CN.md#case-six-frame-expression-gif) · [繁體中文](../README.zh-TW.md#case-six-frame-expression-gif) · [日本語](../README.ja.md#case-six-frame-expression-gif) · [한국어](../README.ko.md#case-six-frame-expression-gif) · [Français](../README.fr.md#case-six-frame-expression-gif) · [Deutsch](../README.de.md#case-six-frame-expression-gif) · [Español](../README.es.md#case-six-frame-expression-gif) · [Português (Brasil)](../README.pt-BR.md#case-six-frame-expression-gif)
+[English](../README.md#user-content-case-six-frame-expression-gif) · [简体中文](../README.zh-CN.md#user-content-case-six-frame-expression-gif) · [繁體中文](../README.zh-TW.md#user-content-case-six-frame-expression-gif) · [日本語](../README.ja.md#user-content-case-six-frame-expression-gif) · [한국어](../README.ko.md#user-content-case-six-frame-expression-gif) · [Français](../README.fr.md#user-content-case-six-frame-expression-gif) · [Deutsch](../README.de.md#user-content-case-six-frame-expression-gif) · [Español](../README.es.md#user-content-case-six-frame-expression-gif) · [Português (Brasil)](../README.pt-BR.md#user-content-case-six-frame-expression-gif)

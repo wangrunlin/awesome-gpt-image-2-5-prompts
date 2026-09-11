@@ -3,7 +3,7 @@
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8PSRZaQAAU4WO?format=jpg&amp;name=medium" width="640" alt="Autumn market poster with object-count constraints — @jackzhang123vip — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-autumn-market-count-constraints) · [简体中文](../README.zh-CN.md#case-autumn-market-count-constraints) · [繁體中文](../README.zh-TW.md#case-autumn-market-count-constraints) · [日本語](../README.ja.md#case-autumn-market-count-constraints) · [한국어](../README.ko.md#case-autumn-market-count-constraints) · [Français](../README.fr.md#case-autumn-market-count-constraints) · [Deutsch](../README.de.md#case-autumn-market-count-constraints) · [Español](../README.es.md#case-autumn-market-count-constraints) · [Português (Brasil)](../README.pt-BR.md#case-autumn-market-count-constraints)
+[English](../README.md#user-content-case-autumn-market-count-constraints) · [简体中文](../README.zh-CN.md#user-content-case-autumn-market-count-constraints) · [繁體中文](../README.zh-TW.md#user-content-case-autumn-market-count-constraints) · [日本語](../README.ja.md#user-content-case-autumn-market-count-constraints) · [한국어](../README.ko.md#user-content-case-autumn-market-count-constraints) · [Français](../README.fr.md#user-content-case-autumn-market-count-constraints) · [Deutsch](../README.de.md#user-content-case-autumn-market-count-constraints) · [Español](../README.es.md#user-content-case-autumn-market-count-constraints) · [Português (Brasil)](../README.pt-BR.md#user-content-case-autumn-market-count-constraints)
 
 Test exact Chinese copy and a strict three-object composition across repeated generations.
 
@@ -14,6 +14,6 @@ Test exact Chinese copy and a strict three-object composition across repeated ge
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8PSRZaQAAU4WO?format=jpg&amp;name=medium" width="640" alt="严格限定主体数量的秋日市集海报 — @jackzhang123vip — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-autumn-market-count-constraints)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-autumn-market-count-constraints)
 
-[English](../README.md#case-autumn-market-count-constraints) · [简体中文](../README.zh-CN.md#case-autumn-market-count-constraints) · [繁體中文](../README.zh-TW.md#case-autumn-market-count-constraints) · [日本語](../README.ja.md#case-autumn-market-count-constraints) · [한국어](../README.ko.md#case-autumn-market-count-constraints) · [Français](../README.fr.md#case-autumn-market-count-constraints) · [Deutsch](../README.de.md#case-autumn-market-count-constraints) · [Español](../README.es.md#case-autumn-market-count-constraints) · [Português (Brasil)](../README.pt-BR.md#case-autumn-market-count-constraints)
+[English](../README.md#user-content-case-autumn-market-count-constraints) · [简体中文](../README.zh-CN.md#user-content-case-autumn-market-count-constraints) · [繁體中文](../README.zh-TW.md#user-content-case-autumn-market-count-constraints) · [日本語](../README.ja.md#user-content-case-autumn-market-count-constraints) · [한국어](../README.ko.md#user-content-case-autumn-market-count-constraints) · [Français](../README.fr.md#user-content-case-autumn-market-count-constraints) · [Deutsch](../README.de.md#user-content-case-autumn-market-count-constraints) · [Español](../README.es.md#user-content-case-autumn-market-count-constraints) · [Português (Brasil)](../README.pt-BR.md#user-content-case-autumn-market-count-constraints)

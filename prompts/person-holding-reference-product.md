@@ -3,7 +3,7 @@
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/media/HR24sTybEAE94tW?format=jpg&amp;name=large" width="640" alt="Person holding a reference product — @AdrianPunk115 — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-person-holding-reference-product) · [简体中文](../README.zh-CN.md#case-person-holding-reference-product) · [繁體中文](../README.zh-TW.md#case-person-holding-reference-product) · [日本語](../README.ja.md#case-person-holding-reference-product) · [한국어](../README.ko.md#case-person-holding-reference-product) · [Français](../README.fr.md#case-person-holding-reference-product) · [Deutsch](../README.de.md#case-person-holding-reference-product) · [Español](../README.es.md#case-person-holding-reference-product) · [Português (Brasil)](../README.pt-BR.md#case-person-holding-reference-product)
+[English](../README.md#user-content-case-person-holding-reference-product) · [简体中文](../README.zh-CN.md#user-content-case-person-holding-reference-product) · [繁體中文](../README.zh-TW.md#user-content-case-person-holding-reference-product) · [日本語](../README.ja.md#user-content-case-person-holding-reference-product) · [한국어](../README.ko.md#user-content-case-person-holding-reference-product) · [Français](../README.fr.md#user-content-case-person-holding-reference-product) · [Deutsch](../README.de.md#user-content-case-person-holding-reference-product) · [Español](../README.es.md#user-content-case-person-holding-reference-product) · [Português (Brasil)](../README.pt-BR.md#user-content-case-person-holding-reference-product)
 
 Combine a person and product with plausible grip, contact shadows, scale, and consistent illumination.
 
@@ -14,6 +14,6 @@ Combine a person and product with plausible grip, contact shadows, scale, and co
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/media/HR24sTybEAE94tW?format=jpg&amp;name=large" width="640" alt="人物手持参考商品 — @AdrianPunk115 — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-person-holding-reference-product)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-person-holding-reference-product)
 
-[English](../README.md#case-person-holding-reference-product) · [简体中文](../README.zh-CN.md#case-person-holding-reference-product) · [繁體中文](../README.zh-TW.md#case-person-holding-reference-product) · [日本語](../README.ja.md#case-person-holding-reference-product) · [한국어](../README.ko.md#case-person-holding-reference-product) · [Français](../README.fr.md#case-person-holding-reference-product) · [Deutsch](../README.de.md#case-person-holding-reference-product) · [Español](../README.es.md#case-person-holding-reference-product) · [Português (Brasil)](../README.pt-BR.md#case-person-holding-reference-product)
+[English](../README.md#user-content-case-person-holding-reference-product) · [简体中文](../README.zh-CN.md#user-content-case-person-holding-reference-product) · [繁體中文](../README.zh-TW.md#user-content-case-person-holding-reference-product) · [日本語](../README.ja.md#user-content-case-person-holding-reference-product) · [한국어](../README.ko.md#user-content-case-person-holding-reference-product) · [Français](../README.fr.md#user-content-case-person-holding-reference-product) · [Deutsch](../README.de.md#user-content-case-person-holding-reference-product) · [Español](../README.es.md#user-content-case-person-holding-reference-product) · [Português (Brasil)](../README.pt-BR.md#user-content-case-person-holding-reference-product)

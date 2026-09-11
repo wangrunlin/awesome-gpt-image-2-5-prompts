@@ -3,7 +3,7 @@
 
 <a href="https://x.com/blueemi99/status/2097602273085931662"><img src="https://pbs.twimg.com/media/HRwuCVkaQAAJS1X?format=jpg&amp;name=medium" width="640" alt="A candid café phone photo — @blueemi99 — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-candid-cafe-photo) · [简体中文](../README.zh-CN.md#case-candid-cafe-photo) · [繁體中文](../README.zh-TW.md#case-candid-cafe-photo) · [日本語](../README.ja.md#case-candid-cafe-photo) · [한국어](../README.ko.md#case-candid-cafe-photo) · [Français](../README.fr.md#case-candid-cafe-photo) · [Deutsch](../README.de.md#case-candid-cafe-photo) · [Español](../README.es.md#case-candid-cafe-photo) · [Português (Brasil)](../README.pt-BR.md#case-candid-cafe-photo)
+[English](../README.md#user-content-case-candid-cafe-photo) · [简体中文](../README.zh-CN.md#user-content-case-candid-cafe-photo) · [繁體中文](../README.zh-TW.md#user-content-case-candid-cafe-photo) · [日本語](../README.ja.md#user-content-case-candid-cafe-photo) · [한국어](../README.ko.md#user-content-case-candid-cafe-photo) · [Français](../README.fr.md#user-content-case-candid-cafe-photo) · [Deutsch](../README.de.md#user-content-case-candid-cafe-photo) · [Español](../README.es.md#user-content-case-candid-cafe-photo) · [Português (Brasil)](../README.pt-BR.md#user-content-case-candid-cafe-photo)
 
 A useful short baseline for natural-looking everyday photography.
 
@@ -14,6 +14,6 @@ A useful short baseline for natural-looking everyday photography.
 
 <a href="https://x.com/blueemi99/status/2097602273085931662"><img src="https://pbs.twimg.com/media/HRwuCVkaQAAJS1X?format=jpg&amp;name=medium" width="640" alt="咖啡馆手机随拍 — @blueemi99 — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-candid-cafe-photo)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-candid-cafe-photo)
 
-[English](../README.md#case-candid-cafe-photo) · [简体中文](../README.zh-CN.md#case-candid-cafe-photo) · [繁體中文](../README.zh-TW.md#case-candid-cafe-photo) · [日本語](../README.ja.md#case-candid-cafe-photo) · [한국어](../README.ko.md#case-candid-cafe-photo) · [Français](../README.fr.md#case-candid-cafe-photo) · [Deutsch](../README.de.md#case-candid-cafe-photo) · [Español](../README.es.md#case-candid-cafe-photo) · [Português (Brasil)](../README.pt-BR.md#case-candid-cafe-photo)
+[English](../README.md#user-content-case-candid-cafe-photo) · [简体中文](../README.zh-CN.md#user-content-case-candid-cafe-photo) · [繁體中文](../README.zh-TW.md#user-content-case-candid-cafe-photo) · [日本語](../README.ja.md#user-content-case-candid-cafe-photo) · [한국어](../README.ko.md#user-content-case-candid-cafe-photo) · [Français](../README.fr.md#user-content-case-candid-cafe-photo) · [Deutsch](../README.de.md#user-content-case-candid-cafe-photo) · [Español](../README.es.md#user-content-case-candid-cafe-photo) · [Português (Brasil)](../README.pt-BR.md#user-content-case-candid-cafe-photo)

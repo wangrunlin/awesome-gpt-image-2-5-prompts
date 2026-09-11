@@ -3,7 +3,7 @@
 
 <a href="https://x.com/ImagineArt_X/status/2097520490013433944"><img src="https://pbs.twimg.com/media/HRvht74akAA4dMU?format=jpg&amp;name=large" width="640" alt="Cel-animation duel on volcanic sand — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-cel-animation-duel) · [简体中文](../README.zh-CN.md#case-cel-animation-duel) · [繁體中文](../README.zh-TW.md#case-cel-animation-duel) · [日本語](../README.ja.md#case-cel-animation-duel) · [한국어](../README.ko.md#case-cel-animation-duel) · [Français](../README.fr.md#case-cel-animation-duel) · [Deutsch](../README.de.md#case-cel-animation-duel) · [Español](../README.es.md#case-cel-animation-duel) · [Português (Brasil)](../README.pt-BR.md#case-cel-animation-duel)
+[English](../README.md#user-content-case-cel-animation-duel) · [简体中文](../README.zh-CN.md#user-content-case-cel-animation-duel) · [繁體中文](../README.zh-TW.md#user-content-case-cel-animation-duel) · [日本語](../README.ja.md#user-content-case-cel-animation-duel) · [한국어](../README.ko.md#user-content-case-cel-animation-duel) · [Français](../README.fr.md#user-content-case-cel-animation-duel) · [Deutsch](../README.de.md#user-content-case-cel-animation-duel) · [Español](../README.es.md#user-content-case-cel-animation-duel) · [Português (Brasil)](../README.pt-BR.md#user-content-case-cel-animation-duel)
 
 Generate a single illustrated film still with contrasting character poses and directional petals.
 
@@ -14,6 +14,6 @@ Generate a single illustrated film still with contrasting character poses and di
 
 <a href="https://x.com/ImagineArt_X/status/2097520490013433944"><img src="https://pbs.twimg.com/media/HRvht74akAA4dMU?format=jpg&amp;name=large" width="640" alt="火山沙滩上的赛璐璐动画对决 — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-cel-animation-duel)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-cel-animation-duel)
 
-[English](../README.md#case-cel-animation-duel) · [简体中文](../README.zh-CN.md#case-cel-animation-duel) · [繁體中文](../README.zh-TW.md#case-cel-animation-duel) · [日本語](../README.ja.md#case-cel-animation-duel) · [한국어](../README.ko.md#case-cel-animation-duel) · [Français](../README.fr.md#case-cel-animation-duel) · [Deutsch](../README.de.md#case-cel-animation-duel) · [Español](../README.es.md#case-cel-animation-duel) · [Português (Brasil)](../README.pt-BR.md#case-cel-animation-duel)
+[English](../README.md#user-content-case-cel-animation-duel) · [简体中文](../README.zh-CN.md#user-content-case-cel-animation-duel) · [繁體中文](../README.zh-TW.md#user-content-case-cel-animation-duel) · [日本語](../README.ja.md#user-content-case-cel-animation-duel) · [한국어](../README.ko.md#user-content-case-cel-animation-duel) · [Français](../README.fr.md#user-content-case-cel-animation-duel) · [Deutsch](../README.de.md#user-content-case-cel-animation-duel) · [Español](../README.es.md#user-content-case-cel-animation-duel) · [Português (Brasil)](../README.pt-BR.md#user-content-case-cel-animation-duel)

@@ -3,7 +3,7 @@
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8OdvgbgAEo2CA?format=jpg&amp;name=large" width="640" alt="Long-copy poster template reuse — @jackzhang123vip — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-long-copy-poster-template) · [简体中文](../README.zh-CN.md#case-long-copy-poster-template) · [繁體中文](../README.zh-TW.md#case-long-copy-poster-template) · [日本語](../README.ja.md#case-long-copy-poster-template) · [한국어](../README.ko.md#case-long-copy-poster-template) · [Français](../README.fr.md#case-long-copy-poster-template) · [Deutsch](../README.de.md#case-long-copy-poster-template) · [Español](../README.es.md#case-long-copy-poster-template) · [Português (Brasil)](../README.pt-BR.md#case-long-copy-poster-template)
+[English](../README.md#user-content-case-long-copy-poster-template) · [简体中文](../README.zh-CN.md#user-content-case-long-copy-poster-template) · [繁體中文](../README.zh-TW.md#user-content-case-long-copy-poster-template) · [日本語](../README.ja.md#user-content-case-long-copy-poster-template) · [한국어](../README.ko.md#user-content-case-long-copy-poster-template) · [Français](../README.fr.md#user-content-case-long-copy-poster-template) · [Deutsch](../README.de.md#user-content-case-long-copy-poster-template) · [Español](../README.es.md#user-content-case-long-copy-poster-template) · [Português (Brasil)](../README.pt-BR.md#user-content-case-long-copy-poster-template)
 
 Replace a coffee poster’s four text blocks while retaining its existing visual hierarchy.
 
@@ -14,6 +14,6 @@ Replace a coffee poster’s four text blocks while retaining its existing visual
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8OdvgbgAEo2CA?format=jpg&amp;name=large" width="640" alt="海报模板替换长文案 — @jackzhang123vip — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-long-copy-poster-template)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-long-copy-poster-template)
 
-[English](../README.md#case-long-copy-poster-template) · [简体中文](../README.zh-CN.md#case-long-copy-poster-template) · [繁體中文](../README.zh-TW.md#case-long-copy-poster-template) · [日本語](../README.ja.md#case-long-copy-poster-template) · [한국어](../README.ko.md#case-long-copy-poster-template) · [Français](../README.fr.md#case-long-copy-poster-template) · [Deutsch](../README.de.md#case-long-copy-poster-template) · [Español](../README.es.md#case-long-copy-poster-template) · [Português (Brasil)](../README.pt-BR.md#case-long-copy-poster-template)
+[English](../README.md#user-content-case-long-copy-poster-template) · [简体中文](../README.zh-CN.md#user-content-case-long-copy-poster-template) · [繁體中文](../README.zh-TW.md#user-content-case-long-copy-poster-template) · [日本語](../README.ja.md#user-content-case-long-copy-poster-template) · [한국어](../README.ko.md#user-content-case-long-copy-poster-template) · [Français](../README.fr.md#user-content-case-long-copy-poster-template) · [Deutsch](../README.de.md#user-content-case-long-copy-poster-template) · [Español](../README.es.md#user-content-case-long-copy-poster-template) · [Português (Brasil)](../README.pt-BR.md#user-content-case-long-copy-poster-template)

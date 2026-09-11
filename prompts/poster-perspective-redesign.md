@@ -3,7 +3,7 @@
 
 <a href="https://x.com/ponzponz15/status/2097513870969688188"><img src="https://pbs.twimg.com/media/HRvc0HEaIAAlJj4?format=jpg&amp;name=large" width="640" alt="Redesign a poster while retaining its world — @ponzponz15 — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-poster-perspective-redesign) · [简体中文](../README.zh-CN.md#case-poster-perspective-redesign) · [繁體中文](../README.zh-TW.md#case-poster-perspective-redesign) · [日本語](../README.ja.md#case-poster-perspective-redesign) · [한국어](../README.ko.md#case-poster-perspective-redesign) · [Français](../README.fr.md#case-poster-perspective-redesign) · [Deutsch](../README.de.md#case-poster-perspective-redesign) · [Español](../README.es.md#case-poster-perspective-redesign) · [Português (Brasil)](../README.pt-BR.md#case-poster-perspective-redesign)
+[English](../README.md#user-content-case-poster-perspective-redesign) · [简体中文](../README.zh-CN.md#user-content-case-poster-perspective-redesign) · [繁體中文](../README.zh-TW.md#user-content-case-poster-perspective-redesign) · [日本語](../README.ja.md#user-content-case-poster-perspective-redesign) · [한국어](../README.ko.md#user-content-case-poster-perspective-redesign) · [Français](../README.fr.md#user-content-case-poster-perspective-redesign) · [Deutsch](../README.de.md#user-content-case-poster-perspective-redesign) · [Español](../README.es.md#user-content-case-poster-perspective-redesign) · [Português (Brasil)](../README.pt-BR.md#user-content-case-poster-perspective-redesign)
 
 Change the perspective and copy while preserving a poster’s overall visual structure.
 
@@ -14,6 +14,6 @@ Change the perspective and copy while preserving a poster’s overall visual str
 
 <a href="https://x.com/ponzponz15/status/2097513870969688188"><img src="https://pbs.twimg.com/media/HRvc0HEaIAAlJj4?format=jpg&amp;name=large" width="640" alt="保留世界观的海报重设计 — @ponzponz15 — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-poster-perspective-redesign)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-poster-perspective-redesign)
 
-[English](../README.md#case-poster-perspective-redesign) · [简体中文](../README.zh-CN.md#case-poster-perspective-redesign) · [繁體中文](../README.zh-TW.md#case-poster-perspective-redesign) · [日本語](../README.ja.md#case-poster-perspective-redesign) · [한국어](../README.ko.md#case-poster-perspective-redesign) · [Français](../README.fr.md#case-poster-perspective-redesign) · [Deutsch](../README.de.md#case-poster-perspective-redesign) · [Español](../README.es.md#case-poster-perspective-redesign) · [Português (Brasil)](../README.pt-BR.md#case-poster-perspective-redesign)
+[English](../README.md#user-content-case-poster-perspective-redesign) · [简体中文](../README.zh-CN.md#user-content-case-poster-perspective-redesign) · [繁體中文](../README.zh-TW.md#user-content-case-poster-perspective-redesign) · [日本語](../README.ja.md#user-content-case-poster-perspective-redesign) · [한국어](../README.ko.md#user-content-case-poster-perspective-redesign) · [Français](../README.fr.md#user-content-case-poster-perspective-redesign) · [Deutsch](../README.de.md#user-content-case-poster-perspective-redesign) · [Español](../README.es.md#user-content-case-poster-perspective-redesign) · [Português (Brasil)](../README.pt-BR.md#user-content-case-poster-perspective-redesign)

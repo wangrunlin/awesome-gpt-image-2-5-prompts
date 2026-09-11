@@ -3,7 +3,7 @@
 
 <a href="https://x.com/peter6759/status/2097503664789430530"><img src="https://pbs.twimg.com/media/HRvUPvMaIAAMWkE?format=jpg&amp;name=900x900" width="640" alt="Turn a sketch into a future building — @peter6759 — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-sketch-to-future-building) · [简体中文](../README.zh-CN.md#case-sketch-to-future-building) · [繁體中文](../README.zh-TW.md#case-sketch-to-future-building) · [日本語](../README.ja.md#case-sketch-to-future-building) · [한국어](../README.ko.md#case-sketch-to-future-building) · [Français](../README.fr.md#case-sketch-to-future-building) · [Deutsch](../README.de.md#case-sketch-to-future-building) · [Español](../README.es.md#case-sketch-to-future-building) · [Português (Brasil)](../README.pt-BR.md#case-sketch-to-future-building)
+[English](../README.md#user-content-case-sketch-to-future-building) · [简体中文](../README.zh-CN.md#user-content-case-sketch-to-future-building) · [繁體中文](../README.zh-TW.md#user-content-case-sketch-to-future-building) · [日本語](../README.ja.md#user-content-case-sketch-to-future-building) · [한국어](../README.ko.md#user-content-case-sketch-to-future-building) · [Français](../README.fr.md#user-content-case-sketch-to-future-building) · [Deutsch](../README.de.md#user-content-case-sketch-to-future-building) · [Español](../README.es.md#user-content-case-sketch-to-future-building) · [Português (Brasil)](../README.pt-BR.md#user-content-case-sketch-to-future-building)
 
 A minimal sketch-to-architecture prompt with a visual reference doing most of the work.
 
@@ -14,6 +14,6 @@ A minimal sketch-to-architecture prompt with a visual reference doing most of th
 
 <a href="https://x.com/peter6759/status/2097503664789430530"><img src="https://pbs.twimg.com/media/HRvUPvMaIAAMWkE?format=jpg&amp;name=900x900" width="640" alt="把草图变为未来建筑 — @peter6759 — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-sketch-to-future-building)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-sketch-to-future-building)
 
-[English](../README.md#case-sketch-to-future-building) · [简体中文](../README.zh-CN.md#case-sketch-to-future-building) · [繁體中文](../README.zh-TW.md#case-sketch-to-future-building) · [日本語](../README.ja.md#case-sketch-to-future-building) · [한국어](../README.ko.md#case-sketch-to-future-building) · [Français](../README.fr.md#case-sketch-to-future-building) · [Deutsch](../README.de.md#case-sketch-to-future-building) · [Español](../README.es.md#case-sketch-to-future-building) · [Português (Brasil)](../README.pt-BR.md#case-sketch-to-future-building)
+[English](../README.md#user-content-case-sketch-to-future-building) · [简体中文](../README.zh-CN.md#user-content-case-sketch-to-future-building) · [繁體中文](../README.zh-TW.md#user-content-case-sketch-to-future-building) · [日本語](../README.ja.md#user-content-case-sketch-to-future-building) · [한국어](../README.ko.md#user-content-case-sketch-to-future-building) · [Français](../README.fr.md#user-content-case-sketch-to-future-building) · [Deutsch](../README.de.md#user-content-case-sketch-to-future-building) · [Español](../README.es.md#user-content-case-sketch-to-future-building) · [Português (Brasil)](../README.pt-BR.md#user-content-case-sketch-to-future-building)

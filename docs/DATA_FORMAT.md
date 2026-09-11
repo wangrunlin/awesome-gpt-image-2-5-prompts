@@ -83,7 +83,9 @@ weights and unknown-value handling. It is not a quality or conversion score.
 ## Links and website integration
 
 Each localized README is a complete gallery with `case-<id>` anchors. Language
-switching targets the same case's image. `prompts/<id>.md` remains a compatibility
+switching targets GitHub's rendered `user-content-case-<id>` anchor so its SPA
+navigation scrolls to the same image. An explicit alias supports local Markdown
+previews, while the original `case-<id>` anchor remains available. `prompts/<id>.md` remains a compatibility
 landing page, including its existing Chinese anchor.
 
 Import the generated catalog from a recorded commit or explicitly labeled local

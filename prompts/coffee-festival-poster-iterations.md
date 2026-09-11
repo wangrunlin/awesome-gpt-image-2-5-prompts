@@ -3,7 +3,7 @@
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8M6yHaMAAcFxE?format=jpg&amp;name=large" width="640" alt="Five-round coffee festival poster editing — @jackzhang123vip — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-coffee-festival-poster-iterations) · [简体中文](../README.zh-CN.md#case-coffee-festival-poster-iterations) · [繁體中文](../README.zh-TW.md#case-coffee-festival-poster-iterations) · [日本語](../README.ja.md#case-coffee-festival-poster-iterations) · [한국어](../README.ko.md#case-coffee-festival-poster-iterations) · [Français](../README.fr.md#case-coffee-festival-poster-iterations) · [Deutsch](../README.de.md#case-coffee-festival-poster-iterations) · [Español](../README.es.md#case-coffee-festival-poster-iterations) · [Português (Brasil)](../README.pt-BR.md#case-coffee-festival-poster-iterations)
+[English](../README.md#user-content-case-coffee-festival-poster-iterations) · [简体中文](../README.zh-CN.md#user-content-case-coffee-festival-poster-iterations) · [繁體中文](../README.zh-TW.md#user-content-case-coffee-festival-poster-iterations) · [日本語](../README.ja.md#user-content-case-coffee-festival-poster-iterations) · [한국어](../README.ko.md#user-content-case-coffee-festival-poster-iterations) · [Français](../README.fr.md#user-content-case-coffee-festival-poster-iterations) · [Deutsch](../README.de.md#user-content-case-coffee-festival-poster-iterations) · [Español](../README.es.md#user-content-case-coffee-festival-poster-iterations) · [Português (Brasil)](../README.pt-BR.md#user-content-case-coffee-festival-poster-iterations)
 
 Build a poster and change its palette, title scale, date, and steam in separate rounds.
 
@@ -14,6 +14,6 @@ Build a poster and change its palette, title scale, date, and steam in separate 
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8M6yHaMAAcFxE?format=jpg&amp;name=large" width="640" alt="咖啡节海报五轮连续编辑 — @jackzhang123vip — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-coffee-festival-poster-iterations)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-coffee-festival-poster-iterations)
 
-[English](../README.md#case-coffee-festival-poster-iterations) · [简体中文](../README.zh-CN.md#case-coffee-festival-poster-iterations) · [繁體中文](../README.zh-TW.md#case-coffee-festival-poster-iterations) · [日本語](../README.ja.md#case-coffee-festival-poster-iterations) · [한국어](../README.ko.md#case-coffee-festival-poster-iterations) · [Français](../README.fr.md#case-coffee-festival-poster-iterations) · [Deutsch](../README.de.md#case-coffee-festival-poster-iterations) · [Español](../README.es.md#case-coffee-festival-poster-iterations) · [Português (Brasil)](../README.pt-BR.md#case-coffee-festival-poster-iterations)
+[English](../README.md#user-content-case-coffee-festival-poster-iterations) · [简体中文](../README.zh-CN.md#user-content-case-coffee-festival-poster-iterations) · [繁體中文](../README.zh-TW.md#user-content-case-coffee-festival-poster-iterations) · [日本語](../README.ja.md#user-content-case-coffee-festival-poster-iterations) · [한국어](../README.ko.md#user-content-case-coffee-festival-poster-iterations) · [Français](../README.fr.md#user-content-case-coffee-festival-poster-iterations) · [Deutsch](../README.de.md#user-content-case-coffee-festival-poster-iterations) · [Español](../README.es.md#user-content-case-coffee-festival-poster-iterations) · [Português (Brasil)](../README.pt-BR.md#user-content-case-coffee-festival-poster-iterations)

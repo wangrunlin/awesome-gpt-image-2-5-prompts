@@ -3,7 +3,7 @@
 
 <a href="https://x.com/Fomsky_Wei/status/2097559943075533257"><img src="https://pbs.twimg.com/tweet_video_thumb/HRwEaI1aAAAk6UX.jpg" width="640" alt="A goblin archer animation — @Fomsky_Wei — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-goblin-archer-animation) · [简体中文](../README.zh-CN.md#case-goblin-archer-animation) · [繁體中文](../README.zh-TW.md#case-goblin-archer-animation) · [日本語](../README.ja.md#case-goblin-archer-animation) · [한국어](../README.ko.md#case-goblin-archer-animation) · [Français](../README.fr.md#case-goblin-archer-animation) · [Deutsch](../README.de.md#case-goblin-archer-animation) · [Español](../README.es.md#case-goblin-archer-animation) · [Português (Brasil)](../README.pt-BR.md#case-goblin-archer-animation)
+[English](../README.md#user-content-case-goblin-archer-animation) · [简体中文](../README.zh-CN.md#user-content-case-goblin-archer-animation) · [繁體中文](../README.zh-TW.md#user-content-case-goblin-archer-animation) · [日本語](../README.ja.md#user-content-case-goblin-archer-animation) · [한국어](../README.ko.md#user-content-case-goblin-archer-animation) · [Français](../README.fr.md#user-content-case-goblin-archer-animation) · [Deutsch](../README.de.md#user-content-case-goblin-archer-animation) · [Español](../README.es.md#user-content-case-goblin-archer-animation) · [Português (Brasil)](../README.pt-BR.md#user-content-case-goblin-archer-animation)
 
 Generate an action sheet, then turn its frames into a looping animation.
 
@@ -14,6 +14,6 @@ Generate an action sheet, then turn its frames into a looping animation.
 
 <a href="https://x.com/Fomsky_Wei/status/2097559943075533257"><img src="https://pbs.twimg.com/tweet_video_thumb/HRwEaI1aAAAk6UX.jpg" width="640" alt="哥布林弓箭手动画 — @Fomsky_Wei — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-goblin-archer-animation)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-goblin-archer-animation)
 
-[English](../README.md#case-goblin-archer-animation) · [简体中文](../README.zh-CN.md#case-goblin-archer-animation) · [繁體中文](../README.zh-TW.md#case-goblin-archer-animation) · [日本語](../README.ja.md#case-goblin-archer-animation) · [한국어](../README.ko.md#case-goblin-archer-animation) · [Français](../README.fr.md#case-goblin-archer-animation) · [Deutsch](../README.de.md#case-goblin-archer-animation) · [Español](../README.es.md#case-goblin-archer-animation) · [Português (Brasil)](../README.pt-BR.md#case-goblin-archer-animation)
+[English](../README.md#user-content-case-goblin-archer-animation) · [简体中文](../README.zh-CN.md#user-content-case-goblin-archer-animation) · [繁體中文](../README.zh-TW.md#user-content-case-goblin-archer-animation) · [日本語](../README.ja.md#user-content-case-goblin-archer-animation) · [한국어](../README.ko.md#user-content-case-goblin-archer-animation) · [Français](../README.fr.md#user-content-case-goblin-archer-animation) · [Deutsch](../README.de.md#user-content-case-goblin-archer-animation) · [Español](../README.es.md#user-content-case-goblin-archer-animation) · [Português (Brasil)](../README.pt-BR.md#user-content-case-goblin-archer-animation)

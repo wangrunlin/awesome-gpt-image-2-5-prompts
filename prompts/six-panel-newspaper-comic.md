@@ -3,7 +3,7 @@
 
 <a href="https://x.com/ImagineArt_X/status/2097520479246704871"><img src="https://pbs.twimg.com/media/HRvhZGHaQAAlzoS?format=jpg&amp;name=large" width="640" alt="Six-panel newspaper comic — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-six-panel-newspaper-comic) · [简体中文](../README.zh-CN.md#case-six-panel-newspaper-comic) · [繁體中文](../README.zh-TW.md#case-six-panel-newspaper-comic) · [日本語](../README.ja.md#case-six-panel-newspaper-comic) · [한국어](../README.ko.md#case-six-panel-newspaper-comic) · [Français](../README.fr.md#case-six-panel-newspaper-comic) · [Deutsch](../README.de.md#case-six-panel-newspaper-comic) · [Español](../README.es.md#case-six-panel-newspaper-comic) · [Português (Brasil)](../README.pt-BR.md#case-six-panel-newspaper-comic)
+[English](../README.md#user-content-case-six-panel-newspaper-comic) · [简体中文](../README.zh-CN.md#user-content-case-six-panel-newspaper-comic) · [繁體中文](../README.zh-TW.md#user-content-case-six-panel-newspaper-comic) · [日本語](../README.ja.md#user-content-case-six-panel-newspaper-comic) · [한국어](../README.ko.md#user-content-case-six-panel-newspaper-comic) · [Français](../README.fr.md#user-content-case-six-panel-newspaper-comic) · [Deutsch](../README.de.md#user-content-case-six-panel-newspaper-comic) · [Español](../README.es.md#user-content-case-six-panel-newspaper-comic) · [Português (Brasil)](../README.pt-BR.md#user-content-case-six-panel-newspaper-comic)
 
 Explore a fixed six-panel layout with recurring characters and a silent panel.
 
@@ -14,6 +14,6 @@ Explore a fixed six-panel layout with recurring characters and a silent panel.
 
 <a href="https://x.com/ImagineArt_X/status/2097520479246704871"><img src="https://pbs.twimg.com/media/HRvhZGHaQAAlzoS?format=jpg&amp;name=large" width="640" alt="六格报纸漫画 — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-six-panel-newspaper-comic)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-six-panel-newspaper-comic)
 
-[English](../README.md#case-six-panel-newspaper-comic) · [简体中文](../README.zh-CN.md#case-six-panel-newspaper-comic) · [繁體中文](../README.zh-TW.md#case-six-panel-newspaper-comic) · [日本語](../README.ja.md#case-six-panel-newspaper-comic) · [한국어](../README.ko.md#case-six-panel-newspaper-comic) · [Français](../README.fr.md#case-six-panel-newspaper-comic) · [Deutsch](../README.de.md#case-six-panel-newspaper-comic) · [Español](../README.es.md#case-six-panel-newspaper-comic) · [Português (Brasil)](../README.pt-BR.md#case-six-panel-newspaper-comic)
+[English](../README.md#user-content-case-six-panel-newspaper-comic) · [简体中文](../README.zh-CN.md#user-content-case-six-panel-newspaper-comic) · [繁體中文](../README.zh-TW.md#user-content-case-six-panel-newspaper-comic) · [日本語](../README.ja.md#user-content-case-six-panel-newspaper-comic) · [한국어](../README.ko.md#user-content-case-six-panel-newspaper-comic) · [Français](../README.fr.md#user-content-case-six-panel-newspaper-comic) · [Deutsch](../README.de.md#user-content-case-six-panel-newspaper-comic) · [Español](../README.es.md#user-content-case-six-panel-newspaper-comic) · [Português (Brasil)](../README.pt-BR.md#user-content-case-six-panel-newspaper-comic)

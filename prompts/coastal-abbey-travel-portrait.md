@@ -3,7 +3,7 @@
 
 <a href="https://x.com/saniaspeaks_/status/2097532595814940683"><img src="https://pbs.twimg.com/media/HRvuwVcasAAwAwf?format=jpg&amp;name=900x900" width="640" alt="Candid coastal abbey travel portrait — @saniaspeaks_ — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-coastal-abbey-travel-portrait) · [简体中文](../README.zh-CN.md#case-coastal-abbey-travel-portrait) · [繁體中文](../README.zh-TW.md#case-coastal-abbey-travel-portrait) · [日本語](../README.ja.md#case-coastal-abbey-travel-portrait) · [한국어](../README.ko.md#case-coastal-abbey-travel-portrait) · [Français](../README.fr.md#case-coastal-abbey-travel-portrait) · [Deutsch](../README.de.md#case-coastal-abbey-travel-portrait) · [Español](../README.es.md#case-coastal-abbey-travel-portrait) · [Português (Brasil)](../README.pt-BR.md#case-coastal-abbey-travel-portrait)
+[English](../README.md#user-content-case-coastal-abbey-travel-portrait) · [简体中文](../README.zh-CN.md#user-content-case-coastal-abbey-travel-portrait) · [繁體中文](../README.zh-TW.md#user-content-case-coastal-abbey-travel-portrait) · [日本語](../README.ja.md#user-content-case-coastal-abbey-travel-portrait) · [한국어](../README.ko.md#user-content-case-coastal-abbey-travel-portrait) · [Français](../README.fr.md#user-content-case-coastal-abbey-travel-portrait) · [Deutsch](../README.de.md#user-content-case-coastal-abbey-travel-portrait) · [Español](../README.es.md#user-content-case-coastal-abbey-travel-portrait) · [Português (Brasil)](../README.pt-BR.md#user-content-case-coastal-abbey-travel-portrait)
 
 Place a naturally lit traveler in front of a historic coastal abbey with detailed clothing and architecture.
 
@@ -14,6 +14,6 @@ Place a naturally lit traveler in front of a historic coastal abbey with detaile
 
 <a href="https://x.com/saniaspeaks_/status/2097532595814940683"><img src="https://pbs.twimg.com/media/HRvuwVcasAAwAwf?format=jpg&amp;name=900x900" width="640" alt="海边修道院旅行人像 — @saniaspeaks_ — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-coastal-abbey-travel-portrait)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-coastal-abbey-travel-portrait)
 
-[English](../README.md#case-coastal-abbey-travel-portrait) · [简体中文](../README.zh-CN.md#case-coastal-abbey-travel-portrait) · [繁體中文](../README.zh-TW.md#case-coastal-abbey-travel-portrait) · [日本語](../README.ja.md#case-coastal-abbey-travel-portrait) · [한국어](../README.ko.md#case-coastal-abbey-travel-portrait) · [Français](../README.fr.md#case-coastal-abbey-travel-portrait) · [Deutsch](../README.de.md#case-coastal-abbey-travel-portrait) · [Español](../README.es.md#case-coastal-abbey-travel-portrait) · [Português (Brasil)](../README.pt-BR.md#case-coastal-abbey-travel-portrait)
+[English](../README.md#user-content-case-coastal-abbey-travel-portrait) · [简体中文](../README.zh-CN.md#user-content-case-coastal-abbey-travel-portrait) · [繁體中文](../README.zh-TW.md#user-content-case-coastal-abbey-travel-portrait) · [日本語](../README.ja.md#user-content-case-coastal-abbey-travel-portrait) · [한국어](../README.ko.md#user-content-case-coastal-abbey-travel-portrait) · [Français](../README.fr.md#user-content-case-coastal-abbey-travel-portrait) · [Deutsch](../README.de.md#user-content-case-coastal-abbey-travel-portrait) · [Español](../README.es.md#user-content-case-coastal-abbey-travel-portrait) · [Português (Brasil)](../README.pt-BR.md#user-content-case-coastal-abbey-travel-portrait)

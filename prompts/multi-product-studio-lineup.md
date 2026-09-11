@@ -3,7 +3,7 @@
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/media/HR3Bg2JbsAAXdH6?format=jpg&amp;name=medium" width="640" alt="Coherent multi-product studio lineup — @AdrianPunk115 — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-multi-product-studio-lineup) · [简体中文](../README.zh-CN.md#case-multi-product-studio-lineup) · [繁體中文](../README.zh-TW.md#case-multi-product-studio-lineup) · [日本語](../README.ja.md#case-multi-product-studio-lineup) · [한국어](../README.ko.md#case-multi-product-studio-lineup) · [Français](../README.fr.md#case-multi-product-studio-lineup) · [Deutsch](../README.de.md#case-multi-product-studio-lineup) · [Español](../README.es.md#case-multi-product-studio-lineup) · [Português (Brasil)](../README.pt-BR.md#case-multi-product-studio-lineup)
+[English](../README.md#user-content-case-multi-product-studio-lineup) · [简体中文](../README.zh-CN.md#user-content-case-multi-product-studio-lineup) · [繁體中文](../README.zh-TW.md#user-content-case-multi-product-studio-lineup) · [日本語](../README.ja.md#user-content-case-multi-product-studio-lineup) · [한국어](../README.ko.md#user-content-case-multi-product-studio-lineup) · [Français](../README.fr.md#user-content-case-multi-product-studio-lineup) · [Deutsch](../README.de.md#user-content-case-multi-product-studio-lineup) · [Español](../README.es.md#user-content-case-multi-product-studio-lineup) · [Português (Brasil)](../README.pt-BR.md#user-content-case-multi-product-studio-lineup)
 
 Arrange several separately photographed products in one consistent studio composition.
 
@@ -14,6 +14,6 @@ Arrange several separately photographed products in one consistent studio compos
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/media/HR3Bg2JbsAAXdH6?format=jpg&amp;name=medium" width="640" alt="多商品统一棚拍组合图 — @AdrianPunk115 — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-multi-product-studio-lineup)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-multi-product-studio-lineup)
 
-[English](../README.md#case-multi-product-studio-lineup) · [简体中文](../README.zh-CN.md#case-multi-product-studio-lineup) · [繁體中文](../README.zh-TW.md#case-multi-product-studio-lineup) · [日本語](../README.ja.md#case-multi-product-studio-lineup) · [한국어](../README.ko.md#case-multi-product-studio-lineup) · [Français](../README.fr.md#case-multi-product-studio-lineup) · [Deutsch](../README.de.md#case-multi-product-studio-lineup) · [Español](../README.es.md#case-multi-product-studio-lineup) · [Português (Brasil)](../README.pt-BR.md#case-multi-product-studio-lineup)
+[English](../README.md#user-content-case-multi-product-studio-lineup) · [简体中文](../README.zh-CN.md#user-content-case-multi-product-studio-lineup) · [繁體中文](../README.zh-TW.md#user-content-case-multi-product-studio-lineup) · [日本語](../README.ja.md#user-content-case-multi-product-studio-lineup) · [한국어](../README.ko.md#user-content-case-multi-product-studio-lineup) · [Français](../README.fr.md#user-content-case-multi-product-studio-lineup) · [Deutsch](../README.de.md#user-content-case-multi-product-studio-lineup) · [Español](../README.es.md#user-content-case-multi-product-studio-lineup) · [Português (Brasil)](../README.pt-BR.md#user-content-case-multi-product-studio-lineup)

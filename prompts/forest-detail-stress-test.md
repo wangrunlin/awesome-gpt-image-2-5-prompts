@@ -3,7 +3,7 @@
 
 <a href="https://x.com/mark_k/status/2097411028510179759"><img src="https://pbs.twimg.com/media/HRt_pW_XEAAYiCE?format=jpg&amp;name=medium" width="640" alt="A forest detail stress test — @mark_k — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-forest-detail-stress-test) · [简体中文](../README.zh-CN.md#case-forest-detail-stress-test) · [繁體中文](../README.zh-TW.md#case-forest-detail-stress-test) · [日本語](../README.ja.md#case-forest-detail-stress-test) · [한국어](../README.ko.md#case-forest-detail-stress-test) · [Français](../README.fr.md#case-forest-detail-stress-test) · [Deutsch](../README.de.md#case-forest-detail-stress-test) · [Español](../README.es.md#case-forest-detail-stress-test) · [Português (Brasil)](../README.pt-BR.md#case-forest-detail-stress-test)
+[English](../README.md#user-content-case-forest-detail-stress-test) · [简体中文](../README.zh-CN.md#user-content-case-forest-detail-stress-test) · [繁體中文](../README.zh-TW.md#user-content-case-forest-detail-stress-test) · [日本語](../README.ja.md#user-content-case-forest-detail-stress-test) · [한국어](../README.ko.md#user-content-case-forest-detail-stress-test) · [Français](../README.fr.md#user-content-case-forest-detail-stress-test) · [Deutsch](../README.de.md#user-content-case-forest-detail-stress-test) · [Español](../README.es.md#user-content-case-forest-detail-stress-test) · [Português (Brasil)](../README.pt-BR.md#user-content-case-forest-detail-stress-test)
 
 Dense foliage makes a useful visual test for repeated texture and noise artifacts.
 
@@ -14,6 +14,6 @@ Dense foliage makes a useful visual test for repeated texture and noise artifact
 
 <a href="https://x.com/mark_k/status/2097411028510179759"><img src="https://pbs.twimg.com/media/HRt_pW_XEAAYiCE?format=jpg&amp;name=medium" width="640" alt="森林细节压力测试 — @mark_k — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-forest-detail-stress-test)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-forest-detail-stress-test)
 
-[English](../README.md#case-forest-detail-stress-test) · [简体中文](../README.zh-CN.md#case-forest-detail-stress-test) · [繁體中文](../README.zh-TW.md#case-forest-detail-stress-test) · [日本語](../README.ja.md#case-forest-detail-stress-test) · [한국어](../README.ko.md#case-forest-detail-stress-test) · [Français](../README.fr.md#case-forest-detail-stress-test) · [Deutsch](../README.de.md#case-forest-detail-stress-test) · [Español](../README.es.md#case-forest-detail-stress-test) · [Português (Brasil)](../README.pt-BR.md#case-forest-detail-stress-test)
+[English](../README.md#user-content-case-forest-detail-stress-test) · [简体中文](../README.zh-CN.md#user-content-case-forest-detail-stress-test) · [繁體中文](../README.zh-TW.md#user-content-case-forest-detail-stress-test) · [日本語](../README.ja.md#user-content-case-forest-detail-stress-test) · [한국어](../README.ko.md#user-content-case-forest-detail-stress-test) · [Français](../README.fr.md#user-content-case-forest-detail-stress-test) · [Deutsch](../README.de.md#user-content-case-forest-detail-stress-test) · [Español](../README.es.md#user-content-case-forest-detail-stress-test) · [Português (Brasil)](../README.pt-BR.md#user-content-case-forest-detail-stress-test)

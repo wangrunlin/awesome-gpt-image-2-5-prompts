@@ -3,7 +3,7 @@
 
 <a href="https://x.com/DeepBlueX0/status/2097479273514934642"><img src="https://pbs.twimg.com/media/HRu-RnEbgAAK_Tk?format=jpg&amp;name=medium" width="640" alt="Beach portrait with a W-sitting pose — @DeepBlueX0 — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-beach-w-sit-pose) · [简体中文](../README.zh-CN.md#case-beach-w-sit-pose) · [繁體中文](../README.zh-TW.md#case-beach-w-sit-pose) · [日本語](../README.ja.md#case-beach-w-sit-pose) · [한국어](../README.ko.md#case-beach-w-sit-pose) · [Français](../README.fr.md#case-beach-w-sit-pose) · [Deutsch](../README.de.md#case-beach-w-sit-pose) · [Español](../README.es.md#case-beach-w-sit-pose) · [Português (Brasil)](../README.pt-BR.md#case-beach-w-sit-pose)
+[English](../README.md#user-content-case-beach-w-sit-pose) · [简体中文](../README.zh-CN.md#user-content-case-beach-w-sit-pose) · [繁體中文](../README.zh-TW.md#user-content-case-beach-w-sit-pose) · [日本語](../README.ja.md#user-content-case-beach-w-sit-pose) · [한국어](../README.ko.md#user-content-case-beach-w-sit-pose) · [Français](../README.fr.md#user-content-case-beach-w-sit-pose) · [Deutsch](../README.de.md#user-content-case-beach-w-sit-pose) · [Español](../README.es.md#user-content-case-beach-w-sit-pose) · [Português (Brasil)](../README.pt-BR.md#user-content-case-beach-w-sit-pose)
 
 Explore a short Chinese pose instruction combined with emoji scene cues.
 
@@ -14,6 +14,6 @@ Explore a short Chinese pose instruction combined with emoji scene cues.
 
 <a href="https://x.com/DeepBlueX0/status/2097479273514934642"><img src="https://pbs.twimg.com/media/HRu-RnEbgAAK_Tk?format=jpg&amp;name=medium" width="640" alt="海滩鸭子坐姿人像 — @DeepBlueX0 — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-beach-w-sit-pose)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-beach-w-sit-pose)
 
-[English](../README.md#case-beach-w-sit-pose) · [简体中文](../README.zh-CN.md#case-beach-w-sit-pose) · [繁體中文](../README.zh-TW.md#case-beach-w-sit-pose) · [日本語](../README.ja.md#case-beach-w-sit-pose) · [한국어](../README.ko.md#case-beach-w-sit-pose) · [Français](../README.fr.md#case-beach-w-sit-pose) · [Deutsch](../README.de.md#case-beach-w-sit-pose) · [Español](../README.es.md#case-beach-w-sit-pose) · [Português (Brasil)](../README.pt-BR.md#case-beach-w-sit-pose)
+[English](../README.md#user-content-case-beach-w-sit-pose) · [简体中文](../README.zh-CN.md#user-content-case-beach-w-sit-pose) · [繁體中文](../README.zh-TW.md#user-content-case-beach-w-sit-pose) · [日本語](../README.ja.md#user-content-case-beach-w-sit-pose) · [한국어](../README.ko.md#user-content-case-beach-w-sit-pose) · [Français](../README.fr.md#user-content-case-beach-w-sit-pose) · [Deutsch](../README.de.md#user-content-case-beach-w-sit-pose) · [Español](../README.es.md#user-content-case-beach-w-sit-pose) · [Português (Brasil)](../README.pt-BR.md#user-content-case-beach-w-sit-pose)

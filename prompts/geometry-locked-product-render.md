@@ -3,7 +3,7 @@
 
 <a href="https://x.com/higgsfield/status/2097514650518831462"><img src="https://pbs.twimg.com/amplify_video_thumb/2097513089268842496/img/gIhm45SziKF5_TBr.jpg" width="640" alt="Geometry-locked product render — @higgsfield — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-geometry-locked-product-render) · [简体中文](../README.zh-CN.md#case-geometry-locked-product-render) · [繁體中文](../README.zh-TW.md#case-geometry-locked-product-render) · [日本語](../README.ja.md#case-geometry-locked-product-render) · [한국어](../README.ko.md#case-geometry-locked-product-render) · [Français](../README.fr.md#case-geometry-locked-product-render) · [Deutsch](../README.de.md#case-geometry-locked-product-render) · [Español](../README.es.md#case-geometry-locked-product-render) · [Português (Brasil)](../README.pt-BR.md#case-geometry-locked-product-render)
+[English](../README.md#user-content-case-geometry-locked-product-render) · [简体中文](../README.zh-CN.md#user-content-case-geometry-locked-product-render) · [繁體中文](../README.zh-TW.md#user-content-case-geometry-locked-product-render) · [日本語](../README.ja.md#user-content-case-geometry-locked-product-render) · [한국어](../README.ko.md#user-content-case-geometry-locked-product-render) · [Français](../README.fr.md#user-content-case-geometry-locked-product-render) · [Deutsch](../README.de.md#user-content-case-geometry-locked-product-render) · [Español](../README.es.md#user-content-case-geometry-locked-product-render) · [Português (Brasil)](../README.pt-BR.md#user-content-case-geometry-locked-product-render)
 
 Turn a rough geometry guide into one polished studio frame while retaining the supplied pose.
 
@@ -14,6 +14,6 @@ Turn a rough geometry guide into one polished studio frame while retaining the s
 
 <a href="https://x.com/higgsfield/status/2097514650518831462"><img src="https://pbs.twimg.com/amplify_video_thumb/2097513089268842496/img/gIhm45SziKF5_TBr.jpg" width="640" alt="锁定几何结构的产品渲染 — @higgsfield — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-geometry-locked-product-render)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-geometry-locked-product-render)
 
-[English](../README.md#case-geometry-locked-product-render) · [简体中文](../README.zh-CN.md#case-geometry-locked-product-render) · [繁體中文](../README.zh-TW.md#case-geometry-locked-product-render) · [日本語](../README.ja.md#case-geometry-locked-product-render) · [한국어](../README.ko.md#case-geometry-locked-product-render) · [Français](../README.fr.md#case-geometry-locked-product-render) · [Deutsch](../README.de.md#case-geometry-locked-product-render) · [Español](../README.es.md#case-geometry-locked-product-render) · [Português (Brasil)](../README.pt-BR.md#case-geometry-locked-product-render)
+[English](../README.md#user-content-case-geometry-locked-product-render) · [简体中文](../README.zh-CN.md#user-content-case-geometry-locked-product-render) · [繁體中文](../README.zh-TW.md#user-content-case-geometry-locked-product-render) · [日本語](../README.ja.md#user-content-case-geometry-locked-product-render) · [한국어](../README.ko.md#user-content-case-geometry-locked-product-render) · [Français](../README.fr.md#user-content-case-geometry-locked-product-render) · [Deutsch](../README.de.md#user-content-case-geometry-locked-product-render) · [Español](../README.es.md#user-content-case-geometry-locked-product-render) · [Português (Brasil)](../README.pt-BR.md#user-content-case-geometry-locked-product-render)

@@ -3,7 +3,7 @@
 
 <a href="https://x.com/ImagineArt_X/status/2097520474226147462"><img src="https://pbs.twimg.com/media/HRvhPCSaIAA9WfW?format=jpg&amp;name=large" width="640" alt="Retro infomercial advertising frame — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-retro-infomercial-frame) · [简体中文](../README.zh-CN.md#case-retro-infomercial-frame) · [繁體中文](../README.zh-TW.md#case-retro-infomercial-frame) · [日本語](../README.ja.md#case-retro-infomercial-frame) · [한국어](../README.ko.md#case-retro-infomercial-frame) · [Français](../README.fr.md#case-retro-infomercial-frame) · [Deutsch](../README.de.md#case-retro-infomercial-frame) · [Español](../README.es.md#case-retro-infomercial-frame) · [Português (Brasil)](../README.pt-BR.md#case-retro-infomercial-frame)
+[English](../README.md#user-content-case-retro-infomercial-frame) · [简体中文](../README.zh-CN.md#user-content-case-retro-infomercial-frame) · [繁體中文](../README.zh-TW.md#user-content-case-retro-infomercial-frame) · [日本語](../README.ja.md#user-content-case-retro-infomercial-frame) · [한국어](../README.ko.md#user-content-case-retro-infomercial-frame) · [Français](../README.fr.md#user-content-case-retro-infomercial-frame) · [Deutsch](../README.de.md#user-content-case-retro-infomercial-frame) · [Español](../README.es.md#user-content-case-retro-infomercial-frame) · [Português (Brasil)](../README.pt-BR.md#user-content-case-retro-infomercial-frame)
 
 Create a nostalgic advertising still that mixes a product display with dense overlay text.
 
@@ -14,6 +14,6 @@ Create a nostalgic advertising still that mixes a product display with dense ove
 
 <a href="https://x.com/ImagineArt_X/status/2097520474226147462"><img src="https://pbs.twimg.com/media/HRvhPCSaIAA9WfW?format=jpg&amp;name=large" width="640" alt="复古电视购物广告画面 — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-retro-infomercial-frame)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-retro-infomercial-frame)
 
-[English](../README.md#case-retro-infomercial-frame) · [简体中文](../README.zh-CN.md#case-retro-infomercial-frame) · [繁體中文](../README.zh-TW.md#case-retro-infomercial-frame) · [日本語](../README.ja.md#case-retro-infomercial-frame) · [한국어](../README.ko.md#case-retro-infomercial-frame) · [Français](../README.fr.md#case-retro-infomercial-frame) · [Deutsch](../README.de.md#case-retro-infomercial-frame) · [Español](../README.es.md#case-retro-infomercial-frame) · [Português (Brasil)](../README.pt-BR.md#case-retro-infomercial-frame)
+[English](../README.md#user-content-case-retro-infomercial-frame) · [简体中文](../README.zh-CN.md#user-content-case-retro-infomercial-frame) · [繁體中文](../README.zh-TW.md#user-content-case-retro-infomercial-frame) · [日本語](../README.ja.md#user-content-case-retro-infomercial-frame) · [한국어](../README.ko.md#user-content-case-retro-infomercial-frame) · [Français](../README.fr.md#user-content-case-retro-infomercial-frame) · [Deutsch](../README.de.md#user-content-case-retro-infomercial-frame) · [Español](../README.es.md#user-content-case-retro-infomercial-frame) · [Português (Brasil)](../README.pt-BR.md#user-content-case-retro-infomercial-frame)

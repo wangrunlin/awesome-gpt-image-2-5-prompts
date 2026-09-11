@@ -3,7 +3,7 @@
 
 <a href="https://x.com/ImagineArt_X/status/2097520469150986457"><img src="https://pbs.twimg.com/media/HRvhFOtb0AAGMeg?format=jpg&amp;name=large" width="640" alt="Espresso machine service-manual diagram — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-espresso-service-manual) · [简体中文](../README.zh-CN.md#case-espresso-service-manual) · [繁體中文](../README.zh-TW.md#case-espresso-service-manual) · [日本語](../README.ja.md#case-espresso-service-manual) · [한국어](../README.ko.md#case-espresso-service-manual) · [Français](../README.fr.md#case-espresso-service-manual) · [Deutsch](../README.de.md#case-espresso-service-manual) · [Español](../README.es.md#case-espresso-service-manual) · [Português (Brasil)](../README.pt-BR.md#case-espresso-service-manual)
+[English](../README.md#user-content-case-espresso-service-manual) · [简体中文](../README.zh-CN.md#user-content-case-espresso-service-manual) · [繁體中文](../README.zh-TW.md#user-content-case-espresso-service-manual) · [日本語](../README.ja.md#user-content-case-espresso-service-manual) · [한국어](../README.ko.md#user-content-case-espresso-service-manual) · [Français](../README.fr.md#user-content-case-espresso-service-manual) · [Deutsch](../README.de.md#user-content-case-espresso-service-manual) · [Español](../README.es.md#user-content-case-espresso-service-manual) · [Português (Brasil)](../README.pt-BR.md#user-content-case-espresso-service-manual)
 
 Combine a cutaway illustration, numbered labels, a legend, and an exact title block.
 
@@ -14,6 +14,6 @@ Combine a cutaway illustration, numbered labels, a legend, and an exact title bl
 
 <a href="https://x.com/ImagineArt_X/status/2097520469150986457"><img src="https://pbs.twimg.com/media/HRvhFOtb0AAGMeg?format=jpg&amp;name=large" width="640" alt="咖啡机维修手册剖面图 — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-espresso-service-manual)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-espresso-service-manual)
 
-[English](../README.md#case-espresso-service-manual) · [简体中文](../README.zh-CN.md#case-espresso-service-manual) · [繁體中文](../README.zh-TW.md#case-espresso-service-manual) · [日本語](../README.ja.md#case-espresso-service-manual) · [한국어](../README.ko.md#case-espresso-service-manual) · [Français](../README.fr.md#case-espresso-service-manual) · [Deutsch](../README.de.md#case-espresso-service-manual) · [Español](../README.es.md#case-espresso-service-manual) · [Português (Brasil)](../README.pt-BR.md#case-espresso-service-manual)
+[English](../README.md#user-content-case-espresso-service-manual) · [简体中文](../README.zh-CN.md#user-content-case-espresso-service-manual) · [繁體中文](../README.zh-TW.md#user-content-case-espresso-service-manual) · [日本語](../README.ja.md#user-content-case-espresso-service-manual) · [한국어](../README.ko.md#user-content-case-espresso-service-manual) · [Français](../README.fr.md#user-content-case-espresso-service-manual) · [Deutsch](../README.de.md#user-content-case-espresso-service-manual) · [Español](../README.es.md#user-content-case-espresso-service-manual) · [Português (Brasil)](../README.pt-BR.md#user-content-case-espresso-service-manual)

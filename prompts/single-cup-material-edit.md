@@ -3,7 +3,7 @@
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8OAYLbcAAIKTN?format=jpg&amp;name=medium" width="640" alt="Single-cup color and finish edit — @jackzhang123vip — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-single-cup-material-edit) · [简体中文](../README.zh-CN.md#case-single-cup-material-edit) · [繁體中文](../README.zh-TW.md#case-single-cup-material-edit) · [日本語](../README.ja.md#case-single-cup-material-edit) · [한국어](../README.ko.md#case-single-cup-material-edit) · [Français](../README.fr.md#case-single-cup-material-edit) · [Deutsch](../README.de.md#case-single-cup-material-edit) · [Español](../README.es.md#case-single-cup-material-edit) · [Português (Brasil)](../README.pt-BR.md#case-single-cup-material-edit)
+[English](../README.md#user-content-case-single-cup-material-edit) · [简体中文](../README.zh-CN.md#user-content-case-single-cup-material-edit) · [繁體中文](../README.zh-TW.md#user-content-case-single-cup-material-edit) · [日本語](../README.ja.md#user-content-case-single-cup-material-edit) · [한국어](../README.ko.md#user-content-case-single-cup-material-edit) · [Français](../README.fr.md#user-content-case-single-cup-material-edit) · [Deutsch](../README.de.md#user-content-case-single-cup-material-edit) · [Español](../README.es.md#user-content-case-single-cup-material-edit) · [Português (Brasil)](../README.pt-BR.md#user-content-case-single-cup-material-edit)
 
 Change a red glossy cup to matte white while retaining the surrounding portrait and room.
 
@@ -14,6 +14,6 @@ Change a red glossy cup to matte white while retaining the surrounding portrait 
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8OAYLbcAAIKTN?format=jpg&amp;name=medium" width="640" alt="杯子颜色与表面材质局部编辑 — @jackzhang123vip — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-single-cup-material-edit)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-single-cup-material-edit)
 
-[English](../README.md#case-single-cup-material-edit) · [简体中文](../README.zh-CN.md#case-single-cup-material-edit) · [繁體中文](../README.zh-TW.md#case-single-cup-material-edit) · [日本語](../README.ja.md#case-single-cup-material-edit) · [한국어](../README.ko.md#case-single-cup-material-edit) · [Français](../README.fr.md#case-single-cup-material-edit) · [Deutsch](../README.de.md#case-single-cup-material-edit) · [Español](../README.es.md#case-single-cup-material-edit) · [Português (Brasil)](../README.pt-BR.md#case-single-cup-material-edit)
+[English](../README.md#user-content-case-single-cup-material-edit) · [简体中文](../README.zh-CN.md#user-content-case-single-cup-material-edit) · [繁體中文](../README.zh-TW.md#user-content-case-single-cup-material-edit) · [日本語](../README.ja.md#user-content-case-single-cup-material-edit) · [한국어](../README.ko.md#user-content-case-single-cup-material-edit) · [Français](../README.fr.md#user-content-case-single-cup-material-edit) · [Deutsch](../README.de.md#user-content-case-single-cup-material-edit) · [Español](../README.es.md#user-content-case-single-cup-material-edit) · [Português (Brasil)](../README.pt-BR.md#user-content-case-single-cup-material-edit)

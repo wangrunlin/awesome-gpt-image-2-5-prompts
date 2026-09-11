@@ -3,7 +3,7 @@
 
 <a href="https://x.com/meAsifAi/status/2097949170594193427"><img src="https://pbs.twimg.com/media/HR1pU0jbsAAu_UR?format=jpg&amp;name=medium" width="640" alt="Complete character production reference sheet — @meAsifAi — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-character-design-reference-sheet) · [简体中文](../README.zh-CN.md#case-character-design-reference-sheet) · [繁體中文](../README.zh-TW.md#case-character-design-reference-sheet) · [日本語](../README.ja.md#case-character-design-reference-sheet) · [한국어](../README.ko.md#case-character-design-reference-sheet) · [Français](../README.fr.md#case-character-design-reference-sheet) · [Deutsch](../README.de.md#case-character-design-reference-sheet) · [Español](../README.es.md#case-character-design-reference-sheet) · [Português (Brasil)](../README.pt-BR.md#case-character-design-reference-sheet)
+[English](../README.md#user-content-case-character-design-reference-sheet) · [简体中文](../README.zh-CN.md#user-content-case-character-design-reference-sheet) · [繁體中文](../README.zh-TW.md#user-content-case-character-design-reference-sheet) · [日本語](../README.ja.md#user-content-case-character-design-reference-sheet) · [한국어](../README.ko.md#user-content-case-character-design-reference-sheet) · [Français](../README.fr.md#user-content-case-character-design-reference-sheet) · [Deutsch](../README.de.md#user-content-case-character-design-reference-sheet) · [Español](../README.es.md#user-content-case-character-design-reference-sheet) · [Português (Brasil)](../README.pt-BR.md#user-content-case-character-design-reference-sheet)
 
 Keep one character consistent across a turnaround, expressions, poses, costume details, materials, and color palette.
 
@@ -14,6 +14,6 @@ Keep one character consistent across a turnaround, expressions, poses, costume d
 
 <a href="https://x.com/meAsifAi/status/2097949170594193427"><img src="https://pbs.twimg.com/media/HR1pU0jbsAAu_UR?format=jpg&amp;name=medium" width="640" alt="完整角色设计参考板 — @meAsifAi — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-character-design-reference-sheet)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-character-design-reference-sheet)
 
-[English](../README.md#case-character-design-reference-sheet) · [简体中文](../README.zh-CN.md#case-character-design-reference-sheet) · [繁體中文](../README.zh-TW.md#case-character-design-reference-sheet) · [日本語](../README.ja.md#case-character-design-reference-sheet) · [한국어](../README.ko.md#case-character-design-reference-sheet) · [Français](../README.fr.md#case-character-design-reference-sheet) · [Deutsch](../README.de.md#case-character-design-reference-sheet) · [Español](../README.es.md#case-character-design-reference-sheet) · [Português (Brasil)](../README.pt-BR.md#case-character-design-reference-sheet)
+[English](../README.md#user-content-case-character-design-reference-sheet) · [简体中文](../README.zh-CN.md#user-content-case-character-design-reference-sheet) · [繁體中文](../README.zh-TW.md#user-content-case-character-design-reference-sheet) · [日本語](../README.ja.md#user-content-case-character-design-reference-sheet) · [한국어](../README.ko.md#user-content-case-character-design-reference-sheet) · [Français](../README.fr.md#user-content-case-character-design-reference-sheet) · [Deutsch](../README.de.md#user-content-case-character-design-reference-sheet) · [Español](../README.es.md#user-content-case-character-design-reference-sheet) · [Português (Brasil)](../README.pt-BR.md#user-content-case-character-design-reference-sheet)

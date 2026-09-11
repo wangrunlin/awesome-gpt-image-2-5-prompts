@@ -3,7 +3,7 @@
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8KyZta8AAqI3b?format=jpg&amp;name=large" width="640" alt="Fresh grocery mobile app UI — @jackzhang123vip — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-fresh-grocery-mobile-ui) · [简体中文](../README.zh-CN.md#case-fresh-grocery-mobile-ui) · [繁體中文](../README.zh-TW.md#case-fresh-grocery-mobile-ui) · [日本語](../README.ja.md#case-fresh-grocery-mobile-ui) · [한국어](../README.ko.md#case-fresh-grocery-mobile-ui) · [Français](../README.fr.md#case-fresh-grocery-mobile-ui) · [Deutsch](../README.de.md#case-fresh-grocery-mobile-ui) · [Español](../README.es.md#case-fresh-grocery-mobile-ui) · [Português (Brasil)](../README.pt-BR.md#case-fresh-grocery-mobile-ui)
+[English](../README.md#user-content-case-fresh-grocery-mobile-ui) · [简体中文](../README.zh-CN.md#user-content-case-fresh-grocery-mobile-ui) · [繁體中文](../README.zh-TW.md#user-content-case-fresh-grocery-mobile-ui) · [日本語](../README.ja.md#user-content-case-fresh-grocery-mobile-ui) · [한국어](../README.ko.md#user-content-case-fresh-grocery-mobile-ui) · [Français](../README.fr.md#user-content-case-fresh-grocery-mobile-ui) · [Deutsch](../README.de.md#user-content-case-fresh-grocery-mobile-ui) · [Español](../README.es.md#user-content-case-fresh-grocery-mobile-ui) · [Português (Brasil)](../README.pt-BR.md#user-content-case-fresh-grocery-mobile-ui)
 
 Design a Chinese grocery home screen with product cards, nearby stores, and four navigation tabs.
 
@@ -14,6 +14,6 @@ Design a Chinese grocery home screen with product cards, nearby stores, and four
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8KyZta8AAqI3b?format=jpg&amp;name=large" width="640" alt="生鲜电商手机界面 — @jackzhang123vip — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-fresh-grocery-mobile-ui)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-fresh-grocery-mobile-ui)
 
-[English](../README.md#case-fresh-grocery-mobile-ui) · [简体中文](../README.zh-CN.md#case-fresh-grocery-mobile-ui) · [繁體中文](../README.zh-TW.md#case-fresh-grocery-mobile-ui) · [日本語](../README.ja.md#case-fresh-grocery-mobile-ui) · [한국어](../README.ko.md#case-fresh-grocery-mobile-ui) · [Français](../README.fr.md#case-fresh-grocery-mobile-ui) · [Deutsch](../README.de.md#case-fresh-grocery-mobile-ui) · [Español](../README.es.md#case-fresh-grocery-mobile-ui) · [Português (Brasil)](../README.pt-BR.md#case-fresh-grocery-mobile-ui)
+[English](../README.md#user-content-case-fresh-grocery-mobile-ui) · [简体中文](../README.zh-CN.md#user-content-case-fresh-grocery-mobile-ui) · [繁體中文](../README.zh-TW.md#user-content-case-fresh-grocery-mobile-ui) · [日本語](../README.ja.md#user-content-case-fresh-grocery-mobile-ui) · [한국어](../README.ko.md#user-content-case-fresh-grocery-mobile-ui) · [Français](../README.fr.md#user-content-case-fresh-grocery-mobile-ui) · [Deutsch](../README.de.md#user-content-case-fresh-grocery-mobile-ui) · [Español](../README.es.md#user-content-case-fresh-grocery-mobile-ui) · [Português (Brasil)](../README.pt-BR.md#user-content-case-fresh-grocery-mobile-ui)

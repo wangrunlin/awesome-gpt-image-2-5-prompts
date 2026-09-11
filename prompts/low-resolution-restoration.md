@@ -3,7 +3,7 @@
 
 <a href="https://x.com/k_matsumaru/status/2097506834659893340"><img src="https://pbs.twimg.com/media/HRvWtOca8AA3CNW?format=jpg&amp;name=large" width="640" alt="Restore a low-resolution image — @k_matsumaru — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-low-resolution-restoration) · [简体中文](../README.zh-CN.md#case-low-resolution-restoration) · [繁體中文](../README.zh-TW.md#case-low-resolution-restoration) · [日本語](../README.ja.md#case-low-resolution-restoration) · [한국어](../README.ko.md#case-low-resolution-restoration) · [Français](../README.fr.md#case-low-resolution-restoration) · [Deutsch](../README.de.md#case-low-resolution-restoration) · [Español](../README.es.md#case-low-resolution-restoration) · [Português (Brasil)](../README.pt-BR.md#case-low-resolution-restoration)
+[English](../README.md#user-content-case-low-resolution-restoration) · [简体中文](../README.zh-CN.md#user-content-case-low-resolution-restoration) · [繁體中文](../README.zh-TW.md#user-content-case-low-resolution-restoration) · [日本語](../README.ja.md#user-content-case-low-resolution-restoration) · [한국어](../README.ko.md#user-content-case-low-resolution-restoration) · [Français](../README.fr.md#user-content-case-low-resolution-restoration) · [Deutsch](../README.de.md#user-content-case-low-resolution-restoration) · [Español](../README.es.md#user-content-case-low-resolution-restoration) · [Português (Brasil)](../README.pt-BR.md#user-content-case-low-resolution-restoration)
 
 Make a noisy image clearer while retaining its original illustration style and composition.
 
@@ -14,6 +14,6 @@ Make a noisy image clearer while retaining its original illustration style and c
 
 <a href="https://x.com/k_matsumaru/status/2097506834659893340"><img src="https://pbs.twimg.com/media/HRvWtOca8AA3CNW?format=jpg&amp;name=large" width="640" alt="低分辨率图片修复 — @k_matsumaru — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-low-resolution-restoration)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-low-resolution-restoration)
 
-[English](../README.md#case-low-resolution-restoration) · [简体中文](../README.zh-CN.md#case-low-resolution-restoration) · [繁體中文](../README.zh-TW.md#case-low-resolution-restoration) · [日本語](../README.ja.md#case-low-resolution-restoration) · [한국어](../README.ko.md#case-low-resolution-restoration) · [Français](../README.fr.md#case-low-resolution-restoration) · [Deutsch](../README.de.md#case-low-resolution-restoration) · [Español](../README.es.md#case-low-resolution-restoration) · [Português (Brasil)](../README.pt-BR.md#case-low-resolution-restoration)
+[English](../README.md#user-content-case-low-resolution-restoration) · [简体中文](../README.zh-CN.md#user-content-case-low-resolution-restoration) · [繁體中文](../README.zh-TW.md#user-content-case-low-resolution-restoration) · [日本語](../README.ja.md#user-content-case-low-resolution-restoration) · [한국어](../README.ko.md#user-content-case-low-resolution-restoration) · [Français](../README.fr.md#user-content-case-low-resolution-restoration) · [Deutsch](../README.de.md#user-content-case-low-resolution-restoration) · [Español](../README.es.md#user-content-case-low-resolution-restoration) · [Português (Brasil)](../README.pt-BR.md#user-content-case-low-resolution-restoration)

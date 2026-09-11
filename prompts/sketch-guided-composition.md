@@ -3,7 +3,7 @@
 
 <a href="https://x.com/Synthetic_Copy/status/2097461076866560320"><img src="https://pbs.twimg.com/media/HRutuxdaQAAumX3?format=jpg&amp;name=900x900" width="640" alt="Recompose a scene from a sketch — @Synthetic_Copy — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-sketch-guided-composition) · [简体中文](../README.zh-CN.md#case-sketch-guided-composition) · [繁體中文](../README.zh-TW.md#case-sketch-guided-composition) · [日本語](../README.ja.md#case-sketch-guided-composition) · [한국어](../README.ko.md#case-sketch-guided-composition) · [Français](../README.fr.md#case-sketch-guided-composition) · [Deutsch](../README.de.md#case-sketch-guided-composition) · [Español](../README.es.md#case-sketch-guided-composition) · [Português (Brasil)](../README.pt-BR.md#case-sketch-guided-composition)
+[English](../README.md#user-content-case-sketch-guided-composition) · [简体中文](../README.zh-CN.md#user-content-case-sketch-guided-composition) · [繁體中文](../README.zh-TW.md#user-content-case-sketch-guided-composition) · [日本語](../README.ja.md#user-content-case-sketch-guided-composition) · [한국어](../README.ko.md#user-content-case-sketch-guided-composition) · [Français](../README.fr.md#user-content-case-sketch-guided-composition) · [Deutsch](../README.de.md#user-content-case-sketch-guided-composition) · [Español](../README.es.md#user-content-case-sketch-guided-composition) · [Português (Brasil)](../README.pt-BR.md#user-content-case-sketch-guided-composition)
 
 Use a rough sketch to communicate where existing subjects should move.
 
@@ -14,6 +14,6 @@ Use a rough sketch to communicate where existing subjects should move.
 
 <a href="https://x.com/Synthetic_Copy/status/2097461076866560320"><img src="https://pbs.twimg.com/media/HRutuxdaQAAumX3?format=jpg&amp;name=900x900" width="640" alt="用草图重排构图 — @Synthetic_Copy — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-sketch-guided-composition)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-sketch-guided-composition)
 
-[English](../README.md#case-sketch-guided-composition) · [简体中文](../README.zh-CN.md#case-sketch-guided-composition) · [繁體中文](../README.zh-TW.md#case-sketch-guided-composition) · [日本語](../README.ja.md#case-sketch-guided-composition) · [한국어](../README.ko.md#case-sketch-guided-composition) · [Français](../README.fr.md#case-sketch-guided-composition) · [Deutsch](../README.de.md#case-sketch-guided-composition) · [Español](../README.es.md#case-sketch-guided-composition) · [Português (Brasil)](../README.pt-BR.md#case-sketch-guided-composition)
+[English](../README.md#user-content-case-sketch-guided-composition) · [简体中文](../README.zh-CN.md#user-content-case-sketch-guided-composition) · [繁體中文](../README.zh-TW.md#user-content-case-sketch-guided-composition) · [日本語](../README.ja.md#user-content-case-sketch-guided-composition) · [한국어](../README.ko.md#user-content-case-sketch-guided-composition) · [Français](../README.fr.md#user-content-case-sketch-guided-composition) · [Deutsch](../README.de.md#user-content-case-sketch-guided-composition) · [Español](../README.es.md#user-content-case-sketch-guided-composition) · [Português (Brasil)](../README.pt-BR.md#user-content-case-sketch-guided-composition)

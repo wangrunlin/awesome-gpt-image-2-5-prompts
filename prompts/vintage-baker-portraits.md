@@ -3,7 +3,7 @@
 
 <a href="https://x.com/Lonely__MH/status/2097659111798390968"><img src="https://pbs.twimg.com/media/HRxhydObkAA62IH?format=jpg&amp;name=medium" width="640" alt="Vintage baker portrait series — @Lonely__MH — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-vintage-baker-portraits) · [简体中文](../README.zh-CN.md#case-vintage-baker-portraits) · [繁體中文](../README.zh-TW.md#case-vintage-baker-portraits) · [日本語](../README.ja.md#case-vintage-baker-portraits) · [한국어](../README.ko.md#case-vintage-baker-portraits) · [Français](../README.fr.md#case-vintage-baker-portraits) · [Deutsch](../README.de.md#case-vintage-baker-portraits) · [Español](../README.es.md#case-vintage-baker-portraits) · [Português (Brasil)](../README.pt-BR.md#case-vintage-baker-portraits)
+[English](../README.md#user-content-case-vintage-baker-portraits) · [简体中文](../README.zh-CN.md#user-content-case-vintage-baker-portraits) · [繁體中文](../README.zh-TW.md#user-content-case-vintage-baker-portraits) · [日本語](../README.ja.md#user-content-case-vintage-baker-portraits) · [한국어](../README.ko.md#user-content-case-vintage-baker-portraits) · [Français](../README.fr.md#user-content-case-vintage-baker-portraits) · [Deutsch](../README.de.md#user-content-case-vintage-baker-portraits) · [Español](../README.es.md#user-content-case-vintage-baker-portraits) · [Português (Brasil)](../README.pt-BR.md#user-content-case-vintage-baker-portraits)
 
 Compose a coherent adult portrait series in a sunlit retro kitchen.
 
@@ -14,6 +14,6 @@ Compose a coherent adult portrait series in a sunlit retro kitchen.
 
 <a href="https://x.com/Lonely__MH/status/2097659111798390968"><img src="https://pbs.twimg.com/media/HRxhydObkAA62IH?format=jpg&amp;name=medium" width="640" alt="复古厨房烘焙人像组图 — @Lonely__MH — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-vintage-baker-portraits)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-vintage-baker-portraits)
 
-[English](../README.md#case-vintage-baker-portraits) · [简体中文](../README.zh-CN.md#case-vintage-baker-portraits) · [繁體中文](../README.zh-TW.md#case-vintage-baker-portraits) · [日本語](../README.ja.md#case-vintage-baker-portraits) · [한국어](../README.ko.md#case-vintage-baker-portraits) · [Français](../README.fr.md#case-vintage-baker-portraits) · [Deutsch](../README.de.md#case-vintage-baker-portraits) · [Español](../README.es.md#case-vintage-baker-portraits) · [Português (Brasil)](../README.pt-BR.md#case-vintage-baker-portraits)
+[English](../README.md#user-content-case-vintage-baker-portraits) · [简体中文](../README.zh-CN.md#user-content-case-vintage-baker-portraits) · [繁體中文](../README.zh-TW.md#user-content-case-vintage-baker-portraits) · [日本語](../README.ja.md#user-content-case-vintage-baker-portraits) · [한국어](../README.ko.md#user-content-case-vintage-baker-portraits) · [Français](../README.fr.md#user-content-case-vintage-baker-portraits) · [Deutsch](../README.de.md#user-content-case-vintage-baker-portraits) · [Español](../README.es.md#user-content-case-vintage-baker-portraits) · [Português (Brasil)](../README.pt-BR.md#user-content-case-vintage-baker-portraits)

@@ -3,7 +3,7 @@
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/media/HR25mF4a0AA43OY?format=jpg&amp;name=medium" width="640" alt="Nine expressive chat stickers — @AdrianPunk115 — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-nine-emotion-chat-stickers) · [简体中文](../README.zh-CN.md#case-nine-emotion-chat-stickers) · [繁體中文](../README.zh-TW.md#case-nine-emotion-chat-stickers) · [日本語](../README.ja.md#case-nine-emotion-chat-stickers) · [한국어](../README.ko.md#case-nine-emotion-chat-stickers) · [Français](../README.fr.md#case-nine-emotion-chat-stickers) · [Deutsch](../README.de.md#case-nine-emotion-chat-stickers) · [Español](../README.es.md#case-nine-emotion-chat-stickers) · [Português (Brasil)](../README.pt-BR.md#case-nine-emotion-chat-stickers)
+[English](../README.md#user-content-case-nine-emotion-chat-stickers) · [简体中文](../README.zh-CN.md#user-content-case-nine-emotion-chat-stickers) · [繁體中文](../README.zh-TW.md#user-content-case-nine-emotion-chat-stickers) · [日本語](../README.ja.md#user-content-case-nine-emotion-chat-stickers) · [한국어](../README.ko.md#user-content-case-nine-emotion-chat-stickers) · [Français](../README.fr.md#user-content-case-nine-emotion-chat-stickers) · [Deutsch](../README.de.md#user-content-case-nine-emotion-chat-stickers) · [Español](../README.es.md#user-content-case-nine-emotion-chat-stickers) · [Português (Brasil)](../README.pt-BR.md#user-content-case-nine-emotion-chat-stickers)
 
 Create a consistent 3×3 sheet of nine distinct reactions from one character reference.
 
@@ -14,6 +14,6 @@ Create a consistent 3×3 sheet of nine distinct reactions from one character ref
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/media/HR25mF4a0AA43OY?format=jpg&amp;name=medium" width="640" alt="九种情绪聊天表情包 — @AdrianPunk115 — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-nine-emotion-chat-stickers)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-nine-emotion-chat-stickers)
 
-[English](../README.md#case-nine-emotion-chat-stickers) · [简体中文](../README.zh-CN.md#case-nine-emotion-chat-stickers) · [繁體中文](../README.zh-TW.md#case-nine-emotion-chat-stickers) · [日本語](../README.ja.md#case-nine-emotion-chat-stickers) · [한국어](../README.ko.md#case-nine-emotion-chat-stickers) · [Français](../README.fr.md#case-nine-emotion-chat-stickers) · [Deutsch](../README.de.md#case-nine-emotion-chat-stickers) · [Español](../README.es.md#case-nine-emotion-chat-stickers) · [Português (Brasil)](../README.pt-BR.md#case-nine-emotion-chat-stickers)
+[English](../README.md#user-content-case-nine-emotion-chat-stickers) · [简体中文](../README.zh-CN.md#user-content-case-nine-emotion-chat-stickers) · [繁體中文](../README.zh-TW.md#user-content-case-nine-emotion-chat-stickers) · [日本語](../README.ja.md#user-content-case-nine-emotion-chat-stickers) · [한국어](../README.ko.md#user-content-case-nine-emotion-chat-stickers) · [Français](../README.fr.md#user-content-case-nine-emotion-chat-stickers) · [Deutsch](../README.de.md#user-content-case-nine-emotion-chat-stickers) · [Español](../README.es.md#user-content-case-nine-emotion-chat-stickers) · [Português (Brasil)](../README.pt-BR.md#user-content-case-nine-emotion-chat-stickers)

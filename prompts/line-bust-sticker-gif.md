@@ -3,7 +3,7 @@
 
 <a href="https://x.com/Gorden_Sun/status/2097508341992083824"><img src="https://pbs.twimg.com/tweet_video_thumb/HRvYtOcbAAAztHg.jpg" width="640" alt="LINE-style blowing-kiss sticker GIF — @Gorden_Sun — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-line-bust-sticker-gif) · [简体中文](../README.zh-CN.md#case-line-bust-sticker-gif) · [繁體中文](../README.zh-TW.md#case-line-bust-sticker-gif) · [日本語](../README.ja.md#case-line-bust-sticker-gif) · [한국어](../README.ko.md#case-line-bust-sticker-gif) · [Français](../README.fr.md#case-line-bust-sticker-gif) · [Deutsch](../README.de.md#case-line-bust-sticker-gif) · [Español](../README.es.md#case-line-bust-sticker-gif) · [Português (Brasil)](../README.pt-BR.md#case-line-bust-sticker-gif)
+[English](../README.md#user-content-case-line-bust-sticker-gif) · [简体中文](../README.zh-CN.md#user-content-case-line-bust-sticker-gif) · [繁體中文](../README.zh-TW.md#user-content-case-line-bust-sticker-gif) · [日本語](../README.ja.md#user-content-case-line-bust-sticker-gif) · [한국어](../README.ko.md#user-content-case-line-bust-sticker-gif) · [Français](../README.fr.md#user-content-case-line-bust-sticker-gif) · [Deutsch](../README.de.md#user-content-case-line-bust-sticker-gif) · [Español](../README.es.md#user-content-case-line-bust-sticker-gif) · [Português (Brasil)](../README.pt-BR.md#user-content-case-line-bust-sticker-gif)
 
 Generate sixteen connected bust poses with fixed Chinese lettering, then assemble a GIF.
 
@@ -14,6 +14,6 @@ Generate sixteen connected bust poses with fixed Chinese lettering, then assembl
 
 <a href="https://x.com/Gorden_Sun/status/2097508341992083824"><img src="https://pbs.twimg.com/tweet_video_thumb/HRvYtOcbAAAztHg.jpg" width="640" alt="LINE 风格飞吻贴纸 GIF — @Gorden_Sun — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-line-bust-sticker-gif)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-line-bust-sticker-gif)
 
-[English](../README.md#case-line-bust-sticker-gif) · [简体中文](../README.zh-CN.md#case-line-bust-sticker-gif) · [繁體中文](../README.zh-TW.md#case-line-bust-sticker-gif) · [日本語](../README.ja.md#case-line-bust-sticker-gif) · [한국어](../README.ko.md#case-line-bust-sticker-gif) · [Français](../README.fr.md#case-line-bust-sticker-gif) · [Deutsch](../README.de.md#case-line-bust-sticker-gif) · [Español](../README.es.md#case-line-bust-sticker-gif) · [Português (Brasil)](../README.pt-BR.md#case-line-bust-sticker-gif)
+[English](../README.md#user-content-case-line-bust-sticker-gif) · [简体中文](../README.zh-CN.md#user-content-case-line-bust-sticker-gif) · [繁體中文](../README.zh-TW.md#user-content-case-line-bust-sticker-gif) · [日本語](../README.ja.md#user-content-case-line-bust-sticker-gif) · [한국어](../README.ko.md#user-content-case-line-bust-sticker-gif) · [Français](../README.fr.md#user-content-case-line-bust-sticker-gif) · [Deutsch](../README.de.md#user-content-case-line-bust-sticker-gif) · [Español](../README.es.md#user-content-case-line-bust-sticker-gif) · [Português (Brasil)](../README.pt-BR.md#user-content-case-line-bust-sticker-gif)

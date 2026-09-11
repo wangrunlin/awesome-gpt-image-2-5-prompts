@@ -45,14 +45,16 @@ test('all locale galleries keep source images before collapsed text and switch t
   for(const l of locales.locales){
     const body=outputs.get(readmeFile(l.id));
     assert.ok(!/<script|<iframe/i.test(body));
+    for(const anchor of ['collection','how-to-use','data-for-your-app','support']) assert.ok(body.includes(`<a id="${anchor}"></a>`));
     for(const e of entries){
       const start=body.indexOf(`<a id="${caseAnchor(e.id)}">`);
       assert.ok(start>=0);
+      assert.ok(body.includes(`<a id="user-content-${caseAnchor(e.id)}"></a>`));
       const end=body.indexOf('\n---\n',start),card=body.slice(start,end<0?undefined:end);
       assert.ok(card.indexOf('<img ')<card.indexOf('<details>'));
-      for(const other of locales.locales)assert.ok(card.includes(`${readmeFile(other.id)}#${caseAnchor(e.id)}`));
+      for(const other of locales.locales)assert.ok(card.includes(`${readmeFile(other.id)}#user-content-${caseAnchor(e.id)}`));
       assert.ok(card.includes(e.engagement.observed_at));
     }
   }
-  for(const e of entries){const legacy=outputs.get(`prompts/${e.id}.md`);assert.ok(legacy.includes('<a id="中文"></a>'));assert.ok(legacy.includes(`../README.zh-CN.md#${caseAnchor(e.id)}`));}
+  for(const e of entries){const legacy=outputs.get(`prompts/${e.id}.md`);assert.ok(legacy.includes('<a id="中文"></a>'));assert.ok(legacy.includes(`../README.zh-CN.md#user-content-${caseAnchor(e.id)}`));}
 });

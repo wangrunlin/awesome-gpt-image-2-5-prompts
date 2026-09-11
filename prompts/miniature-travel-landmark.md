@@ -3,7 +3,7 @@
 
 <a href="https://x.com/Naiknelofar788/status/2097646788258021837"><img src="https://pbs.twimg.com/media/HRxWoHva0AADhqK?format=jpg&amp;name=medium" width="640" alt="Handcrafted miniature travel landmark — @Naiknelofar788 — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-miniature-travel-landmark) · [简体中文](../README.zh-CN.md#case-miniature-travel-landmark) · [繁體中文](../README.zh-TW.md#case-miniature-travel-landmark) · [日本語](../README.ja.md#case-miniature-travel-landmark) · [한국어](../README.ko.md#case-miniature-travel-landmark) · [Français](../README.fr.md#case-miniature-travel-landmark) · [Deutsch](../README.de.md#case-miniature-travel-landmark) · [Español](../README.es.md#case-miniature-travel-landmark) · [Português (Brasil)](../README.pt-BR.md#case-miniature-travel-landmark)
+[English](../README.md#user-content-case-miniature-travel-landmark) · [简体中文](../README.zh-CN.md#user-content-case-miniature-travel-landmark) · [繁體中文](../README.zh-TW.md#user-content-case-miniature-travel-landmark) · [日本語](../README.ja.md#user-content-case-miniature-travel-landmark) · [한국어](../README.ko.md#user-content-case-miniature-travel-landmark) · [Français](../README.fr.md#user-content-case-miniature-travel-landmark) · [Deutsch](../README.de.md#user-content-case-miniature-travel-landmark) · [Español](../README.es.md#user-content-case-miniature-travel-landmark) · [Português (Brasil)](../README.pt-BR.md#user-content-case-miniature-travel-landmark)
 
 Build a collectible landmark diorama with a travel plaque and a warm paper background.
 
@@ -14,6 +14,6 @@ Build a collectible landmark diorama with a travel plaque and a warm paper backg
 
 <a href="https://x.com/Naiknelofar788/status/2097646788258021837"><img src="https://pbs.twimg.com/media/HRxWoHva0AADhqK?format=jpg&amp;name=medium" width="640" alt="手工微缩旅行地标 — @Naiknelofar788 — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-miniature-travel-landmark)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-miniature-travel-landmark)
 
-[English](../README.md#case-miniature-travel-landmark) · [简体中文](../README.zh-CN.md#case-miniature-travel-landmark) · [繁體中文](../README.zh-TW.md#case-miniature-travel-landmark) · [日本語](../README.ja.md#case-miniature-travel-landmark) · [한국어](../README.ko.md#case-miniature-travel-landmark) · [Français](../README.fr.md#case-miniature-travel-landmark) · [Deutsch](../README.de.md#case-miniature-travel-landmark) · [Español](../README.es.md#case-miniature-travel-landmark) · [Português (Brasil)](../README.pt-BR.md#case-miniature-travel-landmark)
+[English](../README.md#user-content-case-miniature-travel-landmark) · [简体中文](../README.zh-CN.md#user-content-case-miniature-travel-landmark) · [繁體中文](../README.zh-TW.md#user-content-case-miniature-travel-landmark) · [日本語](../README.ja.md#user-content-case-miniature-travel-landmark) · [한국어](../README.ko.md#user-content-case-miniature-travel-landmark) · [Français](../README.fr.md#user-content-case-miniature-travel-landmark) · [Deutsch](../README.de.md#user-content-case-miniature-travel-landmark) · [Español](../README.es.md#user-content-case-miniature-travel-landmark) · [Português (Brasil)](../README.pt-BR.md#user-content-case-miniature-travel-landmark)

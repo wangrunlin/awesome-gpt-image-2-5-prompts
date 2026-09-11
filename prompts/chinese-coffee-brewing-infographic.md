@@ -3,7 +3,7 @@
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8LuWBbYAAp_3N?format=jpg&amp;name=large" width="640" alt="Chinese coffee brewing infographic — @jackzhang123vip — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-chinese-coffee-brewing-infographic) · [简体中文](../README.zh-CN.md#case-chinese-coffee-brewing-infographic) · [繁體中文](../README.zh-TW.md#case-chinese-coffee-brewing-infographic) · [日本語](../README.ja.md#case-chinese-coffee-brewing-infographic) · [한국어](../README.ko.md#case-chinese-coffee-brewing-infographic) · [Français](../README.fr.md#case-chinese-coffee-brewing-infographic) · [Deutsch](../README.de.md#case-chinese-coffee-brewing-infographic) · [Español](../README.es.md#case-chinese-coffee-brewing-infographic) · [Português (Brasil)](../README.pt-BR.md#case-chinese-coffee-brewing-infographic)
+[English](../README.md#user-content-case-chinese-coffee-brewing-infographic) · [简体中文](../README.zh-CN.md#user-content-case-chinese-coffee-brewing-infographic) · [繁體中文](../README.zh-TW.md#user-content-case-chinese-coffee-brewing-infographic) · [日本語](../README.ja.md#user-content-case-chinese-coffee-brewing-infographic) · [한국어](../README.ko.md#user-content-case-chinese-coffee-brewing-infographic) · [Français](../README.fr.md#user-content-case-chinese-coffee-brewing-infographic) · [Deutsch](../README.de.md#user-content-case-chinese-coffee-brewing-infographic) · [Español](../README.es.md#user-content-case-chinese-coffee-brewing-infographic) · [Português (Brasil)](../README.pt-BR.md#user-content-case-chinese-coffee-brewing-infographic)
 
 Render four precisely worded brewing steps as a clear illustrated vertical guide.
 
@@ -14,6 +14,6 @@ Render four precisely worded brewing steps as a clear illustrated vertical guide
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8LuWBbYAAp_3N?format=jpg&amp;name=large" width="640" alt="家庭咖啡冲煮中文信息图 — @jackzhang123vip — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-chinese-coffee-brewing-infographic)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-chinese-coffee-brewing-infographic)
 
-[English](../README.md#case-chinese-coffee-brewing-infographic) · [简体中文](../README.zh-CN.md#case-chinese-coffee-brewing-infographic) · [繁體中文](../README.zh-TW.md#case-chinese-coffee-brewing-infographic) · [日本語](../README.ja.md#case-chinese-coffee-brewing-infographic) · [한국어](../README.ko.md#case-chinese-coffee-brewing-infographic) · [Français](../README.fr.md#case-chinese-coffee-brewing-infographic) · [Deutsch](../README.de.md#case-chinese-coffee-brewing-infographic) · [Español](../README.es.md#case-chinese-coffee-brewing-infographic) · [Português (Brasil)](../README.pt-BR.md#case-chinese-coffee-brewing-infographic)
+[English](../README.md#user-content-case-chinese-coffee-brewing-infographic) · [简体中文](../README.zh-CN.md#user-content-case-chinese-coffee-brewing-infographic) · [繁體中文](../README.zh-TW.md#user-content-case-chinese-coffee-brewing-infographic) · [日本語](../README.ja.md#user-content-case-chinese-coffee-brewing-infographic) · [한국어](../README.ko.md#user-content-case-chinese-coffee-brewing-infographic) · [Français](../README.fr.md#user-content-case-chinese-coffee-brewing-infographic) · [Deutsch](../README.de.md#user-content-case-chinese-coffee-brewing-infographic) · [Español](../README.es.md#user-content-case-chinese-coffee-brewing-infographic) · [Português (Brasil)](../README.pt-BR.md#user-content-case-chinese-coffee-brewing-infographic)

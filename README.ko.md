@@ -15,6 +15,7 @@
 
 좋아요, 즐겨찾기, 재게시, 조회수를 종합한 날짜별 발견 점수(discovery score)를 기준으로 정렬되었습니다. 값이 없는 경우는 '0'이 아니라 '알 수 없음'을 의미합니다. 이는 실시간 순위나 품질 테스트가 아닙니다.
 
+<a id="how-to-use"></a>
 ## 사용 방법
 
 이미지를 선택하고 프롬프트를 펼친 뒤 텍스트를 복사하세요. 나열된 참조 자료를 준비하고 순서대로 단계를 따르세요. 웹사이트 링크는 홈페이지로 연결되며, 프롬프트가 자동으로 입력되지는 않습니다. GIF 및 파일로 내보내려면 나열된 처리 도구가 필요합니다.
@@ -109,12 +110,12 @@
 
 ---
 
-<a id="case-combat-sprite-sheet"></a>
+<a id="case-combat-sprite-sheet"></a><a id="user-content-case-combat-sprite-sheet"></a>
 ## 전투용 스프라이트 시트 및 투명 배경 GIF.
 
 <a href="https://x.com/8co28/status/2097423580229521849"><img src="https://pbs.twimg.com/media/HRuLMxZaQAAZfOo?format=jpg&amp;name=900x900" width="640" alt="전투용 스프라이트 시트 및 투명 배경 GIF. — @8co28 — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-combat-sprite-sheet) · [简体中文](README.zh-CN.md#case-combat-sprite-sheet) · [繁體中文](README.zh-TW.md#case-combat-sprite-sheet) · [日本語](README.ja.md#case-combat-sprite-sheet) · [한국어](README.ko.md#case-combat-sprite-sheet) · [Français](README.fr.md#case-combat-sprite-sheet) · [Deutsch](README.de.md#case-combat-sprite-sheet) · [Español](README.es.md#case-combat-sprite-sheet) · [Português (Brasil)](README.pt-BR.md#case-combat-sprite-sheet)
+[English](README.md#user-content-case-combat-sprite-sheet) · [简体中文](README.zh-CN.md#user-content-case-combat-sprite-sheet) · [繁體中文](README.zh-TW.md#user-content-case-combat-sprite-sheet) · [日本語](README.ja.md#user-content-case-combat-sprite-sheet) · [한국어](README.ko.md#user-content-case-combat-sprite-sheet) · [Français](README.fr.md#user-content-case-combat-sprite-sheet) · [Deutsch](README.de.md#user-content-case-combat-sprite-sheet) · [Español](README.es.md#user-content-case-combat-sprite-sheet) · [Português (Brasil)](README.pt-BR.md#user-content-case-combat-sprite-sheet)
 
 캐릭터 아트를 전투용 프레임으로 변환한 뒤, 투명도 보정 및 GIF 조합을 거치는 널리 공유된 워크플로.
 
@@ -167,12 +168,12 @@
 
 ---
 
-<a id="case-cosplay-mirror-group-selfie"></a>
+<a id="case-cosplay-mirror-group-selfie"></a><a id="user-content-case-cosplay-mirror-group-selfie"></a>
 ## 코스프레 그룹 거울 셀카
 
 <a href="https://x.com/underwoodxie96/status/2097536477500452937"><img src="https://pbs.twimg.com/media/HRvx6aBa0AA8FVq?format=jpg&amp;name=medium" width="640" alt="코스프레 그룹 거울 셀카 — @underwoodxie96 — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-cosplay-mirror-group-selfie) · [简体中文](README.zh-CN.md#case-cosplay-mirror-group-selfie) · [繁體中文](README.zh-TW.md#case-cosplay-mirror-group-selfie) · [日本語](README.ja.md#case-cosplay-mirror-group-selfie) · [한국어](README.ko.md#case-cosplay-mirror-group-selfie) · [Français](README.fr.md#case-cosplay-mirror-group-selfie) · [Deutsch](README.de.md#case-cosplay-mirror-group-selfie) · [Español](README.es.md#case-cosplay-mirror-group-selfie) · [Português (Brasil)](README.pt-BR.md#case-cosplay-mirror-group-selfie)
+[English](README.md#user-content-case-cosplay-mirror-group-selfie) · [简体中文](README.zh-CN.md#user-content-case-cosplay-mirror-group-selfie) · [繁體中文](README.zh-TW.md#user-content-case-cosplay-mirror-group-selfie) · [日本語](README.ja.md#user-content-case-cosplay-mirror-group-selfie) · [한국어](README.ko.md#user-content-case-cosplay-mirror-group-selfie) · [Français](README.fr.md#user-content-case-cosplay-mirror-group-selfie) · [Deutsch](README.de.md#user-content-case-cosplay-mirror-group-selfie) · [Español](README.es.md#user-content-case-cosplay-mirror-group-selfie) · [Português (Brasil)](README.pt-BR.md#user-content-case-cosplay-mirror-group-selfie)
 
 플래시를 ​​활용한 거울 구도로 반실사풍 코스프레 그룹 사진을 연출하세요.
 
@@ -221,12 +222,12 @@ Holding a phone with the flash on, taking a mirror selfie in a slightly messy, c
 
 ---
 
-<a id="case-character-design-reference-sheet"></a>
+<a id="case-character-design-reference-sheet"></a><a id="user-content-case-character-design-reference-sheet"></a>
 ## 완전한 캐릭터 제작 참고 자료 시트
 
 <a href="https://x.com/meAsifAi/status/2097949170594193427"><img src="https://pbs.twimg.com/media/HR1pU0jbsAAu_UR?format=jpg&amp;name=medium" width="640" alt="완전한 캐릭터 제작 참고 자료 시트 — @meAsifAi — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-character-design-reference-sheet) · [简体中文](README.zh-CN.md#case-character-design-reference-sheet) · [繁體中文](README.zh-TW.md#case-character-design-reference-sheet) · [日本語](README.ja.md#case-character-design-reference-sheet) · [한국어](README.ko.md#case-character-design-reference-sheet) · [Français](README.fr.md#case-character-design-reference-sheet) · [Deutsch](README.de.md#case-character-design-reference-sheet) · [Español](README.es.md#case-character-design-reference-sheet) · [Português (Brasil)](README.pt-BR.md#case-character-design-reference-sheet)
+[English](README.md#user-content-case-character-design-reference-sheet) · [简体中文](README.zh-CN.md#user-content-case-character-design-reference-sheet) · [繁體中文](README.zh-TW.md#user-content-case-character-design-reference-sheet) · [日本語](README.ja.md#user-content-case-character-design-reference-sheet) · [한국어](README.ko.md#user-content-case-character-design-reference-sheet) · [Français](README.fr.md#user-content-case-character-design-reference-sheet) · [Deutsch](README.de.md#user-content-case-character-design-reference-sheet) · [Español](README.es.md#user-content-case-character-design-reference-sheet) · [Português (Brasil)](README.pt-BR.md#user-content-case-character-design-reference-sheet)
 
 턴어라운드, 표정, 포즈, 의상 디테일, 재질, 색상 팔레트 등 모든 면에서 한 캐릭터의 일관성을 유지하십시오.
 
@@ -699,12 +700,12 @@ No character redesign, no identity drift, no inconsistent proportions, no changi
 
 ---
 
-<a id="case-vintage-baker-portraits"></a>
+<a id="case-vintage-baker-portraits"></a><a id="user-content-case-vintage-baker-portraits"></a>
 ## 빈티지 제빵사 인물 사진 시리즈
 
 <a href="https://x.com/Lonely__MH/status/2097659111798390968"><img src="https://pbs.twimg.com/media/HRxhydObkAA62IH?format=jpg&amp;name=medium" width="640" alt="빈티지 제빵사 인물 사진 시리즈 — @Lonely__MH — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-vintage-baker-portraits) · [简体中文](README.zh-CN.md#case-vintage-baker-portraits) · [繁體中文](README.zh-TW.md#case-vintage-baker-portraits) · [日本語](README.ja.md#case-vintage-baker-portraits) · [한국어](README.ko.md#case-vintage-baker-portraits) · [Français](README.fr.md#case-vintage-baker-portraits) · [Deutsch](README.de.md#case-vintage-baker-portraits) · [Español](README.es.md#case-vintage-baker-portraits) · [Português (Brasil)](README.pt-BR.md#case-vintage-baker-portraits)
+[English](README.md#user-content-case-vintage-baker-portraits) · [简体中文](README.zh-CN.md#user-content-case-vintage-baker-portraits) · [繁體中文](README.zh-TW.md#user-content-case-vintage-baker-portraits) · [日本語](README.ja.md#user-content-case-vintage-baker-portraits) · [한국어](README.ko.md#user-content-case-vintage-baker-portraits) · [Français](README.fr.md#user-content-case-vintage-baker-portraits) · [Deutsch](README.de.md#user-content-case-vintage-baker-portraits) · [Español](README.es.md#user-content-case-vintage-baker-portraits) · [Português (Brasil)](README.pt-BR.md#user-content-case-vintage-baker-portraits)
 
 햇살이 비치는 레트로풍 주방에서 조화로운 성인 인물 사진 시리즈를 구성하세요.
 
@@ -809,12 +810,12 @@ Avoid repetitive face angles, stiff posing, oversized props, yellow color cast, 
 
 ---
 
-<a id="case-clay-skateboard-cat-loop"></a>
+<a id="case-clay-skateboard-cat-loop"></a><a id="user-content-case-clay-skateboard-cat-loop"></a>
 ## 스케이트보드를 타는 고양이의 클레이 애니메이션 루프.
 
 <a href="https://x.com/nett0eth/status/2097683441298944340"><img src="https://pbs.twimg.com/tweet_video_thumb/HRx38yRXYAA8ZKx.jpg" width="640" alt="스케이트보드를 타는 고양이의 클레이 애니메이션 루프. — @nett0eth — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-clay-skateboard-cat-loop) · [简体中文](README.zh-CN.md#case-clay-skateboard-cat-loop) · [繁體中文](README.zh-TW.md#case-clay-skateboard-cat-loop) · [日本語](README.ja.md#case-clay-skateboard-cat-loop) · [한국어](README.ko.md#case-clay-skateboard-cat-loop) · [Français](README.fr.md#case-clay-skateboard-cat-loop) · [Deutsch](README.de.md#case-clay-skateboard-cat-loop) · [Español](README.es.md#case-clay-skateboard-cat-loop) · [Português (Brasil)](README.pt-BR.md#case-clay-skateboard-cat-loop)
+[English](README.md#user-content-case-clay-skateboard-cat-loop) · [简体中文](README.zh-CN.md#user-content-case-clay-skateboard-cat-loop) · [繁體中文](README.zh-TW.md#user-content-case-clay-skateboard-cat-loop) · [日本語](README.ja.md#user-content-case-clay-skateboard-cat-loop) · [한국어](README.ko.md#user-content-case-clay-skateboard-cat-loop) · [Français](README.fr.md#user-content-case-clay-skateboard-cat-loop) · [Deutsch](README.de.md#user-content-case-clay-skateboard-cat-loop) · [Español](README.es.md#user-content-case-clay-skateboard-cat-loop) · [Português (Brasil)](README.pt-BR.md#user-content-case-clay-skateboard-cat-loop)
 
 수작업 클레이 스타일의 액션 시퀀스를 생성한 다음, 프레임을 조합하여 GIF로 만듭니다.
 
@@ -864,12 +865,12 @@ Create a 24-frame clay stop-motion loop of an orange-and-white cat riding a skat
 
 ---
 
-<a id="case-remove-ai-slop"></a>
+<a id="case-remove-ai-slop"></a><a id="user-content-case-remove-ai-slop"></a>
 ## 사실감을 높이기 위한 두 단어 수정
 
 <a href="https://x.com/higgsfield_ai/status/2097556101155955113"><img src="https://pbs.twimg.com/amplify_video_thumb/2097555838105976832/img/61hSRq_QBrGkv9-6.jpg" width="640" alt="사실감을 높이기 위한 두 단어 수정 — @higgsfield_ai — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-remove-ai-slop) · [简体中文](README.zh-CN.md#case-remove-ai-slop) · [繁體中文](README.zh-TW.md#case-remove-ai-slop) · [日本語](README.ja.md#case-remove-ai-slop) · [한국어](README.ko.md#case-remove-ai-slop) · [Français](README.fr.md#case-remove-ai-slop) · [Deutsch](README.de.md#case-remove-ai-slop) · [Español](README.es.md#case-remove-ai-slop) · [Português (Brasil)](README.pt-BR.md#case-remove-ai-slop)
+[English](README.md#user-content-case-remove-ai-slop) · [简体中文](README.zh-CN.md#user-content-case-remove-ai-slop) · [繁體中文](README.zh-TW.md#user-content-case-remove-ai-slop) · [日本語](README.ja.md#user-content-case-remove-ai-slop) · [한국어](README.ko.md#user-content-case-remove-ai-slop) · [Français](README.fr.md#user-content-case-remove-ai-slop) · [Deutsch](README.de.md#user-content-case-remove-ai-slop) · [Español](README.es.md#user-content-case-remove-ai-slop) · [Português (Brasil)](README.pt-BR.md#user-content-case-remove-ai-slop)
 
 비포 앤 애프터(전후 비교) 예시와 함께 공유된 최소한의 수정 지침
 
@@ -918,12 +919,12 @@ remove slop
 
 ---
 
-<a id="case-style-reference-product-ugc"></a>
+<a id="case-style-reference-product-ugc"></a><a id="user-content-case-style-reference-product-ugc"></a>
 ## 스타일 참조 기반의 제품 UGC(사용자 생성 콘텐츠)
 
 <a href="https://x.com/Mho_23/status/2097483045221917131"><img src="https://pbs.twimg.com/media/HRvBtnraAAAChs3?format=jpg&amp;name=medium" width="640" alt="스타일 참조 기반의 제품 UGC(사용자 생성 콘텐츠) — @Mho_23 — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-style-reference-product-ugc) · [简体中文](README.zh-CN.md#case-style-reference-product-ugc) · [繁體中文](README.zh-TW.md#case-style-reference-product-ugc) · [日本語](README.ja.md#case-style-reference-product-ugc) · [한국어](README.ko.md#case-style-reference-product-ugc) · [Français](README.fr.md#case-style-reference-product-ugc) · [Deutsch](README.de.md#case-style-reference-product-ugc) · [Español](README.es.md#case-style-reference-product-ugc) · [Português (Brasil)](README.pt-BR.md#case-style-reference-product-ugc)
+[English](README.md#user-content-case-style-reference-product-ugc) · [简体中文](README.zh-CN.md#user-content-case-style-reference-product-ugc) · [繁體中文](README.zh-TW.md#user-content-case-style-reference-product-ugc) · [日本語](README.ja.md#user-content-case-style-reference-product-ugc) · [한국어](README.ko.md#user-content-case-style-reference-product-ugc) · [Français](README.fr.md#user-content-case-style-reference-product-ugc) · [Deutsch](README.de.md#user-content-case-style-reference-product-ugc) · [Español](README.es.md#user-content-case-style-reference-product-ugc) · [Português (Brasil)](README.pt-BR.md#user-content-case-style-reference-product-ugc)
 
 참조 이미지에서 시각적 스타일을 추출한 다음, 이를 활용하여 제품을 들고 있는 인물 이미지를 생성합니다.
 
@@ -977,12 +978,12 @@ remove slop
 
 ---
 
-<a id="case-dance-pose-keyframes"></a>
+<a id="case-dance-pose-keyframes"></a><a id="user-content-case-dance-pose-keyframes"></a>
 ## 캐릭터 기반 댄스 포즈 시트
 
 <a href="https://x.com/Mayz1169/status/2098050289819652321"><img src="https://pbs.twimg.com/media/HR3FLxVbwAAPSjy?format=jpg&amp;name=small" width="640" alt="캐릭터 기반 댄스 포즈 시트 — @Mayz1169 — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-dance-pose-keyframes) · [简体中文](README.zh-CN.md#case-dance-pose-keyframes) · [繁體中文](README.zh-TW.md#case-dance-pose-keyframes) · [日本語](README.ja.md#case-dance-pose-keyframes) · [한국어](README.ko.md#case-dance-pose-keyframes) · [Français](README.fr.md#case-dance-pose-keyframes) · [Deutsch](README.de.md#case-dance-pose-keyframes) · [Español](README.es.md#case-dance-pose-keyframes) · [Português (Brasil)](README.pt-BR.md#case-dance-pose-keyframes)
+[English](README.md#user-content-case-dance-pose-keyframes) · [简体中文](README.zh-CN.md#user-content-case-dance-pose-keyframes) · [繁體中文](README.zh-TW.md#user-content-case-dance-pose-keyframes) · [日本語](README.ja.md#user-content-case-dance-pose-keyframes) · [한국어](README.ko.md#user-content-case-dance-pose-keyframes) · [Français](README.fr.md#user-content-case-dance-pose-keyframes) · [Deutsch](README.de.md#user-content-case-dance-pose-keyframes) · [Español](README.es.md#user-content-case-dance-pose-keyframes) · [Português (Brasil)](README.pt-BR.md#user-content-case-dance-pose-keyframes)
 
 참조된 캐릭터의 개성을 반영하는 전신 댄스 키프레임 16개를 생성합니다.
 
@@ -1101,12 +1102,12 @@ Generic choreography, copied reference poses, repetitive or mirrored duplicates,
 
 ---
 
-<a id="case-coastal-abbey-travel-portrait"></a>
+<a id="case-coastal-abbey-travel-portrait"></a><a id="user-content-case-coastal-abbey-travel-portrait"></a>
 ## 해안 수도원을 배경으로 한 자연스러운 여행 인물 사진
 
 <a href="https://x.com/saniaspeaks_/status/2097532595814940683"><img src="https://pbs.twimg.com/media/HRvuwVcasAAwAwf?format=jpg&amp;name=900x900" width="640" alt="해안 수도원을 배경으로 한 자연스러운 여행 인물 사진 — @saniaspeaks_ — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-coastal-abbey-travel-portrait) · [简体中文](README.zh-CN.md#case-coastal-abbey-travel-portrait) · [繁體中文](README.zh-TW.md#case-coastal-abbey-travel-portrait) · [日本語](README.ja.md#case-coastal-abbey-travel-portrait) · [한국어](README.ko.md#case-coastal-abbey-travel-portrait) · [Français](README.fr.md#case-coastal-abbey-travel-portrait) · [Deutsch](README.de.md#case-coastal-abbey-travel-portrait) · [Español](README.es.md#case-coastal-abbey-travel-portrait) · [Português (Brasil)](README.pt-BR.md#case-coastal-abbey-travel-portrait)
+[English](README.md#user-content-case-coastal-abbey-travel-portrait) · [简体中文](README.zh-CN.md#user-content-case-coastal-abbey-travel-portrait) · [繁體中文](README.zh-TW.md#user-content-case-coastal-abbey-travel-portrait) · [日本語](README.ja.md#user-content-case-coastal-abbey-travel-portrait) · [한국어](README.ko.md#user-content-case-coastal-abbey-travel-portrait) · [Français](README.fr.md#user-content-case-coastal-abbey-travel-portrait) · [Deutsch](README.de.md#user-content-case-coastal-abbey-travel-portrait) · [Español](README.es.md#user-content-case-coastal-abbey-travel-portrait) · [Português (Brasil)](README.pt-BR.md#user-content-case-coastal-abbey-travel-portrait)
 
 자연광을 받아 조명이 비추는 해안 수도원 앞에 서 있는 여행자를, 의상과 건축물의 디테일을 살려 표현합니다.
 
@@ -1166,12 +1167,12 @@ Ultra-realistic photography, authentic candid travel photo, natural skin texture
 
 ---
 
-<a id="case-low-resolution-restoration"></a>
+<a id="case-low-resolution-restoration"></a><a id="user-content-case-low-resolution-restoration"></a>
 ## 저해상도 이미지 복원
 
 <a href="https://x.com/k_matsumaru/status/2097506834659893340"><img src="https://pbs.twimg.com/media/HRvWtOca8AA3CNW?format=jpg&amp;name=large" width="640" alt="저해상도 이미지 복원 — @k_matsumaru — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-low-resolution-restoration) · [简体中文](README.zh-CN.md#case-low-resolution-restoration) · [繁體中文](README.zh-TW.md#case-low-resolution-restoration) · [日本語](README.ja.md#case-low-resolution-restoration) · [한국어](README.ko.md#case-low-resolution-restoration) · [Français](README.fr.md#case-low-resolution-restoration) · [Deutsch](README.de.md#case-low-resolution-restoration) · [Español](README.es.md#case-low-resolution-restoration) · [Português (Brasil)](README.pt-BR.md#case-low-resolution-restoration)
+[English](README.md#user-content-case-low-resolution-restoration) · [简体中文](README.zh-CN.md#user-content-case-low-resolution-restoration) · [繁體中文](README.zh-TW.md#user-content-case-low-resolution-restoration) · [日本語](README.ja.md#user-content-case-low-resolution-restoration) · [한국어](README.ko.md#user-content-case-low-resolution-restoration) · [Français](README.fr.md#user-content-case-low-resolution-restoration) · [Deutsch](README.de.md#user-content-case-low-resolution-restoration) · [Español](README.es.md#user-content-case-low-resolution-restoration) · [Português (Brasil)](README.pt-BR.md#user-content-case-low-resolution-restoration)
 
 노이즈가 있는 이미지를 원래의 일러스트 스타일과 구도를 유지하면서 더 선명하게 만드세요.
 
@@ -1217,12 +1218,12 @@ Ultra-realistic photography, authentic candid travel photo, natural skin texture
 
 ---
 
-<a id="case-miniature-travel-landmark"></a>
+<a id="case-miniature-travel-landmark"></a><a id="user-content-case-miniature-travel-landmark"></a>
 ## 수작업으로 만든 여행지 랜드마크 미니어처
 
 <a href="https://x.com/Naiknelofar788/status/2097646788258021837"><img src="https://pbs.twimg.com/media/HRxWoHva0AADhqK?format=jpg&amp;name=medium" width="640" alt="수작업으로 만든 여행지 랜드마크 미니어처 — @Naiknelofar788 — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-miniature-travel-landmark) · [简体中文](README.zh-CN.md#case-miniature-travel-landmark) · [繁體中文](README.zh-TW.md#case-miniature-travel-landmark) · [日本語](README.ja.md#case-miniature-travel-landmark) · [한국어](README.ko.md#case-miniature-travel-landmark) · [Français](README.fr.md#case-miniature-travel-landmark) · [Deutsch](README.de.md#case-miniature-travel-landmark) · [Español](README.es.md#case-miniature-travel-landmark) · [Português (Brasil)](README.pt-BR.md#case-miniature-travel-landmark)
+[English](README.md#user-content-case-miniature-travel-landmark) · [简体中文](README.zh-CN.md#user-content-case-miniature-travel-landmark) · [繁體中文](README.zh-TW.md#user-content-case-miniature-travel-landmark) · [日本語](README.ja.md#user-content-case-miniature-travel-landmark) · [한국어](README.ko.md#user-content-case-miniature-travel-landmark) · [Français](README.fr.md#user-content-case-miniature-travel-landmark) · [Deutsch](README.de.md#user-content-case-miniature-travel-landmark) · [Español](README.es.md#user-content-case-miniature-travel-landmark) · [Português (Brasil)](README.pt-BR.md#user-content-case-miniature-travel-landmark)
 
 여행 기념 명판과 따뜻한 느낌의 종이 배경을 활용하여 소장 가치가 있는 랜드마크 디오라마를 만드세요.
 
@@ -1287,12 +1288,12 @@ Use soft natural lighting, gentle shadows, pastel yet realistic colors, miniatur
 
 ---
 
-<a id="case-nineties-japanese-ccd-photo"></a>
+<a id="case-nineties-japanese-ccd-photo"></a><a id="user-content-case-nineties-japanese-ccd-photo"></a>
 ## 소프트 CCD 피팅룸 인물 사진
 
 <a href="https://x.com/BubbleBrain/status/2098315158997307550"><img src="https://pbs.twimg.com/media/HR62IojbwAAfQ9w?format=jpg&amp;name=medium" width="640" alt="소프트 CCD 피팅룸 인물 사진 — @BubbleBrain — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-nineties-japanese-ccd-photo) · [简体中文](README.zh-CN.md#case-nineties-japanese-ccd-photo) · [繁體中文](README.zh-TW.md#case-nineties-japanese-ccd-photo) · [日本語](README.ja.md#case-nineties-japanese-ccd-photo) · [한국어](README.ko.md#case-nineties-japanese-ccd-photo) · [Français](README.fr.md#case-nineties-japanese-ccd-photo) · [Deutsch](README.de.md#case-nineties-japanese-ccd-photo) · [Español](README.es.md#case-nineties-japanese-ccd-photo) · [Português (Brasil)](README.pt-BR.md#case-nineties-japanese-ccd-photo)
+[English](README.md#user-content-case-nineties-japanese-ccd-photo) · [简体中文](README.zh-CN.md#user-content-case-nineties-japanese-ccd-photo) · [繁體中文](README.zh-TW.md#user-content-case-nineties-japanese-ccd-photo) · [日本語](README.ja.md#user-content-case-nineties-japanese-ccd-photo) · [한국어](README.ko.md#user-content-case-nineties-japanese-ccd-photo) · [Français](README.fr.md#user-content-case-nineties-japanese-ccd-photo) · [Deutsch](README.de.md#user-content-case-nineties-japanese-ccd-photo) · [Español](README.es.md#user-content-case-nineties-japanese-ccd-photo) · [Português (Brasil)](README.pt-BR.md#user-content-case-nineties-japanese-ccd-photo)
 
 1990년대 잡지 화보처럼 하이라이트 블룸, 밝은 블랙, 자연스러운 피부 디테일을 적용합니다.
 
@@ -1359,12 +1360,12 @@ Avoid: plastic skin, excessive beautification, over-sharpening, HDR, hard light,
 
 ---
 
-<a id="case-forest-detail-stress-test"></a>
+<a id="case-forest-detail-stress-test"></a><a id="user-content-case-forest-detail-stress-test"></a>
 ## 숲의 세부 묘사 성능 테스트(스트레스 테스트)
 
 <a href="https://x.com/mark_k/status/2097411028510179759"><img src="https://pbs.twimg.com/media/HRt_pW_XEAAYiCE?format=jpg&amp;name=medium" width="640" alt="숲의 세부 묘사 성능 테스트(스트레스 테스트) — @mark_k — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-forest-detail-stress-test) · [简体中文](README.zh-CN.md#case-forest-detail-stress-test) · [繁體中文](README.zh-TW.md#case-forest-detail-stress-test) · [日本語](README.ja.md#case-forest-detail-stress-test) · [한국어](README.ko.md#case-forest-detail-stress-test) · [Français](README.fr.md#case-forest-detail-stress-test) · [Deutsch](README.de.md#case-forest-detail-stress-test) · [Español](README.es.md#case-forest-detail-stress-test) · [Português (Brasil)](README.pt-BR.md#case-forest-detail-stress-test)
+[English](README.md#user-content-case-forest-detail-stress-test) · [简体中文](README.zh-CN.md#user-content-case-forest-detail-stress-test) · [繁體中文](README.zh-TW.md#user-content-case-forest-detail-stress-test) · [日本語](README.ja.md#user-content-case-forest-detail-stress-test) · [한국어](README.ko.md#user-content-case-forest-detail-stress-test) · [Français](README.fr.md#user-content-case-forest-detail-stress-test) · [Deutsch](README.de.md#user-content-case-forest-detail-stress-test) · [Español](README.es.md#user-content-case-forest-detail-stress-test) · [Português (Brasil)](README.pt-BR.md#user-content-case-forest-detail-stress-test)
 
 울창한 나뭇잎은 반복되는 텍스처와 노이즈 아티팩트(noise artifacts)를 확인하기 위한 유용한 시각적 테스트 대상입니다.
 
@@ -1412,12 +1413,12 @@ Photo of a clearing in the woods with lots of green foliage, highly detailed
 
 ---
 
-<a id="case-character-idle-sprite-loop"></a>
+<a id="case-character-idle-sprite-loop"></a><a id="user-content-case-character-idle-sprite-loop"></a>
 ## 캐릭터 대기 동작(idle loop) 참조용
 
 <a href="https://x.com/hahazwei/status/2097591465329488095"><img src="https://pbs.twimg.com/media/HRwkIsTaAAAdZHh?format=jpg&amp;name=small" width="640" alt="캐릭터 대기 동작(idle loop) 참조용 — @hahazwei — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-character-idle-sprite-loop) · [简体中文](README.zh-CN.md#case-character-idle-sprite-loop) · [繁體中文](README.zh-TW.md#case-character-idle-sprite-loop) · [日本語](README.ja.md#case-character-idle-sprite-loop) · [한국어](README.ko.md#case-character-idle-sprite-loop) · [Français](README.fr.md#case-character-idle-sprite-loop) · [Deutsch](README.de.md#case-character-idle-sprite-loop) · [Español](README.es.md#case-character-idle-sprite-loop) · [Português (Brasil)](README.pt-BR.md#case-character-idle-sprite-loop)
+[English](README.md#user-content-case-character-idle-sprite-loop) · [简体中文](README.zh-CN.md#user-content-case-character-idle-sprite-loop) · [繁體中文](README.zh-TW.md#user-content-case-character-idle-sprite-loop) · [日本語](README.ja.md#user-content-case-character-idle-sprite-loop) · [한국어](README.ko.md#user-content-case-character-idle-sprite-loop) · [Français](README.fr.md#user-content-case-character-idle-sprite-loop) · [Deutsch](README.de.md#user-content-case-character-idle-sprite-loop) · [Español](README.es.md#user-content-case-character-idle-sprite-loop) · [Português (Brasil)](README.pt-BR.md#user-content-case-character-idle-sprite-loop)
 
 업로드된 캐릭터를 일관된 대기 동작 주기를 가진 작은 픽셀 스프라이트로 변환하세요.
 
@@ -1470,12 +1471,12 @@ Photo of a clearing in the woods with lots of green foliage, highly detailed
 
 ---
 
-<a id="case-robot-sequential-edits"></a>
+<a id="case-robot-sequential-edits"></a><a id="user-content-case-robot-sequential-edits"></a>
 ## 9단계의 연속 편집 과정을 거치는 로봇
 
 <a href="https://x.com/ctgptlb/status/2097479691368337900"><img src="https://pbs.twimg.com/amplify_video_thumb/2097478204055556096/img/k3LUsecrIzgwwSFG.jpg" width="640" alt="9단계의 연속 편집 과정을 거치는 로봇 — @ctgptlb — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-robot-sequential-edits) · [简体中文](README.zh-CN.md#case-robot-sequential-edits) · [繁體中文](README.zh-TW.md#case-robot-sequential-edits) · [日本語](README.ja.md#case-robot-sequential-edits) · [한국어](README.ko.md#case-robot-sequential-edits) · [Français](README.fr.md#case-robot-sequential-edits) · [Deutsch](README.de.md#case-robot-sequential-edits) · [Español](README.es.md#case-robot-sequential-edits) · [Português (Brasil)](README.pt-BR.md#case-robot-sequential-edits)
+[English](README.md#user-content-case-robot-sequential-edits) · [简体中文](README.zh-CN.md#user-content-case-robot-sequential-edits) · [繁體中文](README.zh-TW.md#user-content-case-robot-sequential-edits) · [日本語](README.ja.md#user-content-case-robot-sequential-edits) · [한국어](README.ko.md#user-content-case-robot-sequential-edits) · [Français](README.fr.md#user-content-case-robot-sequential-edits) · [Deutsch](README.de.md#user-content-case-robot-sequential-edits) · [Español](README.es.md#user-content-case-robot-sequential-edits) · [Português (Brasil)](README.pt-BR.md#user-content-case-robot-sequential-edits)
 
 각 단계의 결과물을 다음 편집 단계의 입력값으로 사용하여 짧은 동작 주기를 반복합니다.
 
@@ -1534,12 +1535,12 @@ Photo of a clearing in the woods with lots of green foliage, highly detailed
 
 ---
 
-<a id="case-travel-magazine-page"></a>
+<a id="case-travel-magazine-page"></a><a id="user-content-case-travel-magazine-page"></a>
 ## 개인 맞춤형 여행 잡지 페이지
 
 <a href="https://x.com/minchoi/status/2097525572591136869"><img src="https://pbs.twimg.com/media/HRvnVMIbMAE5-nd?format=jpg&amp;name=medium" width="640" alt="개인 맞춤형 여행 잡지 페이지 — @minchoi — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-travel-magazine-page) · [简体中文](README.zh-CN.md#case-travel-magazine-page) · [繁體中文](README.zh-TW.md#case-travel-magazine-page) · [日本語](README.ja.md#case-travel-magazine-page) · [한국어](README.ko.md#case-travel-magazine-page) · [Français](README.fr.md#case-travel-magazine-page) · [Deutsch](README.de.md#case-travel-magazine-page) · [Español](README.es.md#case-travel-magazine-page) · [Português (Brasil)](README.pt-BR.md#case-travel-magazine-page)
+[English](README.md#user-content-case-travel-magazine-page) · [简体中文](README.zh-CN.md#user-content-case-travel-magazine-page) · [繁體中文](README.zh-TW.md#user-content-case-travel-magazine-page) · [日本語](README.ja.md#user-content-case-travel-magazine-page) · [한국어](README.ko.md#user-content-case-travel-magazine-page) · [Français](README.fr.md#user-content-case-travel-magazine-page) · [Deutsch](README.de.md#user-content-case-travel-magazine-page) · [Español](README.es.md#user-content-case-travel-magazine-page) · [Português (Brasil)](README.pt-BR.md#user-content-case-travel-magazine-page)
 
 여행자 이미지, 여행지, 사진, 그리고 밀도 높은 편집 디자인 스타일의 타이포그래피를 한 페이지에 구성하세요.
 
@@ -1586,12 +1587,12 @@ Photo of a clearing in the woods with lots of green foliage, highly detailed
 
 ---
 
-<a id="case-dreamy-qipao-portrait"></a>
+<a id="case-dreamy-qipao-portrait"></a><a id="user-content-case-dreamy-qipao-portrait"></a>
 ## 몽환적인 분위기의 치파오 초상화
 
 <a href="https://x.com/BubbleBrain/status/2097513469172129825"><img src="https://pbs.twimg.com/media/HRvdLStaoAAAkSy?format=jpg&amp;name=medium" width="640" alt="몽환적인 분위기의 치파오 초상화 — @BubbleBrain — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-dreamy-qipao-portrait) · [简体中文](README.zh-CN.md#case-dreamy-qipao-portrait) · [繁體中文](README.zh-TW.md#case-dreamy-qipao-portrait) · [日本語](README.ja.md#case-dreamy-qipao-portrait) · [한국어](README.ko.md#case-dreamy-qipao-portrait) · [Français](README.fr.md#case-dreamy-qipao-portrait) · [Deutsch](README.de.md#case-dreamy-qipao-portrait) · [Español](README.es.md#case-dreamy-qipao-portrait) · [Português (Brasil)](README.pt-BR.md#case-dreamy-qipao-portrait)
+[English](README.md#user-content-case-dreamy-qipao-portrait) · [简体中文](README.zh-CN.md#user-content-case-dreamy-qipao-portrait) · [繁體中文](README.zh-TW.md#user-content-case-dreamy-qipao-portrait) · [日本語](README.ja.md#user-content-case-dreamy-qipao-portrait) · [한국어](README.ko.md#user-content-case-dreamy-qipao-portrait) · [Français](README.fr.md#user-content-case-dreamy-qipao-portrait) · [Deutsch](README.de.md#user-content-case-dreamy-qipao-portrait) · [Español](README.es.md#user-content-case-dreamy-qipao-portrait) · [Português (Brasil)](README.pt-BR.md#user-content-case-dreamy-qipao-portrait)
 
 하이 앵글 구도, 블룸(빛 번짐) 효과, 소프트 포커스를 결합한 간결한 초상화 프롬프트.
 
@@ -1639,12 +1640,12 @@ Photo of a clearing in the woods with lots of green foliage, highly detailed
 
 ---
 
-<a id="case-separate-frame-animation"></a>
+<a id="case-separate-frame-animation"></a><a id="user-content-case-separate-frame-animation"></a>
 ## 별도의 이미지 변형을 사용하여 애니메이션 제작
 
 <a href="https://x.com/elle_elle_e/status/2097439673308389840"><img src="https://pbs.twimg.com/media/HRuaOTLa8AABSjw?format=jpg&amp;name=medium" width="640" alt="별도의 이미지 변형을 사용하여 애니메이션 제작 — @elle_elle_e — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-separate-frame-animation) · [简体中文](README.zh-CN.md#case-separate-frame-animation) · [繁體中文](README.zh-TW.md#case-separate-frame-animation) · [日本語](README.ja.md#case-separate-frame-animation) · [한국어](README.ko.md#case-separate-frame-animation) · [Français](README.fr.md#case-separate-frame-animation) · [Deutsch](README.de.md#case-separate-frame-animation) · [Español](README.es.md#case-separate-frame-animation) · [Português (Brasil)](README.pt-BR.md#case-separate-frame-animation)
+[English](README.md#user-content-case-separate-frame-animation) · [简体中文](README.zh-CN.md#user-content-case-separate-frame-animation) · [繁體中文](README.zh-TW.md#user-content-case-separate-frame-animation) · [日本語](README.ja.md#user-content-case-separate-frame-animation) · [한국어](README.ko.md#user-content-case-separate-frame-animation) · [Français](README.fr.md#user-content-case-separate-frame-animation) · [Deutsch](README.de.md#user-content-case-separate-frame-animation) · [Español](README.es.md#user-content-case-separate-frame-animation) · [Português (Brasil)](README.pt-BR.md#user-content-case-separate-frame-animation)
 
 스프라이트 그리드로 인해 캐릭터가 지나치게 왜곡될 경우, 별도로 편집된 프레임을 사용합니다.
 
@@ -1697,12 +1698,12 @@ Photo of a clearing in the woods with lots of green foliage, highly detailed
 
 ---
 
-<a id="case-pixel-pet-loop"></a>
+<a id="case-pixel-pet-loop"></a><a id="user-content-case-pixel-pet-loop"></a>
 ## 픽셀 아트 애완동물 애니메이션 시트
 
 <a href="https://x.com/Mayz1169/status/2097575677130379754"><img src="https://pbs.twimg.com/tweet_video_thumb/HRwUqb0aEAA_VkS.jpg" width="640" alt="픽셀 아트 애완동물 애니메이션 시트 — @Mayz1169 — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-pixel-pet-loop) · [简体中文](README.zh-CN.md#case-pixel-pet-loop) · [繁體中文](README.zh-TW.md#case-pixel-pet-loop) · [日本語](README.ja.md#case-pixel-pet-loop) · [한국어](README.ko.md#case-pixel-pet-loop) · [Français](README.fr.md#case-pixel-pet-loop) · [Deutsch](README.de.md#case-pixel-pet-loop) · [Español](README.es.md#case-pixel-pet-loop) · [Português (Brasil)](README.pt-BR.md#case-pixel-pet-loop)
+[English](README.md#user-content-case-pixel-pet-loop) · [简体中文](README.zh-CN.md#user-content-case-pixel-pet-loop) · [繁體中文](README.zh-TW.md#user-content-case-pixel-pet-loop) · [日本語](README.ja.md#user-content-case-pixel-pet-loop) · [한국어](README.ko.md#user-content-case-pixel-pet-loop) · [Français](README.fr.md#user-content-case-pixel-pet-loop) · [Deutsch](README.de.md#user-content-case-pixel-pet-loop) · [Español](README.es.md#user-content-case-pixel-pet-loop) · [Português (Brasil)](README.pt-BR.md#user-content-case-pixel-pet-loop)
 
 애완동물의 식별 특징을 일관된 4x4 픽셀 아트 루프로 변환합니다.
 
@@ -1937,12 +1938,12 @@ If your environment cannot create or attach an animated GIF or ZIP, clearly stat
 
 ---
 
-<a id="case-beach-w-sit-pose"></a>
+<a id="case-beach-w-sit-pose"></a><a id="user-content-case-beach-w-sit-pose"></a>
 ## W자 자세로 앉은 해변 인물 사진
 
 <a href="https://x.com/DeepBlueX0/status/2097479273514934642"><img src="https://pbs.twimg.com/media/HRu-RnEbgAAK_Tk?format=jpg&amp;name=medium" width="640" alt="W자 자세로 앉은 해변 인물 사진 — @DeepBlueX0 — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-beach-w-sit-pose) · [简体中文](README.zh-CN.md#case-beach-w-sit-pose) · [繁體中文](README.zh-TW.md#case-beach-w-sit-pose) · [日本語](README.ja.md#case-beach-w-sit-pose) · [한국어](README.ko.md#case-beach-w-sit-pose) · [Français](README.fr.md#case-beach-w-sit-pose) · [Deutsch](README.de.md#case-beach-w-sit-pose) · [Español](README.es.md#case-beach-w-sit-pose) · [Português (Brasil)](README.pt-BR.md#case-beach-w-sit-pose)
+[English](README.md#user-content-case-beach-w-sit-pose) · [简体中文](README.zh-CN.md#user-content-case-beach-w-sit-pose) · [繁體中文](README.zh-TW.md#user-content-case-beach-w-sit-pose) · [日本語](README.ja.md#user-content-case-beach-w-sit-pose) · [한국어](README.ko.md#user-content-case-beach-w-sit-pose) · [Français](README.fr.md#user-content-case-beach-w-sit-pose) · [Deutsch](README.de.md#user-content-case-beach-w-sit-pose) · [Español](README.es.md#user-content-case-beach-w-sit-pose) · [Português (Brasil)](README.pt-BR.md#user-content-case-beach-w-sit-pose)
 
 이모지 장면 단서와 결합된 간단한 중국어 포즈 지침을 살펴보세요.
 
@@ -1984,19 +1985,19 @@ If your environment cannot create or attach an animated GIF or ZIP, clearly stat
 
 ### 참고 사항
 
-- 원본은 이모지 단서가 포함된 간단한 중국어 안내문입니다. 본문에는 더 이상 안내문이나 참고 이미지가 제공되지 않습니다.
+- 원문은 이모지로 장면을 나타내는 짧은 중국어 프롬프트입니다. 본문에는 더 자세한 프롬프트가 없으며, 필수 참고 이미지도 지정되어 있지 않습니다.
 - 이 미리보기 및 관련 내용은 9월 9일 GPT Image 2.5 게시물에 속하며, 9월 2일 인용된 GPT 이미지 2 예시와는 관련이 없습니다.
 
 [Open Image 2.5](https://image-2-5.com) · [갤러리 목록으로 돌아가기](#collection)
 
 ---
 
-<a id="case-line-bust-sticker-gif"></a>
+<a id="case-line-bust-sticker-gif"></a><a id="user-content-case-line-bust-sticker-gif"></a>
 ## LINE 스타일의 키스 날리는 스티커 GIF
 
 <a href="https://x.com/Gorden_Sun/status/2097508341992083824"><img src="https://pbs.twimg.com/tweet_video_thumb/HRvYtOcbAAAztHg.jpg" width="640" alt="LINE 스타일의 키스 날리는 스티커 GIF — @Gorden_Sun — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-line-bust-sticker-gif) · [简体中文](README.zh-CN.md#case-line-bust-sticker-gif) · [繁體中文](README.zh-TW.md#case-line-bust-sticker-gif) · [日本語](README.ja.md#case-line-bust-sticker-gif) · [한국어](README.ko.md#case-line-bust-sticker-gif) · [Français](README.fr.md#case-line-bust-sticker-gif) · [Deutsch](README.de.md#case-line-bust-sticker-gif) · [Español](README.es.md#case-line-bust-sticker-gif) · [Português (Brasil)](README.pt-BR.md#case-line-bust-sticker-gif)
+[English](README.md#user-content-case-line-bust-sticker-gif) · [简体中文](README.zh-CN.md#user-content-case-line-bust-sticker-gif) · [繁體中文](README.zh-TW.md#user-content-case-line-bust-sticker-gif) · [日本語](README.ja.md#user-content-case-line-bust-sticker-gif) · [한국어](README.ko.md#user-content-case-line-bust-sticker-gif) · [Français](README.fr.md#user-content-case-line-bust-sticker-gif) · [Deutsch](README.de.md#user-content-case-line-bust-sticker-gif) · [Español](README.es.md#user-content-case-line-bust-sticker-gif) · [Português (Brasil)](README.pt-BR.md#user-content-case-line-bust-sticker-gif)
 
 고정된 중국어 글자와 연결된 16개의 흉상 포즈를 생성하고 GIF를 만드세요.
 
@@ -2056,12 +2057,12 @@ If your environment cannot create or attach an animated GIF or ZIP, clearly stat
 
 ---
 
-<a id="case-six-color-fashion-campaign"></a>
+<a id="case-six-color-fashion-campaign"></a><a id="user-content-case-six-color-fashion-campaign"></a>
 ## 6색 패션 캠페인
 
 <a href="https://x.com/ImagineArt_X/status/2097520463811608862"><img src="https://pbs.twimg.com/media/HRvg8ccbkAAZ3NQ?format=jpg&amp;name=large" width="640" alt="6색 패션 캠페인 — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-six-color-fashion-campaign) · [简体中文](README.zh-CN.md#case-six-color-fashion-campaign) · [繁體中文](README.zh-TW.md#case-six-color-fashion-campaign) · [日本語](README.ja.md#case-six-color-fashion-campaign) · [한국어](README.ko.md#case-six-color-fashion-campaign) · [Français](README.fr.md#case-six-color-fashion-campaign) · [Deutsch](README.de.md#case-six-color-fashion-campaign) · [Español](README.es.md#case-six-color-fashion-campaign) · [Português (Brasil)](README.pt-BR.md#case-six-color-fashion-campaign)
+[English](README.md#user-content-case-six-color-fashion-campaign) · [简体中文](README.zh-CN.md#user-content-case-six-color-fashion-campaign) · [繁體中文](README.zh-TW.md#user-content-case-six-color-fashion-campaign) · [日本語](README.ja.md#user-content-case-six-color-fashion-campaign) · [한국어](README.ko.md#user-content-case-six-color-fashion-campaign) · [Français](README.fr.md#user-content-case-six-color-fashion-campaign) · [Deutsch](README.de.md#user-content-case-six-color-fashion-campaign) · [Español](README.es.md#user-content-case-six-color-fashion-campaign) · [Português (Brasil)](README.pt-BR.md#user-content-case-six-color-fashion-campaign)
 
 로우 앵글 패션 캠페인에서 6가지의 서로 다른 색상과 포즈를 조화롭게 구성해 보세요.
 
@@ -2110,12 +2111,12 @@ a fashion campaign for an invented label, shot from a camera on the ground with 
 
 ---
 
-<a id="case-six-panel-newspaper-comic"></a>
+<a id="case-six-panel-newspaper-comic"></a><a id="user-content-case-six-panel-newspaper-comic"></a>
 ## 6컷 신문 만화
 
 <a href="https://x.com/ImagineArt_X/status/2097520479246704871"><img src="https://pbs.twimg.com/media/HRvhZGHaQAAlzoS?format=jpg&amp;name=large" width="640" alt="6컷 신문 만화 — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-six-panel-newspaper-comic) · [简体中文](README.zh-CN.md#case-six-panel-newspaper-comic) · [繁體中文](README.zh-TW.md#case-six-panel-newspaper-comic) · [日本語](README.ja.md#case-six-panel-newspaper-comic) · [한국어](README.ko.md#case-six-panel-newspaper-comic) · [Français](README.fr.md#case-six-panel-newspaper-comic) · [Deutsch](README.de.md#case-six-panel-newspaper-comic) · [Español](README.es.md#case-six-panel-newspaper-comic) · [Português (Brasil)](README.pt-BR.md#case-six-panel-newspaper-comic)
+[English](README.md#user-content-case-six-panel-newspaper-comic) · [简体中文](README.zh-CN.md#user-content-case-six-panel-newspaper-comic) · [繁體中文](README.zh-TW.md#user-content-case-six-panel-newspaper-comic) · [日本語](README.ja.md#user-content-case-six-panel-newspaper-comic) · [한국어](README.ko.md#user-content-case-six-panel-newspaper-comic) · [Français](README.fr.md#user-content-case-six-panel-newspaper-comic) · [Deutsch](README.de.md#user-content-case-six-panel-newspaper-comic) · [Español](README.es.md#user-content-case-six-panel-newspaper-comic) · [Português (Brasil)](README.pt-BR.md#user-content-case-six-panel-newspaper-comic)
 
 고정된 6컷 레이아웃 안에서 반복 등장하는 캐릭터와 대사가 없는 컷을 활용해 보세요.
 
@@ -2165,12 +2166,12 @@ a 1960s Sunday newspaper comic strip on yellowed newsprint, six panels in two ro
 
 ---
 
-<a id="case-espresso-service-manual"></a>
+<a id="case-espresso-service-manual"></a><a id="user-content-case-espresso-service-manual"></a>
 ## 에스프레소 머신 정비 매뉴얼 도해
 
 <a href="https://x.com/ImagineArt_X/status/2097520469150986457"><img src="https://pbs.twimg.com/media/HRvhFOtb0AAGMeg?format=jpg&amp;name=large" width="640" alt="에스프레소 머신 정비 매뉴얼 도해 — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-espresso-service-manual) · [简体中文](README.zh-CN.md#case-espresso-service-manual) · [繁體中文](README.zh-TW.md#case-espresso-service-manual) · [日本語](README.ja.md#case-espresso-service-manual) · [한국어](README.ko.md#case-espresso-service-manual) · [Français](README.fr.md#case-espresso-service-manual) · [Deutsch](README.de.md#case-espresso-service-manual) · [Español](README.es.md#case-espresso-service-manual) · [Português (Brasil)](README.pt-BR.md#case-espresso-service-manual)
+[English](README.md#user-content-case-espresso-service-manual) · [简体中文](README.zh-CN.md#user-content-case-espresso-service-manual) · [繁體中文](README.zh-TW.md#user-content-case-espresso-service-manual) · [日本語](README.ja.md#user-content-case-espresso-service-manual) · [한국어](README.ko.md#user-content-case-espresso-service-manual) · [Français](README.fr.md#user-content-case-espresso-service-manual) · [Deutsch](README.de.md#user-content-case-espresso-service-manual) · [Español](README.es.md#user-content-case-espresso-service-manual) · [Português (Brasil)](README.pt-BR.md#user-content-case-espresso-service-manual)
 
 단면도(cutaway illustration), 번호가 매겨진 라벨, 범례, 그리고 정확한 제목란(title block)을 결합하십시오.
 
@@ -2220,12 +2221,12 @@ a domestic espresso machine drawn in section, 1960s service manual style, fine b
 
 ---
 
-<a id="case-cybernetic-monochrome-portrait"></a>
+<a id="case-cybernetic-monochrome-portrait"></a><a id="user-content-case-cybernetic-monochrome-portrait"></a>
 ## 단색(모노크롬) 사이버네틱 초상화
 
 <a href="https://x.com/meng_dagg695/status/2097558679956664521"><img src="https://pbs.twimg.com/media/HRwGeNGa0AAEpHk?format=jpg&amp;name=900x900" width="640" alt="단색(모노크롬) 사이버네틱 초상화 — @meng_dagg695 — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-cybernetic-monochrome-portrait) · [简体中文](README.zh-CN.md#case-cybernetic-monochrome-portrait) · [繁體中文](README.zh-TW.md#case-cybernetic-monochrome-portrait) · [日本語](README.ja.md#case-cybernetic-monochrome-portrait) · [한국어](README.ko.md#case-cybernetic-monochrome-portrait) · [Français](README.fr.md#case-cybernetic-monochrome-portrait) · [Deutsch](README.de.md#case-cybernetic-monochrome-portrait) · [Español](README.es.md#case-cybernetic-monochrome-portrait) · [Português (Brasil)](README.pt-BR.md#case-cybernetic-monochrome-portrait)
+[English](README.md#user-content-case-cybernetic-monochrome-portrait) · [简体中文](README.zh-CN.md#user-content-case-cybernetic-monochrome-portrait) · [繁體中文](README.zh-TW.md#user-content-case-cybernetic-monochrome-portrait) · [日本語](README.ja.md#user-content-case-cybernetic-monochrome-portrait) · [한국어](README.ko.md#user-content-case-cybernetic-monochrome-portrait) · [Français](README.fr.md#user-content-case-cybernetic-monochrome-portrait) · [Deutsch](README.de.md#user-content-case-cybernetic-monochrome-portrait) · [Español](README.es.md#user-content-case-cybernetic-monochrome-portrait) · [Português (Brasil)](README.pt-BR.md#user-content-case-cybernetic-monochrome-portrait)
 
 도자기 질감, 케이블, 그리고 드라마틱한 스튜디오 조명을 활용하여 대비가 강한 초상화를 구성한다.
 
@@ -2273,12 +2274,12 @@ Cybernetic horror portrait, gaunt humanoid figure with cracked porcelain-white s
 
 ---
 
-<a id="case-candid-cafe-photo"></a>
+<a id="case-candid-cafe-photo"></a><a id="user-content-case-candid-cafe-photo"></a>
 ## 카페에서 스마트폰으로 찍은 자연스러운 사진
 
 <a href="https://x.com/blueemi99/status/2097602273085931662"><img src="https://pbs.twimg.com/media/HRwuCVkaQAAJS1X?format=jpg&amp;name=medium" width="640" alt="카페에서 스마트폰으로 찍은 자연스러운 사진 — @blueemi99 — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-candid-cafe-photo) · [简体中文](README.zh-CN.md#case-candid-cafe-photo) · [繁體中文](README.zh-TW.md#case-candid-cafe-photo) · [日本語](README.ja.md#case-candid-cafe-photo) · [한국어](README.ko.md#case-candid-cafe-photo) · [Français](README.fr.md#case-candid-cafe-photo) · [Deutsch](README.de.md#case-candid-cafe-photo) · [Español](README.es.md#case-candid-cafe-photo) · [Português (Brasil)](README.pt-BR.md#case-candid-cafe-photo)
+[English](README.md#user-content-case-candid-cafe-photo) · [简体中文](README.zh-CN.md#user-content-case-candid-cafe-photo) · [繁體中文](README.zh-TW.md#user-content-case-candid-cafe-photo) · [日本語](README.ja.md#user-content-case-candid-cafe-photo) · [한국어](README.ko.md#user-content-case-candid-cafe-photo) · [Français](README.fr.md#user-content-case-candid-cafe-photo) · [Deutsch](README.de.md#user-content-case-candid-cafe-photo) · [Español](README.es.md#user-content-case-candid-cafe-photo) · [Português (Brasil)](README.pt-BR.md#user-content-case-candid-cafe-photo)
 
 자연스러운 일상 사진 촬영을 위한 유용한 기본 설정(baseline).
 
@@ -2326,12 +2327,12 @@ make me a realistic iphone photo of a woman in a cafe
 
 ---
 
-<a id="case-retro-infomercial-frame"></a>
+<a id="case-retro-infomercial-frame"></a><a id="user-content-case-retro-infomercial-frame"></a>
 ## 복고풍 인포머셜(정보 전달형 광고) 스타일의 프레임
 
 <a href="https://x.com/ImagineArt_X/status/2097520474226147462"><img src="https://pbs.twimg.com/media/HRvhPCSaIAA9WfW?format=jpg&amp;name=large" width="640" alt="복고풍 인포머셜(정보 전달형 광고) 스타일의 프레임 — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-retro-infomercial-frame) · [简体中文](README.zh-CN.md#case-retro-infomercial-frame) · [繁體中文](README.zh-TW.md#case-retro-infomercial-frame) · [日本語](README.ja.md#case-retro-infomercial-frame) · [한국어](README.ko.md#case-retro-infomercial-frame) · [Français](README.fr.md#case-retro-infomercial-frame) · [Deutsch](README.de.md#case-retro-infomercial-frame) · [Español](README.es.md#case-retro-infomercial-frame) · [Português (Brasil)](README.pt-BR.md#case-retro-infomercial-frame)
+[English](README.md#user-content-case-retro-infomercial-frame) · [简体中文](README.zh-CN.md#user-content-case-retro-infomercial-frame) · [繁體中文](README.zh-TW.md#user-content-case-retro-infomercial-frame) · [日本語](README.ja.md#user-content-case-retro-infomercial-frame) · [한국어](README.ko.md#user-content-case-retro-infomercial-frame) · [Français](README.fr.md#user-content-case-retro-infomercial-frame) · [Deutsch](README.de.md#user-content-case-retro-infomercial-frame) · [Español](README.es.md#user-content-case-retro-infomercial-frame) · [Português (Brasil)](README.pt-BR.md#user-content-case-retro-infomercial-frame)
 
 제품 전시와 빽빽한 오버레이 텍스트를 결합하여 향수를 불러일으키는 광고용 스틸 이미지를 제작하세요.
 
@@ -2381,12 +2382,12 @@ a frame grab from a 1994 infomercial, standard definition video with scanlines. 
 
 ---
 
-<a id="case-cel-animation-duel"></a>
+<a id="case-cel-animation-duel"></a><a id="user-content-case-cel-animation-duel"></a>
 ## 화산재 모래 위에서 펼쳐지는 셀 애니메이션 스타일의 결투
 
 <a href="https://x.com/ImagineArt_X/status/2097520490013433944"><img src="https://pbs.twimg.com/media/HRvht74akAA4dMU?format=jpg&amp;name=large" width="640" alt="화산재 모래 위에서 펼쳐지는 셀 애니메이션 스타일의 결투 — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-cel-animation-duel) · [简体中文](README.zh-CN.md#case-cel-animation-duel) · [繁體中文](README.zh-TW.md#case-cel-animation-duel) · [日本語](README.ja.md#case-cel-animation-duel) · [한국어](README.ko.md#case-cel-animation-duel) · [Français](README.fr.md#case-cel-animation-duel) · [Deutsch](README.de.md#case-cel-animation-duel) · [Español](README.es.md#case-cel-animation-duel) · [Português (Brasil)](README.pt-BR.md#case-cel-animation-duel)
+[English](README.md#user-content-case-cel-animation-duel) · [简体中文](README.zh-CN.md#user-content-case-cel-animation-duel) · [繁體中文](README.zh-TW.md#user-content-case-cel-animation-duel) · [日本語](README.ja.md#user-content-case-cel-animation-duel) · [한국어](README.ko.md#user-content-case-cel-animation-duel) · [Français](README.fr.md#user-content-case-cel-animation-duel) · [Deutsch](README.de.md#user-content-case-cel-animation-duel) · [Español](README.es.md#user-content-case-cel-animation-duel) · [Português (Brasil)](README.pt-BR.md#user-content-case-cel-animation-duel)
 
 대조적인 캐릭터 포즈와 방향성이 있는 꽃잎이 포함된 일러스트 스타일의 영화 스틸 컷을 생성하세요.
 
@@ -2435,12 +2436,12 @@ a still from a hand drawn Japanese animated film, late 1990s cel style, painted 
 
 ---
 
-<a id="case-geometry-locked-product-render"></a>
+<a id="case-geometry-locked-product-render"></a><a id="user-content-case-geometry-locked-product-render"></a>
 ## 형태(지오메트리)가 고정된 제품 렌더링
 
 <a href="https://x.com/higgsfield/status/2097514650518831462"><img src="https://pbs.twimg.com/amplify_video_thumb/2097513089268842496/img/gIhm45SziKF5_TBr.jpg" width="640" alt="형태(지오메트리)가 고정된 제품 렌더링 — @higgsfield — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-geometry-locked-product-render) · [简体中文](README.zh-CN.md#case-geometry-locked-product-render) · [繁體中文](README.zh-TW.md#case-geometry-locked-product-render) · [日本語](README.ja.md#case-geometry-locked-product-render) · [한국어](README.ko.md#case-geometry-locked-product-render) · [Français](README.fr.md#case-geometry-locked-product-render) · [Deutsch](README.de.md#case-geometry-locked-product-render) · [Español](README.es.md#case-geometry-locked-product-render) · [Português (Brasil)](README.pt-BR.md#case-geometry-locked-product-render)
+[English](README.md#user-content-case-geometry-locked-product-render) · [简体中文](README.zh-CN.md#user-content-case-geometry-locked-product-render) · [繁體中文](README.zh-TW.md#user-content-case-geometry-locked-product-render) · [日本語](README.ja.md#user-content-case-geometry-locked-product-render) · [한국어](README.ko.md#user-content-case-geometry-locked-product-render) · [Français](README.fr.md#user-content-case-geometry-locked-product-render) · [Deutsch](README.de.md#user-content-case-geometry-locked-product-render) · [Español](README.es.md#user-content-case-geometry-locked-product-render) · [Português (Brasil)](README.pt-BR.md#user-content-case-geometry-locked-product-render)
 
 제공된 포즈를 유지하면서, 거친 형태 가이드(rough geometry guide)를 세련된 스튜디오 이미지 한 장으로 완성하십시오.
 
@@ -2487,12 +2488,12 @@ a still from a hand drawn Japanese animated film, late 1990s cel style, painted 
 
 ---
 
-<a id="case-village-notice-board"></a>
+<a id="case-village-notice-board"></a><a id="user-content-case-village-notice-board"></a>
 ## 다양한 타이포그래피가 혼합된 마을 게시판
 
 <a href="https://x.com/ImagineArt_X/status/2097520484569276860"><img src="https://pbs.twimg.com/media/HRvhj4Oa8AAjwoe?format=jpg&amp;name=large" width="640" alt="다양한 타이포그래피가 혼합된 마을 게시판 — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-village-notice-board) · [简体中文](README.zh-CN.md#case-village-notice-board) · [繁體中文](README.zh-TW.md#case-village-notice-board) · [日本語](README.ja.md#case-village-notice-board) · [한국어](README.ko.md#case-village-notice-board) · [Français](README.fr.md#case-village-notice-board) · [Deutsch](README.de.md#case-village-notice-board) · [Español](README.es.md#case-village-notice-board) · [Português (Brasil)](README.pt-BR.md#case-village-notice-board)
+[English](README.md#user-content-case-village-notice-board) · [简体中文](README.zh-CN.md#user-content-case-village-notice-board) · [繁體中文](README.zh-TW.md#user-content-case-village-notice-board) · [日本語](README.ja.md#user-content-case-village-notice-board) · [한국어](README.ko.md#user-content-case-village-notice-board) · [Français](README.fr.md#user-content-case-village-notice-board) · [Deutsch](README.de.md#user-content-case-village-notice-board) · [Español](README.es.md#user-content-case-village-notice-board) · [Português (Brasil)](README.pt-BR.md#user-content-case-village-notice-board)
 
 각 요소의 형식을 뚜렷하게 구분하면서 7가지 게시판 요소를 배치하세요.
 
@@ -2541,12 +2542,12 @@ a cork notice board outside a Welsh village post office, overcast light, seven p
 
 ---
 
-<a id="case-move-the-lamp"></a>
+<a id="case-move-the-lamp"></a><a id="user-content-case-move-the-lamp"></a>
 ## 방 안의 램프 위치 이동하기
 
 <a href="https://x.com/higgsfield_ai/status/2097515081802379736"><img src="https://pbs.twimg.com/media/HRvacfWbcAAswbV?format=jpg&amp;name=medium" width="640" alt="방 안의 램프 위치 이동하기 — @higgsfield_ai — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-move-the-lamp) · [简体中文](README.zh-CN.md#case-move-the-lamp) · [繁體中文](README.zh-TW.md#case-move-the-lamp) · [日本語](README.ja.md#case-move-the-lamp) · [한국어](README.ko.md#case-move-the-lamp) · [Français](README.fr.md#case-move-the-lamp) · [Deutsch](README.de.md#case-move-the-lamp) · [Español](README.es.md#case-move-the-lamp) · [Português (Brasil)](README.pt-BR.md#case-move-the-lamp)
+[English](README.md#user-content-case-move-the-lamp) · [简体中文](README.zh-CN.md#user-content-case-move-the-lamp) · [繁體中文](README.zh-TW.md#user-content-case-move-the-lamp) · [日本語](README.ja.md#user-content-case-move-the-lamp) · [한국어](README.ko.md#user-content-case-move-the-lamp) · [Français](README.fr.md#user-content-case-move-the-lamp) · [Deutsch](README.de.md#user-content-case-move-the-lamp) · [Español](README.es.md#user-content-case-move-the-lamp) · [Português (Brasil)](README.pt-BR.md#user-content-case-move-the-lamp)
 
 특정 사물의 위치 이동과 주변 조명 변화를 테스트하기 위한 간단한 지침입니다.
 
@@ -2594,12 +2595,12 @@ Move the lamp to the right
 
 ---
 
-<a id="case-poster-perspective-redesign"></a>
+<a id="case-poster-perspective-redesign"></a><a id="user-content-case-poster-perspective-redesign"></a>
 ## 포스터의 세계관을 유지하며 재디자인하기
 
 <a href="https://x.com/ponzponz15/status/2097513870969688188"><img src="https://pbs.twimg.com/media/HRvc0HEaIAAlJj4?format=jpg&amp;name=large" width="640" alt="포스터의 세계관을 유지하며 재디자인하기 — @ponzponz15 — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-poster-perspective-redesign) · [简体中文](README.zh-CN.md#case-poster-perspective-redesign) · [繁體中文](README.zh-TW.md#case-poster-perspective-redesign) · [日本語](README.ja.md#case-poster-perspective-redesign) · [한국어](README.ko.md#case-poster-perspective-redesign) · [Français](README.fr.md#case-poster-perspective-redesign) · [Deutsch](README.de.md#case-poster-perspective-redesign) · [Español](README.es.md#case-poster-perspective-redesign) · [Português (Brasil)](README.pt-BR.md#case-poster-perspective-redesign)
+[English](README.md#user-content-case-poster-perspective-redesign) · [简体中文](README.zh-CN.md#user-content-case-poster-perspective-redesign) · [繁體中文](README.zh-TW.md#user-content-case-poster-perspective-redesign) · [日本語](README.ja.md#user-content-case-poster-perspective-redesign) · [한국어](README.ko.md#user-content-case-poster-perspective-redesign) · [Français](README.fr.md#user-content-case-poster-perspective-redesign) · [Deutsch](README.de.md#user-content-case-poster-perspective-redesign) · [Español](README.es.md#user-content-case-poster-perspective-redesign) · [Português (Brasil)](README.pt-BR.md#user-content-case-poster-perspective-redesign)
 
 포스터의 전체적인 시각적 구조는 유지하면서 시점과 문구(카피)를 변경하세요.
 
@@ -2645,12 +2646,12 @@ Move the lamp to the right
 
 ---
 
-<a id="case-sketch-guided-composition"></a>
+<a id="case-sketch-guided-composition"></a><a id="user-content-case-sketch-guided-composition"></a>
 ## 스케치를 바탕으로 장면 재구성하기
 
 <a href="https://x.com/Synthetic_Copy/status/2097461076866560320"><img src="https://pbs.twimg.com/media/HRutuxdaQAAumX3?format=jpg&amp;name=900x900" width="640" alt="스케치를 바탕으로 장면 재구성하기 — @Synthetic_Copy — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-sketch-guided-composition) · [简体中文](README.zh-CN.md#case-sketch-guided-composition) · [繁體中文](README.zh-TW.md#case-sketch-guided-composition) · [日本語](README.ja.md#case-sketch-guided-composition) · [한국어](README.ko.md#case-sketch-guided-composition) · [Français](README.fr.md#case-sketch-guided-composition) · [Deutsch](README.de.md#case-sketch-guided-composition) · [Español](README.es.md#case-sketch-guided-composition) · [Português (Brasil)](README.pt-BR.md#case-sketch-guided-composition)
+[English](README.md#user-content-case-sketch-guided-composition) · [简体中文](README.zh-CN.md#user-content-case-sketch-guided-composition) · [繁體中文](README.zh-TW.md#user-content-case-sketch-guided-composition) · [日本語](README.ja.md#user-content-case-sketch-guided-composition) · [한국어](README.ko.md#user-content-case-sketch-guided-composition) · [Français](README.fr.md#user-content-case-sketch-guided-composition) · [Deutsch](README.de.md#user-content-case-sketch-guided-composition) · [Español](README.es.md#user-content-case-sketch-guided-composition) · [Português (Brasil)](README.pt-BR.md#user-content-case-sketch-guided-composition)
 
 거친 스케치를 활용하여 기존 피사체들의 이동 위치를 지정해 보세요.
 
@@ -2698,12 +2699,12 @@ change the composition to this
 
 ---
 
-<a id="case-goblin-archer-animation"></a>
+<a id="case-goblin-archer-animation"></a><a id="user-content-case-goblin-archer-animation"></a>
 ## 고블린 궁수 애니메이션
 
 <a href="https://x.com/Fomsky_Wei/status/2097559943075533257"><img src="https://pbs.twimg.com/tweet_video_thumb/HRwEaI1aAAAk6UX.jpg" width="640" alt="고블린 궁수 애니메이션 — @Fomsky_Wei — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-goblin-archer-animation) · [简体中文](README.zh-CN.md#case-goblin-archer-animation) · [繁體中文](README.zh-TW.md#case-goblin-archer-animation) · [日本語](README.ja.md#case-goblin-archer-animation) · [한국어](README.ko.md#case-goblin-archer-animation) · [Français](README.fr.md#case-goblin-archer-animation) · [Deutsch](README.de.md#case-goblin-archer-animation) · [Español](README.es.md#case-goblin-archer-animation) · [Português (Brasil)](README.pt-BR.md#case-goblin-archer-animation)
+[English](README.md#user-content-case-goblin-archer-animation) · [简体中文](README.zh-CN.md#user-content-case-goblin-archer-animation) · [繁體中文](README.zh-TW.md#user-content-case-goblin-archer-animation) · [日本語](README.ja.md#user-content-case-goblin-archer-animation) · [한국어](README.ko.md#user-content-case-goblin-archer-animation) · [Français](README.fr.md#user-content-case-goblin-archer-animation) · [Deutsch](README.de.md#user-content-case-goblin-archer-animation) · [Español](README.es.md#user-content-case-goblin-archer-animation) · [Português (Brasil)](README.pt-BR.md#user-content-case-goblin-archer-animation)
 
 액션 시트를 생성한 다음, 그 프레임들을 사용하여 반복 재생되는 애니메이션을 만드세요.
 
@@ -2756,12 +2757,12 @@ change the composition to this
 
 ---
 
-<a id="case-sketch-to-future-building"></a>
+<a id="case-sketch-to-future-building"></a><a id="user-content-case-sketch-to-future-building"></a>
 ## 스케치를 미래의 건축물로 변환하기
 
 <a href="https://x.com/peter6759/status/2097503664789430530"><img src="https://pbs.twimg.com/media/HRvUPvMaIAAMWkE?format=jpg&amp;name=900x900" width="640" alt="스케치를 미래의 건축물로 변환하기 — @peter6759 — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-sketch-to-future-building) · [简体中文](README.zh-CN.md#case-sketch-to-future-building) · [繁體中文](README.zh-TW.md#case-sketch-to-future-building) · [日本語](README.ja.md#case-sketch-to-future-building) · [한국어](README.ko.md#case-sketch-to-future-building) · [Français](README.fr.md#case-sketch-to-future-building) · [Deutsch](README.de.md#case-sketch-to-future-building) · [Español](README.es.md#case-sketch-to-future-building) · [Português (Brasil)](README.pt-BR.md#case-sketch-to-future-building)
+[English](README.md#user-content-case-sketch-to-future-building) · [简体中文](README.zh-CN.md#user-content-case-sketch-to-future-building) · [繁體中文](README.zh-TW.md#user-content-case-sketch-to-future-building) · [日本語](README.ja.md#user-content-case-sketch-to-future-building) · [한국어](README.ko.md#user-content-case-sketch-to-future-building) · [Français](README.fr.md#user-content-case-sketch-to-future-building) · [Deutsch](README.de.md#user-content-case-sketch-to-future-building) · [Español](README.es.md#user-content-case-sketch-to-future-building) · [Português (Brasil)](README.pt-BR.md#user-content-case-sketch-to-future-building)
 
 시각적 참조 자료가 작업의 대부분을 수행하는, 최소한의 정보만 담은 '스케치-건축물 변환' 프롬프트입니다.
 
@@ -2809,12 +2810,12 @@ turn it into a future building
 
 ---
 
-<a id="case-autumn-market-count-constraints"></a>
+<a id="case-autumn-market-count-constraints"></a><a id="user-content-case-autumn-market-count-constraints"></a>
 ## 객체 개수 제한이 있는 가을 시장 포스터
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8PSRZaQAAU4WO?format=jpg&amp;name=medium" width="640" alt="객체 개수 제한이 있는 가을 시장 포스터 — @jackzhang123vip — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-autumn-market-count-constraints) · [简体中文](README.zh-CN.md#case-autumn-market-count-constraints) · [繁體中文](README.zh-TW.md#case-autumn-market-count-constraints) · [日本語](README.ja.md#case-autumn-market-count-constraints) · [한국어](README.ko.md#case-autumn-market-count-constraints) · [Français](README.fr.md#case-autumn-market-count-constraints) · [Deutsch](README.de.md#case-autumn-market-count-constraints) · [Español](README.es.md#case-autumn-market-count-constraints) · [Português (Brasil)](README.pt-BR.md#case-autumn-market-count-constraints)
+[English](README.md#user-content-case-autumn-market-count-constraints) · [简体中文](README.zh-CN.md#user-content-case-autumn-market-count-constraints) · [繁體中文](README.zh-TW.md#user-content-case-autumn-market-count-constraints) · [日本語](README.ja.md#user-content-case-autumn-market-count-constraints) · [한국어](README.ko.md#user-content-case-autumn-market-count-constraints) · [Français](README.fr.md#user-content-case-autumn-market-count-constraints) · [Deutsch](README.de.md#user-content-case-autumn-market-count-constraints) · [Español](README.es.md#user-content-case-autumn-market-count-constraints) · [Português (Brasil)](README.pt-BR.md#user-content-case-autumn-market-count-constraints)
 
 반복적인 세대에 걸쳐 정확한 중국어 원문과 엄격한 3개 객체 구성을 테스트합니다.
 
@@ -2889,12 +2890,12 @@ turn it into a future building
 
 ---
 
-<a id="case-bouncing-cutout-sticker"></a>
+<a id="case-bouncing-cutout-sticker"></a><a id="user-content-case-bouncing-cutout-sticker"></a>
 ## 튀는 스티커 GIF 애니메이션
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/tweet_video_thumb/HR2diHLbUAAtO5A.jpg" width="640" alt="튀는 스티커 GIF 애니메이션 — @AdrianPunk115 — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-bouncing-cutout-sticker) · [简体中文](README.zh-CN.md#case-bouncing-cutout-sticker) · [繁體中文](README.zh-TW.md#case-bouncing-cutout-sticker) · [日本語](README.ja.md#case-bouncing-cutout-sticker) · [한국어](README.ko.md#case-bouncing-cutout-sticker) · [Français](README.fr.md#case-bouncing-cutout-sticker) · [Deutsch](README.de.md#case-bouncing-cutout-sticker) · [Español](README.es.md#case-bouncing-cutout-sticker) · [Português (Brasil)](README.pt-BR.md#case-bouncing-cutout-sticker)
+[English](README.md#user-content-case-bouncing-cutout-sticker) · [简体中文](README.zh-CN.md#user-content-case-bouncing-cutout-sticker) · [繁體中文](README.zh-TW.md#user-content-case-bouncing-cutout-sticker) · [日本語](README.ja.md#user-content-case-bouncing-cutout-sticker) · [한국어](README.ko.md#user-content-case-bouncing-cutout-sticker) · [Français](README.fr.md#user-content-case-bouncing-cutout-sticker) · [Deutsch](README.de.md#user-content-case-bouncing-cutout-sticker) · [Español](README.es.md#user-content-case-bouncing-cutout-sticker) · [Português (Brasil)](README.pt-BR.md#user-content-case-bouncing-cutout-sticker)
 
 피사체를 투명 스티커로 변환한 후, 파이썬을 사용하여 해당 스티커를 애니메이션화합니다.
 
@@ -3004,12 +3005,12 @@ turn it into a future building
 
 ---
 
-<a id="case-chinese-coffee-brewing-infographic"></a>
+<a id="case-chinese-coffee-brewing-infographic"></a><a id="user-content-case-chinese-coffee-brewing-infographic"></a>
 ## 중국식 커피 추출 인포그래픽
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8LuWBbYAAp_3N?format=jpg&amp;name=large" width="640" alt="중국식 커피 추출 인포그래픽 — @jackzhang123vip — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-chinese-coffee-brewing-infographic) · [简体中文](README.zh-CN.md#case-chinese-coffee-brewing-infographic) · [繁體中文](README.zh-TW.md#case-chinese-coffee-brewing-infographic) · [日本語](README.ja.md#case-chinese-coffee-brewing-infographic) · [한국어](README.ko.md#case-chinese-coffee-brewing-infographic) · [Français](README.fr.md#case-chinese-coffee-brewing-infographic) · [Deutsch](README.de.md#case-chinese-coffee-brewing-infographic) · [Español](README.es.md#case-chinese-coffee-brewing-infographic) · [Português (Brasil)](README.pt-BR.md#case-chinese-coffee-brewing-infographic)
+[English](README.md#user-content-case-chinese-coffee-brewing-infographic) · [简体中文](README.zh-CN.md#user-content-case-chinese-coffee-brewing-infographic) · [繁體中文](README.zh-TW.md#user-content-case-chinese-coffee-brewing-infographic) · [日本語](README.ja.md#user-content-case-chinese-coffee-brewing-infographic) · [한국어](README.ko.md#user-content-case-chinese-coffee-brewing-infographic) · [Français](README.fr.md#user-content-case-chinese-coffee-brewing-infographic) · [Deutsch](README.de.md#user-content-case-chinese-coffee-brewing-infographic) · [Español](README.es.md#user-content-case-chinese-coffee-brewing-infographic) · [Português (Brasil)](README.pt-BR.md#user-content-case-chinese-coffee-brewing-infographic)
 
 정확하게 설명된 네 단계의 추출 과정을 그림으로 표현한 세로형 가이드를 제작하세요.
 
@@ -3076,12 +3077,12 @@ turn it into a future building
 
 ---
 
-<a id="case-coffee-festival-poster-iterations"></a>
+<a id="case-coffee-festival-poster-iterations"></a><a id="user-content-case-coffee-festival-poster-iterations"></a>
 ## 5단계 커피 축제 포스터 편집
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8M6yHaMAAcFxE?format=jpg&amp;name=large" width="640" alt="5단계 커피 축제 포스터 편집 — @jackzhang123vip — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-coffee-festival-poster-iterations) · [简体中文](README.zh-CN.md#case-coffee-festival-poster-iterations) · [繁體中文](README.zh-TW.md#case-coffee-festival-poster-iterations) · [日本語](README.ja.md#case-coffee-festival-poster-iterations) · [한국어](README.ko.md#case-coffee-festival-poster-iterations) · [Français](README.fr.md#case-coffee-festival-poster-iterations) · [Deutsch](README.de.md#case-coffee-festival-poster-iterations) · [Español](README.es.md#case-coffee-festival-poster-iterations) · [Português (Brasil)](README.pt-BR.md#case-coffee-festival-poster-iterations)
+[English](README.md#user-content-case-coffee-festival-poster-iterations) · [简体中文](README.zh-CN.md#user-content-case-coffee-festival-poster-iterations) · [繁體中文](README.zh-TW.md#user-content-case-coffee-festival-poster-iterations) · [日本語](README.ja.md#user-content-case-coffee-festival-poster-iterations) · [한국어](README.ko.md#user-content-case-coffee-festival-poster-iterations) · [Français](README.fr.md#user-content-case-coffee-festival-poster-iterations) · [Deutsch](README.de.md#user-content-case-coffee-festival-poster-iterations) · [Español](README.es.md#user-content-case-coffee-festival-poster-iterations) · [Português (Brasil)](README.pt-BR.md#user-content-case-coffee-festival-poster-iterations)
 
 포스터 제작 후, 각 단계별로 색상 팔레트, 제목 크기, 날짜, 스팀 효과를 변경합니다.
 
@@ -3194,12 +3195,12 @@ turn it into a future building
 
 ---
 
-<a id="case-fixed-template-product-swap"></a>
+<a id="case-fixed-template-product-swap"></a><a id="user-content-case-fixed-template-product-swap"></a>
 ## 고정 포스터의 제품 교체
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/media/HR2hSJmbAAAE0l0?format=jpg&amp;name=large" width="640" alt="고정 포스터의 제품 교체 — @AdrianPunk115 — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-fixed-template-product-swap) · [简体中文](README.zh-CN.md#case-fixed-template-product-swap) · [繁體中文](README.zh-TW.md#case-fixed-template-product-swap) · [日本語](README.ja.md#case-fixed-template-product-swap) · [한국어](README.ko.md#case-fixed-template-product-swap) · [Français](README.fr.md#case-fixed-template-product-swap) · [Deutsch](README.de.md#case-fixed-template-product-swap) · [Español](README.es.md#case-fixed-template-product-swap) · [Português (Brasil)](README.pt-BR.md#case-fixed-template-product-swap)
+[English](README.md#user-content-case-fixed-template-product-swap) · [简体中文](README.zh-CN.md#user-content-case-fixed-template-product-swap) · [繁體中文](README.zh-TW.md#user-content-case-fixed-template-product-swap) · [日本語](README.ja.md#user-content-case-fixed-template-product-swap) · [한국어](README.ko.md#user-content-case-fixed-template-product-swap) · [Français](README.fr.md#user-content-case-fixed-template-product-swap) · [Deutsch](README.de.md#user-content-case-fixed-template-product-swap) · [Español](README.es.md#user-content-case-fixed-template-product-swap) · [Português (Brasil)](README.pt-BR.md#user-content-case-fixed-template-product-swap)
 
 레이아웃, 타이포그래피, 배경은 그대로 유지하면서 포스터의 주요 제품을 교체합니다.
 
@@ -3287,12 +3288,12 @@ turn it into a future building
 
 ---
 
-<a id="case-fresh-grocery-mobile-ui"></a>
+<a id="case-fresh-grocery-mobile-ui"></a><a id="user-content-case-fresh-grocery-mobile-ui"></a>
 ## 신선식품 모바일 앱 UI
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8KyZta8AAqI3b?format=jpg&amp;name=large" width="640" alt="신선식품 모바일 앱 UI — @jackzhang123vip — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-fresh-grocery-mobile-ui) · [简体中文](README.zh-CN.md#case-fresh-grocery-mobile-ui) · [繁體中文](README.zh-TW.md#case-fresh-grocery-mobile-ui) · [日本語](README.ja.md#case-fresh-grocery-mobile-ui) · [한국어](README.ko.md#case-fresh-grocery-mobile-ui) · [Français](README.fr.md#case-fresh-grocery-mobile-ui) · [Deutsch](README.de.md#case-fresh-grocery-mobile-ui) · [Español](README.es.md#case-fresh-grocery-mobile-ui) · [Português (Brasil)](README.pt-BR.md#case-fresh-grocery-mobile-ui)
+[English](README.md#user-content-case-fresh-grocery-mobile-ui) · [简体中文](README.zh-CN.md#user-content-case-fresh-grocery-mobile-ui) · [繁體中文](README.zh-TW.md#user-content-case-fresh-grocery-mobile-ui) · [日本語](README.ja.md#user-content-case-fresh-grocery-mobile-ui) · [한국어](README.ko.md#user-content-case-fresh-grocery-mobile-ui) · [Français](README.fr.md#user-content-case-fresh-grocery-mobile-ui) · [Deutsch](README.de.md#user-content-case-fresh-grocery-mobile-ui) · [Español](README.es.md#user-content-case-fresh-grocery-mobile-ui) · [Português (Brasil)](README.pt-BR.md#user-content-case-fresh-grocery-mobile-ui)
 
 제품 카드, 주변 매장, 4개의 탐색 탭이 있는 중국 식료품점 홈 화면을 디자인하세요.
 
@@ -3341,12 +3342,12 @@ turn it into a future building
 
 ---
 
-<a id="case-long-copy-poster-template"></a>
+<a id="case-long-copy-poster-template"></a><a id="user-content-case-long-copy-poster-template"></a>
 ## 장문 포스터 템플릿 재사용
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8OdvgbgAEo2CA?format=jpg&amp;name=large" width="640" alt="장문 포스터 템플릿 재사용 — @jackzhang123vip — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-long-copy-poster-template) · [简体中文](README.zh-CN.md#case-long-copy-poster-template) · [繁體中文](README.zh-TW.md#case-long-copy-poster-template) · [日本語](README.ja.md#case-long-copy-poster-template) · [한국어](README.ko.md#case-long-copy-poster-template) · [Français](README.fr.md#case-long-copy-poster-template) · [Deutsch](README.de.md#case-long-copy-poster-template) · [Español](README.es.md#case-long-copy-poster-template) · [Português (Brasil)](README.pt-BR.md#case-long-copy-poster-template)
+[English](README.md#user-content-case-long-copy-poster-template) · [简体中文](README.zh-CN.md#user-content-case-long-copy-poster-template) · [繁體中文](README.zh-TW.md#user-content-case-long-copy-poster-template) · [日本語](README.ja.md#user-content-case-long-copy-poster-template) · [한국어](README.ko.md#user-content-case-long-copy-poster-template) · [Français](README.fr.md#user-content-case-long-copy-poster-template) · [Deutsch](README.de.md#user-content-case-long-copy-poster-template) · [Español](README.es.md#user-content-case-long-copy-poster-template) · [Português (Brasil)](README.pt-BR.md#user-content-case-long-copy-poster-template)
 
 기존 시각적 계층 구조를 유지하면서 커피 포스터의 텍스트 블록 4개를 교체합니다.
 
@@ -3403,12 +3404,12 @@ turn it into a future building
 
 ---
 
-<a id="case-multi-product-studio-lineup"></a>
+<a id="case-multi-product-studio-lineup"></a><a id="user-content-case-multi-product-studio-lineup"></a>
 ## 일관성 있는 다중 제품 스튜디오 배치
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/media/HR3Bg2JbsAAXdH6?format=jpg&amp;name=medium" width="640" alt="일관성 있는 다중 제품 스튜디오 배치 — @AdrianPunk115 — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-multi-product-studio-lineup) · [简体中文](README.zh-CN.md#case-multi-product-studio-lineup) · [繁體中文](README.zh-TW.md#case-multi-product-studio-lineup) · [日本語](README.ja.md#case-multi-product-studio-lineup) · [한국어](README.ko.md#case-multi-product-studio-lineup) · [Français](README.fr.md#case-multi-product-studio-lineup) · [Deutsch](README.de.md#case-multi-product-studio-lineup) · [Español](README.es.md#case-multi-product-studio-lineup) · [Português (Brasil)](README.pt-BR.md#case-multi-product-studio-lineup)
+[English](README.md#user-content-case-multi-product-studio-lineup) · [简体中文](README.zh-CN.md#user-content-case-multi-product-studio-lineup) · [繁體中文](README.zh-TW.md#user-content-case-multi-product-studio-lineup) · [日本語](README.ja.md#user-content-case-multi-product-studio-lineup) · [한국어](README.ko.md#user-content-case-multi-product-studio-lineup) · [Français](README.fr.md#user-content-case-multi-product-studio-lineup) · [Deutsch](README.de.md#user-content-case-multi-product-studio-lineup) · [Español](README.es.md#user-content-case-multi-product-studio-lineup) · [Português (Brasil)](README.pt-BR.md#user-content-case-multi-product-studio-lineup)
 
 별도로 촬영된 여러 제품을 하나의 일관된 스튜디오 구도로 배치합니다.
 
@@ -3487,12 +3488,12 @@ turn it into a future building
 
 ---
 
-<a id="case-nine-emotion-chat-stickers"></a>
+<a id="case-nine-emotion-chat-stickers"></a><a id="user-content-case-nine-emotion-chat-stickers"></a>
 ## 9가지 표정의 채팅 스티커
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/media/HR25mF4a0AA43OY?format=jpg&amp;name=medium" width="640" alt="9가지 표정의 채팅 스티커 — @AdrianPunk115 — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-nine-emotion-chat-stickers) · [简体中文](README.zh-CN.md#case-nine-emotion-chat-stickers) · [繁體中文](README.zh-TW.md#case-nine-emotion-chat-stickers) · [日本語](README.ja.md#case-nine-emotion-chat-stickers) · [한국어](README.ko.md#case-nine-emotion-chat-stickers) · [Français](README.fr.md#case-nine-emotion-chat-stickers) · [Deutsch](README.de.md#case-nine-emotion-chat-stickers) · [Español](README.es.md#case-nine-emotion-chat-stickers) · [Português (Brasil)](README.pt-BR.md#case-nine-emotion-chat-stickers)
+[English](README.md#user-content-case-nine-emotion-chat-stickers) · [简体中文](README.zh-CN.md#user-content-case-nine-emotion-chat-stickers) · [繁體中文](README.zh-TW.md#user-content-case-nine-emotion-chat-stickers) · [日本語](README.ja.md#user-content-case-nine-emotion-chat-stickers) · [한국어](README.ko.md#user-content-case-nine-emotion-chat-stickers) · [Français](README.fr.md#user-content-case-nine-emotion-chat-stickers) · [Deutsch](README.de.md#user-content-case-nine-emotion-chat-stickers) · [Español](README.es.md#user-content-case-nine-emotion-chat-stickers) · [Português (Brasil)](README.pt-BR.md#user-content-case-nine-emotion-chat-stickers)
 
 하나의 캐릭터 참고 이미지를 사용하여 9가지의 서로 다른 표정을 담은 3x3 크기의 일관된 시트를 제작합니다.
 
@@ -3564,12 +3565,12 @@ turn it into a future building
 
 ---
 
-<a id="case-person-holding-reference-product"></a>
+<a id="case-person-holding-reference-product"></a><a id="user-content-case-person-holding-reference-product"></a>
 ## 제품을 들고 있는 사람
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/media/HR24sTybEAE94tW?format=jpg&amp;name=large" width="640" alt="제품을 들고 있는 사람 — @AdrianPunk115 — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-person-holding-reference-product) · [简体中文](README.zh-CN.md#case-person-holding-reference-product) · [繁體中文](README.zh-TW.md#case-person-holding-reference-product) · [日本語](README.ja.md#case-person-holding-reference-product) · [한국어](README.ko.md#case-person-holding-reference-product) · [Français](README.fr.md#case-person-holding-reference-product) · [Deutsch](README.de.md#case-person-holding-reference-product) · [Español](README.es.md#case-person-holding-reference-product) · [Português (Brasil)](README.pt-BR.md#case-person-holding-reference-product)
+[English](README.md#user-content-case-person-holding-reference-product) · [简体中文](README.zh-CN.md#user-content-case-person-holding-reference-product) · [繁體中文](README.zh-TW.md#user-content-case-person-holding-reference-product) · [日本語](README.ja.md#user-content-case-person-holding-reference-product) · [한국어](README.ko.md#user-content-case-person-holding-reference-product) · [Français](README.fr.md#user-content-case-person-holding-reference-product) · [Deutsch](README.de.md#user-content-case-person-holding-reference-product) · [Español](README.es.md#user-content-case-person-holding-reference-product) · [Português (Brasil)](README.pt-BR.md#user-content-case-person-holding-reference-product)
 
 실감나는 그립, 접촉 그림자, 크기, 일관된 조명을 사용하여 사람과 제품을 결합합니다.
 
@@ -3650,12 +3651,12 @@ turn it into a future building
 
 ---
 
-<a id="case-reference-shirt-try-on"></a>
+<a id="case-reference-shirt-try-on"></a><a id="user-content-case-reference-shirt-try-on"></a>
 ## 참조 셔츠 가상 착용
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/media/HR22qgZbIAAF73P?format=jpg&amp;name=large" width="640" alt="참조 셔츠 가상 착용 — @AdrianPunk115 — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-reference-shirt-try-on) · [简体中文](README.zh-CN.md#case-reference-shirt-try-on) · [繁體中文](README.zh-TW.md#case-reference-shirt-try-on) · [日本語](README.ja.md#case-reference-shirt-try-on) · [한국어](README.ko.md#case-reference-shirt-try-on) · [Français](README.fr.md#case-reference-shirt-try-on) · [Deutsch](README.de.md#case-reference-shirt-try-on) · [Español](README.es.md#case-reference-shirt-try-on) · [Português (Brasil)](README.pt-BR.md#case-reference-shirt-try-on)
+[English](README.md#user-content-case-reference-shirt-try-on) · [简体中文](README.zh-CN.md#user-content-case-reference-shirt-try-on) · [繁體中文](README.zh-TW.md#user-content-case-reference-shirt-try-on) · [日本語](README.ja.md#user-content-case-reference-shirt-try-on) · [한국어](README.ko.md#user-content-case-reference-shirt-try-on) · [Français](README.fr.md#user-content-case-reference-shirt-try-on) · [Deutsch](README.de.md#user-content-case-reference-shirt-try-on) · [Español](README.es.md#user-content-case-reference-shirt-try-on) · [Português (Brasil)](README.pt-BR.md#user-content-case-reference-shirt-try-on)
 
 피사체, 의류 구조 및 프린트 디테일을 유지하면서 참조된 셔츠를 적용합니다.
 
@@ -3768,12 +3769,12 @@ turn it into a future building
 
 ---
 
-<a id="case-single-cup-material-edit"></a>
+<a id="case-single-cup-material-edit"></a><a id="user-content-case-single-cup-material-edit"></a>
 ## 컵 색상 및 마감 편집
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8OAYLbcAAIKTN?format=jpg&amp;name=medium" width="640" alt="컵 색상 및 마감 편집 — @jackzhang123vip — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-single-cup-material-edit) · [简体中文](README.zh-CN.md#case-single-cup-material-edit) · [繁體中文](README.zh-TW.md#case-single-cup-material-edit) · [日本語](README.ja.md#case-single-cup-material-edit) · [한국어](README.ko.md#case-single-cup-material-edit) · [Français](README.fr.md#case-single-cup-material-edit) · [Deutsch](README.de.md#case-single-cup-material-edit) · [Español](README.es.md#case-single-cup-material-edit) · [Português (Brasil)](README.pt-BR.md#case-single-cup-material-edit)
+[English](README.md#user-content-case-single-cup-material-edit) · [简体中文](README.zh-CN.md#user-content-case-single-cup-material-edit) · [繁體中文](README.zh-TW.md#user-content-case-single-cup-material-edit) · [日本語](README.ja.md#user-content-case-single-cup-material-edit) · [한국어](README.ko.md#user-content-case-single-cup-material-edit) · [Français](README.fr.md#user-content-case-single-cup-material-edit) · [Deutsch](README.de.md#user-content-case-single-cup-material-edit) · [Español](README.es.md#user-content-case-single-cup-material-edit) · [Português (Brasil)](README.pt-BR.md#user-content-case-single-cup-material-edit)
 
 주변 인물과 방은 그대로 유지하면서 빨간색 유광 컵을 무광 흰색으로 변경합니다.
 
@@ -3831,12 +3832,12 @@ turn it into a future building
 
 ---
 
-<a id="case-six-frame-expression-gif"></a>
+<a id="case-six-frame-expression-gif"></a><a id="user-content-case-six-frame-expression-gif"></a>
 ## 6프레임 표정 연기 GIF
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/tweet_video_thumb/HR26LYObMAAH2TT.jpg" width="640" alt="6프레임 표정 연기 GIF — @AdrianPunk115 — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-six-frame-expression-gif) · [简体中文](README.zh-CN.md#case-six-frame-expression-gif) · [繁體中文](README.zh-TW.md#case-six-frame-expression-gif) · [日本語](README.ja.md#case-six-frame-expression-gif) · [한국어](README.ko.md#case-six-frame-expression-gif) · [Français](README.fr.md#case-six-frame-expression-gif) · [Deutsch](README.de.md#case-six-frame-expression-gif) · [Español](README.es.md#case-six-frame-expression-gif) · [Português (Brasil)](README.pt-BR.md#case-six-frame-expression-gif)
+[English](README.md#user-content-case-six-frame-expression-gif) · [简体中文](README.zh-CN.md#user-content-case-six-frame-expression-gif) · [繁體中文](README.zh-TW.md#user-content-case-six-frame-expression-gif) · [日本語](README.ja.md#user-content-case-six-frame-expression-gif) · [한국어](README.ko.md#user-content-case-six-frame-expression-gif) · [Français](README.fr.md#user-content-case-six-frame-expression-gif) · [Deutsch](README.de.md#user-content-case-six-frame-expression-gif) · [Español](README.es.md#user-content-case-six-frame-expression-gif) · [Português (Brasil)](README.pt-BR.md#user-content-case-six-frame-expression-gif)
 
 하나의 표정에 대한 6가지 새로운 단계를 그린 다음, 실제 프레임을 분할하고 조합합니다.
 
@@ -4152,12 +4153,12 @@ turn it into a future building
 
 ---
 
-<a id="case-three-reference-product-ad"></a>
+<a id="case-three-reference-product-ad"></a><a id="user-content-case-three-reference-product-ad"></a>
 ## 3가지 참고 자료를 활용한 제품 광고
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8McVcasAAxJwu?format=jpg&amp;name=large" width="640" alt="3가지 참고 자료를 활용한 제품 광고 — @jackzhang123vip — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-three-reference-product-ad) · [简体中文](README.zh-CN.md#case-three-reference-product-ad) · [繁體中文](README.zh-TW.md#case-three-reference-product-ad) · [日本語](README.ja.md#case-three-reference-product-ad) · [한국어](README.ko.md#case-three-reference-product-ad) · [Français](README.fr.md#case-three-reference-product-ad) · [Deutsch](README.de.md#case-three-reference-product-ad) · [Español](README.es.md#case-three-reference-product-ad) · [Português (Brasil)](README.pt-BR.md#case-three-reference-product-ad)
+[English](README.md#user-content-case-three-reference-product-ad) · [简体中文](README.zh-CN.md#user-content-case-three-reference-product-ad) · [繁體中文](README.zh-TW.md#user-content-case-three-reference-product-ad) · [日本語](README.ja.md#user-content-case-three-reference-product-ad) · [한국어](README.ko.md#user-content-case-three-reference-product-ad) · [Français](README.fr.md#user-content-case-three-reference-product-ad) · [Deutsch](README.de.md#user-content-case-three-reference-product-ad) · [Español](README.es.md#user-content-case-three-reference-product-ad) · [Português (Brasil)](README.pt-BR.md#user-content-case-three-reference-product-ad)
 
 제품 아이덴티티, 조명, 레이아웃 참고 자료를 각각 별도로 작성하고 우선순위를 명확히 지정하십시오.
 
@@ -4211,12 +4212,12 @@ turn it into a future building
 
 ---
 
-<a id="case-transparent-product-relighting"></a>
+<a id="case-transparent-product-relighting"></a><a id="user-content-case-transparent-product-relighting"></a>
 ## 투명 제품 스튜디오 조명 조정
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/media/HR3Ai-DbwAAWrPT?format=jpg&amp;name=large" width="640" alt="투명 제품 스튜디오 조명 조정 — @AdrianPunk115 — 제작자 소스 결과물" loading="lazy"></a>
 
-[English](README.md#case-transparent-product-relighting) · [简体中文](README.zh-CN.md#case-transparent-product-relighting) · [繁體中文](README.zh-TW.md#case-transparent-product-relighting) · [日本語](README.ja.md#case-transparent-product-relighting) · [한국어](README.ko.md#case-transparent-product-relighting) · [Français](README.fr.md#case-transparent-product-relighting) · [Deutsch](README.de.md#case-transparent-product-relighting) · [Español](README.es.md#case-transparent-product-relighting) · [Português (Brasil)](README.pt-BR.md#case-transparent-product-relighting)
+[English](README.md#user-content-case-transparent-product-relighting) · [简体中文](README.zh-CN.md#user-content-case-transparent-product-relighting) · [繁體中文](README.zh-TW.md#user-content-case-transparent-product-relighting) · [日本語](README.ja.md#user-content-case-transparent-product-relighting) · [한국어](README.ko.md#user-content-case-transparent-product-relighting) · [Français](README.fr.md#user-content-case-transparent-product-relighting) · [Deutsch](README.de.md#user-content-case-transparent-product-relighting) · [Español](README.es.md#user-content-case-transparent-product-relighting) · [Português (Brasil)](README.pt-BR.md#user-content-case-transparent-product-relighting)
 
 투명 제품을 어두운 스튜디오로 옮겨 투과율, 반사, 접촉 그림자를 재구성하세요.
 
@@ -4291,6 +4292,7 @@ turn it into a future building
 
 ---
 
+<a id="data-for-your-app"></a>
 ## 데이터 및 기여
 
 JSON 소스 레코드를 통해 각 언어별 갤러리와 통합 카탈로그가 생성됩니다. 기여하기 전에 데이터 규약과 큐레이션 규칙을 확인해 주십시오. 소스 게시물은 어떤 언어로든 작성될 수 있으며, 번역은 저희가 진행합니다.
@@ -4308,4 +4310,5 @@ npm run check
 
 Image 2.5는 독립적인 프로젝트로, OpenAI와 제휴하거나 그 승인을 받은 것이 아닙니다.
 
+<a id="support"></a>
 관리 주체: [Image 2.5](https://image-2-5.com) · [support@image-2-5.com](mailto:support@image-2-5.com)

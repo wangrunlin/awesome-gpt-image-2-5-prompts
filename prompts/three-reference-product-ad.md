@@ -3,7 +3,7 @@
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8McVcasAAxJwu?format=jpg&amp;name=large" width="640" alt="Three-reference product advertisement — @jackzhang123vip — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-three-reference-product-ad) · [简体中文](../README.zh-CN.md#case-three-reference-product-ad) · [繁體中文](../README.zh-TW.md#case-three-reference-product-ad) · [日本語](../README.ja.md#case-three-reference-product-ad) · [한국어](../README.ko.md#case-three-reference-product-ad) · [Français](../README.fr.md#case-three-reference-product-ad) · [Deutsch](../README.de.md#case-three-reference-product-ad) · [Español](../README.es.md#case-three-reference-product-ad) · [Português (Brasil)](../README.pt-BR.md#case-three-reference-product-ad)
+[English](../README.md#user-content-case-three-reference-product-ad) · [简体中文](../README.zh-CN.md#user-content-case-three-reference-product-ad) · [繁體中文](../README.zh-TW.md#user-content-case-three-reference-product-ad) · [日本語](../README.ja.md#user-content-case-three-reference-product-ad) · [한국어](../README.ko.md#user-content-case-three-reference-product-ad) · [Français](../README.fr.md#user-content-case-three-reference-product-ad) · [Deutsch](../README.de.md#user-content-case-three-reference-product-ad) · [Español](../README.es.md#user-content-case-three-reference-product-ad) · [Português (Brasil)](../README.pt-BR.md#user-content-case-three-reference-product-ad)
 
 Separate product identity, lighting, and layout references with an explicit priority order.
 
@@ -14,6 +14,6 @@ Separate product identity, lighting, and layout references with an explicit prio
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8McVcasAAxJwu?format=jpg&amp;name=large" width="640" alt="三张参考图分工的商品广告 — @jackzhang123vip — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-three-reference-product-ad)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-three-reference-product-ad)
 
-[English](../README.md#case-three-reference-product-ad) · [简体中文](../README.zh-CN.md#case-three-reference-product-ad) · [繁體中文](../README.zh-TW.md#case-three-reference-product-ad) · [日本語](../README.ja.md#case-three-reference-product-ad) · [한국어](../README.ko.md#case-three-reference-product-ad) · [Français](../README.fr.md#case-three-reference-product-ad) · [Deutsch](../README.de.md#case-three-reference-product-ad) · [Español](../README.es.md#case-three-reference-product-ad) · [Português (Brasil)](../README.pt-BR.md#case-three-reference-product-ad)
+[English](../README.md#user-content-case-three-reference-product-ad) · [简体中文](../README.zh-CN.md#user-content-case-three-reference-product-ad) · [繁體中文](../README.zh-TW.md#user-content-case-three-reference-product-ad) · [日本語](../README.ja.md#user-content-case-three-reference-product-ad) · [한국어](../README.ko.md#user-content-case-three-reference-product-ad) · [Français](../README.fr.md#user-content-case-three-reference-product-ad) · [Deutsch](../README.de.md#user-content-case-three-reference-product-ad) · [Español](../README.es.md#user-content-case-three-reference-product-ad) · [Português (Brasil)](../README.pt-BR.md#user-content-case-three-reference-product-ad)

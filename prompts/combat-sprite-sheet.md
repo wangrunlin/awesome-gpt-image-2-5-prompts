@@ -3,7 +3,7 @@
 
 <a href="https://x.com/8co28/status/2097423580229521849"><img src="https://pbs.twimg.com/media/HRuLMxZaQAAZfOo?format=jpg&amp;name=900x900" width="640" alt="Combat sprite sheet and transparent GIF — @8co28 — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-combat-sprite-sheet) · [简体中文](../README.zh-CN.md#case-combat-sprite-sheet) · [繁體中文](../README.zh-TW.md#case-combat-sprite-sheet) · [日本語](../README.ja.md#case-combat-sprite-sheet) · [한국어](../README.ko.md#case-combat-sprite-sheet) · [Français](../README.fr.md#case-combat-sprite-sheet) · [Deutsch](../README.de.md#case-combat-sprite-sheet) · [Español](../README.es.md#case-combat-sprite-sheet) · [Português (Brasil)](../README.pt-BR.md#case-combat-sprite-sheet)
+[English](../README.md#user-content-case-combat-sprite-sheet) · [简体中文](../README.zh-CN.md#user-content-case-combat-sprite-sheet) · [繁體中文](../README.zh-TW.md#user-content-case-combat-sprite-sheet) · [日本語](../README.ja.md#user-content-case-combat-sprite-sheet) · [한국어](../README.ko.md#user-content-case-combat-sprite-sheet) · [Français](../README.fr.md#user-content-case-combat-sprite-sheet) · [Deutsch](../README.de.md#user-content-case-combat-sprite-sheet) · [Español](../README.es.md#user-content-case-combat-sprite-sheet) · [Português (Brasil)](../README.pt-BR.md#user-content-case-combat-sprite-sheet)
 
 A widely shared workflow for turning character art into combat frames, followed by transparency repair and GIF assembly.
 
@@ -14,6 +14,6 @@ A widely shared workflow for turning character art into combat frames, followed 
 
 <a href="https://x.com/8co28/status/2097423580229521849"><img src="https://pbs.twimg.com/media/HRuLMxZaQAAZfOo?format=jpg&amp;name=900x900" width="640" alt="战斗精灵表与透明 GIF — @8co28 — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-combat-sprite-sheet)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-combat-sprite-sheet)
 
-[English](../README.md#case-combat-sprite-sheet) · [简体中文](../README.zh-CN.md#case-combat-sprite-sheet) · [繁體中文](../README.zh-TW.md#case-combat-sprite-sheet) · [日本語](../README.ja.md#case-combat-sprite-sheet) · [한국어](../README.ko.md#case-combat-sprite-sheet) · [Français](../README.fr.md#case-combat-sprite-sheet) · [Deutsch](../README.de.md#case-combat-sprite-sheet) · [Español](../README.es.md#case-combat-sprite-sheet) · [Português (Brasil)](../README.pt-BR.md#case-combat-sprite-sheet)
+[English](../README.md#user-content-case-combat-sprite-sheet) · [简体中文](../README.zh-CN.md#user-content-case-combat-sprite-sheet) · [繁體中文](../README.zh-TW.md#user-content-case-combat-sprite-sheet) · [日本語](../README.ja.md#user-content-case-combat-sprite-sheet) · [한국어](../README.ko.md#user-content-case-combat-sprite-sheet) · [Français](../README.fr.md#user-content-case-combat-sprite-sheet) · [Deutsch](../README.de.md#user-content-case-combat-sprite-sheet) · [Español](../README.es.md#user-content-case-combat-sprite-sheet) · [Português (Brasil)](../README.pt-BR.md#user-content-case-combat-sprite-sheet)

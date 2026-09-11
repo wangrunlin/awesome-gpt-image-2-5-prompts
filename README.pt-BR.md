@@ -15,6 +15,7 @@ As prévias dos criadores são exemplos da fonte, não resultados reproduzidos d
 
 Ordenado por uma pontuação de descoberta datada que combina curtidas, salvamentos, republicações e visualizações. Valores ausentes são desconhecidos, não zero. Este não é um ranking em tempo real nem um teste de qualidade.
 
+<a id="how-to-use"></a>
 ## Como usar
 
 Escolha uma imagem, expanda o prompt e copie o texto. Forneça as referências listadas e siga as etapas na ordem indicada. O link do site abre a página inicial; ele não preenche automaticamente o prompt. A exportação de GIFs e arquivos requer as ferramentas de processamento listadas.
@@ -109,12 +110,12 @@ Instruções localizadas preservam a receita editorial original ou rotulada. O t
 
 ---
 
-<a id="case-combat-sprite-sheet"></a>
+<a id="case-combat-sprite-sheet"></a><a id="user-content-case-combat-sprite-sheet"></a>
 ## *Sprite sheet* de combate e GIF com fundo transparente.
 
 <a href="https://x.com/8co28/status/2097423580229521849"><img src="https://pbs.twimg.com/media/HRuLMxZaQAAZfOo?format=jpg&amp;name=900x900" width="640" alt="*Sprite sheet* de combate e GIF com fundo transparente. — @8co28 — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-combat-sprite-sheet) · [简体中文](README.zh-CN.md#case-combat-sprite-sheet) · [繁體中文](README.zh-TW.md#case-combat-sprite-sheet) · [日本語](README.ja.md#case-combat-sprite-sheet) · [한국어](README.ko.md#case-combat-sprite-sheet) · [Français](README.fr.md#case-combat-sprite-sheet) · [Deutsch](README.de.md#case-combat-sprite-sheet) · [Español](README.es.md#case-combat-sprite-sheet) · [Português (Brasil)](README.pt-BR.md#case-combat-sprite-sheet)
+[English](README.md#user-content-case-combat-sprite-sheet) · [简体中文](README.zh-CN.md#user-content-case-combat-sprite-sheet) · [繁體中文](README.zh-TW.md#user-content-case-combat-sprite-sheet) · [日本語](README.ja.md#user-content-case-combat-sprite-sheet) · [한국어](README.ko.md#user-content-case-combat-sprite-sheet) · [Français](README.fr.md#user-content-case-combat-sprite-sheet) · [Deutsch](README.de.md#user-content-case-combat-sprite-sheet) · [Español](README.es.md#user-content-case-combat-sprite-sheet) · [Português (Brasil)](README.pt-BR.md#user-content-case-combat-sprite-sheet)
 
 Um fluxo de trabalho amplamente compartilhado para transformar a arte de um personagem em quadros de combate, seguido pelo ajuste da transparência e pela montagem do GIF.
 
@@ -167,12 +168,12 @@ O texto original exato não foi arquivado para esta adaptação do editor. Consu
 
 ---
 
-<a id="case-cosplay-mirror-group-selfie"></a>
+<a id="case-cosplay-mirror-group-selfie"></a><a id="user-content-case-cosplay-mirror-group-selfie"></a>
 ## Selfie em grupo no espelho com cosplay
 
 <a href="https://x.com/underwoodxie96/status/2097536477500452937"><img src="https://pbs.twimg.com/media/HRvx6aBa0AA8FVq?format=jpg&amp;name=medium" width="640" alt="Selfie em grupo no espelho com cosplay — @underwoodxie96 — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-cosplay-mirror-group-selfie) · [简体中文](README.zh-CN.md#case-cosplay-mirror-group-selfie) · [繁體中文](README.zh-TW.md#case-cosplay-mirror-group-selfie) · [日本語](README.ja.md#case-cosplay-mirror-group-selfie) · [한국어](README.ko.md#case-cosplay-mirror-group-selfie) · [Français](README.fr.md#case-cosplay-mirror-group-selfie) · [Deutsch](README.de.md#case-cosplay-mirror-group-selfie) · [Español](README.es.md#case-cosplay-mirror-group-selfie) · [Português (Brasil)](README.pt-BR.md#case-cosplay-mirror-group-selfie)
+[English](README.md#user-content-case-cosplay-mirror-group-selfie) · [简体中文](README.zh-CN.md#user-content-case-cosplay-mirror-group-selfie) · [繁體中文](README.zh-TW.md#user-content-case-cosplay-mirror-group-selfie) · [日本語](README.ja.md#user-content-case-cosplay-mirror-group-selfie) · [한국어](README.ko.md#user-content-case-cosplay-mirror-group-selfie) · [Français](README.fr.md#user-content-case-cosplay-mirror-group-selfie) · [Deutsch](README.de.md#user-content-case-cosplay-mirror-group-selfie) · [Español](README.es.md#user-content-case-cosplay-mirror-group-selfie) · [Português (Brasil)](README.pt-BR.md#user-content-case-cosplay-mirror-group-selfie)
 
 Use uma composição de espelho com flash para um retrato de grupo de cosplay em estilo semirrealista.
 
@@ -221,12 +222,12 @@ Holding a phone with the flash on, taking a mirror selfie in a slightly messy, c
 
 ---
 
-<a id="case-character-design-reference-sheet"></a>
+<a id="case-character-design-reference-sheet"></a><a id="user-content-case-character-design-reference-sheet"></a>
 ## Ficha completa de referência para produção de personagens
 
 <a href="https://x.com/meAsifAi/status/2097949170594193427"><img src="https://pbs.twimg.com/media/HR1pU0jbsAAu_UR?format=jpg&amp;name=medium" width="640" alt="Ficha completa de referência para produção de personagens — @meAsifAi — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-character-design-reference-sheet) · [简体中文](README.zh-CN.md#case-character-design-reference-sheet) · [繁體中文](README.zh-TW.md#case-character-design-reference-sheet) · [日本語](README.ja.md#case-character-design-reference-sheet) · [한국어](README.ko.md#case-character-design-reference-sheet) · [Français](README.fr.md#case-character-design-reference-sheet) · [Deutsch](README.de.md#case-character-design-reference-sheet) · [Español](README.es.md#case-character-design-reference-sheet) · [Português (Brasil)](README.pt-BR.md#case-character-design-reference-sheet)
+[English](README.md#user-content-case-character-design-reference-sheet) · [简体中文](README.zh-CN.md#user-content-case-character-design-reference-sheet) · [繁體中文](README.zh-TW.md#user-content-case-character-design-reference-sheet) · [日本語](README.ja.md#user-content-case-character-design-reference-sheet) · [한국어](README.ko.md#user-content-case-character-design-reference-sheet) · [Français](README.fr.md#user-content-case-character-design-reference-sheet) · [Deutsch](README.de.md#user-content-case-character-design-reference-sheet) · [Español](README.es.md#user-content-case-character-design-reference-sheet) · [Português (Brasil)](README.pt-BR.md#user-content-case-character-design-reference-sheet)
 
 Mantenha um personagem consistente em todas as representações, expressões, poses, detalhes do figurino, materiais e paleta de cores.
 
@@ -701,12 +702,12 @@ No character redesign, no identity drift, no inconsistent proportions, no changi
 
 ---
 
-<a id="case-vintage-baker-portraits"></a>
+<a id="case-vintage-baker-portraits"></a><a id="user-content-case-vintage-baker-portraits"></a>
 ## Série de retratos de padeiro vintage
 
 <a href="https://x.com/Lonely__MH/status/2097659111798390968"><img src="https://pbs.twimg.com/media/HRxhydObkAA62IH?format=jpg&amp;name=medium" width="640" alt="Série de retratos de padeiro vintage — @Lonely__MH — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-vintage-baker-portraits) · [简体中文](README.zh-CN.md#case-vintage-baker-portraits) · [繁體中文](README.zh-TW.md#case-vintage-baker-portraits) · [日本語](README.ja.md#case-vintage-baker-portraits) · [한국어](README.ko.md#case-vintage-baker-portraits) · [Français](README.fr.md#case-vintage-baker-portraits) · [Deutsch](README.de.md#case-vintage-baker-portraits) · [Español](README.es.md#case-vintage-baker-portraits) · [Português (Brasil)](README.pt-BR.md#case-vintage-baker-portraits)
+[English](README.md#user-content-case-vintage-baker-portraits) · [简体中文](README.zh-CN.md#user-content-case-vintage-baker-portraits) · [繁體中文](README.zh-TW.md#user-content-case-vintage-baker-portraits) · [日本語](README.ja.md#user-content-case-vintage-baker-portraits) · [한국어](README.ko.md#user-content-case-vintage-baker-portraits) · [Français](README.fr.md#user-content-case-vintage-baker-portraits) · [Deutsch](README.de.md#user-content-case-vintage-baker-portraits) · [Español](README.es.md#user-content-case-vintage-baker-portraits) · [Português (Brasil)](README.pt-BR.md#user-content-case-vintage-baker-portraits)
 
 Componha uma série coerente de retratos de adultos em uma cozinha retrô ensolarada.
 
@@ -811,12 +812,12 @@ Avoid repetitive face angles, stiff posing, oversized props, yellow color cast, 
 
 ---
 
-<a id="case-clay-skateboard-cat-loop"></a>
+<a id="case-clay-skateboard-cat-loop"></a><a id="user-content-case-clay-skateboard-cat-loop"></a>
 ## Loop de animação de gato andando de skate (estilo massinha/clay).
 
 <a href="https://x.com/nett0eth/status/2097683441298944340"><img src="https://pbs.twimg.com/tweet_video_thumb/HRx38yRXYAA8ZKx.jpg" width="640" alt="Loop de animação de gato andando de skate (estilo massinha/clay). — @nett0eth — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-clay-skateboard-cat-loop) · [简体中文](README.zh-CN.md#case-clay-skateboard-cat-loop) · [繁體中文](README.zh-TW.md#case-clay-skateboard-cat-loop) · [日本語](README.ja.md#case-clay-skateboard-cat-loop) · [한국어](README.ko.md#case-clay-skateboard-cat-loop) · [Français](README.fr.md#case-clay-skateboard-cat-loop) · [Deutsch](README.de.md#case-clay-skateboard-cat-loop) · [Español](README.es.md#case-clay-skateboard-cat-loop) · [Português (Brasil)](README.pt-BR.md#case-clay-skateboard-cat-loop)
+[English](README.md#user-content-case-clay-skateboard-cat-loop) · [简体中文](README.zh-CN.md#user-content-case-clay-skateboard-cat-loop) · [繁體中文](README.zh-TW.md#user-content-case-clay-skateboard-cat-loop) · [日本語](README.ja.md#user-content-case-clay-skateboard-cat-loop) · [한국어](README.ko.md#user-content-case-clay-skateboard-cat-loop) · [Français](README.fr.md#user-content-case-clay-skateboard-cat-loop) · [Deutsch](README.de.md#user-content-case-clay-skateboard-cat-loop) · [Español](README.es.md#user-content-case-clay-skateboard-cat-loop) · [Português (Brasil)](README.pt-BR.md#user-content-case-clay-skateboard-cat-loop)
 
 Gere uma sequência de ação artesanal no estilo massinha (*clay*) e, em seguida, monte os quadros em um GIF.
 
@@ -866,12 +867,12 @@ Create a 24-frame clay stop-motion loop of an orange-and-white cat riding a skat
 
 ---
 
-<a id="case-remove-ai-slop"></a>
+<a id="case-remove-ai-slop"></a><a id="user-content-case-remove-ai-slop"></a>
 ## Uma edição de duas palavras para aumentar o realismo.
 
 <a href="https://x.com/higgsfield_ai/status/2097556101155955113"><img src="https://pbs.twimg.com/amplify_video_thumb/2097555838105976832/img/61hSRq_QBrGkv9-6.jpg" width="640" alt="Uma edição de duas palavras para aumentar o realismo. — @higgsfield_ai — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-remove-ai-slop) · [简体中文](README.zh-CN.md#case-remove-ai-slop) · [繁體中文](README.zh-TW.md#case-remove-ai-slop) · [日本語](README.ja.md#case-remove-ai-slop) · [한국어](README.ko.md#case-remove-ai-slop) · [Français](README.fr.md#case-remove-ai-slop) · [Deutsch](README.de.md#case-remove-ai-slop) · [Español](README.es.md#case-remove-ai-slop) · [Português (Brasil)](README.pt-BR.md#case-remove-ai-slop)
+[English](README.md#user-content-case-remove-ai-slop) · [简体中文](README.zh-CN.md#user-content-case-remove-ai-slop) · [繁體中文](README.zh-TW.md#user-content-case-remove-ai-slop) · [日本語](README.ja.md#user-content-case-remove-ai-slop) · [한국어](README.ko.md#user-content-case-remove-ai-slop) · [Français](README.fr.md#user-content-case-remove-ai-slop) · [Deutsch](README.de.md#user-content-case-remove-ai-slop) · [Español](README.es.md#user-content-case-remove-ai-slop) · [Português (Brasil)](README.pt-BR.md#user-content-case-remove-ai-slop)
 
 Um comando de edição minimalista compartilhado com uma demonstração de "antes e depois".
 
@@ -920,12 +921,12 @@ remove slop
 
 ---
 
-<a id="case-style-reference-product-ugc"></a>
+<a id="case-style-reference-product-ugc"></a><a id="user-content-case-style-reference-product-ugc"></a>
 ## UGC de produto com referência de estilo
 
 <a href="https://x.com/Mho_23/status/2097483045221917131"><img src="https://pbs.twimg.com/media/HRvBtnraAAAChs3?format=jpg&amp;name=medium" width="640" alt="UGC de produto com referência de estilo — @Mho_23 — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-style-reference-product-ugc) · [简体中文](README.zh-CN.md#case-style-reference-product-ugc) · [繁體中文](README.zh-TW.md#case-style-reference-product-ugc) · [日本語](README.ja.md#case-style-reference-product-ugc) · [한국어](README.ko.md#case-style-reference-product-ugc) · [Français](README.fr.md#case-style-reference-product-ugc) · [Deutsch](README.de.md#case-style-reference-product-ugc) · [Español](README.es.md#case-style-reference-product-ugc) · [Português (Brasil)](README.pt-BR.md#case-style-reference-product-ugc)
+[English](README.md#user-content-case-style-reference-product-ugc) · [简体中文](README.zh-CN.md#user-content-case-style-reference-product-ugc) · [繁體中文](README.zh-TW.md#user-content-case-style-reference-product-ugc) · [日本語](README.ja.md#user-content-case-style-reference-product-ugc) · [한국어](README.ko.md#user-content-case-style-reference-product-ugc) · [Français](README.fr.md#user-content-case-style-reference-product-ugc) · [Deutsch](README.de.md#user-content-case-style-reference-product-ugc) · [Español](README.es.md#user-content-case-style-reference-product-ugc) · [Português (Brasil)](README.pt-BR.md#user-content-case-style-reference-product-ugc)
 
 Extraia um estilo visual de uma referência e use-o para compor uma cena com uma pessoa segurando um produto.
 
@@ -979,12 +980,12 @@ O texto original exato não foi arquivado para esta adaptação do editor. Consu
 
 ---
 
-<a id="case-dance-pose-keyframes"></a>
+<a id="case-dance-pose-keyframes"></a><a id="user-content-case-dance-pose-keyframes"></a>
 ## Folha de poses de dança baseada em personagem
 
 <a href="https://x.com/Mayz1169/status/2098050289819652321"><img src="https://pbs.twimg.com/media/HR3FLxVbwAAPSjy?format=jpg&amp;name=small" width="640" alt="Folha de poses de dança baseada em personagem — @Mayz1169 — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-dance-pose-keyframes) · [简体中文](README.zh-CN.md#case-dance-pose-keyframes) · [繁體中文](README.zh-TW.md#case-dance-pose-keyframes) · [日本語](README.ja.md#case-dance-pose-keyframes) · [한국어](README.ko.md#case-dance-pose-keyframes) · [Français](README.fr.md#case-dance-pose-keyframes) · [Deutsch](README.de.md#case-dance-pose-keyframes) · [Español](README.es.md#case-dance-pose-keyframes) · [Português (Brasil)](README.pt-BR.md#case-dance-pose-keyframes)
+[English](README.md#user-content-case-dance-pose-keyframes) · [简体中文](README.zh-CN.md#user-content-case-dance-pose-keyframes) · [繁體中文](README.zh-TW.md#user-content-case-dance-pose-keyframes) · [日本語](README.ja.md#user-content-case-dance-pose-keyframes) · [한국어](README.ko.md#user-content-case-dance-pose-keyframes) · [Français](README.fr.md#user-content-case-dance-pose-keyframes) · [Deutsch](README.de.md#user-content-case-dance-pose-keyframes) · [Español](README.es.md#user-content-case-dance-pose-keyframes) · [Português (Brasil)](README.pt-BR.md#user-content-case-dance-pose-keyframes)
 
 Crie dezesseis quadros-chave de dança de corpo inteiro que reflitam a personalidade de um personagem de referência.
 
@@ -1103,12 +1104,12 @@ Generic choreography, copied reference poses, repetitive or mirrored duplicates,
 
 ---
 
-<a id="case-coastal-abbey-travel-portrait"></a>
+<a id="case-coastal-abbey-travel-portrait"></a><a id="user-content-case-coastal-abbey-travel-portrait"></a>
 ## Retrato espontâneo de viagem em uma abadia costeira.
 
 <a href="https://x.com/saniaspeaks_/status/2097532595814940683"><img src="https://pbs.twimg.com/media/HRvuwVcasAAwAwf?format=jpg&amp;name=900x900" width="640" alt="Retrato espontâneo de viagem em uma abadia costeira. — @saniaspeaks_ — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-coastal-abbey-travel-portrait) · [简体中文](README.zh-CN.md#case-coastal-abbey-travel-portrait) · [繁體中文](README.zh-TW.md#case-coastal-abbey-travel-portrait) · [日本語](README.ja.md#case-coastal-abbey-travel-portrait) · [한국어](README.ko.md#case-coastal-abbey-travel-portrait) · [Français](README.fr.md#case-coastal-abbey-travel-portrait) · [Deutsch](README.de.md#case-coastal-abbey-travel-portrait) · [Español](README.es.md#case-coastal-abbey-travel-portrait) · [Português (Brasil)](README.pt-BR.md#case-coastal-abbey-travel-portrait)
+[English](README.md#user-content-case-coastal-abbey-travel-portrait) · [简体中文](README.zh-CN.md#user-content-case-coastal-abbey-travel-portrait) · [繁體中文](README.zh-TW.md#user-content-case-coastal-abbey-travel-portrait) · [日本語](README.ja.md#user-content-case-coastal-abbey-travel-portrait) · [한국어](README.ko.md#user-content-case-coastal-abbey-travel-portrait) · [Français](README.fr.md#user-content-case-coastal-abbey-travel-portrait) · [Deutsch](README.de.md#user-content-case-coastal-abbey-travel-portrait) · [Español](README.es.md#user-content-case-coastal-abbey-travel-portrait) · [Português (Brasil)](README.pt-BR.md#user-content-case-coastal-abbey-travel-portrait)
 
 Colocar um viajante com iluminação natural em frente a uma abadia costeira histórica, com detalhes de suas roupas e arquitetura.
 
@@ -1168,12 +1169,12 @@ Ultra-realistic photography, authentic candid travel photo, natural skin texture
 
 ---
 
-<a id="case-low-resolution-restoration"></a>
+<a id="case-low-resolution-restoration"></a><a id="user-content-case-low-resolution-restoration"></a>
 ## Restaure uma imagem de baixa resolução
 
 <a href="https://x.com/k_matsumaru/status/2097506834659893340"><img src="https://pbs.twimg.com/media/HRvWtOca8AA3CNW?format=jpg&amp;name=large" width="640" alt="Restaure uma imagem de baixa resolução — @k_matsumaru — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-low-resolution-restoration) · [简体中文](README.zh-CN.md#case-low-resolution-restoration) · [繁體中文](README.zh-TW.md#case-low-resolution-restoration) · [日本語](README.ja.md#case-low-resolution-restoration) · [한국어](README.ko.md#case-low-resolution-restoration) · [Français](README.fr.md#case-low-resolution-restoration) · [Deutsch](README.de.md#case-low-resolution-restoration) · [Español](README.es.md#case-low-resolution-restoration) · [Português (Brasil)](README.pt-BR.md#case-low-resolution-restoration)
+[English](README.md#user-content-case-low-resolution-restoration) · [简体中文](README.zh-CN.md#user-content-case-low-resolution-restoration) · [繁體中文](README.zh-TW.md#user-content-case-low-resolution-restoration) · [日本語](README.ja.md#user-content-case-low-resolution-restoration) · [한국어](README.ko.md#user-content-case-low-resolution-restoration) · [Français](README.fr.md#user-content-case-low-resolution-restoration) · [Deutsch](README.de.md#user-content-case-low-resolution-restoration) · [Español](README.es.md#user-content-case-low-resolution-restoration) · [Português (Brasil)](README.pt-BR.md#user-content-case-low-resolution-restoration)
 
 Torne uma imagem com ruído mais nítida, mantendo seu estilo de ilustração e composição originais.
 
@@ -1219,12 +1220,12 @@ O texto original exato não foi arquivado para esta adaptação do editor. Consu
 
 ---
 
-<a id="case-miniature-travel-landmark"></a>
+<a id="case-miniature-travel-landmark"></a><a id="user-content-case-miniature-travel-landmark"></a>
 ## Miniatura artesanal de ponto turístico
 
 <a href="https://x.com/Naiknelofar788/status/2097646788258021837"><img src="https://pbs.twimg.com/media/HRxWoHva0AADhqK?format=jpg&amp;name=medium" width="640" alt="Miniatura artesanal de ponto turístico — @Naiknelofar788 — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-miniature-travel-landmark) · [简体中文](README.zh-CN.md#case-miniature-travel-landmark) · [繁體中文](README.zh-TW.md#case-miniature-travel-landmark) · [日本語](README.ja.md#case-miniature-travel-landmark) · [한국어](README.ko.md#case-miniature-travel-landmark) · [Français](README.fr.md#case-miniature-travel-landmark) · [Deutsch](README.de.md#case-miniature-travel-landmark) · [Español](README.es.md#case-miniature-travel-landmark) · [Português (Brasil)](README.pt-BR.md#case-miniature-travel-landmark)
+[English](README.md#user-content-case-miniature-travel-landmark) · [简体中文](README.zh-CN.md#user-content-case-miniature-travel-landmark) · [繁體中文](README.zh-TW.md#user-content-case-miniature-travel-landmark) · [日本語](README.ja.md#user-content-case-miniature-travel-landmark) · [한국어](README.ko.md#user-content-case-miniature-travel-landmark) · [Français](README.fr.md#user-content-case-miniature-travel-landmark) · [Deutsch](README.de.md#user-content-case-miniature-travel-landmark) · [Español](README.es.md#user-content-case-miniature-travel-landmark) · [Português (Brasil)](README.pt-BR.md#user-content-case-miniature-travel-landmark)
 
 Construa um diorama colecionável de um ponto turístico, com uma placa de viagem e um fundo de papel em tons quentes.
 
@@ -1289,12 +1290,12 @@ Use soft natural lighting, gentle shadows, pastel yet realistic colors, miniatur
 
 ---
 
-<a id="case-nineties-japanese-ccd-photo"></a>
+<a id="case-nineties-japanese-ccd-photo"></a><a id="user-content-case-nineties-japanese-ccd-photo"></a>
 ## Retrato suave em provador fotográfico com CCD
 
 <a href="https://x.com/BubbleBrain/status/2098315158997307550"><img src="https://pbs.twimg.com/media/HR62IojbwAAfQ9w?format=jpg&amp;name=medium" width="640" alt="Retrato suave em provador fotográfico com CCD — @BubbleBrain — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-nineties-japanese-ccd-photo) · [简体中文](README.zh-CN.md#case-nineties-japanese-ccd-photo) · [繁體中文](README.zh-TW.md#case-nineties-japanese-ccd-photo) · [日本語](README.ja.md#case-nineties-japanese-ccd-photo) · [한국어](README.ko.md#case-nineties-japanese-ccd-photo) · [Français](README.fr.md#case-nineties-japanese-ccd-photo) · [Deutsch](README.de.md#case-nineties-japanese-ccd-photo) · [Español](README.es.md#case-nineties-japanese-ccd-photo) · [Português (Brasil)](README.pt-BR.md#case-nineties-japanese-ccd-photo)
+[English](README.md#user-content-case-nineties-japanese-ccd-photo) · [简体中文](README.zh-CN.md#user-content-case-nineties-japanese-ccd-photo) · [繁體中文](README.zh-TW.md#user-content-case-nineties-japanese-ccd-photo) · [日本語](README.ja.md#user-content-case-nineties-japanese-ccd-photo) · [한국어](README.ko.md#user-content-case-nineties-japanese-ccd-photo) · [Français](README.fr.md#user-content-case-nineties-japanese-ccd-photo) · [Deutsch](README.de.md#user-content-case-nineties-japanese-ccd-photo) · [Español](README.es.md#user-content-case-nineties-japanese-ccd-photo) · [Português (Brasil)](README.pt-BR.md#user-content-case-nineties-japanese-ccd-photo)
 
 Use brilho de destaque, pretos realçados e detalhes naturais da pele para um retrato no estilo de revista dos anos 90.
 
@@ -1361,12 +1362,12 @@ Avoid: plastic skin, excessive beautification, over-sharpening, HDR, hard light,
 
 ---
 
-<a id="case-forest-detail-stress-test"></a>
+<a id="case-forest-detail-stress-test"></a><a id="user-content-case-forest-detail-stress-test"></a>
 ## Um teste de estresse de detalhes de floresta
 
 <a href="https://x.com/mark_k/status/2097411028510179759"><img src="https://pbs.twimg.com/media/HRt_pW_XEAAYiCE?format=jpg&amp;name=medium" width="640" alt="Um teste de estresse de detalhes de floresta — @mark_k — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-forest-detail-stress-test) · [简体中文](README.zh-CN.md#case-forest-detail-stress-test) · [繁體中文](README.zh-TW.md#case-forest-detail-stress-test) · [日本語](README.ja.md#case-forest-detail-stress-test) · [한국어](README.ko.md#case-forest-detail-stress-test) · [Français](README.fr.md#case-forest-detail-stress-test) · [Deutsch](README.de.md#case-forest-detail-stress-test) · [Español](README.es.md#case-forest-detail-stress-test) · [Português (Brasil)](README.pt-BR.md#case-forest-detail-stress-test)
+[English](README.md#user-content-case-forest-detail-stress-test) · [简体中文](README.zh-CN.md#user-content-case-forest-detail-stress-test) · [繁體中文](README.zh-TW.md#user-content-case-forest-detail-stress-test) · [日本語](README.ja.md#user-content-case-forest-detail-stress-test) · [한국어](README.ko.md#user-content-case-forest-detail-stress-test) · [Français](README.fr.md#user-content-case-forest-detail-stress-test) · [Deutsch](README.de.md#user-content-case-forest-detail-stress-test) · [Español](README.es.md#user-content-case-forest-detail-stress-test) · [Português (Brasil)](README.pt-BR.md#user-content-case-forest-detail-stress-test)
 
 Folhagem densa é um teste visual útil para verificar texturas repetitivas e artefatos de ruído.
 
@@ -1414,12 +1415,12 @@ Photo of a clearing in the woods with lots of green foliage, highly detailed
 
 ---
 
-<a id="case-character-idle-sprite-loop"></a>
+<a id="case-character-idle-sprite-loop"></a><a id="user-content-case-character-idle-sprite-loop"></a>
 ## Uma sequência de referência de animação de espera (idle loop) de personagem
 
 <a href="https://x.com/hahazwei/status/2097591465329488095"><img src="https://pbs.twimg.com/media/HRwkIsTaAAAdZHh?format=jpg&amp;name=small" width="640" alt="Uma sequência de referência de animação de espera (idle loop) de personagem — @hahazwei — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-character-idle-sprite-loop) · [简体中文](README.zh-CN.md#case-character-idle-sprite-loop) · [繁體中文](README.zh-TW.md#case-character-idle-sprite-loop) · [日本語](README.ja.md#case-character-idle-sprite-loop) · [한국어](README.ko.md#case-character-idle-sprite-loop) · [Français](README.fr.md#case-character-idle-sprite-loop) · [Deutsch](README.de.md#case-character-idle-sprite-loop) · [Español](README.es.md#case-character-idle-sprite-loop) · [Português (Brasil)](README.pt-BR.md#case-character-idle-sprite-loop)
+[English](README.md#user-content-case-character-idle-sprite-loop) · [简体中文](README.zh-CN.md#user-content-case-character-idle-sprite-loop) · [繁體中文](README.zh-TW.md#user-content-case-character-idle-sprite-loop) · [日本語](README.ja.md#user-content-case-character-idle-sprite-loop) · [한국어](README.ko.md#user-content-case-character-idle-sprite-loop) · [Français](README.fr.md#user-content-case-character-idle-sprite-loop) · [Deutsch](README.de.md#user-content-case-character-idle-sprite-loop) · [Español](README.es.md#user-content-case-character-idle-sprite-loop) · [Português (Brasil)](README.pt-BR.md#user-content-case-character-idle-sprite-loop)
 
 Transforme um personagem enviado em um pequeno sprite de pixel art com um ciclo de espera consistente.
 
@@ -1472,12 +1473,12 @@ O texto original exato não foi arquivado para esta adaptação do editor. Consu
 
 ---
 
-<a id="case-robot-sequential-edits"></a>
+<a id="case-robot-sequential-edits"></a><a id="user-content-case-robot-sequential-edits"></a>
 ## Um robô passando por nove edições sequenciais.
 
 <a href="https://x.com/ctgptlb/status/2097479691368337900"><img src="https://pbs.twimg.com/amplify_video_thumb/2097478204055556096/img/k3LUsecrIzgwwSFG.jpg" width="640" alt="Um robô passando por nove edições sequenciais. — @ctgptlb — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-robot-sequential-edits) · [简体中文](README.zh-CN.md#case-robot-sequential-edits) · [繁體中文](README.zh-TW.md#case-robot-sequential-edits) · [日本語](README.ja.md#case-robot-sequential-edits) · [한국어](README.ko.md#case-robot-sequential-edits) · [Français](README.fr.md#case-robot-sequential-edits) · [Deutsch](README.de.md#case-robot-sequential-edits) · [Español](README.es.md#case-robot-sequential-edits) · [Português (Brasil)](README.pt-BR.md#case-robot-sequential-edits)
+[English](README.md#user-content-case-robot-sequential-edits) · [简体中文](README.zh-CN.md#user-content-case-robot-sequential-edits) · [繁體中文](README.zh-TW.md#user-content-case-robot-sequential-edits) · [日本語](README.ja.md#user-content-case-robot-sequential-edits) · [한국어](README.ko.md#user-content-case-robot-sequential-edits) · [Français](README.fr.md#user-content-case-robot-sequential-edits) · [Deutsch](README.de.md#user-content-case-robot-sequential-edits) · [Español](README.es.md#user-content-case-robot-sequential-edits) · [Português (Brasil)](README.pt-BR.md#user-content-case-robot-sequential-edits)
 
 Repita um ciclo de ação curto, utilizando o resultado de cada etapa como entrada para a edição seguinte.
 
@@ -1536,12 +1537,12 @@ O texto original exato não foi arquivado para esta adaptação do editor. Consu
 
 ---
 
-<a id="case-travel-magazine-page"></a>
+<a id="case-travel-magazine-page"></a><a id="user-content-case-travel-magazine-page"></a>
 ## Uma página de revista de viagens personalizada
 
 <a href="https://x.com/minchoi/status/2097525572591136869"><img src="https://pbs.twimg.com/media/HRvnVMIbMAE5-nd?format=jpg&amp;name=medium" width="640" alt="Uma página de revista de viagens personalizada — @minchoi — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-travel-magazine-page) · [简体中文](README.zh-CN.md#case-travel-magazine-page) · [繁體中文](README.zh-TW.md#case-travel-magazine-page) · [日本語](README.ja.md#case-travel-magazine-page) · [한국어](README.ko.md#case-travel-magazine-page) · [Français](README.fr.md#case-travel-magazine-page) · [Deutsch](README.de.md#case-travel-magazine-page) · [Español](README.es.md#case-travel-magazine-page) · [Português (Brasil)](README.pt-BR.md#case-travel-magazine-page)
+[English](README.md#user-content-case-travel-magazine-page) · [简体中文](README.zh-CN.md#user-content-case-travel-magazine-page) · [繁體中文](README.zh-TW.md#user-content-case-travel-magazine-page) · [日本語](README.ja.md#user-content-case-travel-magazine-page) · [한국어](README.ko.md#user-content-case-travel-magazine-page) · [Français](README.fr.md#user-content-case-travel-magazine-page) · [Deutsch](README.de.md#user-content-case-travel-magazine-page) · [Español](README.es.md#user-content-case-travel-magazine-page) · [Português (Brasil)](README.pt-BR.md#user-content-case-travel-magazine-page)
 
 Combine uma referência de viajante, um destino, fotos e tipografia editorial densa em uma única página.
 
@@ -1588,12 +1589,12 @@ O texto original exato não foi arquivado para esta adaptação do editor. Consu
 
 ---
 
-<a id="case-dreamy-qipao-portrait"></a>
+<a id="case-dreamy-qipao-portrait"></a><a id="user-content-case-dreamy-qipao-portrait"></a>
 ## Um retrato etéreo com *qipao*
 
 <a href="https://x.com/BubbleBrain/status/2097513469172129825"><img src="https://pbs.twimg.com/media/HRvdLStaoAAAkSy?format=jpg&amp;name=medium" width="640" alt="Um retrato etéreo com *qipao* — @BubbleBrain — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-dreamy-qipao-portrait) · [简体中文](README.zh-CN.md#case-dreamy-qipao-portrait) · [繁體中文](README.zh-TW.md#case-dreamy-qipao-portrait) · [日本語](README.ja.md#case-dreamy-qipao-portrait) · [한국어](README.ko.md#case-dreamy-qipao-portrait) · [Français](README.fr.md#case-dreamy-qipao-portrait) · [Deutsch](README.de.md#case-dreamy-qipao-portrait) · [Español](README.es.md#case-dreamy-qipao-portrait) · [Português (Brasil)](README.pt-BR.md#case-dreamy-qipao-portrait)
+[English](README.md#user-content-case-dreamy-qipao-portrait) · [简体中文](README.zh-CN.md#user-content-case-dreamy-qipao-portrait) · [繁體中文](README.zh-TW.md#user-content-case-dreamy-qipao-portrait) · [日本語](README.ja.md#user-content-case-dreamy-qipao-portrait) · [한국어](README.ko.md#user-content-case-dreamy-qipao-portrait) · [Français](README.fr.md#user-content-case-dreamy-qipao-portrait) · [Deutsch](README.de.md#user-content-case-dreamy-qipao-portrait) · [Español](README.es.md#user-content-case-dreamy-qipao-portrait) · [Português (Brasil)](README.pt-BR.md#user-content-case-dreamy-qipao-portrait)
 
 Um *prompt* de retrato compacto que combina enquadramento em ângulo alto, efeito *bloom* e foco suave.
 
@@ -1641,12 +1642,12 @@ Proporção 9:16, vestindo um qipao, brilho de luz suave, desfoque onírico, ân
 
 ---
 
-<a id="case-separate-frame-animation"></a>
+<a id="case-separate-frame-animation"></a><a id="user-content-case-separate-frame-animation"></a>
 ## Animar usando variações de imagem distintas.
 
 <a href="https://x.com/elle_elle_e/status/2097439673308389840"><img src="https://pbs.twimg.com/media/HRuaOTLa8AABSjw?format=jpg&amp;name=medium" width="640" alt="Animar usando variações de imagem distintas. — @elle_elle_e — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-separate-frame-animation) · [简体中文](README.zh-CN.md#case-separate-frame-animation) · [繁體中文](README.zh-TW.md#case-separate-frame-animation) · [日本語](README.ja.md#case-separate-frame-animation) · [한국어](README.ko.md#case-separate-frame-animation) · [Français](README.fr.md#case-separate-frame-animation) · [Deutsch](README.de.md#case-separate-frame-animation) · [Español](README.es.md#case-separate-frame-animation) · [Português (Brasil)](README.pt-BR.md#case-separate-frame-animation)
+[English](README.md#user-content-case-separate-frame-animation) · [简体中文](README.zh-CN.md#user-content-case-separate-frame-animation) · [繁體中文](README.zh-TW.md#user-content-case-separate-frame-animation) · [日本語](README.ja.md#user-content-case-separate-frame-animation) · [한국어](README.ko.md#user-content-case-separate-frame-animation) · [Français](README.fr.md#user-content-case-separate-frame-animation) · [Deutsch](README.de.md#user-content-case-separate-frame-animation) · [Español](README.es.md#user-content-case-separate-frame-animation) · [Português (Brasil)](README.pt-BR.md#user-content-case-separate-frame-animation)
 
 Utilize quadros editados separadamente quando uma grade de *sprites* distorcer excessivamente o personagem.
 
@@ -1699,12 +1700,12 @@ O texto original exato não foi arquivado para esta adaptação do editor. Consu
 
 ---
 
-<a id="case-pixel-pet-loop"></a>
+<a id="case-pixel-pet-loop"></a><a id="user-content-case-pixel-pet-loop"></a>
 ## Folha de animação de animais de estimação em pixel art
 
 <a href="https://x.com/Mayz1169/status/2097575677130379754"><img src="https://pbs.twimg.com/tweet_video_thumb/HRwUqb0aEAA_VkS.jpg" width="640" alt="Folha de animação de animais de estimação em pixel art — @Mayz1169 — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-pixel-pet-loop) · [简体中文](README.zh-CN.md#case-pixel-pet-loop) · [繁體中文](README.zh-TW.md#case-pixel-pet-loop) · [日本語](README.ja.md#case-pixel-pet-loop) · [한국어](README.ko.md#case-pixel-pet-loop) · [Français](README.fr.md#case-pixel-pet-loop) · [Deutsch](README.de.md#case-pixel-pet-loop) · [Español](README.es.md#case-pixel-pet-loop) · [Português (Brasil)](README.pt-BR.md#case-pixel-pet-loop)
+[English](README.md#user-content-case-pixel-pet-loop) · [简体中文](README.zh-CN.md#user-content-case-pixel-pet-loop) · [繁體中文](README.zh-TW.md#user-content-case-pixel-pet-loop) · [日本語](README.ja.md#user-content-case-pixel-pet-loop) · [한국어](README.ko.md#user-content-case-pixel-pet-loop) · [Français](README.fr.md#user-content-case-pixel-pet-loop) · [Deutsch](README.de.md#user-content-case-pixel-pet-loop) · [Español](README.es.md#user-content-case-pixel-pet-loop) · [Português (Brasil)](README.pt-BR.md#user-content-case-pixel-pet-loop)
 
 Traduzir as características identificadoras de um animal de estimação em um loop de pixel art 4×4 consistente.
 
@@ -1943,12 +1944,12 @@ If your environment cannot create or attach an animated GIF or ZIP, clearly stat
 
 ---
 
-<a id="case-beach-w-sit-pose"></a>
+<a id="case-beach-w-sit-pose"></a><a id="user-content-case-beach-w-sit-pose"></a>
 ## Retrato de praia com pose sentada em forma de W
 
 <a href="https://x.com/DeepBlueX0/status/2097479273514934642"><img src="https://pbs.twimg.com/media/HRu-RnEbgAAK_Tk?format=jpg&amp;name=medium" width="640" alt="Retrato de praia com pose sentada em forma de W — @DeepBlueX0 — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-beach-w-sit-pose) · [简体中文](README.zh-CN.md#case-beach-w-sit-pose) · [繁體中文](README.zh-TW.md#case-beach-w-sit-pose) · [日本語](README.ja.md#case-beach-w-sit-pose) · [한국어](README.ko.md#case-beach-w-sit-pose) · [Français](README.fr.md#case-beach-w-sit-pose) · [Deutsch](README.de.md#case-beach-w-sit-pose) · [Español](README.es.md#case-beach-w-sit-pose) · [Português (Brasil)](README.pt-BR.md#case-beach-w-sit-pose)
+[English](README.md#user-content-case-beach-w-sit-pose) · [简体中文](README.zh-CN.md#user-content-case-beach-w-sit-pose) · [繁體中文](README.zh-TW.md#user-content-case-beach-w-sit-pose) · [日本語](README.ja.md#user-content-case-beach-w-sit-pose) · [한국어](README.ko.md#user-content-case-beach-w-sit-pose) · [Français](README.fr.md#user-content-case-beach-w-sit-pose) · [Deutsch](README.de.md#user-content-case-beach-w-sit-pose) · [Español](README.es.md#user-content-case-beach-w-sit-pose) · [Português (Brasil)](README.pt-BR.md#user-content-case-beach-w-sit-pose)
 
 Explore uma breve instrução de pose em chinês combinada com dicas de cena em emoji.
 
@@ -1990,19 +1991,19 @@ Pato Sentado (W-sit) 🏝️👙😜🦵🫰🍋🥤
 
 ### Observações
 
-- O original é uma breve instrução em chinês com dicas em emoji. Não há mais instrução ou imagem de referência necessária fornecida na postagem principal.
+- O original é um prompt curto em chinês com emojis que indicam a cena. A postagem principal não fornece um prompt mais detalhado nem especifica uma imagem de referência obrigatória.
 - Esta prévia e seu engajamento pertencem à postagem GPT Image 2.5 de 9 de setembro, não ao exemplo citado da Imagem 2 do GPT de 2 de setembro.
 
 [Open Image 2.5](https://image-2-5.com) · [Voltar ao índice da galeria](#collection)
 
 ---
 
-<a id="case-line-bust-sticker-gif"></a>
+<a id="case-line-bust-sticker-gif"></a><a id="user-content-case-line-bust-sticker-gif"></a>
 ## GIF de adesivo de beijo no estilo LINE
 
 <a href="https://x.com/Gorden_Sun/status/2097508341992083824"><img src="https://pbs.twimg.com/tweet_video_thumb/HRvYtOcbAAAztHg.jpg" width="640" alt="GIF de adesivo de beijo no estilo LINE — @Gorden_Sun — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-line-bust-sticker-gif) · [简体中文](README.zh-CN.md#case-line-bust-sticker-gif) · [繁體中文](README.zh-TW.md#case-line-bust-sticker-gif) · [日本語](README.ja.md#case-line-bust-sticker-gif) · [한국어](README.ko.md#case-line-bust-sticker-gif) · [Français](README.fr.md#case-line-bust-sticker-gif) · [Deutsch](README.de.md#case-line-bust-sticker-gif) · [Español](README.es.md#case-line-bust-sticker-gif) · [Português (Brasil)](README.pt-BR.md#case-line-bust-sticker-gif)
+[English](README.md#user-content-case-line-bust-sticker-gif) · [简体中文](README.zh-CN.md#user-content-case-line-bust-sticker-gif) · [繁體中文](README.zh-TW.md#user-content-case-line-bust-sticker-gif) · [日本語](README.ja.md#user-content-case-line-bust-sticker-gif) · [한국어](README.ko.md#user-content-case-line-bust-sticker-gif) · [Français](README.fr.md#user-content-case-line-bust-sticker-gif) · [Deutsch](README.de.md#user-content-case-line-bust-sticker-gif) · [Español](README.es.md#user-content-case-line-bust-sticker-gif) · [Português (Brasil)](README.pt-BR.md#user-content-case-line-bust-sticker-gif)
 
 Gere dezesseis poses de busto conectadas com letras chinesas fixas e, em seguida, monte um GIF.
 
@@ -2062,12 +2063,12 @@ Após gerar a imagem, recorte-a em quadrados individuais, removendo o máximo de
 
 ---
 
-<a id="case-six-color-fashion-campaign"></a>
+<a id="case-six-color-fashion-campaign"></a><a id="user-content-case-six-color-fashion-campaign"></a>
 ## Campanha de moda com seis cores
 
 <a href="https://x.com/ImagineArt_X/status/2097520463811608862"><img src="https://pbs.twimg.com/media/HRvg8ccbkAAZ3NQ?format=jpg&amp;name=large" width="640" alt="Campanha de moda com seis cores — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-six-color-fashion-campaign) · [简体中文](README.zh-CN.md#case-six-color-fashion-campaign) · [繁體中文](README.zh-TW.md#case-six-color-fashion-campaign) · [日本語](README.ja.md#case-six-color-fashion-campaign) · [한국어](README.ko.md#case-six-color-fashion-campaign) · [Français](README.fr.md#case-six-color-fashion-campaign) · [Deutsch](README.de.md#case-six-color-fashion-campaign) · [Español](README.es.md#case-six-color-fashion-campaign) · [Português (Brasil)](README.pt-BR.md#case-six-color-fashion-campaign)
+[English](README.md#user-content-case-six-color-fashion-campaign) · [简体中文](README.zh-CN.md#user-content-case-six-color-fashion-campaign) · [繁體中文](README.zh-TW.md#user-content-case-six-color-fashion-campaign) · [日本語](README.ja.md#user-content-case-six-color-fashion-campaign) · [한국어](README.ko.md#user-content-case-six-color-fashion-campaign) · [Français](README.fr.md#user-content-case-six-color-fashion-campaign) · [Deutsch](README.de.md#user-content-case-six-color-fashion-campaign) · [Español](README.es.md#user-content-case-six-color-fashion-campaign) · [Português (Brasil)](README.pt-BR.md#user-content-case-six-color-fashion-campaign)
 
 Combine seis cores e poses distintas em uma campanha de moda fotografada em ângulo de baixo para cima (contra-plongée).
 
@@ -2116,12 +2117,12 @@ a fashion campaign for an invented label, shot from a camera on the ground with 
 
 ---
 
-<a id="case-six-panel-newspaper-comic"></a>
+<a id="case-six-panel-newspaper-comic"></a><a id="user-content-case-six-panel-newspaper-comic"></a>
 ## Tira de jornal em quadrinhos com seis quadros
 
 <a href="https://x.com/ImagineArt_X/status/2097520479246704871"><img src="https://pbs.twimg.com/media/HRvhZGHaQAAlzoS?format=jpg&amp;name=large" width="640" alt="Tira de jornal em quadrinhos com seis quadros — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-six-panel-newspaper-comic) · [简体中文](README.zh-CN.md#case-six-panel-newspaper-comic) · [繁體中文](README.zh-TW.md#case-six-panel-newspaper-comic) · [日本語](README.ja.md#case-six-panel-newspaper-comic) · [한국어](README.ko.md#case-six-panel-newspaper-comic) · [Français](README.fr.md#case-six-panel-newspaper-comic) · [Deutsch](README.de.md#case-six-panel-newspaper-comic) · [Español](README.es.md#case-six-panel-newspaper-comic) · [Português (Brasil)](README.pt-BR.md#case-six-panel-newspaper-comic)
+[English](README.md#user-content-case-six-panel-newspaper-comic) · [简体中文](README.zh-CN.md#user-content-case-six-panel-newspaper-comic) · [繁體中文](README.zh-TW.md#user-content-case-six-panel-newspaper-comic) · [日本語](README.ja.md#user-content-case-six-panel-newspaper-comic) · [한국어](README.ko.md#user-content-case-six-panel-newspaper-comic) · [Français](README.fr.md#user-content-case-six-panel-newspaper-comic) · [Deutsch](README.de.md#user-content-case-six-panel-newspaper-comic) · [Español](README.es.md#user-content-case-six-panel-newspaper-comic) · [Português (Brasil)](README.pt-BR.md#user-content-case-six-panel-newspaper-comic)
 
 Explore um layout fixo de seis quadros com personagens recorrentes e um quadro mudo (sem falas).
 
@@ -2171,12 +2172,12 @@ a 1960s Sunday newspaper comic strip on yellowed newsprint, six panels in two ro
 
 ---
 
-<a id="case-espresso-service-manual"></a>
+<a id="case-espresso-service-manual"></a><a id="user-content-case-espresso-service-manual"></a>
 ## Diagrama de manual de serviço de máquina de café expresso
 
 <a href="https://x.com/ImagineArt_X/status/2097520469150986457"><img src="https://pbs.twimg.com/media/HRvhFOtb0AAGMeg?format=jpg&amp;name=large" width="640" alt="Diagrama de manual de serviço de máquina de café expresso — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-espresso-service-manual) · [简体中文](README.zh-CN.md#case-espresso-service-manual) · [繁體中文](README.zh-TW.md#case-espresso-service-manual) · [日本語](README.ja.md#case-espresso-service-manual) · [한국어](README.ko.md#case-espresso-service-manual) · [Français](README.fr.md#case-espresso-service-manual) · [Deutsch](README.de.md#case-espresso-service-manual) · [Español](README.es.md#case-espresso-service-manual) · [Português (Brasil)](README.pt-BR.md#case-espresso-service-manual)
+[English](README.md#user-content-case-espresso-service-manual) · [简体中文](README.zh-CN.md#user-content-case-espresso-service-manual) · [繁體中文](README.zh-TW.md#user-content-case-espresso-service-manual) · [日本語](README.ja.md#user-content-case-espresso-service-manual) · [한국어](README.ko.md#user-content-case-espresso-service-manual) · [Français](README.fr.md#user-content-case-espresso-service-manual) · [Deutsch](README.de.md#user-content-case-espresso-service-manual) · [Español](README.es.md#user-content-case-espresso-service-manual) · [Português (Brasil)](README.pt-BR.md#user-content-case-espresso-service-manual)
 
 Combine uma ilustração em corte, rótulos numerados, uma legenda e um bloco de título preciso.
 
@@ -2226,12 +2227,12 @@ a domestic espresso machine drawn in section, 1960s service manual style, fine b
 
 ---
 
-<a id="case-cybernetic-monochrome-portrait"></a>
+<a id="case-cybernetic-monochrome-portrait"></a><a id="user-content-case-cybernetic-monochrome-portrait"></a>
 ## Retrato cibernético monocromático
 
 <a href="https://x.com/meng_dagg695/status/2097558679956664521"><img src="https://pbs.twimg.com/media/HRwGeNGa0AAEpHk?format=jpg&amp;name=900x900" width="640" alt="Retrato cibernético monocromático — @meng_dagg695 — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-cybernetic-monochrome-portrait) · [简体中文](README.zh-CN.md#case-cybernetic-monochrome-portrait) · [繁體中文](README.zh-TW.md#case-cybernetic-monochrome-portrait) · [日本語](README.ja.md#case-cybernetic-monochrome-portrait) · [한국어](README.ko.md#case-cybernetic-monochrome-portrait) · [Français](README.fr.md#case-cybernetic-monochrome-portrait) · [Deutsch](README.de.md#case-cybernetic-monochrome-portrait) · [Español](README.es.md#case-cybernetic-monochrome-portrait) · [Português (Brasil)](README.pt-BR.md#case-cybernetic-monochrome-portrait)
+[English](README.md#user-content-case-cybernetic-monochrome-portrait) · [简体中文](README.zh-CN.md#user-content-case-cybernetic-monochrome-portrait) · [繁體中文](README.zh-TW.md#user-content-case-cybernetic-monochrome-portrait) · [日本語](README.ja.md#user-content-case-cybernetic-monochrome-portrait) · [한국어](README.ko.md#user-content-case-cybernetic-monochrome-portrait) · [Français](README.fr.md#user-content-case-cybernetic-monochrome-portrait) · [Deutsch](README.de.md#user-content-case-cybernetic-monochrome-portrait) · [Español](README.es.md#user-content-case-cybernetic-monochrome-portrait) · [Português (Brasil)](README.pt-BR.md#user-content-case-cybernetic-monochrome-portrait)
 
 Crie um retrato de alto contraste utilizando porcelana, cabos e iluminação de estúdio dramática.
 
@@ -2279,12 +2280,12 @@ Cybernetic horror portrait, gaunt humanoid figure with cracked porcelain-white s
 
 ---
 
-<a id="case-candid-cafe-photo"></a>
+<a id="case-candid-cafe-photo"></a><a id="user-content-case-candid-cafe-photo"></a>
 ## Uma foto espontânea de café tirada com celular
 
 <a href="https://x.com/blueemi99/status/2097602273085931662"><img src="https://pbs.twimg.com/media/HRwuCVkaQAAJS1X?format=jpg&amp;name=medium" width="640" alt="Uma foto espontânea de café tirada com celular — @blueemi99 — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-candid-cafe-photo) · [简体中文](README.zh-CN.md#case-candid-cafe-photo) · [繁體中文](README.zh-TW.md#case-candid-cafe-photo) · [日本語](README.ja.md#case-candid-cafe-photo) · [한국어](README.ko.md#case-candid-cafe-photo) · [Français](README.fr.md#case-candid-cafe-photo) · [Deutsch](README.de.md#case-candid-cafe-photo) · [Español](README.es.md#case-candid-cafe-photo) · [Português (Brasil)](README.pt-BR.md#case-candid-cafe-photo)
+[English](README.md#user-content-case-candid-cafe-photo) · [简体中文](README.zh-CN.md#user-content-case-candid-cafe-photo) · [繁體中文](README.zh-TW.md#user-content-case-candid-cafe-photo) · [日本語](README.ja.md#user-content-case-candid-cafe-photo) · [한국어](README.ko.md#user-content-case-candid-cafe-photo) · [Français](README.fr.md#user-content-case-candid-cafe-photo) · [Deutsch](README.de.md#user-content-case-candid-cafe-photo) · [Español](README.es.md#user-content-case-candid-cafe-photo) · [Português (Brasil)](README.pt-BR.md#user-content-case-candid-cafe-photo)
 
 Uma referência básica útil para fotografia cotidiana com aspecto natural.
 
@@ -2332,12 +2333,12 @@ make me a realistic iphone photo of a woman in a cafe
 
 ---
 
-<a id="case-retro-infomercial-frame"></a>
+<a id="case-retro-infomercial-frame"></a><a id="user-content-case-retro-infomercial-frame"></a>
 ## Quadro publicitário no estilo de infomercial retrô.
 
 <a href="https://x.com/ImagineArt_X/status/2097520474226147462"><img src="https://pbs.twimg.com/media/HRvhPCSaIAA9WfW?format=jpg&amp;name=large" width="640" alt="Quadro publicitário no estilo de infomercial retrô. — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-retro-infomercial-frame) · [简体中文](README.zh-CN.md#case-retro-infomercial-frame) · [繁體中文](README.zh-TW.md#case-retro-infomercial-frame) · [日本語](README.ja.md#case-retro-infomercial-frame) · [한국어](README.ko.md#case-retro-infomercial-frame) · [Français](README.fr.md#case-retro-infomercial-frame) · [Deutsch](README.de.md#case-retro-infomercial-frame) · [Español](README.es.md#case-retro-infomercial-frame) · [Português (Brasil)](README.pt-BR.md#case-retro-infomercial-frame)
+[English](README.md#user-content-case-retro-infomercial-frame) · [简体中文](README.zh-CN.md#user-content-case-retro-infomercial-frame) · [繁體中文](README.zh-TW.md#user-content-case-retro-infomercial-frame) · [日本語](README.ja.md#user-content-case-retro-infomercial-frame) · [한국어](README.ko.md#user-content-case-retro-infomercial-frame) · [Français](README.fr.md#user-content-case-retro-infomercial-frame) · [Deutsch](README.de.md#user-content-case-retro-infomercial-frame) · [Español](README.es.md#user-content-case-retro-infomercial-frame) · [Português (Brasil)](README.pt-BR.md#user-content-case-retro-infomercial-frame)
 
 Crie uma imagem publicitária nostálgica que combine a exibição de um produto com uma sobreposição de texto denso.
 
@@ -2387,12 +2388,12 @@ a frame grab from a 1994 infomercial, standard definition video with scanlines. 
 
 ---
 
-<a id="case-cel-animation-duel"></a>
+<a id="case-cel-animation-duel"></a><a id="user-content-case-cel-animation-duel"></a>
 ## Duelo em estilo de animação tradicional (cel) sobre areia vulcânica
 
 <a href="https://x.com/ImagineArt_X/status/2097520490013433944"><img src="https://pbs.twimg.com/media/HRvht74akAA4dMU?format=jpg&amp;name=large" width="640" alt="Duelo em estilo de animação tradicional (cel) sobre areia vulcânica — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-cel-animation-duel) · [简体中文](README.zh-CN.md#case-cel-animation-duel) · [繁體中文](README.zh-TW.md#case-cel-animation-duel) · [日本語](README.ja.md#case-cel-animation-duel) · [한국어](README.ko.md#case-cel-animation-duel) · [Français](README.fr.md#case-cel-animation-duel) · [Deutsch](README.de.md#case-cel-animation-duel) · [Español](README.es.md#case-cel-animation-duel) · [Português (Brasil)](README.pt-BR.md#case-cel-animation-duel)
+[English](README.md#user-content-case-cel-animation-duel) · [简体中文](README.zh-CN.md#user-content-case-cel-animation-duel) · [繁體中文](README.zh-TW.md#user-content-case-cel-animation-duel) · [日本語](README.ja.md#user-content-case-cel-animation-duel) · [한국어](README.ko.md#user-content-case-cel-animation-duel) · [Français](README.fr.md#user-content-case-cel-animation-duel) · [Deutsch](README.de.md#user-content-case-cel-animation-duel) · [Español](README.es.md#user-content-case-cel-animation-duel) · [Português (Brasil)](README.pt-BR.md#user-content-case-cel-animation-duel)
 
 Gere uma única imagem estática ilustrada de filme, com poses contrastantes dos personagens e pétalas em movimento direcional.
 
@@ -2441,12 +2442,12 @@ a still from a hand drawn Japanese animated film, late 1990s cel style, painted 
 
 ---
 
-<a id="case-geometry-locked-product-render"></a>
+<a id="case-geometry-locked-product-render"></a><a id="user-content-case-geometry-locked-product-render"></a>
 ## Renderização de produto com geometria fixa
 
 <a href="https://x.com/higgsfield/status/2097514650518831462"><img src="https://pbs.twimg.com/amplify_video_thumb/2097513089268842496/img/gIhm45SziKF5_TBr.jpg" width="640" alt="Renderização de produto com geometria fixa — @higgsfield — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-geometry-locked-product-render) · [简体中文](README.zh-CN.md#case-geometry-locked-product-render) · [繁體中文](README.zh-TW.md#case-geometry-locked-product-render) · [日本語](README.ja.md#case-geometry-locked-product-render) · [한국어](README.ko.md#case-geometry-locked-product-render) · [Français](README.fr.md#case-geometry-locked-product-render) · [Deutsch](README.de.md#case-geometry-locked-product-render) · [Español](README.es.md#case-geometry-locked-product-render) · [Português (Brasil)](README.pt-BR.md#case-geometry-locked-product-render)
+[English](README.md#user-content-case-geometry-locked-product-render) · [简体中文](README.zh-CN.md#user-content-case-geometry-locked-product-render) · [繁體中文](README.zh-TW.md#user-content-case-geometry-locked-product-render) · [日本語](README.ja.md#user-content-case-geometry-locked-product-render) · [한국어](README.ko.md#user-content-case-geometry-locked-product-render) · [Français](README.fr.md#user-content-case-geometry-locked-product-render) · [Deutsch](README.de.md#user-content-case-geometry-locked-product-render) · [Español](README.es.md#user-content-case-geometry-locked-product-render) · [Português (Brasil)](README.pt-BR.md#user-content-case-geometry-locked-product-render)
 
 Transforme um guia de geometria rudimentar em uma imagem de estúdio refinada, mantendo a pose fornecida.
 
@@ -2493,12 +2494,12 @@ O texto original exato não foi arquivado para esta adaptação do editor. Consu
 
 ---
 
-<a id="case-village-notice-board"></a>
+<a id="case-village-notice-board"></a><a id="user-content-case-village-notice-board"></a>
 ## Quadro de avisos de vilarejo com tipografia variada
 
 <a href="https://x.com/ImagineArt_X/status/2097520484569276860"><img src="https://pbs.twimg.com/media/HRvhj4Oa8AAjwoe?format=jpg&amp;name=large" width="640" alt="Quadro de avisos de vilarejo com tipografia variada — @ImagineArt_X — second image, identified as GPT Image 2.5 in the parent thread — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-village-notice-board) · [简体中文](README.zh-CN.md#case-village-notice-board) · [繁體中文](README.zh-TW.md#case-village-notice-board) · [日本語](README.ja.md#case-village-notice-board) · [한국어](README.ko.md#case-village-notice-board) · [Français](README.fr.md#case-village-notice-board) · [Deutsch](README.de.md#case-village-notice-board) · [Español](README.es.md#case-village-notice-board) · [Português (Brasil)](README.pt-BR.md#case-village-notice-board)
+[English](README.md#user-content-case-village-notice-board) · [简体中文](README.zh-CN.md#user-content-case-village-notice-board) · [繁體中文](README.zh-TW.md#user-content-case-village-notice-board) · [日本語](README.ja.md#user-content-case-village-notice-board) · [한국어](README.ko.md#user-content-case-village-notice-board) · [Français](README.fr.md#user-content-case-village-notice-board) · [Deutsch](README.de.md#user-content-case-village-notice-board) · [Español](README.es.md#user-content-case-village-notice-board) · [Português (Brasil)](README.pt-BR.md#user-content-case-village-notice-board)
 
 Organize sete elementos diferentes em um quadro de avisos, mantendo formatos distintos para cada um.
 
@@ -2547,12 +2548,12 @@ a cork notice board outside a Welsh village post office, overcast light, seven p
 
 ---
 
-<a id="case-move-the-lamp"></a>
+<a id="case-move-the-lamp"></a><a id="user-content-case-move-the-lamp"></a>
 ## Mover uma luminária em um ambiente
 
 <a href="https://x.com/higgsfield_ai/status/2097515081802379736"><img src="https://pbs.twimg.com/media/HRvacfWbcAAswbV?format=jpg&amp;name=medium" width="640" alt="Mover uma luminária em um ambiente — @higgsfield_ai — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-move-the-lamp) · [简体中文](README.zh-CN.md#case-move-the-lamp) · [繁體中文](README.zh-TW.md#case-move-the-lamp) · [日本語](README.ja.md#case-move-the-lamp) · [한국어](README.ko.md#case-move-the-lamp) · [Français](README.fr.md#case-move-the-lamp) · [Deutsch](README.de.md#case-move-the-lamp) · [Español](README.es.md#case-move-the-lamp) · [Português (Brasil)](README.pt-BR.md#case-move-the-lamp)
+[English](README.md#user-content-case-move-the-lamp) · [简体中文](README.zh-CN.md#user-content-case-move-the-lamp) · [繁體中文](README.zh-TW.md#user-content-case-move-the-lamp) · [日本語](README.ja.md#user-content-case-move-the-lamp) · [한국어](README.ko.md#user-content-case-move-the-lamp) · [Français](README.fr.md#user-content-case-move-the-lamp) · [Deutsch](README.de.md#user-content-case-move-the-lamp) · [Español](README.es.md#user-content-case-move-the-lamp) · [Português (Brasil)](README.pt-BR.md#user-content-case-move-the-lamp)
 
 Uma instrução breve para testar o movimento localizado de um objeto e a iluminação ao redor.
 
@@ -2600,12 +2601,12 @@ Move the lamp to the right
 
 ---
 
-<a id="case-poster-perspective-redesign"></a>
+<a id="case-poster-perspective-redesign"></a><a id="user-content-case-poster-perspective-redesign"></a>
 ## Redesenhar um pôster mantendo seu universo visual
 
 <a href="https://x.com/ponzponz15/status/2097513870969688188"><img src="https://pbs.twimg.com/media/HRvc0HEaIAAlJj4?format=jpg&amp;name=large" width="640" alt="Redesenhar um pôster mantendo seu universo visual — @ponzponz15 — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-poster-perspective-redesign) · [简体中文](README.zh-CN.md#case-poster-perspective-redesign) · [繁體中文](README.zh-TW.md#case-poster-perspective-redesign) · [日本語](README.ja.md#case-poster-perspective-redesign) · [한국어](README.ko.md#case-poster-perspective-redesign) · [Français](README.fr.md#case-poster-perspective-redesign) · [Deutsch](README.de.md#case-poster-perspective-redesign) · [Español](README.es.md#case-poster-perspective-redesign) · [Português (Brasil)](README.pt-BR.md#case-poster-perspective-redesign)
+[English](README.md#user-content-case-poster-perspective-redesign) · [简体中文](README.zh-CN.md#user-content-case-poster-perspective-redesign) · [繁體中文](README.zh-TW.md#user-content-case-poster-perspective-redesign) · [日本語](README.ja.md#user-content-case-poster-perspective-redesign) · [한국어](README.ko.md#user-content-case-poster-perspective-redesign) · [Français](README.fr.md#user-content-case-poster-perspective-redesign) · [Deutsch](README.de.md#user-content-case-poster-perspective-redesign) · [Español](README.es.md#user-content-case-poster-perspective-redesign) · [Português (Brasil)](README.pt-BR.md#user-content-case-poster-perspective-redesign)
 
 Alterar a perspectiva e o texto (copy) preservando a estrutura visual geral do pôster.
 
@@ -2651,12 +2652,12 @@ O texto original exato não foi arquivado para esta adaptação do editor. Consu
 
 ---
 
-<a id="case-sketch-guided-composition"></a>
+<a id="case-sketch-guided-composition"></a><a id="user-content-case-sketch-guided-composition"></a>
 ## Recomponha uma cena a partir de um esboço
 
 <a href="https://x.com/Synthetic_Copy/status/2097461076866560320"><img src="https://pbs.twimg.com/media/HRutuxdaQAAumX3?format=jpg&amp;name=900x900" width="640" alt="Recomponha uma cena a partir de um esboço — @Synthetic_Copy — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-sketch-guided-composition) · [简体中文](README.zh-CN.md#case-sketch-guided-composition) · [繁體中文](README.zh-TW.md#case-sketch-guided-composition) · [日本語](README.ja.md#case-sketch-guided-composition) · [한국어](README.ko.md#case-sketch-guided-composition) · [Français](README.fr.md#case-sketch-guided-composition) · [Deutsch](README.de.md#case-sketch-guided-composition) · [Español](README.es.md#case-sketch-guided-composition) · [Português (Brasil)](README.pt-BR.md#case-sketch-guided-composition)
+[English](README.md#user-content-case-sketch-guided-composition) · [简体中文](README.zh-CN.md#user-content-case-sketch-guided-composition) · [繁體中文](README.zh-TW.md#user-content-case-sketch-guided-composition) · [日本語](README.ja.md#user-content-case-sketch-guided-composition) · [한국어](README.ko.md#user-content-case-sketch-guided-composition) · [Français](README.fr.md#user-content-case-sketch-guided-composition) · [Deutsch](README.de.md#user-content-case-sketch-guided-composition) · [Español](README.es.md#user-content-case-sketch-guided-composition) · [Português (Brasil)](README.pt-BR.md#user-content-case-sketch-guided-composition)
 
 Use um esboço preliminar para indicar para onde os elementos existentes na cena devem se mover.
 
@@ -2704,12 +2705,12 @@ change the composition to this
 
 ---
 
-<a id="case-goblin-archer-animation"></a>
+<a id="case-goblin-archer-animation"></a><a id="user-content-case-goblin-archer-animation"></a>
 ## Uma animação de um goblin arqueiro
 
 <a href="https://x.com/Fomsky_Wei/status/2097559943075533257"><img src="https://pbs.twimg.com/tweet_video_thumb/HRwEaI1aAAAk6UX.jpg" width="640" alt="Uma animação de um goblin arqueiro — @Fomsky_Wei — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-goblin-archer-animation) · [简体中文](README.zh-CN.md#case-goblin-archer-animation) · [繁體中文](README.zh-TW.md#case-goblin-archer-animation) · [日本語](README.ja.md#case-goblin-archer-animation) · [한국어](README.ko.md#case-goblin-archer-animation) · [Français](README.fr.md#case-goblin-archer-animation) · [Deutsch](README.de.md#case-goblin-archer-animation) · [Español](README.es.md#case-goblin-archer-animation) · [Português (Brasil)](README.pt-BR.md#case-goblin-archer-animation)
+[English](README.md#user-content-case-goblin-archer-animation) · [简体中文](README.zh-CN.md#user-content-case-goblin-archer-animation) · [繁體中文](README.zh-TW.md#user-content-case-goblin-archer-animation) · [日本語](README.ja.md#user-content-case-goblin-archer-animation) · [한국어](README.ko.md#user-content-case-goblin-archer-animation) · [Français](README.fr.md#user-content-case-goblin-archer-animation) · [Deutsch](README.de.md#user-content-case-goblin-archer-animation) · [Español](README.es.md#user-content-case-goblin-archer-animation) · [Português (Brasil)](README.pt-BR.md#user-content-case-goblin-archer-animation)
 
 Gere uma sequência de ação e, em seguida, transforme seus quadros em uma animação em loop.
 
@@ -2762,12 +2763,12 @@ O texto original exato não foi arquivado para esta adaptação do editor. Consu
 
 ---
 
-<a id="case-sketch-to-future-building"></a>
+<a id="case-sketch-to-future-building"></a><a id="user-content-case-sketch-to-future-building"></a>
 ## Transforme um esboço em um edifício futuro
 
 <a href="https://x.com/peter6759/status/2097503664789430530"><img src="https://pbs.twimg.com/media/HRvUPvMaIAAMWkE?format=jpg&amp;name=900x900" width="640" alt="Transforme um esboço em um edifício futuro — @peter6759 — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-sketch-to-future-building) · [简体中文](README.zh-CN.md#case-sketch-to-future-building) · [繁體中文](README.zh-TW.md#case-sketch-to-future-building) · [日本語](README.ja.md#case-sketch-to-future-building) · [한국어](README.ko.md#case-sketch-to-future-building) · [Français](README.fr.md#case-sketch-to-future-building) · [Deutsch](README.de.md#case-sketch-to-future-building) · [Español](README.es.md#case-sketch-to-future-building) · [Português (Brasil)](README.pt-BR.md#case-sketch-to-future-building)
+[English](README.md#user-content-case-sketch-to-future-building) · [简体中文](README.zh-CN.md#user-content-case-sketch-to-future-building) · [繁體中文](README.zh-TW.md#user-content-case-sketch-to-future-building) · [日本語](README.ja.md#user-content-case-sketch-to-future-building) · [한국어](README.ko.md#user-content-case-sketch-to-future-building) · [Français](README.fr.md#user-content-case-sketch-to-future-building) · [Deutsch](README.de.md#user-content-case-sketch-to-future-building) · [Español](README.es.md#user-content-case-sketch-to-future-building) · [Português (Brasil)](README.pt-BR.md#user-content-case-sketch-to-future-building)
 
 Um comando minimalista de "esboço para arquitetura", no qual uma referência visual realiza a maior parte do trabalho.
 
@@ -2815,12 +2816,12 @@ turn it into a future building
 
 ---
 
-<a id="case-autumn-market-count-constraints"></a>
+<a id="case-autumn-market-count-constraints"></a><a id="user-content-case-autumn-market-count-constraints"></a>
 ## Cartaz de mercado de outono com restrições de contagem de objetos
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8PSRZaQAAU4WO?format=jpg&amp;name=medium" width="640" alt="Cartaz de mercado de outono com restrições de contagem de objetos — @jackzhang123vip — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-autumn-market-count-constraints) · [简体中文](README.zh-CN.md#case-autumn-market-count-constraints) · [繁體中文](README.zh-TW.md#case-autumn-market-count-constraints) · [日本語](README.ja.md#case-autumn-market-count-constraints) · [한국어](README.ko.md#case-autumn-market-count-constraints) · [Français](README.fr.md#case-autumn-market-count-constraints) · [Deutsch](README.de.md#case-autumn-market-count-constraints) · [Español](README.es.md#case-autumn-market-count-constraints) · [Português (Brasil)](README.pt-BR.md#case-autumn-market-count-constraints)
+[English](README.md#user-content-case-autumn-market-count-constraints) · [简体中文](README.zh-CN.md#user-content-case-autumn-market-count-constraints) · [繁體中文](README.zh-TW.md#user-content-case-autumn-market-count-constraints) · [日本語](README.ja.md#user-content-case-autumn-market-count-constraints) · [한국어](README.ko.md#user-content-case-autumn-market-count-constraints) · [Français](README.fr.md#user-content-case-autumn-market-count-constraints) · [Deutsch](README.de.md#user-content-case-autumn-market-count-constraints) · [Español](README.es.md#user-content-case-autumn-market-count-constraints) · [Português (Brasil)](README.pt-BR.md#user-content-case-autumn-market-count-constraints)
 
 Teste de cópia exata em chinês e composição estrita de três objetos em gerações repetidas.
 
@@ -2895,12 +2896,12 @@ Todo o texto deve ser legível; nenhum outro texto, marca, logotipo ou marca d'�
 
 ---
 
-<a id="case-bouncing-cutout-sticker"></a>
+<a id="case-bouncing-cutout-sticker"></a><a id="user-content-case-bouncing-cutout-sticker"></a>
 ## GIF de adesivo recortado saltitante
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/tweet_video_thumb/HR2diHLbUAAtO5A.jpg" width="640" alt="GIF de adesivo recortado saltitante — @AdrianPunk115 — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-bouncing-cutout-sticker) · [简体中文](README.zh-CN.md#case-bouncing-cutout-sticker) · [繁體中文](README.zh-TW.md#case-bouncing-cutout-sticker) · [日本語](README.ja.md#case-bouncing-cutout-sticker) · [한국어](README.ko.md#case-bouncing-cutout-sticker) · [Français](README.fr.md#case-bouncing-cutout-sticker) · [Deutsch](README.de.md#case-bouncing-cutout-sticker) · [Español](README.es.md#case-bouncing-cutout-sticker) · [Português (Brasil)](README.pt-BR.md#case-bouncing-cutout-sticker)
+[English](README.md#user-content-case-bouncing-cutout-sticker) · [简体中文](README.zh-CN.md#user-content-case-bouncing-cutout-sticker) · [繁體中文](README.zh-TW.md#user-content-case-bouncing-cutout-sticker) · [日本語](README.ja.md#user-content-case-bouncing-cutout-sticker) · [한국어](README.ko.md#user-content-case-bouncing-cutout-sticker) · [Français](README.fr.md#user-content-case-bouncing-cutout-sticker) · [Deutsch](README.de.md#user-content-case-bouncing-cutout-sticker) · [Español](README.es.md#user-content-case-bouncing-cutout-sticker) · [Português (Brasil)](README.pt-BR.md#user-content-case-bouncing-cutout-sticker)
 
 Transforme um objeto em um adesivo transparente e, em seguida, anime esse mesmo recorte com Python.
 
@@ -3010,12 +3011,12 @@ Caso o código ou o arquivo não possam ser executados em seu ambiente atual, in
 
 ---
 
-<a id="case-chinese-coffee-brewing-infographic"></a>
+<a id="case-chinese-coffee-brewing-infographic"></a><a id="user-content-case-chinese-coffee-brewing-infographic"></a>
 ## Infográfico de preparo de café chinês
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8LuWBbYAAp_3N?format=jpg&amp;name=large" width="640" alt="Infográfico de preparo de café chinês — @jackzhang123vip — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-chinese-coffee-brewing-infographic) · [简体中文](README.zh-CN.md#case-chinese-coffee-brewing-infographic) · [繁體中文](README.zh-TW.md#case-chinese-coffee-brewing-infographic) · [日本語](README.ja.md#case-chinese-coffee-brewing-infographic) · [한국어](README.ko.md#case-chinese-coffee-brewing-infographic) · [Français](README.fr.md#case-chinese-coffee-brewing-infographic) · [Deutsch](README.de.md#case-chinese-coffee-brewing-infographic) · [Español](README.es.md#case-chinese-coffee-brewing-infographic) · [Português (Brasil)](README.pt-BR.md#case-chinese-coffee-brewing-infographic)
+[English](README.md#user-content-case-chinese-coffee-brewing-infographic) · [简体中文](README.zh-CN.md#user-content-case-chinese-coffee-brewing-infographic) · [繁體中文](README.zh-TW.md#user-content-case-chinese-coffee-brewing-infographic) · [日本語](README.ja.md#user-content-case-chinese-coffee-brewing-infographic) · [한국어](README.ko.md#user-content-case-chinese-coffee-brewing-infographic) · [Français](README.fr.md#user-content-case-chinese-coffee-brewing-infographic) · [Deutsch](README.de.md#user-content-case-chinese-coffee-brewing-infographic) · [Español](README.es.md#user-content-case-chinese-coffee-brewing-infographic) · [Português (Brasil)](README.pt-BR.md#user-content-case-chinese-coffee-brewing-infographic)
 
 Renderize quatro etapas de preparo de café descritas com precisão em um guia vertical ilustrado e claro.
 
@@ -3082,12 +3083,12 @@ Todo o texto deve ser claramente legível; nenhum outro texto, marca, logotipo o
 
 ---
 
-<a id="case-coffee-festival-poster-iterations"></a>
+<a id="case-coffee-festival-poster-iterations"></a><a id="user-content-case-coffee-festival-poster-iterations"></a>
 ## Edição de pôster de festival de café em cinco etapas
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8M6yHaMAAcFxE?format=jpg&amp;name=large" width="640" alt="Edição de pôster de festival de café em cinco etapas — @jackzhang123vip — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-coffee-festival-poster-iterations) · [简体中文](README.zh-CN.md#case-coffee-festival-poster-iterations) · [繁體中文](README.zh-TW.md#case-coffee-festival-poster-iterations) · [日本語](README.ja.md#case-coffee-festival-poster-iterations) · [한국어](README.ko.md#case-coffee-festival-poster-iterations) · [Français](README.fr.md#case-coffee-festival-poster-iterations) · [Deutsch](README.de.md#case-coffee-festival-poster-iterations) · [Español](README.es.md#case-coffee-festival-poster-iterations) · [Português (Brasil)](README.pt-BR.md#case-coffee-festival-poster-iterations)
+[English](README.md#user-content-case-coffee-festival-poster-iterations) · [简体中文](README.zh-CN.md#user-content-case-coffee-festival-poster-iterations) · [繁體中文](README.zh-TW.md#user-content-case-coffee-festival-poster-iterations) · [日本語](README.ja.md#user-content-case-coffee-festival-poster-iterations) · [한국어](README.ko.md#user-content-case-coffee-festival-poster-iterations) · [Français](README.fr.md#user-content-case-coffee-festival-poster-iterations) · [Deutsch](README.de.md#user-content-case-coffee-festival-poster-iterations) · [Español](README.es.md#user-content-case-coffee-festival-poster-iterations) · [Português (Brasil)](README.pt-BR.md#user-content-case-coffee-festival-poster-iterations)
 
 Crie um pôster e altere sua paleta de cores, tamanho do título, data e vapor em etapas separadas.
 
@@ -3200,12 +3201,12 @@ Preservar todo o texto, equipamentos de café, fundo, sombras, grades, cores e c
 
 ---
 
-<a id="case-fixed-template-product-swap"></a>
+<a id="case-fixed-template-product-swap"></a><a id="user-content-case-fixed-template-product-swap"></a>
 ## Substituição de produto em um pôster fixo
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/media/HR2hSJmbAAAE0l0?format=jpg&amp;name=large" width="640" alt="Substituição de produto em um pôster fixo — @AdrianPunk115 — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-fixed-template-product-swap) · [简体中文](README.zh-CN.md#case-fixed-template-product-swap) · [繁體中文](README.zh-TW.md#case-fixed-template-product-swap) · [日本語](README.ja.md#case-fixed-template-product-swap) · [한국어](README.ko.md#case-fixed-template-product-swap) · [Français](README.fr.md#case-fixed-template-product-swap) · [Deutsch](README.de.md#case-fixed-template-product-swap) · [Español](README.es.md#case-fixed-template-product-swap) · [Português (Brasil)](README.pt-BR.md#case-fixed-template-product-swap)
+[English](README.md#user-content-case-fixed-template-product-swap) · [简体中文](README.zh-CN.md#user-content-case-fixed-template-product-swap) · [繁體中文](README.zh-TW.md#user-content-case-fixed-template-product-swap) · [日本語](README.ja.md#user-content-case-fixed-template-product-swap) · [한국어](README.ko.md#user-content-case-fixed-template-product-swap) · [Français](README.fr.md#user-content-case-fixed-template-product-swap) · [Deutsch](README.de.md#user-content-case-fixed-template-product-swap) · [Español](README.es.md#user-content-case-fixed-template-product-swap) · [Português (Brasil)](README.pt-BR.md#user-content-case-fixed-template-product-swap)
 
 Substituir o produto principal de um pôster, preservando seu layout, tipografia e fundo.
 
@@ -3292,12 +3293,12 @@ Gere apenas um pôster completo substituído.
 
 ---
 
-<a id="case-fresh-grocery-mobile-ui"></a>
+<a id="case-fresh-grocery-mobile-ui"></a><a id="user-content-case-fresh-grocery-mobile-ui"></a>
 ## Interface de usuário de aplicativo móvel para supermercado de produtos frescos
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8KyZta8AAqI3b?format=jpg&amp;name=large" width="640" alt="Interface de usuário de aplicativo móvel para supermercado de produtos frescos — @jackzhang123vip — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-fresh-grocery-mobile-ui) · [简体中文](README.zh-CN.md#case-fresh-grocery-mobile-ui) · [繁體中文](README.zh-TW.md#case-fresh-grocery-mobile-ui) · [日本語](README.ja.md#case-fresh-grocery-mobile-ui) · [한국어](README.ko.md#case-fresh-grocery-mobile-ui) · [Français](README.fr.md#case-fresh-grocery-mobile-ui) · [Deutsch](README.de.md#case-fresh-grocery-mobile-ui) · [Español](README.es.md#case-fresh-grocery-mobile-ui) · [Português (Brasil)](README.pt-BR.md#case-fresh-grocery-mobile-ui)
+[English](README.md#user-content-case-fresh-grocery-mobile-ui) · [简体中文](README.zh-CN.md#user-content-case-fresh-grocery-mobile-ui) · [繁體中文](README.zh-TW.md#user-content-case-fresh-grocery-mobile-ui) · [日本語](README.ja.md#user-content-case-fresh-grocery-mobile-ui) · [한국어](README.ko.md#user-content-case-fresh-grocery-mobile-ui) · [Français](README.fr.md#user-content-case-fresh-grocery-mobile-ui) · [Deutsch](README.de.md#user-content-case-fresh-grocery-mobile-ui) · [Español](README.es.md#user-content-case-fresh-grocery-mobile-ui) · [Português (Brasil)](README.pt-BR.md#user-content-case-fresh-grocery-mobile-ui)
 
 Crie uma tela inicial para um supermercado chinês com cartões de produtos, lojas próximas e quatro abas de navegação.
 
@@ -3346,12 +3347,12 @@ Design de interface de usuário para dispositivos móveis: Interface da página 
 
 ---
 
-<a id="case-long-copy-poster-template"></a>
+<a id="case-long-copy-poster-template"></a><a id="user-content-case-long-copy-poster-template"></a>
 ## Reutilização de modelo de pôster longo
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8OdvgbgAEo2CA?format=jpg&amp;name=large" width="640" alt="Reutilização de modelo de pôster longo — @jackzhang123vip — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-long-copy-poster-template) · [简体中文](README.zh-CN.md#case-long-copy-poster-template) · [繁體中文](README.zh-TW.md#case-long-copy-poster-template) · [日本語](README.ja.md#case-long-copy-poster-template) · [한국어](README.ko.md#case-long-copy-poster-template) · [Français](README.fr.md#case-long-copy-poster-template) · [Deutsch](README.de.md#case-long-copy-poster-template) · [Español](README.es.md#case-long-copy-poster-template) · [Português (Brasil)](README.pt-BR.md#case-long-copy-poster-template)
+[English](README.md#user-content-case-long-copy-poster-template) · [简体中文](README.zh-CN.md#user-content-case-long-copy-poster-template) · [繁體中文](README.zh-TW.md#user-content-case-long-copy-poster-template) · [日本語](README.ja.md#user-content-case-long-copy-poster-template) · [한국어](README.ko.md#user-content-case-long-copy-poster-template) · [Français](README.fr.md#user-content-case-long-copy-poster-template) · [Deutsch](README.de.md#user-content-case-long-copy-poster-template) · [Español](README.es.md#user-content-case-long-copy-poster-template) · [Português (Brasil)](README.pt-BR.md#user-content-case-long-copy-poster-template)
 
 Substituir os quatro blocos de texto de um pôster de café, mantendo sua hierarquia visual existente.
 
@@ -3408,12 +3409,12 @@ Engajamento observado: 2026-09-11T18:28:44.380Z · Fonte verificada: 2026-09-11T
 
 ---
 
-<a id="case-multi-product-studio-lineup"></a>
+<a id="case-multi-product-studio-lineup"></a><a id="user-content-case-multi-product-studio-lineup"></a>
 ## Alinhamento coerente de estúdio com vários produtos
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/media/HR3Bg2JbsAAXdH6?format=jpg&amp;name=medium" width="640" alt="Alinhamento coerente de estúdio com vários produtos — @AdrianPunk115 — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-multi-product-studio-lineup) · [简体中文](README.zh-CN.md#case-multi-product-studio-lineup) · [繁體中文](README.zh-TW.md#case-multi-product-studio-lineup) · [日本語](README.ja.md#case-multi-product-studio-lineup) · [한국어](README.ko.md#case-multi-product-studio-lineup) · [Français](README.fr.md#case-multi-product-studio-lineup) · [Deutsch](README.de.md#case-multi-product-studio-lineup) · [Español](README.es.md#case-multi-product-studio-lineup) · [Português (Brasil)](README.pt-BR.md#case-multi-product-studio-lineup)
+[English](README.md#user-content-case-multi-product-studio-lineup) · [简体中文](README.zh-CN.md#user-content-case-multi-product-studio-lineup) · [繁體中文](README.zh-TW.md#user-content-case-multi-product-studio-lineup) · [日本語](README.ja.md#user-content-case-multi-product-studio-lineup) · [한국어](README.ko.md#user-content-case-multi-product-studio-lineup) · [Français](README.fr.md#user-content-case-multi-product-studio-lineup) · [Deutsch](README.de.md#user-content-case-multi-product-studio-lineup) · [Español](README.es.md#user-content-case-multi-product-studio-lineup) · [Português (Brasil)](README.pt-BR.md#user-content-case-multi-product-studio-lineup)
 
 Organize vários produtos fotografados separadamente em uma composição de estúdio consistente.
 
@@ -3492,12 +3493,12 @@ Gere uma imagem principal quadrada em proporção 1:1 com todos os produtos tota
 
 ---
 
-<a id="case-nine-emotion-chat-stickers"></a>
+<a id="case-nine-emotion-chat-stickers"></a><a id="user-content-case-nine-emotion-chat-stickers"></a>
 ## Nove adesivos expressivos para bate-papo
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/media/HR25mF4a0AA43OY?format=jpg&amp;name=medium" width="640" alt="Nove adesivos expressivos para bate-papo — @AdrianPunk115 — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-nine-emotion-chat-stickers) · [简体中文](README.zh-CN.md#case-nine-emotion-chat-stickers) · [繁體中文](README.zh-TW.md#case-nine-emotion-chat-stickers) · [日本語](README.ja.md#case-nine-emotion-chat-stickers) · [한국어](README.ko.md#case-nine-emotion-chat-stickers) · [Français](README.fr.md#case-nine-emotion-chat-stickers) · [Deutsch](README.de.md#case-nine-emotion-chat-stickers) · [Español](README.es.md#case-nine-emotion-chat-stickers) · [Português (Brasil)](README.pt-BR.md#case-nine-emotion-chat-stickers)
+[English](README.md#user-content-case-nine-emotion-chat-stickers) · [简体中文](README.zh-CN.md#user-content-case-nine-emotion-chat-stickers) · [繁體中文](README.zh-TW.md#user-content-case-nine-emotion-chat-stickers) · [日本語](README.ja.md#user-content-case-nine-emotion-chat-stickers) · [한국어](README.ko.md#user-content-case-nine-emotion-chat-stickers) · [Français](README.fr.md#user-content-case-nine-emotion-chat-stickers) · [Deutsch](README.de.md#user-content-case-nine-emotion-chat-stickers) · [Español](README.es.md#user-content-case-nine-emotion-chat-stickers) · [Português (Brasil)](README.pt-BR.md#user-content-case-nine-emotion-chat-stickers)
 
 Crie uma folha consistente de 3x3 com nove reações distintas a partir de uma referência de personagem.
 
@@ -3569,12 +3570,12 @@ Deixe espaço em branco ao redor de cada adesivo, garantindo que eles não se to
 
 ---
 
-<a id="case-person-holding-reference-product"></a>
+<a id="case-person-holding-reference-product"></a><a id="user-content-case-person-holding-reference-product"></a>
 ## Pessoa segurando um produto de referência
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/media/HR24sTybEAE94tW?format=jpg&amp;name=large" width="640" alt="Pessoa segurando um produto de referência — @AdrianPunk115 — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-person-holding-reference-product) · [简体中文](README.zh-CN.md#case-person-holding-reference-product) · [繁體中文](README.zh-TW.md#case-person-holding-reference-product) · [日本語](README.ja.md#case-person-holding-reference-product) · [한국어](README.ko.md#case-person-holding-reference-product) · [Français](README.fr.md#case-person-holding-reference-product) · [Deutsch](README.de.md#case-person-holding-reference-product) · [Español](README.es.md#case-person-holding-reference-product) · [Português (Brasil)](README.pt-BR.md#case-person-holding-reference-product)
+[English](README.md#user-content-case-person-holding-reference-product) · [简体中文](README.zh-CN.md#user-content-case-person-holding-reference-product) · [繁體中文](README.zh-TW.md#user-content-case-person-holding-reference-product) · [日本語](README.ja.md#user-content-case-person-holding-reference-product) · [한국어](README.ko.md#user-content-case-person-holding-reference-product) · [Français](README.fr.md#user-content-case-person-holding-reference-product) · [Deutsch](README.de.md#user-content-case-person-holding-reference-product) · [Español](README.es.md#user-content-case-person-holding-reference-product) · [Português (Brasil)](README.pt-BR.md#user-content-case-person-holding-reference-product)
 
 Combine uma pessoa e um produto com pegada plausível, sombras de contato, escala e iluminação consistente.
 
@@ -3655,12 +3656,12 @@ Formato vertical 3:4, garantindo que tanto os personagens quanto os produtos est
 
 ---
 
-<a id="case-reference-shirt-try-on"></a>
+<a id="case-reference-shirt-try-on"></a><a id="user-content-case-reference-shirt-try-on"></a>
 ## Experimentação virtual de camisa de referência
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/media/HR22qgZbIAAF73P?format=jpg&amp;name=large" width="640" alt="Experimentação virtual de camisa de referência — @AdrianPunk115 — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-reference-shirt-try-on) · [简体中文](README.zh-CN.md#case-reference-shirt-try-on) · [繁體中文](README.zh-TW.md#case-reference-shirt-try-on) · [日本語](README.ja.md#case-reference-shirt-try-on) · [한국어](README.ko.md#case-reference-shirt-try-on) · [Français](README.fr.md#case-reference-shirt-try-on) · [Deutsch](README.de.md#case-reference-shirt-try-on) · [Español](README.es.md#case-reference-shirt-try-on) · [Português (Brasil)](README.pt-BR.md#case-reference-shirt-try-on)
+[English](README.md#user-content-case-reference-shirt-try-on) · [简体中文](README.zh-CN.md#user-content-case-reference-shirt-try-on) · [繁體中文](README.zh-TW.md#user-content-case-reference-shirt-try-on) · [日本語](README.ja.md#user-content-case-reference-shirt-try-on) · [한국어](README.ko.md#user-content-case-reference-shirt-try-on) · [Français](README.fr.md#user-content-case-reference-shirt-try-on) · [Deutsch](README.de.md#user-content-case-reference-shirt-try-on) · [Español](README.es.md#user-content-case-reference-shirt-try-on) · [Português (Brasil)](README.pt-BR.md#user-content-case-reference-shirt-try-on)
 
 Aplique uma camisa de referência, preservando o assunto, a construção da roupa e os detalhes da estampa.
 
@@ -3773,12 +3774,12 @@ Preserve a iluminação e o ambiente da imagem original, permitindo que a peça 
 
 ---
 
-<a id="case-single-cup-material-edit"></a>
+<a id="case-single-cup-material-edit"></a><a id="user-content-case-single-cup-material-edit"></a>
 ## Edição de cor e acabamento de uma única xícara.
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8OAYLbcAAIKTN?format=jpg&amp;name=medium" width="640" alt="Edição de cor e acabamento de uma única xícara. — @jackzhang123vip — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-single-cup-material-edit) · [简体中文](README.zh-CN.md#case-single-cup-material-edit) · [繁體中文](README.zh-TW.md#case-single-cup-material-edit) · [日本語](README.ja.md#case-single-cup-material-edit) · [한국어](README.ko.md#case-single-cup-material-edit) · [Français](README.fr.md#case-single-cup-material-edit) · [Deutsch](README.de.md#case-single-cup-material-edit) · [Español](README.es.md#case-single-cup-material-edit) · [Português (Brasil)](README.pt-BR.md#case-single-cup-material-edit)
+[English](README.md#user-content-case-single-cup-material-edit) · [简体中文](README.zh-CN.md#user-content-case-single-cup-material-edit) · [繁體中文](README.zh-TW.md#user-content-case-single-cup-material-edit) · [日本語](README.ja.md#user-content-case-single-cup-material-edit) · [한국어](README.ko.md#user-content-case-single-cup-material-edit) · [Français](README.fr.md#user-content-case-single-cup-material-edit) · [Deutsch](README.de.md#user-content-case-single-cup-material-edit) · [Español](README.es.md#user-content-case-single-cup-material-edit) · [Português (Brasil)](README.pt-BR.md#user-content-case-single-cup-material-edit)
 
 Alterar uma xícara vermelha brilhante para branca fosca, mantendo o retrato e o ambiente ao redor.
 
@@ -3836,12 +3837,12 @@ Mantenha inalterados a identidade da pessoa, o rosto, a expressão, o cabelo, o 
 
 ---
 
-<a id="case-six-frame-expression-gif"></a>
+<a id="case-six-frame-expression-gif"></a><a id="user-content-case-six-frame-expression-gif"></a>
 ## GIF de expressão facial em seis quadros
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/tweet_video_thumb/HR26LYObMAAH2TT.jpg" width="640" alt="GIF de expressão facial em seis quadros — @AdrianPunk115 — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-six-frame-expression-gif) · [简体中文](README.zh-CN.md#case-six-frame-expression-gif) · [繁體中文](README.zh-TW.md#case-six-frame-expression-gif) · [日本語](README.ja.md#case-six-frame-expression-gif) · [한국어](README.ko.md#case-six-frame-expression-gif) · [Français](README.fr.md#case-six-frame-expression-gif) · [Deutsch](README.de.md#case-six-frame-expression-gif) · [Español](README.es.md#case-six-frame-expression-gif) · [Português (Brasil)](README.pt-BR.md#case-six-frame-expression-gif)
+[English](README.md#user-content-case-six-frame-expression-gif) · [简体中文](README.zh-CN.md#user-content-case-six-frame-expression-gif) · [繁體中文](README.zh-TW.md#user-content-case-six-frame-expression-gif) · [日本語](README.ja.md#user-content-case-six-frame-expression-gif) · [한국어](README.ko.md#user-content-case-six-frame-expression-gif) · [Français](README.fr.md#user-content-case-six-frame-expression-gif) · [Deutsch](README.de.md#user-content-case-six-frame-expression-gif) · [Español](README.es.md#user-content-case-six-frame-expression-gif) · [Português (Brasil)](README.pt-BR.md#user-content-case-six-frame-expression-gif)
 
 Desenhe seis novos estágios de uma expressão facial e, em seguida, divida e monte os quadros correspondentes.
 
@@ -4155,12 +4156,12 @@ Execute e exporte o produto final diretamente. Não retorne simplesmente código
 
 ---
 
-<a id="case-three-reference-product-ad"></a>
+<a id="case-three-reference-product-ad"></a><a id="user-content-case-three-reference-product-ad"></a>
 ## Anúncio de produto com três referências
 
 <a href="https://x.com/jackzhang123vip/status/2098414576031481953"><img src="https://pbs.twimg.com/media/HR8McVcasAAxJwu?format=jpg&amp;name=large" width="640" alt="Anúncio de produto com três referências — @jackzhang123vip — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-three-reference-product-ad) · [简体中文](README.zh-CN.md#case-three-reference-product-ad) · [繁體中文](README.zh-TW.md#case-three-reference-product-ad) · [日本語](README.ja.md#case-three-reference-product-ad) · [한국어](README.ko.md#case-three-reference-product-ad) · [Français](README.fr.md#case-three-reference-product-ad) · [Deutsch](README.de.md#case-three-reference-product-ad) · [Español](README.es.md#case-three-reference-product-ad) · [Português (Brasil)](README.pt-BR.md#case-three-reference-product-ad)
+[English](README.md#user-content-case-three-reference-product-ad) · [简体中文](README.zh-CN.md#user-content-case-three-reference-product-ad) · [繁體中文](README.zh-TW.md#user-content-case-three-reference-product-ad) · [日本語](README.ja.md#user-content-case-three-reference-product-ad) · [한국어](README.ko.md#user-content-case-three-reference-product-ad) · [Français](README.fr.md#user-content-case-three-reference-product-ad) · [Deutsch](README.de.md#user-content-case-three-reference-product-ad) · [Español](README.es.md#user-content-case-three-reference-product-ad) · [Português (Brasil)](README.pt-BR.md#user-content-case-three-reference-product-ad)
 
 Referências separadas para identidade visual do produto, iluminação e layout, com uma ordem de prioridade explícita.
 
@@ -4214,12 +4215,12 @@ Não adicione texto, texto de preenchimento, inglês, caracteres ilegíveis, có
 
 ---
 
-<a id="case-transparent-product-relighting"></a>
+<a id="case-transparent-product-relighting"></a><a id="user-content-case-transparent-product-relighting"></a>
 ## Reiluminação de estúdio de produto transparente
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/media/HR3Ai-DbwAAWrPT?format=jpg&amp;name=large" width="640" alt="Reiluminação de estúdio de produto transparente — @AdrianPunk115 — Resultado de origem do criador" loading="lazy"></a>
 
-[English](README.md#case-transparent-product-relighting) · [简体中文](README.zh-CN.md#case-transparent-product-relighting) · [繁體中文](README.zh-TW.md#case-transparent-product-relighting) · [日本語](README.ja.md#case-transparent-product-relighting) · [한국어](README.ko.md#case-transparent-product-relighting) · [Français](README.fr.md#case-transparent-product-relighting) · [Deutsch](README.de.md#case-transparent-product-relighting) · [Español](README.es.md#case-transparent-product-relighting) · [Português (Brasil)](README.pt-BR.md#case-transparent-product-relighting)
+[English](README.md#user-content-case-transparent-product-relighting) · [简体中文](README.zh-CN.md#user-content-case-transparent-product-relighting) · [繁體中文](README.zh-TW.md#user-content-case-transparent-product-relighting) · [日本語](README.ja.md#user-content-case-transparent-product-relighting) · [한국어](README.ko.md#user-content-case-transparent-product-relighting) · [Français](README.fr.md#user-content-case-transparent-product-relighting) · [Deutsch](README.de.md#user-content-case-transparent-product-relighting) · [Español](README.es.md#user-content-case-transparent-product-relighting) · [Português (Brasil)](README.pt-BR.md#user-content-case-transparent-product-relighting)
 
 Mova um produto transparente para um estúdio escuro e reconstrua a transmissão, os reflexos e as sombras de contato.
 
@@ -4294,6 +4295,7 @@ Preserve o ângulo de captura original do produto; não mostre a parte traseira 
 
 ---
 
+<a id="data-for-your-app"></a>
 ## Dados e contribuição
 
 Os registros de origem em JSON geram cada galeria de idioma e o catálogo compartilhado. Leia o contrato de dados e as regras de curadoria antes de contribuir. As postagens de origem podem estar em qualquer idioma; nós as traduzimos.
@@ -4311,4 +4313,5 @@ Prompts e mídias de origem de terceiros permanecem sob os direitos de seus cria
 
 O Image 2.5 é um projeto independente, não afiliado nem endossado pela OpenAI.
 
+<a id="support"></a>
 Mantido por: [Image 2.5](https://image-2-5.com) · [support@image-2-5.com](mailto:support@image-2-5.com)

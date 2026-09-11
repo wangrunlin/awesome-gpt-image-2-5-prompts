@@ -3,7 +3,7 @@
 
 <a href="https://x.com/minchoi/status/2097525572591136869"><img src="https://pbs.twimg.com/media/HRvnVMIbMAE5-nd?format=jpg&amp;name=medium" width="640" alt="A personalized travel magazine page — @minchoi — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-travel-magazine-page) · [简体中文](../README.zh-CN.md#case-travel-magazine-page) · [繁體中文](../README.zh-TW.md#case-travel-magazine-page) · [日本語](../README.ja.md#case-travel-magazine-page) · [한국어](../README.ko.md#case-travel-magazine-page) · [Français](../README.fr.md#case-travel-magazine-page) · [Deutsch](../README.de.md#case-travel-magazine-page) · [Español](../README.es.md#case-travel-magazine-page) · [Português (Brasil)](../README.pt-BR.md#case-travel-magazine-page)
+[English](../README.md#user-content-case-travel-magazine-page) · [简体中文](../README.zh-CN.md#user-content-case-travel-magazine-page) · [繁體中文](../README.zh-TW.md#user-content-case-travel-magazine-page) · [日本語](../README.ja.md#user-content-case-travel-magazine-page) · [한국어](../README.ko.md#user-content-case-travel-magazine-page) · [Français](../README.fr.md#user-content-case-travel-magazine-page) · [Deutsch](../README.de.md#user-content-case-travel-magazine-page) · [Español](../README.es.md#user-content-case-travel-magazine-page) · [Português (Brasil)](../README.pt-BR.md#user-content-case-travel-magazine-page)
 
 Combine a traveler reference, destination, photos, and dense editorial typography on one page.
 
@@ -14,6 +14,6 @@ Combine a traveler reference, destination, photos, and dense editorial typograph
 
 <a href="https://x.com/minchoi/status/2097525572591136869"><img src="https://pbs.twimg.com/media/HRvnVMIbMAE5-nd?format=jpg&amp;name=medium" width="640" alt="个性化旅行杂志页 — @minchoi — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-travel-magazine-page)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-travel-magazine-page)
 
-[English](../README.md#case-travel-magazine-page) · [简体中文](../README.zh-CN.md#case-travel-magazine-page) · [繁體中文](../README.zh-TW.md#case-travel-magazine-page) · [日本語](../README.ja.md#case-travel-magazine-page) · [한국어](../README.ko.md#case-travel-magazine-page) · [Français](../README.fr.md#case-travel-magazine-page) · [Deutsch](../README.de.md#case-travel-magazine-page) · [Español](../README.es.md#case-travel-magazine-page) · [Português (Brasil)](../README.pt-BR.md#case-travel-magazine-page)
+[English](../README.md#user-content-case-travel-magazine-page) · [简体中文](../README.zh-CN.md#user-content-case-travel-magazine-page) · [繁體中文](../README.zh-TW.md#user-content-case-travel-magazine-page) · [日本語](../README.ja.md#user-content-case-travel-magazine-page) · [한국어](../README.ko.md#user-content-case-travel-magazine-page) · [Français](../README.fr.md#user-content-case-travel-magazine-page) · [Deutsch](../README.de.md#user-content-case-travel-magazine-page) · [Español](../README.es.md#user-content-case-travel-magazine-page) · [Português (Brasil)](../README.pt-BR.md#user-content-case-travel-magazine-page)

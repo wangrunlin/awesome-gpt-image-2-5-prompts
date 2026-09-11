@@ -3,7 +3,7 @@
 
 <a href="https://x.com/meng_dagg695/status/2097558679956664521"><img src="https://pbs.twimg.com/media/HRwGeNGa0AAEpHk?format=jpg&amp;name=900x900" width="640" alt="Monochrome cybernetic portrait — @meng_dagg695 — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-cybernetic-monochrome-portrait) · [简体中文](../README.zh-CN.md#case-cybernetic-monochrome-portrait) · [繁體中文](../README.zh-TW.md#case-cybernetic-monochrome-portrait) · [日本語](../README.ja.md#case-cybernetic-monochrome-portrait) · [한국어](../README.ko.md#case-cybernetic-monochrome-portrait) · [Français](../README.fr.md#case-cybernetic-monochrome-portrait) · [Deutsch](../README.de.md#case-cybernetic-monochrome-portrait) · [Español](../README.es.md#case-cybernetic-monochrome-portrait) · [Português (Brasil)](../README.pt-BR.md#case-cybernetic-monochrome-portrait)
+[English](../README.md#user-content-case-cybernetic-monochrome-portrait) · [简体中文](../README.zh-CN.md#user-content-case-cybernetic-monochrome-portrait) · [繁體中文](../README.zh-TW.md#user-content-case-cybernetic-monochrome-portrait) · [日本語](../README.ja.md#user-content-case-cybernetic-monochrome-portrait) · [한국어](../README.ko.md#user-content-case-cybernetic-monochrome-portrait) · [Français](../README.fr.md#user-content-case-cybernetic-monochrome-portrait) · [Deutsch](../README.de.md#user-content-case-cybernetic-monochrome-portrait) · [Español](../README.es.md#user-content-case-cybernetic-monochrome-portrait) · [Português (Brasil)](../README.pt-BR.md#user-content-case-cybernetic-monochrome-portrait)
 
 Build a high-contrast portrait around porcelain, cables, and dramatic studio lighting.
 
@@ -14,6 +14,6 @@ Build a high-contrast portrait around porcelain, cables, and dramatic studio lig
 
 <a href="https://x.com/meng_dagg695/status/2097558679956664521"><img src="https://pbs.twimg.com/media/HRwGeNGa0AAEpHk?format=jpg&amp;name=900x900" width="640" alt="黑白机械人像 — @meng_dagg695 — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-cybernetic-monochrome-portrait)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-cybernetic-monochrome-portrait)
 
-[English](../README.md#case-cybernetic-monochrome-portrait) · [简体中文](../README.zh-CN.md#case-cybernetic-monochrome-portrait) · [繁體中文](../README.zh-TW.md#case-cybernetic-monochrome-portrait) · [日本語](../README.ja.md#case-cybernetic-monochrome-portrait) · [한국어](../README.ko.md#case-cybernetic-monochrome-portrait) · [Français](../README.fr.md#case-cybernetic-monochrome-portrait) · [Deutsch](../README.de.md#case-cybernetic-monochrome-portrait) · [Español](../README.es.md#case-cybernetic-monochrome-portrait) · [Português (Brasil)](../README.pt-BR.md#case-cybernetic-monochrome-portrait)
+[English](../README.md#user-content-case-cybernetic-monochrome-portrait) · [简体中文](../README.zh-CN.md#user-content-case-cybernetic-monochrome-portrait) · [繁體中文](../README.zh-TW.md#user-content-case-cybernetic-monochrome-portrait) · [日本語](../README.ja.md#user-content-case-cybernetic-monochrome-portrait) · [한국어](../README.ko.md#user-content-case-cybernetic-monochrome-portrait) · [Français](../README.fr.md#user-content-case-cybernetic-monochrome-portrait) · [Deutsch](../README.de.md#user-content-case-cybernetic-monochrome-portrait) · [Español](../README.es.md#user-content-case-cybernetic-monochrome-portrait) · [Português (Brasil)](../README.pt-BR.md#user-content-case-cybernetic-monochrome-portrait)

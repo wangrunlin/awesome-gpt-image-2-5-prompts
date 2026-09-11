@@ -3,7 +3,7 @@
 
 <a href="https://x.com/BubbleBrain/status/2098315158997307550"><img src="https://pbs.twimg.com/media/HR62IojbwAAfQ9w?format=jpg&amp;name=medium" width="640" alt="Soft CCD fitting-room portrait — @BubbleBrain — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-nineties-japanese-ccd-photo) · [简体中文](../README.zh-CN.md#case-nineties-japanese-ccd-photo) · [繁體中文](../README.zh-TW.md#case-nineties-japanese-ccd-photo) · [日本語](../README.ja.md#case-nineties-japanese-ccd-photo) · [한국어](../README.ko.md#case-nineties-japanese-ccd-photo) · [Français](../README.fr.md#case-nineties-japanese-ccd-photo) · [Deutsch](../README.de.md#case-nineties-japanese-ccd-photo) · [Español](../README.es.md#case-nineties-japanese-ccd-photo) · [Português (Brasil)](../README.pt-BR.md#case-nineties-japanese-ccd-photo)
+[English](../README.md#user-content-case-nineties-japanese-ccd-photo) · [简体中文](../README.zh-CN.md#user-content-case-nineties-japanese-ccd-photo) · [繁體中文](../README.zh-TW.md#user-content-case-nineties-japanese-ccd-photo) · [日本語](../README.ja.md#user-content-case-nineties-japanese-ccd-photo) · [한국어](../README.ko.md#user-content-case-nineties-japanese-ccd-photo) · [Français](../README.fr.md#user-content-case-nineties-japanese-ccd-photo) · [Deutsch](../README.de.md#user-content-case-nineties-japanese-ccd-photo) · [Español](../README.es.md#user-content-case-nineties-japanese-ccd-photo) · [Português (Brasil)](../README.pt-BR.md#user-content-case-nineties-japanese-ccd-photo)
 
 Use highlight bloom, lifted blacks, and natural skin detail for a 1990s magazine portrait.
 
@@ -14,6 +14,6 @@ Use highlight bloom, lifted blacks, and natural skin detail for a 1990s magazine
 
 <a href="https://x.com/BubbleBrain/status/2098315158997307550"><img src="https://pbs.twimg.com/media/HR62IojbwAAfQ9w?format=jpg&amp;name=medium" width="640" alt="九十年代日杂 CCD 柔光人像 — @BubbleBrain — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-nineties-japanese-ccd-photo)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-nineties-japanese-ccd-photo)
 
-[English](../README.md#case-nineties-japanese-ccd-photo) · [简体中文](../README.zh-CN.md#case-nineties-japanese-ccd-photo) · [繁體中文](../README.zh-TW.md#case-nineties-japanese-ccd-photo) · [日本語](../README.ja.md#case-nineties-japanese-ccd-photo) · [한국어](../README.ko.md#case-nineties-japanese-ccd-photo) · [Français](../README.fr.md#case-nineties-japanese-ccd-photo) · [Deutsch](../README.de.md#case-nineties-japanese-ccd-photo) · [Español](../README.es.md#case-nineties-japanese-ccd-photo) · [Português (Brasil)](../README.pt-BR.md#case-nineties-japanese-ccd-photo)
+[English](../README.md#user-content-case-nineties-japanese-ccd-photo) · [简体中文](../README.zh-CN.md#user-content-case-nineties-japanese-ccd-photo) · [繁體中文](../README.zh-TW.md#user-content-case-nineties-japanese-ccd-photo) · [日本語](../README.ja.md#user-content-case-nineties-japanese-ccd-photo) · [한국어](../README.ko.md#user-content-case-nineties-japanese-ccd-photo) · [Français](../README.fr.md#user-content-case-nineties-japanese-ccd-photo) · [Deutsch](../README.de.md#user-content-case-nineties-japanese-ccd-photo) · [Español](../README.es.md#user-content-case-nineties-japanese-ccd-photo) · [Português (Brasil)](../README.pt-BR.md#user-content-case-nineties-japanese-ccd-photo)

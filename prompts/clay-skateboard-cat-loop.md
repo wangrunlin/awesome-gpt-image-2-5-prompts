@@ -3,7 +3,7 @@
 
 <a href="https://x.com/nett0eth/status/2097683441298944340"><img src="https://pbs.twimg.com/tweet_video_thumb/HRx38yRXYAA8ZKx.jpg" width="640" alt="Clay skateboard cat animation loop — @nett0eth — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-clay-skateboard-cat-loop) · [简体中文](../README.zh-CN.md#case-clay-skateboard-cat-loop) · [繁體中文](../README.zh-TW.md#case-clay-skateboard-cat-loop) · [日本語](../README.ja.md#case-clay-skateboard-cat-loop) · [한국어](../README.ko.md#case-clay-skateboard-cat-loop) · [Français](../README.fr.md#case-clay-skateboard-cat-loop) · [Deutsch](../README.de.md#case-clay-skateboard-cat-loop) · [Español](../README.es.md#case-clay-skateboard-cat-loop) · [Português (Brasil)](../README.pt-BR.md#case-clay-skateboard-cat-loop)
+[English](../README.md#user-content-case-clay-skateboard-cat-loop) · [简体中文](../README.zh-CN.md#user-content-case-clay-skateboard-cat-loop) · [繁體中文](../README.zh-TW.md#user-content-case-clay-skateboard-cat-loop) · [日本語](../README.ja.md#user-content-case-clay-skateboard-cat-loop) · [한국어](../README.ko.md#user-content-case-clay-skateboard-cat-loop) · [Français](../README.fr.md#user-content-case-clay-skateboard-cat-loop) · [Deutsch](../README.de.md#user-content-case-clay-skateboard-cat-loop) · [Español](../README.es.md#user-content-case-clay-skateboard-cat-loop) · [Português (Brasil)](../README.pt-BR.md#user-content-case-clay-skateboard-cat-loop)
 
 Generate a handmade clay-style action sequence, then assemble its frames into a GIF.
 
@@ -14,6 +14,6 @@ Generate a handmade clay-style action sequence, then assemble its frames into a 
 
 <a href="https://x.com/nett0eth/status/2097683441298944340"><img src="https://pbs.twimg.com/tweet_video_thumb/HRx38yRXYAA8ZKx.jpg" width="640" alt="黏土滑板猫循环动画 — @nett0eth — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-clay-skateboard-cat-loop)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-clay-skateboard-cat-loop)
 
-[English](../README.md#case-clay-skateboard-cat-loop) · [简体中文](../README.zh-CN.md#case-clay-skateboard-cat-loop) · [繁體中文](../README.zh-TW.md#case-clay-skateboard-cat-loop) · [日本語](../README.ja.md#case-clay-skateboard-cat-loop) · [한국어](../README.ko.md#case-clay-skateboard-cat-loop) · [Français](../README.fr.md#case-clay-skateboard-cat-loop) · [Deutsch](../README.de.md#case-clay-skateboard-cat-loop) · [Español](../README.es.md#case-clay-skateboard-cat-loop) · [Português (Brasil)](../README.pt-BR.md#case-clay-skateboard-cat-loop)
+[English](../README.md#user-content-case-clay-skateboard-cat-loop) · [简体中文](../README.zh-CN.md#user-content-case-clay-skateboard-cat-loop) · [繁體中文](../README.zh-TW.md#user-content-case-clay-skateboard-cat-loop) · [日本語](../README.ja.md#user-content-case-clay-skateboard-cat-loop) · [한국어](../README.ko.md#user-content-case-clay-skateboard-cat-loop) · [Français](../README.fr.md#user-content-case-clay-skateboard-cat-loop) · [Deutsch](../README.de.md#user-content-case-clay-skateboard-cat-loop) · [Español](../README.es.md#user-content-case-clay-skateboard-cat-loop) · [Português (Brasil)](../README.pt-BR.md#user-content-case-clay-skateboard-cat-loop)

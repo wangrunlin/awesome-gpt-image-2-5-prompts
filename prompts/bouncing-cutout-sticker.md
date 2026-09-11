@@ -3,7 +3,7 @@
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/tweet_video_thumb/HR2diHLbUAAtO5A.jpg" width="640" alt="Bouncing cutout sticker GIF — @AdrianPunk115 — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-bouncing-cutout-sticker) · [简体中文](../README.zh-CN.md#case-bouncing-cutout-sticker) · [繁體中文](../README.zh-TW.md#case-bouncing-cutout-sticker) · [日本語](../README.ja.md#case-bouncing-cutout-sticker) · [한국어](../README.ko.md#case-bouncing-cutout-sticker) · [Français](../README.fr.md#case-bouncing-cutout-sticker) · [Deutsch](../README.de.md#case-bouncing-cutout-sticker) · [Español](../README.es.md#case-bouncing-cutout-sticker) · [Português (Brasil)](../README.pt-BR.md#case-bouncing-cutout-sticker)
+[English](../README.md#user-content-case-bouncing-cutout-sticker) · [简体中文](../README.zh-CN.md#user-content-case-bouncing-cutout-sticker) · [繁體中文](../README.zh-TW.md#user-content-case-bouncing-cutout-sticker) · [日本語](../README.ja.md#user-content-case-bouncing-cutout-sticker) · [한국어](../README.ko.md#user-content-case-bouncing-cutout-sticker) · [Français](../README.fr.md#user-content-case-bouncing-cutout-sticker) · [Deutsch](../README.de.md#user-content-case-bouncing-cutout-sticker) · [Español](../README.es.md#user-content-case-bouncing-cutout-sticker) · [Português (Brasil)](../README.pt-BR.md#user-content-case-bouncing-cutout-sticker)
 
 Turn a subject into one transparent sticker, then animate that same cutout with Python.
 
@@ -14,6 +14,6 @@ Turn a subject into one transparent sticker, then animate that same cutout with 
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/tweet_video_thumb/HR2diHLbUAAtO5A.jpg" width="640" alt="弹跳贴纸 GIF — @AdrianPunk115 — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-bouncing-cutout-sticker)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-bouncing-cutout-sticker)
 
-[English](../README.md#case-bouncing-cutout-sticker) · [简体中文](../README.zh-CN.md#case-bouncing-cutout-sticker) · [繁體中文](../README.zh-TW.md#case-bouncing-cutout-sticker) · [日本語](../README.ja.md#case-bouncing-cutout-sticker) · [한국어](../README.ko.md#case-bouncing-cutout-sticker) · [Français](../README.fr.md#case-bouncing-cutout-sticker) · [Deutsch](../README.de.md#case-bouncing-cutout-sticker) · [Español](../README.es.md#case-bouncing-cutout-sticker) · [Português (Brasil)](../README.pt-BR.md#case-bouncing-cutout-sticker)
+[English](../README.md#user-content-case-bouncing-cutout-sticker) · [简体中文](../README.zh-CN.md#user-content-case-bouncing-cutout-sticker) · [繁體中文](../README.zh-TW.md#user-content-case-bouncing-cutout-sticker) · [日本語](../README.ja.md#user-content-case-bouncing-cutout-sticker) · [한국어](../README.ko.md#user-content-case-bouncing-cutout-sticker) · [Français](../README.fr.md#user-content-case-bouncing-cutout-sticker) · [Deutsch](../README.de.md#user-content-case-bouncing-cutout-sticker) · [Español](../README.es.md#user-content-case-bouncing-cutout-sticker) · [Português (Brasil)](../README.pt-BR.md#user-content-case-bouncing-cutout-sticker)

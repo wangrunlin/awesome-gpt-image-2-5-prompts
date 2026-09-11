@@ -3,7 +3,7 @@
 
 <a href="https://x.com/higgsfield_ai/status/2097556101155955113"><img src="https://pbs.twimg.com/amplify_video_thumb/2097555838105976832/img/61hSRq_QBrGkv9-6.jpg" width="640" alt="A two-word realism edit — @higgsfield_ai — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-remove-ai-slop) · [简体中文](../README.zh-CN.md#case-remove-ai-slop) · [繁體中文](../README.zh-TW.md#case-remove-ai-slop) · [日本語](../README.ja.md#case-remove-ai-slop) · [한국어](../README.ko.md#case-remove-ai-slop) · [Français](../README.fr.md#case-remove-ai-slop) · [Deutsch](../README.de.md#case-remove-ai-slop) · [Español](../README.es.md#case-remove-ai-slop) · [Português (Brasil)](../README.pt-BR.md#case-remove-ai-slop)
+[English](../README.md#user-content-case-remove-ai-slop) · [简体中文](../README.zh-CN.md#user-content-case-remove-ai-slop) · [繁體中文](../README.zh-TW.md#user-content-case-remove-ai-slop) · [日本語](../README.ja.md#user-content-case-remove-ai-slop) · [한국어](../README.ko.md#user-content-case-remove-ai-slop) · [Français](../README.fr.md#user-content-case-remove-ai-slop) · [Deutsch](../README.de.md#user-content-case-remove-ai-slop) · [Español](../README.es.md#user-content-case-remove-ai-slop) · [Português (Brasil)](../README.pt-BR.md#user-content-case-remove-ai-slop)
 
 A minimal editing prompt shared with a before-and-after demonstration.
 
@@ -14,6 +14,6 @@ A minimal editing prompt shared with a before-and-after demonstration.
 
 <a href="https://x.com/higgsfield_ai/status/2097556101155955113"><img src="https://pbs.twimg.com/amplify_video_thumb/2097555838105976832/img/61hSRq_QBrGkv9-6.jpg" width="640" alt="两个词的真实感编辑 — @higgsfield_ai — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-remove-ai-slop)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-remove-ai-slop)
 
-[English](../README.md#case-remove-ai-slop) · [简体中文](../README.zh-CN.md#case-remove-ai-slop) · [繁體中文](../README.zh-TW.md#case-remove-ai-slop) · [日本語](../README.ja.md#case-remove-ai-slop) · [한국어](../README.ko.md#case-remove-ai-slop) · [Français](../README.fr.md#case-remove-ai-slop) · [Deutsch](../README.de.md#case-remove-ai-slop) · [Español](../README.es.md#case-remove-ai-slop) · [Português (Brasil)](../README.pt-BR.md#case-remove-ai-slop)
+[English](../README.md#user-content-case-remove-ai-slop) · [简体中文](../README.zh-CN.md#user-content-case-remove-ai-slop) · [繁體中文](../README.zh-TW.md#user-content-case-remove-ai-slop) · [日本語](../README.ja.md#user-content-case-remove-ai-slop) · [한국어](../README.ko.md#user-content-case-remove-ai-slop) · [Français](../README.fr.md#user-content-case-remove-ai-slop) · [Deutsch](../README.de.md#user-content-case-remove-ai-slop) · [Español](../README.es.md#user-content-case-remove-ai-slop) · [Português (Brasil)](../README.pt-BR.md#user-content-case-remove-ai-slop)

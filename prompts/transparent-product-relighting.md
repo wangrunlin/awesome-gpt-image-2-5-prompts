@@ -3,7 +3,7 @@
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/media/HR3Ai-DbwAAWrPT?format=jpg&amp;name=large" width="640" alt="Transparent product studio relighting — @AdrianPunk115 — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-transparent-product-relighting) · [简体中文](../README.zh-CN.md#case-transparent-product-relighting) · [繁體中文](../README.zh-TW.md#case-transparent-product-relighting) · [日本語](../README.ja.md#case-transparent-product-relighting) · [한국어](../README.ko.md#case-transparent-product-relighting) · [Français](../README.fr.md#case-transparent-product-relighting) · [Deutsch](../README.de.md#case-transparent-product-relighting) · [Español](../README.es.md#case-transparent-product-relighting) · [Português (Brasil)](../README.pt-BR.md#case-transparent-product-relighting)
+[English](../README.md#user-content-case-transparent-product-relighting) · [简体中文](../README.zh-CN.md#user-content-case-transparent-product-relighting) · [繁體中文](../README.zh-TW.md#user-content-case-transparent-product-relighting) · [日本語](../README.ja.md#user-content-case-transparent-product-relighting) · [한국어](../README.ko.md#user-content-case-transparent-product-relighting) · [Français](../README.fr.md#user-content-case-transparent-product-relighting) · [Deutsch](../README.de.md#user-content-case-transparent-product-relighting) · [Español](../README.es.md#user-content-case-transparent-product-relighting) · [Português (Brasil)](../README.pt-BR.md#user-content-case-transparent-product-relighting)
 
 Move a transparent product into a dark studio and reconstruct transmission, reflections, and contact shadows.
 
@@ -14,6 +14,6 @@ Move a transparent product into a dark studio and reconstruct transmission, refl
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/media/HR3Ai-DbwAAWrPT?format=jpg&amp;name=large" width="640" alt="透明商品换景与重新布光 — @AdrianPunk115 — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-transparent-product-relighting)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-transparent-product-relighting)
 
-[English](../README.md#case-transparent-product-relighting) · [简体中文](../README.zh-CN.md#case-transparent-product-relighting) · [繁體中文](../README.zh-TW.md#case-transparent-product-relighting) · [日本語](../README.ja.md#case-transparent-product-relighting) · [한국어](../README.ko.md#case-transparent-product-relighting) · [Français](../README.fr.md#case-transparent-product-relighting) · [Deutsch](../README.de.md#case-transparent-product-relighting) · [Español](../README.es.md#case-transparent-product-relighting) · [Português (Brasil)](../README.pt-BR.md#case-transparent-product-relighting)
+[English](../README.md#user-content-case-transparent-product-relighting) · [简体中文](../README.zh-CN.md#user-content-case-transparent-product-relighting) · [繁體中文](../README.zh-TW.md#user-content-case-transparent-product-relighting) · [日本語](../README.ja.md#user-content-case-transparent-product-relighting) · [한국어](../README.ko.md#user-content-case-transparent-product-relighting) · [Français](../README.fr.md#user-content-case-transparent-product-relighting) · [Deutsch](../README.de.md#user-content-case-transparent-product-relighting) · [Español](../README.es.md#user-content-case-transparent-product-relighting) · [Português (Brasil)](../README.pt-BR.md#user-content-case-transparent-product-relighting)

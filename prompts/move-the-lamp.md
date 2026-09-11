@@ -3,7 +3,7 @@
 
 <a href="https://x.com/higgsfield_ai/status/2097515081802379736"><img src="https://pbs.twimg.com/media/HRvacfWbcAAswbV?format=jpg&amp;name=medium" width="640" alt="Move a lamp in a room — @higgsfield_ai — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-move-the-lamp) · [简体中文](../README.zh-CN.md#case-move-the-lamp) · [繁體中文](../README.zh-TW.md#case-move-the-lamp) · [日本語](../README.ja.md#case-move-the-lamp) · [한국어](../README.ko.md#case-move-the-lamp) · [Français](../README.fr.md#case-move-the-lamp) · [Deutsch](../README.de.md#case-move-the-lamp) · [Español](../README.es.md#case-move-the-lamp) · [Português (Brasil)](../README.pt-BR.md#case-move-the-lamp)
+[English](../README.md#user-content-case-move-the-lamp) · [简体中文](../README.zh-CN.md#user-content-case-move-the-lamp) · [繁體中文](../README.zh-TW.md#user-content-case-move-the-lamp) · [日本語](../README.ja.md#user-content-case-move-the-lamp) · [한국어](../README.ko.md#user-content-case-move-the-lamp) · [Français](../README.fr.md#user-content-case-move-the-lamp) · [Deutsch](../README.de.md#user-content-case-move-the-lamp) · [Español](../README.es.md#user-content-case-move-the-lamp) · [Português (Brasil)](../README.pt-BR.md#user-content-case-move-the-lamp)
 
 A short instruction for testing localized object movement and the surrounding light.
 
@@ -14,6 +14,6 @@ A short instruction for testing localized object movement and the surrounding li
 
 <a href="https://x.com/higgsfield_ai/status/2097515081802379736"><img src="https://pbs.twimg.com/media/HRvacfWbcAAswbV?format=jpg&amp;name=medium" width="640" alt="移动室内台灯 — @higgsfield_ai — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-move-the-lamp)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-move-the-lamp)
 
-[English](../README.md#case-move-the-lamp) · [简体中文](../README.zh-CN.md#case-move-the-lamp) · [繁體中文](../README.zh-TW.md#case-move-the-lamp) · [日本語](../README.ja.md#case-move-the-lamp) · [한국어](../README.ko.md#case-move-the-lamp) · [Français](../README.fr.md#case-move-the-lamp) · [Deutsch](../README.de.md#case-move-the-lamp) · [Español](../README.es.md#case-move-the-lamp) · [Português (Brasil)](../README.pt-BR.md#case-move-the-lamp)
+[English](../README.md#user-content-case-move-the-lamp) · [简体中文](../README.zh-CN.md#user-content-case-move-the-lamp) · [繁體中文](../README.zh-TW.md#user-content-case-move-the-lamp) · [日本語](../README.ja.md#user-content-case-move-the-lamp) · [한국어](../README.ko.md#user-content-case-move-the-lamp) · [Français](../README.fr.md#user-content-case-move-the-lamp) · [Deutsch](../README.de.md#user-content-case-move-the-lamp) · [Español](../README.es.md#user-content-case-move-the-lamp) · [Português (Brasil)](../README.pt-BR.md#user-content-case-move-the-lamp)

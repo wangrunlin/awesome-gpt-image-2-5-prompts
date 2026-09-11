@@ -3,7 +3,7 @@
 
 <a href="https://x.com/Mayz1169/status/2097575677130379754"><img src="https://pbs.twimg.com/tweet_video_thumb/HRwUqb0aEAA_VkS.jpg" width="640" alt="Pixel-art pet animation sheet — @Mayz1169 — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-pixel-pet-loop) · [简体中文](../README.zh-CN.md#case-pixel-pet-loop) · [繁體中文](../README.zh-TW.md#case-pixel-pet-loop) · [日本語](../README.ja.md#case-pixel-pet-loop) · [한국어](../README.ko.md#case-pixel-pet-loop) · [Français](../README.fr.md#case-pixel-pet-loop) · [Deutsch](../README.de.md#case-pixel-pet-loop) · [Español](../README.es.md#case-pixel-pet-loop) · [Português (Brasil)](../README.pt-BR.md#case-pixel-pet-loop)
+[English](../README.md#user-content-case-pixel-pet-loop) · [简体中文](../README.zh-CN.md#user-content-case-pixel-pet-loop) · [繁體中文](../README.zh-TW.md#user-content-case-pixel-pet-loop) · [日本語](../README.ja.md#user-content-case-pixel-pet-loop) · [한국어](../README.ko.md#user-content-case-pixel-pet-loop) · [Français](../README.fr.md#user-content-case-pixel-pet-loop) · [Deutsch](../README.de.md#user-content-case-pixel-pet-loop) · [Español](../README.es.md#user-content-case-pixel-pet-loop) · [Português (Brasil)](../README.pt-BR.md#user-content-case-pixel-pet-loop)
 
 Translate a pet’s identifying features into a consistent 4×4 pixel-art loop.
 
@@ -14,6 +14,6 @@ Translate a pet’s identifying features into a consistent 4×4 pixel-art loop.
 
 <a href="https://x.com/Mayz1169/status/2097575677130379754"><img src="https://pbs.twimg.com/tweet_video_thumb/HRwUqb0aEAA_VkS.jpg" width="640" alt="像素宠物循环动画 — @Mayz1169 — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-pixel-pet-loop)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-pixel-pet-loop)
 
-[English](../README.md#case-pixel-pet-loop) · [简体中文](../README.zh-CN.md#case-pixel-pet-loop) · [繁體中文](../README.zh-TW.md#case-pixel-pet-loop) · [日本語](../README.ja.md#case-pixel-pet-loop) · [한국어](../README.ko.md#case-pixel-pet-loop) · [Français](../README.fr.md#case-pixel-pet-loop) · [Deutsch](../README.de.md#case-pixel-pet-loop) · [Español](../README.es.md#case-pixel-pet-loop) · [Português (Brasil)](../README.pt-BR.md#case-pixel-pet-loop)
+[English](../README.md#user-content-case-pixel-pet-loop) · [简体中文](../README.zh-CN.md#user-content-case-pixel-pet-loop) · [繁體中文](../README.zh-TW.md#user-content-case-pixel-pet-loop) · [日本語](../README.ja.md#user-content-case-pixel-pet-loop) · [한국어](../README.ko.md#user-content-case-pixel-pet-loop) · [Français](../README.fr.md#user-content-case-pixel-pet-loop) · [Deutsch](../README.de.md#user-content-case-pixel-pet-loop) · [Español](../README.es.md#user-content-case-pixel-pet-loop) · [Português (Brasil)](../README.pt-BR.md#user-content-case-pixel-pet-loop)

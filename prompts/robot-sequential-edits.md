@@ -3,7 +3,7 @@
 
 <a href="https://x.com/ctgptlb/status/2097479691368337900"><img src="https://pbs.twimg.com/amplify_video_thumb/2097478204055556096/img/k3LUsecrIzgwwSFG.jpg" width="640" alt="A robot through nine sequential edits — @ctgptlb — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-robot-sequential-edits) · [简体中文](../README.zh-CN.md#case-robot-sequential-edits) · [繁體中文](../README.zh-TW.md#case-robot-sequential-edits) · [日本語](../README.ja.md#case-robot-sequential-edits) · [한국어](../README.ko.md#case-robot-sequential-edits) · [Français](../README.fr.md#case-robot-sequential-edits) · [Deutsch](../README.de.md#case-robot-sequential-edits) · [Español](../README.es.md#case-robot-sequential-edits) · [Português (Brasil)](../README.pt-BR.md#case-robot-sequential-edits)
+[English](../README.md#user-content-case-robot-sequential-edits) · [简体中文](../README.zh-CN.md#user-content-case-robot-sequential-edits) · [繁體中文](../README.zh-TW.md#user-content-case-robot-sequential-edits) · [日本語](../README.ja.md#user-content-case-robot-sequential-edits) · [한국어](../README.ko.md#user-content-case-robot-sequential-edits) · [Français](../README.fr.md#user-content-case-robot-sequential-edits) · [Deutsch](../README.de.md#user-content-case-robot-sequential-edits) · [Español](../README.es.md#user-content-case-robot-sequential-edits) · [Português (Brasil)](../README.pt-BR.md#user-content-case-robot-sequential-edits)
 
 Repeat a small action cycle while feeding each result into the next edit.
 
@@ -14,6 +14,6 @@ Repeat a small action cycle while feeding each result into the next edit.
 
 <a href="https://x.com/ctgptlb/status/2097479691368337900"><img src="https://pbs.twimg.com/amplify_video_thumb/2097478204055556096/img/k3LUsecrIzgwwSFG.jpg" width="640" alt="机器人九轮连续编辑 — @ctgptlb — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-robot-sequential-edits)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-robot-sequential-edits)
 
-[English](../README.md#case-robot-sequential-edits) · [简体中文](../README.zh-CN.md#case-robot-sequential-edits) · [繁體中文](../README.zh-TW.md#case-robot-sequential-edits) · [日本語](../README.ja.md#case-robot-sequential-edits) · [한국어](../README.ko.md#case-robot-sequential-edits) · [Français](../README.fr.md#case-robot-sequential-edits) · [Deutsch](../README.de.md#case-robot-sequential-edits) · [Español](../README.es.md#case-robot-sequential-edits) · [Português (Brasil)](../README.pt-BR.md#case-robot-sequential-edits)
+[English](../README.md#user-content-case-robot-sequential-edits) · [简体中文](../README.zh-CN.md#user-content-case-robot-sequential-edits) · [繁體中文](../README.zh-TW.md#user-content-case-robot-sequential-edits) · [日本語](../README.ja.md#user-content-case-robot-sequential-edits) · [한국어](../README.ko.md#user-content-case-robot-sequential-edits) · [Français](../README.fr.md#user-content-case-robot-sequential-edits) · [Deutsch](../README.de.md#user-content-case-robot-sequential-edits) · [Español](../README.es.md#user-content-case-robot-sequential-edits) · [Português (Brasil)](../README.pt-BR.md#user-content-case-robot-sequential-edits)

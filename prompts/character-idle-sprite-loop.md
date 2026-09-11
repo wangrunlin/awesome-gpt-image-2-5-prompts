@@ -3,7 +3,7 @@
 
 <a href="https://x.com/hahazwei/status/2097591465329488095"><img src="https://pbs.twimg.com/media/HRwkIsTaAAAdZHh?format=jpg&amp;name=small" width="640" alt="A reference character idle loop — @hahazwei — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-character-idle-sprite-loop) · [简体中文](../README.zh-CN.md#case-character-idle-sprite-loop) · [繁體中文](../README.zh-TW.md#case-character-idle-sprite-loop) · [日本語](../README.ja.md#case-character-idle-sprite-loop) · [한국어](../README.ko.md#case-character-idle-sprite-loop) · [Français](../README.fr.md#case-character-idle-sprite-loop) · [Deutsch](../README.de.md#case-character-idle-sprite-loop) · [Español](../README.es.md#case-character-idle-sprite-loop) · [Português (Brasil)](../README.pt-BR.md#case-character-idle-sprite-loop)
+[English](../README.md#user-content-case-character-idle-sprite-loop) · [简体中文](../README.zh-CN.md#user-content-case-character-idle-sprite-loop) · [繁體中文](../README.zh-TW.md#user-content-case-character-idle-sprite-loop) · [日本語](../README.ja.md#user-content-case-character-idle-sprite-loop) · [한국어](../README.ko.md#user-content-case-character-idle-sprite-loop) · [Français](../README.fr.md#user-content-case-character-idle-sprite-loop) · [Deutsch](../README.de.md#user-content-case-character-idle-sprite-loop) · [Español](../README.es.md#user-content-case-character-idle-sprite-loop) · [Português (Brasil)](../README.pt-BR.md#user-content-case-character-idle-sprite-loop)
 
 Turn an uploaded character into a small pixel sprite with a consistent idle cycle.
 
@@ -14,6 +14,6 @@ Turn an uploaded character into a small pixel sprite with a consistent idle cycl
 
 <a href="https://x.com/hahazwei/status/2097591465329488095"><img src="https://pbs.twimg.com/media/HRwkIsTaAAAdZHh?format=jpg&amp;name=small" width="640" alt="参考角色待机循环 — @hahazwei — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-character-idle-sprite-loop)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-character-idle-sprite-loop)
 
-[English](../README.md#case-character-idle-sprite-loop) · [简体中文](../README.zh-CN.md#case-character-idle-sprite-loop) · [繁體中文](../README.zh-TW.md#case-character-idle-sprite-loop) · [日本語](../README.ja.md#case-character-idle-sprite-loop) · [한국어](../README.ko.md#case-character-idle-sprite-loop) · [Français](../README.fr.md#case-character-idle-sprite-loop) · [Deutsch](../README.de.md#case-character-idle-sprite-loop) · [Español](../README.es.md#case-character-idle-sprite-loop) · [Português (Brasil)](../README.pt-BR.md#case-character-idle-sprite-loop)
+[English](../README.md#user-content-case-character-idle-sprite-loop) · [简体中文](../README.zh-CN.md#user-content-case-character-idle-sprite-loop) · [繁體中文](../README.zh-TW.md#user-content-case-character-idle-sprite-loop) · [日本語](../README.ja.md#user-content-case-character-idle-sprite-loop) · [한국어](../README.ko.md#user-content-case-character-idle-sprite-loop) · [Français](../README.fr.md#user-content-case-character-idle-sprite-loop) · [Deutsch](../README.de.md#user-content-case-character-idle-sprite-loop) · [Español](../README.es.md#user-content-case-character-idle-sprite-loop) · [Português (Brasil)](../README.pt-BR.md#user-content-case-character-idle-sprite-loop)

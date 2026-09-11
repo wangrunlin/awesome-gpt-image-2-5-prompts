@@ -3,7 +3,7 @@
 
 <a href="https://x.com/BubbleBrain/status/2097513469172129825"><img src="https://pbs.twimg.com/media/HRvdLStaoAAAkSy?format=jpg&amp;name=medium" width="640" alt="A dreamy qipao portrait — @BubbleBrain — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-dreamy-qipao-portrait) · [简体中文](../README.zh-CN.md#case-dreamy-qipao-portrait) · [繁體中文](../README.zh-TW.md#case-dreamy-qipao-portrait) · [日本語](../README.ja.md#case-dreamy-qipao-portrait) · [한국어](../README.ko.md#case-dreamy-qipao-portrait) · [Français](../README.fr.md#case-dreamy-qipao-portrait) · [Deutsch](../README.de.md#case-dreamy-qipao-portrait) · [Español](../README.es.md#case-dreamy-qipao-portrait) · [Português (Brasil)](../README.pt-BR.md#case-dreamy-qipao-portrait)
+[English](../README.md#user-content-case-dreamy-qipao-portrait) · [简体中文](../README.zh-CN.md#user-content-case-dreamy-qipao-portrait) · [繁體中文](../README.zh-TW.md#user-content-case-dreamy-qipao-portrait) · [日本語](../README.ja.md#user-content-case-dreamy-qipao-portrait) · [한국어](../README.ko.md#user-content-case-dreamy-qipao-portrait) · [Français](../README.fr.md#user-content-case-dreamy-qipao-portrait) · [Deutsch](../README.de.md#user-content-case-dreamy-qipao-portrait) · [Español](../README.es.md#user-content-case-dreamy-qipao-portrait) · [Português (Brasil)](../README.pt-BR.md#user-content-case-dreamy-qipao-portrait)
 
 A compact portrait prompt combining high-angle framing, bloom, and soft focus.
 
@@ -14,6 +14,6 @@ A compact portrait prompt combining high-angle framing, bloom, and soft focus.
 
 <a href="https://x.com/BubbleBrain/status/2097513469172129825"><img src="https://pbs.twimg.com/media/HRvdLStaoAAAkSy?format=jpg&amp;name=medium" width="640" alt="梦幻旗袍人像 — @BubbleBrain — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-dreamy-qipao-portrait)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-dreamy-qipao-portrait)
 
-[English](../README.md#case-dreamy-qipao-portrait) · [简体中文](../README.zh-CN.md#case-dreamy-qipao-portrait) · [繁體中文](../README.zh-TW.md#case-dreamy-qipao-portrait) · [日本語](../README.ja.md#case-dreamy-qipao-portrait) · [한국어](../README.ko.md#case-dreamy-qipao-portrait) · [Français](../README.fr.md#case-dreamy-qipao-portrait) · [Deutsch](../README.de.md#case-dreamy-qipao-portrait) · [Español](../README.es.md#case-dreamy-qipao-portrait) · [Português (Brasil)](../README.pt-BR.md#case-dreamy-qipao-portrait)
+[English](../README.md#user-content-case-dreamy-qipao-portrait) · [简体中文](../README.zh-CN.md#user-content-case-dreamy-qipao-portrait) · [繁體中文](../README.zh-TW.md#user-content-case-dreamy-qipao-portrait) · [日本語](../README.ja.md#user-content-case-dreamy-qipao-portrait) · [한국어](../README.ko.md#user-content-case-dreamy-qipao-portrait) · [Français](../README.fr.md#user-content-case-dreamy-qipao-portrait) · [Deutsch](../README.de.md#user-content-case-dreamy-qipao-portrait) · [Español](../README.es.md#user-content-case-dreamy-qipao-portrait) · [Português (Brasil)](../README.pt-BR.md#user-content-case-dreamy-qipao-portrait)

@@ -3,7 +3,7 @@
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/media/HR22qgZbIAAF73P?format=jpg&amp;name=large" width="640" alt="Reference shirt virtual try-on — @AdrianPunk115 — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-reference-shirt-try-on) · [简体中文](../README.zh-CN.md#case-reference-shirt-try-on) · [繁體中文](../README.zh-TW.md#case-reference-shirt-try-on) · [日本語](../README.ja.md#case-reference-shirt-try-on) · [한국어](../README.ko.md#case-reference-shirt-try-on) · [Français](../README.fr.md#case-reference-shirt-try-on) · [Deutsch](../README.de.md#case-reference-shirt-try-on) · [Español](../README.es.md#case-reference-shirt-try-on) · [Português (Brasil)](../README.pt-BR.md#case-reference-shirt-try-on)
+[English](../README.md#user-content-case-reference-shirt-try-on) · [简体中文](../README.zh-CN.md#user-content-case-reference-shirt-try-on) · [繁體中文](../README.zh-TW.md#user-content-case-reference-shirt-try-on) · [日本語](../README.ja.md#user-content-case-reference-shirt-try-on) · [한국어](../README.ko.md#user-content-case-reference-shirt-try-on) · [Français](../README.fr.md#user-content-case-reference-shirt-try-on) · [Deutsch](../README.de.md#user-content-case-reference-shirt-try-on) · [Español](../README.es.md#user-content-case-reference-shirt-try-on) · [Português (Brasil)](../README.pt-BR.md#user-content-case-reference-shirt-try-on)
 
 Apply a referenced shirt while preserving the subject, clothing construction, and printed details.
 
@@ -14,6 +14,6 @@ Apply a referenced shirt while preserving the subject, clothing construction, an
 
 <a href="https://x.com/AdrianPunk115/status/2098055380857143807"><img src="https://pbs.twimg.com/media/HR22qgZbIAAF73P?format=jpg&amp;name=large" width="640" alt="参考上衣虚拟试穿 — @AdrianPunk115 — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-reference-shirt-try-on)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-reference-shirt-try-on)
 
-[English](../README.md#case-reference-shirt-try-on) · [简体中文](../README.zh-CN.md#case-reference-shirt-try-on) · [繁體中文](../README.zh-TW.md#case-reference-shirt-try-on) · [日本語](../README.ja.md#case-reference-shirt-try-on) · [한국어](../README.ko.md#case-reference-shirt-try-on) · [Français](../README.fr.md#case-reference-shirt-try-on) · [Deutsch](../README.de.md#case-reference-shirt-try-on) · [Español](../README.es.md#case-reference-shirt-try-on) · [Português (Brasil)](../README.pt-BR.md#case-reference-shirt-try-on)
+[English](../README.md#user-content-case-reference-shirt-try-on) · [简体中文](../README.zh-CN.md#user-content-case-reference-shirt-try-on) · [繁體中文](../README.zh-TW.md#user-content-case-reference-shirt-try-on) · [日本語](../README.ja.md#user-content-case-reference-shirt-try-on) · [한국어](../README.ko.md#user-content-case-reference-shirt-try-on) · [Français](../README.fr.md#user-content-case-reference-shirt-try-on) · [Deutsch](../README.de.md#user-content-case-reference-shirt-try-on) · [Español](../README.es.md#user-content-case-reference-shirt-try-on) · [Português (Brasil)](../README.pt-BR.md#user-content-case-reference-shirt-try-on)

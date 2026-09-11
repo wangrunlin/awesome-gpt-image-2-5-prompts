@@ -3,7 +3,7 @@
 
 <a href="https://x.com/Mayz1169/status/2098050289819652321"><img src="https://pbs.twimg.com/media/HR3FLxVbwAAPSjy?format=jpg&amp;name=small" width="640" alt="Character-driven dance pose sheet — @Mayz1169 — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-dance-pose-keyframes) · [简体中文](../README.zh-CN.md#case-dance-pose-keyframes) · [繁體中文](../README.zh-TW.md#case-dance-pose-keyframes) · [日本語](../README.ja.md#case-dance-pose-keyframes) · [한국어](../README.ko.md#case-dance-pose-keyframes) · [Français](../README.fr.md#case-dance-pose-keyframes) · [Deutsch](../README.de.md#case-dance-pose-keyframes) · [Español](../README.es.md#case-dance-pose-keyframes) · [Português (Brasil)](../README.pt-BR.md#case-dance-pose-keyframes)
+[English](../README.md#user-content-case-dance-pose-keyframes) · [简体中文](../README.zh-CN.md#user-content-case-dance-pose-keyframes) · [繁體中文](../README.zh-TW.md#user-content-case-dance-pose-keyframes) · [日本語](../README.ja.md#user-content-case-dance-pose-keyframes) · [한국어](../README.ko.md#user-content-case-dance-pose-keyframes) · [Français](../README.fr.md#user-content-case-dance-pose-keyframes) · [Deutsch](../README.de.md#user-content-case-dance-pose-keyframes) · [Español](../README.es.md#user-content-case-dance-pose-keyframes) · [Português (Brasil)](../README.pt-BR.md#user-content-case-dance-pose-keyframes)
 
 Create sixteen full-body dance keyframes that reflect a referenced character’s personality.
 
@@ -14,6 +14,6 @@ Create sixteen full-body dance keyframes that reflect a referenced character’s
 
 <a href="https://x.com/Mayz1169/status/2098050289819652321"><img src="https://pbs.twimg.com/media/HR3FLxVbwAAPSjy?format=jpg&amp;name=small" width="640" alt="角色舞蹈关键帧图集 — @Mayz1169 — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-dance-pose-keyframes)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-dance-pose-keyframes)
 
-[English](../README.md#case-dance-pose-keyframes) · [简体中文](../README.zh-CN.md#case-dance-pose-keyframes) · [繁體中文](../README.zh-TW.md#case-dance-pose-keyframes) · [日本語](../README.ja.md#case-dance-pose-keyframes) · [한국어](../README.ko.md#case-dance-pose-keyframes) · [Français](../README.fr.md#case-dance-pose-keyframes) · [Deutsch](../README.de.md#case-dance-pose-keyframes) · [Español](../README.es.md#case-dance-pose-keyframes) · [Português (Brasil)](../README.pt-BR.md#case-dance-pose-keyframes)
+[English](../README.md#user-content-case-dance-pose-keyframes) · [简体中文](../README.zh-CN.md#user-content-case-dance-pose-keyframes) · [繁體中文](../README.zh-TW.md#user-content-case-dance-pose-keyframes) · [日本語](../README.ja.md#user-content-case-dance-pose-keyframes) · [한국어](../README.ko.md#user-content-case-dance-pose-keyframes) · [Français](../README.fr.md#user-content-case-dance-pose-keyframes) · [Deutsch](../README.de.md#user-content-case-dance-pose-keyframes) · [Español](../README.es.md#user-content-case-dance-pose-keyframes) · [Português (Brasil)](../README.pt-BR.md#user-content-case-dance-pose-keyframes)

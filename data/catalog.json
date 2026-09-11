@@ -2800,16 +2800,16 @@
       "inputs": [],
       "notes": [
         {
-          "en": "The original is a short Chinese prompt with emoji cues. No longer prompt or required reference image is supplied in the main post.",
-          "zh": "原题为简短的中文提示，包含表情符号提示。主帖中不再提供提示或所需参考图片。",
-          "zh-CN": "原题为简短的中文提示，包含表情符号提示。主帖中不再提供提示或所需参考图片。",
-          "zh-TW": "原題為簡短的中文提示，包含表情符號提示。主帖中不再提供提示或所需參考圖片。",
-          "ja": "オリジナルは絵文字キュー付きの短い中国語の指示です。メイン投稿には、指示や必要な参考画像は含まれていません。",
-          "ko": "원본은 이모지 단서가 포함된 간단한 중국어 안내문입니다. 본문에는 더 이상 안내문이나 참고 이미지가 제공되지 않습니다.",
-          "fr": "L'original est une courte invite en chinois avec des indications par emoji. L'invite et l'image de référence requise ne sont plus fournies dans le message principal.",
-          "de": "Das Original ist eine kurze chinesische Anweisung mit Emoji-Hinweisen. Die vollständige Anweisung und das benötigte Referenzbild sind im Hauptbeitrag nicht enthalten.",
-          "es": "El original es una breve indicación en chino con emojis. Ya no se proporciona la indicación ni la imagen de referencia requerida en la publicación principal.",
-          "pt-BR": "O original é uma breve instrução em chinês com dicas em emoji. Não há mais instrução ou imagem de referência necessária fornecida na postagem principal."
+          "en": "The original is a short Chinese prompt with emoji cues. The main post supplies no additional detailed prompt and specifies no required reference image.",
+          "zh": "原文是包含表情符号场景提示的简短中文提示词。主帖没有提供更详细的提示词，也没有指定必需的参考图片。",
+          "zh-CN": "原文是包含表情符号场景提示的简短中文提示词。主帖没有提供更详细的提示词，也没有指定必需的参考图片。",
+          "zh-TW": "原文是包含表情符號場景提示的簡短中文提示詞。主帖沒有提供更詳細的提示詞，也沒有指定必需的參考圖片。",
+          "ja": "原文は、絵文字で場面を示す短い中国語のプロンプトです。メイン投稿には、さらに詳しいプロンプトは掲載されておらず、必須の参照画像も指定されていません。",
+          "ko": "원문은 이모지로 장면을 나타내는 짧은 중국어 프롬프트입니다. 본문에는 더 자세한 프롬프트가 없으며, 필수 참고 이미지도 지정되어 있지 않습니다.",
+          "fr": "Le texte original est un court prompt en chinois avec des indications de scène sous forme d’émojis. La publication principale ne fournit pas de prompt plus détaillé et ne précise aucune image de référence obligatoire.",
+          "de": "Das Original ist ein kurzer chinesischer Prompt mit Emojis als Szenenhinweisen. Der Hauptbeitrag enthält keinen ausführlicheren Prompt und nennt kein erforderliches Referenzbild.",
+          "es": "El original es un breve prompt en chino con emojis que indican la escena. La publicación principal no ofrece un prompt más detallado ni especifica una imagen de referencia obligatoria.",
+          "pt-BR": "O original é um prompt curto em chinês com emojis que indicam a cena. A postagem principal não fornece um prompt mais detalhado nem especifica uma imagem de referência obrigatória."
         },
         {
           "en": "This preview and its engagement belong to the September 9 GPT Image 2.5 post, not the quoted September 2 GPT Image 2 example.",

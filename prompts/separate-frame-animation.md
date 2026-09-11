@@ -3,7 +3,7 @@
 
 <a href="https://x.com/elle_elle_e/status/2097439673308389840"><img src="https://pbs.twimg.com/media/HRuaOTLa8AABSjw?format=jpg&amp;name=medium" width="640" alt="Animate with separate image variations — @elle_elle_e — Creator source result" loading="lazy"></a>
 
-[English](../README.md#case-separate-frame-animation) · [简体中文](../README.zh-CN.md#case-separate-frame-animation) · [繁體中文](../README.zh-TW.md#case-separate-frame-animation) · [日本語](../README.ja.md#case-separate-frame-animation) · [한국어](../README.ko.md#case-separate-frame-animation) · [Français](../README.fr.md#case-separate-frame-animation) · [Deutsch](../README.de.md#case-separate-frame-animation) · [Español](../README.es.md#case-separate-frame-animation) · [Português (Brasil)](../README.pt-BR.md#case-separate-frame-animation)
+[English](../README.md#user-content-case-separate-frame-animation) · [简体中文](../README.zh-CN.md#user-content-case-separate-frame-animation) · [繁體中文](../README.zh-TW.md#user-content-case-separate-frame-animation) · [日本語](../README.ja.md#user-content-case-separate-frame-animation) · [한국어](../README.ko.md#user-content-case-separate-frame-animation) · [Français](../README.fr.md#user-content-case-separate-frame-animation) · [Deutsch](../README.de.md#user-content-case-separate-frame-animation) · [Español](../README.es.md#user-content-case-separate-frame-animation) · [Português (Brasil)](../README.pt-BR.md#user-content-case-separate-frame-animation)
 
 Use separate edited frames when a sprite grid distorts the character too much.
 
@@ -14,6 +14,6 @@ Use separate edited frames when a sprite grid distorts the character too much.
 
 <a href="https://x.com/elle_elle_e/status/2097439673308389840"><img src="https://pbs.twimg.com/media/HRuaOTLa8AABSjw?format=jpg&amp;name=medium" width="640" alt="通过独立差分帧制作动画 — @elle_elle_e — 创作者原帖结果" loading="lazy"></a>
 
-[查看图片与完整中文提示词](../README.zh-CN.md#case-separate-frame-animation)
+[查看图片与完整中文提示词](../README.zh-CN.md#user-content-case-separate-frame-animation)
 
-[English](../README.md#case-separate-frame-animation) · [简体中文](../README.zh-CN.md#case-separate-frame-animation) · [繁體中文](../README.zh-TW.md#case-separate-frame-animation) · [日本語](../README.ja.md#case-separate-frame-animation) · [한국어](../README.ko.md#case-separate-frame-animation) · [Français](../README.fr.md#case-separate-frame-animation) · [Deutsch](../README.de.md#case-separate-frame-animation) · [Español](../README.es.md#case-separate-frame-animation) · [Português (Brasil)](../README.pt-BR.md#case-separate-frame-animation)
+[English](../README.md#user-content-case-separate-frame-animation) · [简体中文](../README.zh-CN.md#user-content-case-separate-frame-animation) · [繁體中文](../README.zh-TW.md#user-content-case-separate-frame-animation) · [日本語](../README.ja.md#user-content-case-separate-frame-animation) · [한국어](../README.ko.md#user-content-case-separate-frame-animation) · [Français](../README.fr.md#user-content-case-separate-frame-animation) · [Deutsch](../README.de.md#user-content-case-separate-frame-animation) · [Español](../README.es.md#user-content-case-separate-frame-animation) · [Português (Brasil)](../README.pt-BR.md#user-content-case-separate-frame-animation)

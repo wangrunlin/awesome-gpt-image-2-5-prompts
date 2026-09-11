@@ -31,7 +31,10 @@
         "zh": "9:16，穿着旗袍，柔和泛光，梦幻虚化，从高处向下俯拍，高挑纤细的模特身形，精致妆容，狐系美人面容"
       }
     ],
-    "original_language": "en"
+    "original_language": "en",
+    "original_steps": [
+      "9:16, wearing a qipao, soft light bloom, dreamy blur, high-angle shot looking down, tall slender model figure, refined makeup, fox-like beauty face"
+    ]
   },
   "inputs": [],
   "notes": [
@@ -47,7 +50,8 @@
     "prompt_url": "https://x.com/BubbleBrain/status/2097513469172129825",
     "checked_at": "2026-09-10T15:25:52.754Z",
     "status": "source-checked",
-    "disclosure": null
+    "disclosure": null,
+    "post_language": null
   },
   "previews": [
     {
@@ -74,5 +78,98 @@
   "rights": {
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "夢幻般的旗袍肖像",
+      "summary": "一幅簡潔的肖像提示圖，結合了高角度構圖、光暈和柔焦效果。",
+      "steps": [
+        "9:16，身著旗袍，柔和的光暈，夢幻般的虛化效果，高角度俯拍，模特兒身材高挑纖細，妝容精緻，面容如狐狸般美麗。"
+      ],
+      "inputs": [],
+      "notes": [
+        "英文部分保留了原文；中文部分為翻譯。"
+      ],
+      "source_digest": "ed859455f502d67afc93246a352ab23e0dab0b0c660788eea5a936d1c01502b9",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "夢幻的なチャイナドレス（旗袍）姿のポートレート",
+      "summary": "ハイアングル（俯瞰）の構図、ブルーム効果、ソフトフォーカスを組み合わせた、コンパクトなポートレート用プロンプト。",
+      "steps": [
+        "アスペクト比9:16、チャイナドレス着用、柔らかな光の輝き、夢幻的なぼかし効果、上からのハイアングルショット、長身でスリムなモデル体型、洗練されたメイク、狐のような美しい顔立ち"
+      ],
+      "inputs": [],
+      "notes": [
+        "英語のブロックは公開時の文言をそのまま使用し、中国語のブロックは翻訳です。"
+      ],
+      "source_digest": "ed859455f502d67afc93246a352ab23e0dab0b0c660788eea5a936d1c01502b9",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "몽환적인 분위기의 치파오 초상화",
+      "summary": "하이 앵글 구도, 블룸(빛 번짐) 효과, 소프트 포커스를 결합한 간결한 초상화 프롬프트.",
+      "steps": [
+        "9:16 비율, 치파오(qipao) 착용, 부드럽게 퍼지는 빛, 몽환적인 블러 효과, 위에서 아래로 내려다보는 하이 앵글 샷, 키 크고 날씬한 모델 체형, 세련된 메이크업, 여우를 닮은 매혹적인 얼굴"
+      ],
+      "inputs": [],
+      "notes": [
+        "영어 텍스트는 원본 문구를 그대로 유지하며, 중국어 텍스트는 번역본입니다."
+      ],
+      "source_digest": "ed859455f502d67afc93246a352ab23e0dab0b0c660788eea5a936d1c01502b9",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Un portrait onirique en qipao",
+      "summary": "Un prompt concis pour un portrait combinant une prise de vue en plongée, un effet de halo lumineux (bloom) et un flou artistique doux.",
+      "steps": [
+        "Format 9:16, portant un qipao, lumière douce et diffuse, flou onirique, vue en plongée, silhouette de mannequin grande et élancée, maquillage raffiné, visage aux traits fins évoquant un renard"
+      ],
+      "inputs": [],
+      "notes": [
+        "Le bloc en anglais conserve le libellé original ; le bloc en chinois en est la traduction."
+      ],
+      "source_digest": "ed859455f502d67afc93246a352ab23e0dab0b0c660788eea5a936d1c01502b9",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Ein verträumtes Porträt im Qipao",
+      "summary": "Ein kompakter Porträt-Prompt, der eine Aufnahme aus der Vogelperspektive mit Bloom-Effekt und Weichzeichnung kombiniert.",
+      "steps": [
+        "9:16-Format, Qipao-Kleid, sanfter Lichtschein, verträumte Unschärfe, Aufsicht (Perspektive von oben), hohe, schlanke Model-Figur, raffiniertes Make-up, Gesicht mit fuchsartiger Schönheit"
+      ],
+      "inputs": [],
+      "notes": [
+        "Der englische Textblock behält den veröffentlichten Wortlaut bei; der chinesische Block ist eine Übersetzung."
+      ],
+      "source_digest": "ed859455f502d67afc93246a352ab23e0dab0b0c660788eea5a936d1c01502b9",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Un retrato onírico con *qipao*",
+      "summary": "Un *prompt* conciso para un retrato que combina encuadre en ángulo picado, efecto de resplandor (*bloom*) y enfoque suave.",
+      "steps": [
+        "Relación de aspecto 9:16, modelo con *qipao*, iluminación suave y difusa, desenfoque onírico, toma en picado (desde arriba), figura alta y esbelta, maquillaje refinado, rostro de belleza felina (tipo zorro)."
+      ],
+      "inputs": [],
+      "notes": [
+        "El bloque en inglés conserva la redacción original publicada; el bloque en chino es una traducción."
+      ],
+      "source_digest": "ed859455f502d67afc93246a352ab23e0dab0b0c660788eea5a936d1c01502b9",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Um retrato etéreo com *qipao*",
+      "summary": "Um *prompt* de retrato compacto que combina enquadramento em ângulo alto, efeito *bloom* e foco suave.",
+      "steps": [
+        "Proporção 9:16, vestindo um qipao, brilho de luz suave, desfoque onírico, ângulo de visão de cima para baixo (picado), silhueta de modelo alta e esbelta, maquiagem refinada, rosto com traços de beleza que lembram uma raposa"
+      ],
+      "inputs": [],
+      "notes": [
+        "O bloco em inglês preserva a redação original publicada; o bloco em chinês é uma tradução."
+      ],
+      "source_digest": "ed859455f502d67afc93246a352ab23e0dab0b0c660788eea5a936d1c01502b9",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
   }
 }

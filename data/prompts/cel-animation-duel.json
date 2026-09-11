@@ -32,6 +32,9 @@
         "en": "a still from a hand drawn Japanese animated film, late 1990s cel style, painted watercolour background. A dawn duel on black volcanic sand, a woman with a drawn katana facing an older man with a sheathed one, cherry blossom blowing right to left.",
         "zh": "一帧手绘日本动画电影画面，采用 1990 年代末的赛璐璐风格与水彩背景。黎明时分，两人在黑色火山沙地上对决：一名拔出武士刀的女子面对一名刀仍在鞘中的年长男子，樱花从右向左吹过。"
       }
+    ],
+    "original_steps": [
+      "a still from a hand drawn Japanese animated film, late 1990s cel style, painted watercolour background. A dawn duel on black volcanic sand, a woman with a drawn katana facing an older man with a sheathed one, cherry blossom blowing right to left."
     ]
   },
   "inputs": [],
@@ -52,7 +55,8 @@
     "prompt_url": "https://x.com/ImagineArt_X/status/2097520490013433944",
     "checked_at": "2026-09-10T16:35:40.097Z",
     "status": "source-checked",
-    "disclosure": null
+    "disclosure": null,
+    "post_language": null
   },
   "previews": [
     {
@@ -79,5 +83,105 @@
   "rights": {
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "火山沙上的賽璐璐動畫決鬥",
+      "summary": "產生動畫電影的靜態畫面，人物姿勢對比鮮明，花瓣方向各異。",
+      "steps": [
+        "一張手繪日本動畫電影的靜態畫面，採用20世紀90年代末期的賽璐珞風格，水彩背景。黎明時分，黑色火山沙上展開決鬥，一位手持武士刀的女子與一位手持刀鞘的老人對峙，櫻花從右向左飄落。"
+      ],
+      "inputs": [],
+      "notes": [
+        "創作者的父主題貼文中標識了 GPT Image 2.5 Sunburst，並指出 GPT 圖像 2 在左側，2.5 在右側。此預覽連結到第二個來源圖像。這是創建者的聲明，而非維護者的測試。",
+        "英文文字區塊保留了已發布的簡報，但不包括其「提示 N:」標籤。互動屬於此回复，而非整個比較主題帖。"
+      ],
+      "source_digest": "4a74e7841b5bab2ee4f757bc0cf2600505efca03d79047787b42abb431738a5d",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "화산재 모래 위에서 펼쳐지는 셀 애니메이션 스타일의 결투",
+      "summary": "대조적인 캐릭터 포즈와 방향성이 있는 꽃잎이 포함된 일러스트 스타일의 영화 스틸 컷을 생성하세요.",
+      "steps": [
+        "1990년대 후반 셀 애니메이션 스타일과 수채화 배경이 특징인 일본 수작업 애니메이션 영화의 한 장면. 검은 화산재 모래 위에서 펼쳐지는 새벽의 결투. 칼을 뽑아 든 여성과 칼을 칼집에 넣은 채 서 있는 나이 든 남성이 마주하고 있으며, 벚꽃잎이 오른쪽에서 왼쪽으로 흩날리고 있음."
+      ],
+      "inputs": [],
+      "notes": [
+        "제작자의 원본 스레드에서는 GPT Image 2.5 Sunburst를 언급하며 왼쪽은 GPT Image 2, 오른쪽은 2.5 버전이라고 밝히고 있습니다. 이 미리보기는 두 번째 원본 이미지를 참조합니다. 이는 제작자의 주장이며, 관리자의 테스트 결과가 아닙니다.",
+        "영어 텍스트 블록은 'Prompt N:'이라는 라벨을 제외하고 공개된 의뢰 내용을 그대로 유지합니다. 반응(engagement)은 전체 비교 스레드가 아닌 이 개별 답변에 대한 것입니다."
+      ],
+      "source_digest": "4a74e7841b5bab2ee4f757bc0cf2600505efca03d79047787b42abb431738a5d",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Duell im Stil klassischer Cel-Animation auf Vulkansand",
+      "summary": "Erzeuge ein einzelnes illustriertes Filmstandbild mit kontrastierenden Posen der Figuren und in eine bestimmte Richtung wehenden Blütenblättern.",
+      "steps": [
+        "Ein Standbild aus einem handgezeichneten japanischen Animationsfilm; Stil der Cel-Animation der späten 1990er Jahre, gemalter Aquarellhintergrund. Ein Duell im Morgengrauen auf schwarzem Vulkansand: eine Frau mit gezogenem Katana steht einem älteren Mann mit Schwert in der Scheide gegenüber; Kirschblüten wehen von rechts nach links."
+      ],
+      "inputs": [],
+      "notes": [
+        "Der ursprüngliche Beitrag des Erstellers verweist auf „GPT Image 2.5 Sunburst“ und gibt an, dass sich „GPT Image 2“ auf der linken und „2.5“ auf der rechten Seite befindet. Diese Vorschau verlinkt das zweite Quellbild. Dies ist eine Behauptung des Erstellers, kein Test durch die Betreuer.",
+        "Der englische Textblock gibt die ursprüngliche Aufgabenstellung wieder, jedoch ohne die Bezeichnung „Prompt N:“. Interaktionen beziehen sich auf diese einzelne Antwort, nicht auf den gesamten Vergleichs-Thread."
+      ],
+      "source_digest": "4a74e7841b5bab2ee4f757bc0cf2600505efca03d79047787b42abb431738a5d",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Duelo de animación tradicional (cel) sobre arena volcánica",
+      "summary": "Genera un único fotograma ilustrado de película con poses contrastadas de los personajes y pétalos que indiquen dirección.",
+      "steps": [
+        "Un fotograma de una película de animación japonesa dibujada a mano, estilo de animación tradicional (cel) de finales de los 90, con fondo pintado a acuarela. Un duelo al amanecer sobre arena volcánica negra: una mujer con una katana desenvainada frente a un hombre mayor con la suya enfundada; pétalos de cerezo volando de derecha a izquierda."
+      ],
+      "inputs": [],
+      "notes": [
+        "El hilo original del creador identifica la imagen GPT Image 2.5 Sunburst y señala que la imagen GPT 2 está a la izquierda y la 2.5 a la derecha. Esta vista previa enlaza con la segunda imagen de referencia. Se trata de una afirmación del creador, no de una prueba realizada por el responsable del mantenimiento.",
+        "El bloque en inglés conserva la descripción original publicada, excluyendo la etiqueta \"Prompt N:\". La interacción corresponde a esta respuesta individual, no a todo el hilo comparativo."
+      ],
+      "source_digest": "4a74e7841b5bab2ee4f757bc0cf2600505efca03d79047787b42abb431738a5d",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Duelo em estilo de animação tradicional (cel) sobre areia vulcânica",
+      "summary": "Gere uma única imagem estática ilustrada de filme, com poses contrastantes dos personagens e pétalas em movimento direcional.",
+      "steps": [
+        "uma cena de um filme de animação japonês desenhado à mão, estilo de animação tradicional (cel) do final dos anos 90, com fundo pintado em aquarela. Um duelo ao amanhecer sobre areia vulcânica preta: uma mulher com uma katana desembainhada frente a frente com um homem mais velho que mantém a sua embainhada; pétalas de cerejeira voando da direita para a esquerda."
+      ],
+      "inputs": [],
+      "notes": [
+        "A discussão original do criador identifica o GPT Image 2.5 Sunburst e indica que a Imagem GPT 2 está à esquerda e a 2.5, à direita. Esta prévia vincula a segunda imagem de referência. Trata-se de uma afirmação do criador, não de um teste realizado pelo responsável pela manutenção.",
+        "O bloco em inglês preserva a descrição original do pedido, excluindo o rótulo \"Prompt N:\". O engajamento refere-se a esta resposta específica, e não a toda a discussão comparativa."
+      ],
+      "source_digest": "4a74e7841b5bab2ee4f757bc0cf2600505efca03d79047787b42abb431738a5d",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Duel de Cel-animation sur sable volcanique",
+      "summary": "Générez un seul film illustré avec des poses de personnages contrastées et des pétales directionnels.",
+      "steps": [
+        "une image tirée d'un film d'animation japonais dessiné à la main, style cellulo de la fin des années 1990, sur fond peint à l'aquarelle. Un duel à l'aube sur du sable volcanique noir, une femme avec un katana dégainé face à un homme plus âgé avec un katana au fourreau, des fleurs de cerisier soufflant de droite à gauche."
+      ],
+      "inputs": [],
+      "notes": [
+        "Le fil de discussion parent du créateur identifie GPT Image 2.5 Sunburst et indique que l'image GPT 2 est à gauche et 2,5 à droite. Cet aperçu relie la deuxième image source. Il s'agit d'une réclamation du créateur, pas d'un test du responsable.",
+        "Le bloc anglais conserve le mémoire publié, à l'exclusion de son étiquette « Prompt N : ». L'engagement appartient à cette réponse individuelle, et non à l'ensemble du fil de comparaison."
+      ],
+      "source_digest": "4a74e7841b5bab2ee4f757bc0cf2600505efca03d79047787b42abb431738a5d",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "火山砂の上でのセルアニメーション風の決闘",
+      "summary": "対照的なキャラクターのポーズと方向性のある花びらで構成された、イラスト風の映画静止画を1枚生成してください。",
+      "steps": [
+        "1990年代後半の手描きセルアニメーション映画の静止画。水彩画風の背景。黒い火山砂の上で夜明けの決闘。抜刀した女性と鞘に収めた刀を持つ老人が対峙し、桜の花びらが右から左へ舞っている。"
+      ],
+      "inputs": [],
+      "notes": [
+        "作成者の親スレッドでは、GPT Image 2.5 Sunburstが特定され、GPT Image 2が左側、2.5が右側にあるとされています。このプレビューは、2番目のソース画像へのリンクです。これは作成者による主張であり、メンテナーによるテストではありません。",
+        "英語のブロックは、「Prompt N:」ラベルを除き、公開された概要を保持しています。エンゲージメントは、比較スレッド全体ではなく、この個別の返信に帰属します。"
+      ],
+      "source_digest": "4a74e7841b5bab2ee4f757bc0cf2600505efca03d79047787b42abb431738a5d",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
   }
 }

@@ -32,7 +32,8 @@
         "zh": "制作一张介绍 [目的地] 的 9:16 竖版旅行杂志页。把附件人物自然融入目的地照片，加入清晰标题、简短旅行提示、推荐和图片说明。充分利用版面，保证编辑层级清晰，并检查所有可见文字。"
       }
     ],
-    "original_language": null
+    "original_language": null,
+    "original_steps": null
   },
   "inputs": [
     {
@@ -57,7 +58,8 @@
     "prompt_url": "https://x.com/minchoi/status/2097525574730223687",
     "checked_at": "2026-09-10T15:24:57.746Z",
     "status": "source-checked",
-    "disclosure": null
+    "disclosure": null,
+    "post_language": null
   },
   "previews": [
     {
@@ -84,5 +86,119 @@
   "rights": {
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "個性化旅遊雜誌頁面",
+      "summary": "將旅行者資訊、目的地、照片和密集的編輯文字整合到一頁中。",
+      "steps": [
+        "建立一個關於 [DESTINATION] 的垂直版 9:16 旅遊雜誌頁面。將附帶的人物訊息自然融入目的地照片中。包含清晰的標題、簡短的旅遊提示、建議和照片說明。使用整頁內容，並保持清晰易讀的編輯層級。檢查每個可見的文字。"
+      ],
+      "inputs": [
+        "人物資訊和目的地。替換方括號內的佔位符。"
+      ],
+      "notes": [
+        "此精簡版增加了一個明確的文字審核步驟。完整的創建者提示請參見連結的作者回應。",
+        "產生的旅行詳情在發布前需要進行事實查核。"
+      ],
+      "source_digest": "663f8c59e0d6c8ea1aee67a6ee10d58a7c4bb134936e87a2a4986103aa125b33",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "パーソナライズされた旅行雑誌のページ",
+      "summary": "旅行者の要素、目的地、写真、そして密度の高い編集用タイポグラフィを1ページにまとめます。",
+      "steps": [
+        "[DESTINATION]に関する、縦長（9:16）の旅行雑誌のページを作成します。添付された人物を、目的地の写真の中に自然に溶け込ませてください。明確な見出し、短い旅行のヒント、おすすめ情報、写真のキャプションを含めます。読みやすい編集上の階層構造を意識し、ページ全体を有効活用してください。表示されるすべての単語を確認してください。"
+      ],
+      "inputs": [
+        "人物の要素と目的地。括弧で囲まれたプレースホルダーを置き換えてください。"
+      ],
+      "notes": [
+        "この簡潔な改訂版には、明示的なテキスト確認のステップが追加されています。完全なクリエイター用プロンプトは、リンク先の「作成者の回答」に記載されています。",
+        "生成された旅行情報は、公開前に事実確認を行う必要があります。"
+      ],
+      "source_digest": "663f8c59e0d6c8ea1aee67a6ee10d58a7c4bb134936e87a2a4986103aa125b33",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "개인 맞춤형 여행 잡지 페이지",
+      "summary": "여행자 이미지, 여행지, 사진, 그리고 밀도 높은 편집 디자인 스타일의 타이포그래피를 한 페이지에 구성하세요.",
+      "steps": [
+        "[DESTINATION]에 관한 세로형(9:16 비율) 여행 잡지 페이지를 만드세요. 첨부된 인물 이미지를 여행지 사진 속에 자연스럽게 합성하세요. 명확한 헤드라인, 간단한 여행 팁, 추천 정보, 사진 캡션을 포함하세요. 가독성 좋은 편집 레이아웃을 활용해 페이지 전체를 채우세요. 화면에 표시되는 모든 텍스트를 꼼꼼히 확인하세요."
+      ],
+      "inputs": [
+        "인물 이미지와 여행지 이미지. 괄호로 표시된 자리 표시자(placeholder)를 실제 내용으로 교체하세요."
+      ],
+      "notes": [
+        "이 요약된 수정안에는 명시적인 텍스트 검토 단계가 추가되었습니다. 전체 크리에이터 프롬프트는 링크된 작성자 답변에서 확인할 수 있습니다.",
+        "생성된 여행 정보는 게시하기 전에 사실 확인이 필요합니다."
+      ],
+      "source_digest": "663f8c59e0d6c8ea1aee67a6ee10d58a7c4bb134936e87a2a4986103aa125b33",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Une page de magazine de voyage personnalisée",
+      "summary": "Combinez une référence de voyageur, une destination, des photos et une typographie éditoriale dense sur une seule page.",
+      "steps": [
+        "Créez une page de magazine de voyage verticale (format 9:16) consacrée à [DESTINATION]. Intégrez naturellement la personne figurant dans la pièce jointe à la photo de la destination. Incluez un titre accrocheur, de brefs conseils de voyage, des recommandations et des légendes pour les photos. Exploitez toute la surface de la page en respectant une hiérarchie éditoriale lisible. Vérifiez chaque mot visible."
+      ],
+      "inputs": [
+        "Une référence de personne et une destination. Remplacez l'élément d'espace réservé entre crochets."
+      ],
+      "notes": [
+        "Cette version condensée ajoute une étape explicite de révision du texte. Le prompt complet du créateur figure dans la réponse de l'auteur liée.",
+        "Les détails de voyage générés doivent faire l'objet d'une vérification factuelle avant publication."
+      ],
+      "source_digest": "663f8c59e0d6c8ea1aee67a6ee10d58a7c4bb134936e87a2a4986103aa125b33",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Eine personalisierte Seite für ein Reisemagazin",
+      "summary": "Kombinieren Sie einen Reisebezug, ein Reiseziel, Fotos und eine dichte redaktionelle Typografie auf einer Seite.",
+      "steps": [
+        "Erstellen Sie eine vertikale Seite im 9:16-Format für ein Reisemagazin über [DESTINATION]. Fügen Sie die beigefügte Person natürlich in das Foto des Reiseziels ein. Integrieren Sie eine klare Überschrift, kurze Reisetipps, Empfehlungen und Bildunterschriften. Nutzen Sie die gesamte Seite und achten Sie auf eine gut lesbare redaktionelle Hierarchie. Überprüfen Sie jedes sichtbare Wort."
+      ],
+      "inputs": [
+        "Ein Personenbezug und ein Reiseziel. Ersetzen Sie den Platzhalter in Klammern."
+      ],
+      "notes": [
+        "Diese komprimierte Anpassung fügt einen expliziten Schritt zur Textüberprüfung hinzu. Den vollständigen Prompt des Erstellers finden Sie in der verlinkten Antwort des Autors.",
+        "Generierte Reisedetails müssen vor der Veröffentlichung auf ihre Richtigkeit überprüft werden."
+      ],
+      "source_digest": "663f8c59e0d6c8ea1aee67a6ee10d58a7c4bb134936e87a2a4986103aa125b33",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Una página de revista de viajes personalizada",
+      "summary": "Combina una referencia de viaje, un destino, fotos y tipografía editorial densa en una sola página.",
+      "steps": [
+        "Crea una página vertical de revista de viajes 9:16 sobre [DESTINATION]. Integra a la persona adjunta de forma natural en las fotografías del destino. Incluye un titular claro, consejos de viaje breves, recomendaciones y pies de foto. Utiliza toda la página con una jerarquía editorial legible. Revisa cada palabra visible."
+      ],
+      "inputs": [
+        "Referencia de una persona y un destino. Reemplaza el marcador de posición entre corchetes."
+      ],
+      "notes": [
+        "Esta adaptación condensada añade un paso explícito de revisión de texto. La solicitud completa para el creador se encuentra en la respuesta del autor enlazada.",
+        "Los detalles de viaje generados deben verificarse antes de su publicación."
+      ],
+      "source_digest": "663f8c59e0d6c8ea1aee67a6ee10d58a7c4bb134936e87a2a4986103aa125b33",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Uma página de revista de viagens personalizada",
+      "summary": "Combine uma referência de viajante, um destino, fotos e tipografia editorial densa em uma única página.",
+      "steps": [
+        "Crie uma página vertical (formato 9:16) de revista de viagens sobre [DESTINATION]. Integre a pessoa da imagem anexa de forma natural à fotografia do destino. Inclua um título claro, dicas de viagem breves, recomendações e legendas para as fotos. Utilize toda a página mantendo uma hierarquia editorial de fácil leitura. Revise todas as palavras visíveis."
+      ],
+      "inputs": [
+        "Uma referência de pessoa e um destino. Substitua o espaço reservado entre colchetes."
+      ],
+      "notes": [
+        "Esta adaptação condensada acrescenta uma etapa explícita de revisão de texto. O prompt completo do criador encontra-se na resposta do autor vinculada.",
+        "Os detalhes de viagem gerados requerem verificação de fatos antes da publicação."
+      ],
+      "source_digest": "663f8c59e0d6c8ea1aee67a6ee10d58a7c4bb134936e87a2a4986103aa125b33",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
   }
 }

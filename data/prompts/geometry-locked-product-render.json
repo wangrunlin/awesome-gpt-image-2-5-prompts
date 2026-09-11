@@ -32,7 +32,8 @@
         "en": "Use the supplied rough geometry image as a strict guide for one square studio image of the orange spiral sculpture. Keep its silhouette, coil count, handedness, pitch, tube thickness, pose, camera angle, scale, and image placement unchanged. Refine only the surface and lighting: opaque satin orange near #F28A2E, smooth tubing, subtle highlights, a neutral off-white seamless background, and a short soft contact shadow from a large light above camera-left. Remove viewport shading and mesh facets without altering contours. Add no pedestal, text, borders, or extra objects. The guide already contains the correct pose; do not rotate or mirror it.",
         "zh": "以提供的粗糙几何图为严格参考，生成橙色螺旋雕塑的一张方形棚拍图。保持轮廓、圈数、旋向、螺距、管径、姿态、机位、比例及画面位置不变。只优化表面和照明：接近 #F28A2E 的不透明缎面橙色、平滑管体、细微高光、中性灰白无缝背景，以及来自相机左上方大型柔光源的短柔接触阴影。去掉视口阴影与网格棱面，但不改变边缘。不要添加底座、文字、边框或其他物体。参考图已包含正确姿态，不要旋转或镜像。"
       }
-    ]
+    ],
+    "original_steps": null
   },
   "inputs": [
     {
@@ -57,7 +58,8 @@
     "prompt_url": "https://x.com/higgsfield/status/2097514684811554911",
     "checked_at": "2026-09-10T16:37:42.009Z",
     "status": "source-checked",
-    "disclosure": null
+    "disclosure": null,
+    "post_language": null
   },
   "previews": [
     {
@@ -84,5 +86,119 @@
   "rights": {
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "幾何體鎖定產品渲染圖",
+      "summary": "在保持提供的姿勢的同時，將粗略的幾何體指南轉換為一張精美的工作室渲染圖。",
+      "steps": [
+        "使用提供的粗略幾何圖像作為嚴格參考，拍攝一張橙色螺旋雕塑的方形工作室照片。保持其輪廓、線圈數量、旋向、螺距、管壁厚度、姿態、相機角度、比例和影像位置不變。僅優化表面和光照：#F28A2E 附近為不透明的緞面橙色，管材光滑，高光柔和，中性米白色無縫背景，以及來自相機左上方大光源的短而柔和的接觸陰影。移除視窗著色和網格面，但不要改變輪廓。請勿添加底座、文字、邊框或其他額外物體。參考影像已包含正確的姿態；請勿旋轉或鏡像。"
+      ],
+      "inputs": [
+        "橙色螺旋雕塑在所需姿態下的粗略幾何/視口圖像。已發布的結果本身並非該輸入參考影像。"
+      ],
+      "notes": [
+        "創作者完整回覆的編輯精簡。原文使用 {FRAME} 變數表示序列；這種改編針對的是單一靜止幀，不會產生彈簧動畫效果。",
+        "預覽圖為原始展示影片縮圖，並非此改編提示的驗證輸出。此目錄未提供來源檔案的參考影像。"
+      ],
+      "source_digest": "5d69ec6e1234d024cfd285989a77f26c4153d08a2af6f989c2ffbe081a929544",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "形状（ジオメトリ）を固定した製品レンダリング",
+      "summary": "提供されたポーズを維持しつつ、ラフな形状ガイドを洗練されたスタジオ撮影風の画像に仕上げる。",
+      "steps": [
+        "提供されたラフな形状画像を厳密なガイドとして使用し、オレンジ色の螺旋状彫刻の正方形スタジオ画像を生成する。シルエット、コイルの巻き数、巻き方向（左右）、ピッチ、チューブの太さ、ポーズ、カメラアングル、スケール、画像の配置は変更しないこと。表面の質感とライティングのみを洗練させる：#F28A2E付近は不透明なサテンオレンジ、滑らかなチューブ、繊細なハイライト、ニュートラルなオフホワイトのシームレスな背景、そしてカメラ左上方の大きな光源による短く柔らかな接地影（コンタクトシャドウ）を表現する。輪郭を変更することなく、ビューポートのシェーディングやメッシュの面（ファセット）を取り除いてください。台座、テキスト、枠線、その他の余分なオブジェクトは追加しないでください。ガイドはすでに適切なポーズになっているため、回転やミラーリングは行わないでください。"
+      ],
+      "inputs": [
+        "目的のポーズをとったオレンジ色の螺旋状の彫刻の、ラフな形状（ジオメトリ）またはビューポート画像。公開された結果そのものは、この入力用ガイドではありません。"
+      ],
+      "notes": [
+        "制作者による完全な回答を編集・要約したもの。元のデータではシーケンス用に {FRAME} 変数が使用されていますが、この改変版は単一の静止フレームを対象としており、スプリングのアニメーションは作成しません。",
+        "プレビューは元のショーケース動画のサムネイルであり、この改変されたプロンプトによる実際の出力結果ではありません。元のガイド画像はこのカタログには含まれていません。"
+      ],
+      "source_digest": "5d69ec6e1234d024cfd285989a77f26c4153d08a2af6f989c2ffbe081a929544",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "형태(지오메트리)가 고정된 제품 렌더링",
+      "summary": "제공된 포즈를 유지하면서, 거친 형태 가이드(rough geometry guide)를 세련된 스튜디오 이미지 한 장으로 완성하십시오.",
+      "steps": [
+        "제공된 거친 형태 이미지를 엄격한 가이드로 삼아 주황색 나선형 조형물의 정사각형 스튜디오 이미지를 제작하십시오. 실루엣, 코일 수, 회전 방향(handedness), 피치(간격), 튜브 두께, 포즈, 카메라 각도, 스케일, 이미지 내 위치를 변경하지 말고 그대로 유지하십시오. 표면과 조명만 다듬으십시오: #F28A2E 부근은 불투명한 새틴 질감의 주황색으로 표현하고, 매끄러운 튜브, 은은한 하이라이트, 중립적인 오프화이트(off-white) 색상의 심리스(seamless) 배경, 그리고 카메라 왼쪽 상단에 위치한 대형 조명에 의한 짧고 부드러운 접촉 그림자(contact shadow)를 적용하십시오. 윤곽을 변경하지 않은 상태에서 뷰포트 음영 처리(viewport shading)와 메시 면(mesh facets)을 제거하십시오. 받침대, 텍스트, 테두리 또는 추가적인 개체를 넣지 마십시오. 가이드에는 이미 올바른 자세가 포함되어 있으므로 회전하거나 대칭(미러링)하지 마십시오."
+      ],
+      "inputs": [
+        "원하는 자세를 취하고 있는 주황색 나선형 조형물의 대략적인 지오메트리/뷰포트 이미지입니다. 최종 게시된 결과물 그 자체가 입력 가이드는 아닙니다."
+      ],
+      "notes": [
+        "제작자의 전체 답변을 편집 및 요약한 내용입니다. 원본은 시퀀스에 {FRAME} 변수를 사용하지만, 이 수정 버전은 단일 정지 프레임을 대상으로 하며 스프링 애니메이션은 생성하지 않습니다.",
+        "미리보기는 원본 쇼케이스 영상의 썸네일이며, 이 수정된 프롬프트의 실제 결과물이 아닙니다. 원본의 가이드 이미지는 이 카탈로그에서 제공되지 않습니다."
+      ],
+      "source_digest": "5d69ec6e1234d024cfd285989a77f26c4153d08a2af6f989c2ffbe081a929544",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Rendu de produit basé sur une géométrie imposée",
+      "summary": "Transformez une ébauche géométrique en une image de studio soignée tout en conservant la pose fournie.",
+      "steps": [
+        "Utilisez l'image d'ébauche géométrique fournie comme guide strict pour réaliser une image de studio carrée représentant la sculpture en spirale orange. Conservez intacts la silhouette, le nombre de spires, le sens d'enroulement, le pas, l'épaisseur du tube, la pose, l'angle de vue, l'échelle et le cadrage. Affinez uniquement la surface et l'éclairage : orange satiné opaque (référence #F28A2E), tube lisse, reflets subtils, fond neutre blanc cassé sans raccord, et une ombre de contact courte et douce projetée par une grande source lumineuse située au-dessus et à gauche de la caméra. Supprimez l'ombrage de la vue et les facettes du maillage sans modifier les contours. N'ajoutez ni socle, ni texte, ni bordure, ni objet supplémentaire. Le modèle de référence présente déjà la pose correcte ; ne le faites pas pivoter et n'en créez pas d'image miroir."
+      ],
+      "inputs": [
+        "Une image de géométrie brute ou de vue de la sculpture en spirale orange dans la pose souhaitée. Le résultat publié seul ne constitue pas ce modèle de référence."
+      ],
+      "notes": [
+        "Synthèse éditoriale de la réponse complète de l'auteur. L'original utilise une variable {FRAME} pour une séquence ; cette adaptation cible une image fixe unique et ne crée pas l'animation du ressort.",
+        "L'aperçu correspond à la vignette de la vidéo de démonstration originale et non au résultat vérifié de ce prompt adapté. L'image de référence source n'est pas fournie dans ce catalogue."
+      ],
+      "source_digest": "5d69ec6e1234d024cfd285989a77f26c4153d08a2af6f989c2ffbe081a929544",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Produkt-Rendering mit festgelegter Geometrie",
+      "summary": "Verwandeln Sie eine grobe geometrische Vorlage in eine ausgearbeitete Studioaufnahme, wobei die vorgegebene Pose beibehalten wird.",
+      "steps": [
+        "Verwenden Sie das bereitgestellte Bild der groben Geometrie als strikte Vorlage für ein quadratisches Studiobild der orangefarbenen Spiralskulptur. Behalten Sie Silhouette, Windungszahl, Windungsrichtung, Steigung, Rohrdicke, Pose, Kameraperspektive, Maßstab und Bildplatzierung unverändert bei. Verfeinern Sie lediglich Oberfläche und Beleuchtung: undurchsichtiges, seidenmattes Orange (ähnlich #F28A2E), glatte Rohroberfläche, dezente Glanzlichter, ein neutraler, cremeweißer Hintergrund ohne sichtbaren Übergang sowie ein kurzer, weicher Kontaktschatten, erzeugt durch eine große Lichtquelle oberhalb und links der Kamera. Entfernen Sie die Viewport-Schattierung und die Netzfacetten, ohne die Konturen zu verändern. Fügen Sie keinen Sockel, keinen Text, keine Ränder und keine zusätzlichen Objekte hinzu. Die Vorlage enthält bereits die korrekte Pose; drehen oder spiegeln Sie sie nicht."
+      ],
+      "inputs": [
+        "Eine grobe Geometrie- bzw. Viewport-Darstellung der orangefarbenen Spiralskulptur in der gewünschten Pose. Das veröffentlichte Ergebnis allein stellt diese Eingabevorlage nicht dar."
+      ],
+      "notes": [
+        "Redaktionell gekürzte Fassung der vollständigen Antwort des Erstellers. Das Original verwendet eine {FRAME}-Variable für eine Sequenz; diese Anpassung zielt auf ein einzelnes Standbild ab und erzeugt keine Federanimation.",
+        "Die Vorschau ist das ursprüngliche Vorschaubild des Präsentationsvideos, nicht das verifizierte Ergebnis dieses angepassten Prompts. Das Referenzbild der Quelle ist in diesem Katalog nicht enthalten."
+      ],
+      "source_digest": "5d69ec6e1234d024cfd285989a77f26c4153d08a2af6f989c2ffbe081a929544",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Renderizado de producto con geometría fija",
+      "summary": "Transforme una guía geométrica básica en una imagen de estudio pulida, manteniendo la pose original.",
+      "steps": [
+        "Utilice la imagen de geometría básica suministrada como guía estricta para crear una imagen cuadrada de estudio de la escultura en espiral naranja. Mantenga inalterados la silueta, el número de espiras, la orientación (sentido de giro), el paso de la espiral, el grosor del tubo, la pose, el ángulo de cámara, la escala y la posición en la imagen. Refine únicamente la superficie y la iluminación: acabado naranja satinado opaco (tipo #F28A2E), tubos de superficie lisa, reflejos sutiles, fondo neutro continuo (sin juntas) en blanco roto y una sombra de contacto corta y suave proyectada por una fuente de luz grande situada arriba y a la izquierda de la cámara. Elimina el sombreado de la vista y las facetas de la malla sin alterar los contornos. No añadas pedestales, texto, bordes ni objetos adicionales. La guía ya presenta la postura correcta; no la gires ni la inviertas (efecto espejo)."
+      ],
+      "inputs": [
+        "Una imagen de geometría básica o de la vista del modelo que muestra la escultura en espiral naranja en la postura deseada. El resultado publicado por sí solo no constituye dicha imagen de referencia."
+      ],
+      "notes": [
+        "Resumen editorial de la respuesta completa del autor. El original utiliza una variable {FRAME} para una secuencia; esta adaptación se centra en un único fotograma estático y no genera la animación del resorte.",
+        "La vista previa corresponde a la miniatura del video de muestra original, no a un resultado verificado de este *prompt* adaptado. Este catálogo no suministra la imagen de referencia de la fuente."
+      ],
+      "source_digest": "5d69ec6e1234d024cfd285989a77f26c4153d08a2af6f989c2ffbe081a929544",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Renderização de produto com geometria fixa",
+      "summary": "Transforme um guia de geometria rudimentar em uma imagem de estúdio refinada, mantendo a pose fornecida.",
+      "steps": [
+        "Use a imagem de geometria rudimentar fornecida como guia rigoroso para uma imagem quadrada de estúdio da escultura em espiral laranja. Mantenha inalterados a silhueta, o número de voltas, a orientação (destra/canhota), o passo (espaçamento entre espirais), a espessura do tubo, a pose, o ângulo da câmera, a escala e o posicionamento na imagem. Refine apenas a superfície e a iluminação: laranja acetinado opaco próximo a #F28A2E, tubulação lisa, brilhos sutis, fundo neutro sem emendas (off-white) e uma sombra de contato curta e suave proveniente de uma grande fonte de luz posicionada acima e à esquerda da câmera. Remova o sombreamento da viewport e as facetas da malha sem alterar os contornos. Não adicione pedestal, texto, bordas ou objetos extras. O guia já contém a pose correta; não o rotacione nem o espelhe."
+      ],
+      "inputs": [
+        "Uma imagem de geometria bruta/viewport da escultura em espiral laranja na pose desejada. O resultado publicado, por si só, não constitui esse guia de referência."
+      ],
+      "notes": [
+        "Resumo editorial da resposta completa do autor. O original utiliza uma variável {FRAME} para uma sequência; esta adaptação foca em um único quadro estático e não cria a animação da mola.",
+        "A prévia é a miniatura do vídeo de demonstração original, não um resultado verificado deste prompt adaptado. A imagem de referência da fonte não é fornecida neste catálogo."
+      ],
+      "source_digest": "5d69ec6e1234d024cfd285989a77f26c4153d08a2af6f989c2ffbe081a929544",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
   }
 }

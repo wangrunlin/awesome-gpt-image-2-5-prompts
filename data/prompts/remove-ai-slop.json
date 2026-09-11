@@ -30,7 +30,10 @@
         "zh": "去掉 AI 味"
       }
     ],
-    "original_language": "en"
+    "original_language": "en",
+    "original_steps": [
+      "remove slop"
+    ]
   },
   "inputs": [
     {
@@ -55,7 +58,8 @@
     "prompt_url": "https://x.com/higgsfield_ai/status/2097556101155955113",
     "checked_at": "2026-09-10T15:43:24.179Z",
     "status": "source-checked",
-    "disclosure": null
+    "disclosure": null,
+    "post_language": null
   },
   "previews": [
     {
@@ -82,5 +86,119 @@
   "rights": {
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "兩個字的寫實風格編輯。",
+      "summary": "提供包含前後對比示範的極簡編輯提示。",
+      "steps": [
+        "去除瑕疵"
+      ],
+      "inputs": [
+        "待編輯的現有影像。"
+      ],
+      "notes": [
+        "「瑕疵」是一個主觀概念。請先快速嘗試，如果結果不理想，再進行具體修改。",
+        "預覽圖為來源影片縮圖；請查看原始貼文以進行比較。"
+      ],
+      "source_digest": "752274c3905109b0ec7aa7109bd78f464d9cbaed6f2b3e9a8129cf7d87aec6ae",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "リアリティを高めるための、2語による編集指示。",
+      "summary": "「ビフォー・アフター」の作例と共に共有された、最小限の編集指示。",
+      "steps": [
+        "「雑な部分（slop）」を取り除く。"
+      ],
+      "inputs": [
+        "編集対象となる既存の画像。"
+      ],
+      "notes": [
+        "「Slop（雑な部分）」の判断は主観的なものです。まずはこれを試行的な指示として使い、結果が意図から外れるようであれば、具体的な変更点を指定してください。",
+        "プレビューは元動画のサムネイルです。比較を確認するには元の投稿をご覧ください。"
+      ],
+      "source_digest": "752274c3905109b0ec7aa7109bd78f464d9cbaed6f2b3e9a8129cf7d87aec6ae",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "사실감을 높이기 위한 두 단어 수정",
+      "summary": "비포 앤 애프터(전후 비교) 예시와 함께 공유된 최소한의 수정 지침",
+      "steps": [
+        "조잡한 요소 제거"
+      ],
+      "inputs": [
+        "수정할 기존 이미지"
+      ],
+      "notes": [
+        "'조잡함(slop)'에 대한 판단은 주관적일 수 있습니다. 이를 빠른 시도용으로 활용하되, 결과물이 의도에서 벗어날 경우 구체적인 변경 사항을 명시하십시오.",
+        "미리보기는 원본 영상의 썸네일입니다. 비교를 확인하려면 원본 게시물을 참조하세요."
+      ],
+      "source_digest": "752274c3905109b0ec7aa7109bd78f464d9cbaed6f2b3e9a8129cf7d87aec6ae",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Une consigne de modification en deux mots pour plus de réalisme.",
+      "summary": "Une consigne de modification minimale accompagnée d'une démonstration « avant-après ».",
+      "steps": [
+        "supprimer les imperfections"
+      ],
+      "inputs": [
+        "Une image existante à modifier."
+      ],
+      "notes": [
+        "La notion d'« imperfection » est subjective. Utilisez cette consigne pour une exploration rapide, puis précisez les changements concrets si le résultat s'éloigne de vos attentes.",
+        "L'aperçu correspond à la vignette de la vidéo source ; consultez la publication originale pour voir la comparaison."
+      ],
+      "source_digest": "752274c3905109b0ec7aa7109bd78f464d9cbaed6f2b3e9a8129cf7d87aec6ae",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Eine Bearbeitung zur Steigerung des Realismus, bestehend aus zwei Wörtern.",
+      "summary": "Eine minimalistische Bearbeitungsanweisung, präsentiert zusammen mit einem Vorher-Nachher-Vergleich.",
+      "steps": [
+        "Unsauberkeiten entfernen"
+      ],
+      "inputs": [
+        "Ein vorhandenes Bild, das bearbeitet werden soll."
+      ],
+      "notes": [
+        "Der Begriff „Slop“ (Unsauberkeiten/Ungenauigkeiten) ist subjektiv. Nutzen Sie dies für einen ersten Testlauf und geben Sie anschließend konkrete Änderungen an, falls das Ergebnis vom Ziel abweicht.",
+        "Die Vorschau ist ein Thumbnail des Quellvideos; den Vergleich finden Sie im Original-Posting."
+      ],
+      "source_digest": "752274c3905109b0ec7aa7109bd78f464d9cbaed6f2b3e9a8129cf7d87aec6ae",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Una edición de realismo de dos palabras.",
+      "summary": "Una instrucción de edición mínima compartida junto con una demostración del antes y el después.",
+      "steps": [
+        "eliminar imperfecciones"
+      ],
+      "inputs": [
+        "Una imagen existente para editar."
+      ],
+      "notes": [
+        "El concepto de «imperfecciones» (*slop*) es subjetivo. Utilice esto como una exploración rápida y, a continuación, especifique cambios concretos si el resultado se desvía de lo esperado.",
+        "La vista previa es una miniatura del vídeo de origen; consulte la publicación original para ver la comparación."
+      ],
+      "source_digest": "752274c3905109b0ec7aa7109bd78f464d9cbaed6f2b3e9a8129cf7d87aec6ae",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Uma edição de duas palavras para aumentar o realismo.",
+      "summary": "Um comando de edição minimalista compartilhado com uma demonstração de \"antes e depois\".",
+      "steps": [
+        "remover imperfeições/excesso de elementos"
+      ],
+      "inputs": [
+        "Uma imagem existente para edição."
+      ],
+      "notes": [
+        "O conceito de \"imperfeições\" (ou excesso de elementos) é subjetivo. Use isso como uma exploração rápida e, em seguida, especifique alterações concretas caso o resultado se desvie do esperado.",
+        "A prévia é uma miniatura do vídeo de origem; consulte a postagem original para ver a comparação."
+      ],
+      "source_digest": "752274c3905109b0ec7aa7109bd78f464d9cbaed6f2b3e9a8129cf7d87aec6ae",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
   }
 }

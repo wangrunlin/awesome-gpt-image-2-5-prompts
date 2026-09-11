@@ -1,0 +1,216 @@
+{
+  "schema_version": 1,
+  "id": "fixed-template-product-swap",
+  "title": {
+    "en": "Product replacement in a fixed poster",
+    "zh": "固定海报模板替换商品"
+  },
+  "summary": {
+    "en": "Replace a poster’s main product while preserving its layout, typography, and background.",
+    "zh": "在保留海报布局、字体和背景的前提下，替换海报上的主要产品。"
+  },
+  "category": "products",
+  "tags": [
+    "products",
+    "edit"
+  ],
+  "mode": "edit",
+  "featured": true,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/AdrianPunk115/status/2098055380857143807",
+    "evidence": "The creator explicitly presents these as GPT Image 2.5 workflows in the article. This records the creator’s attribution, not an independent model test."
+  },
+  "prompt": {
+    "kind": "original",
+    "original_language": "zh",
+    "original_steps": [
+      "请编辑图1，将其中的主商品替换为图2中的商品。\n\n两张参考图的用途必须严格分开：\n图1只负责广告构图、背景、灯光方向、装饰元素和商品之外的文字排版。\n图2只负责新商品的真实外形、结构、材质、颜色、Logo和包装信息。\n\n移除图1中的旧商品，将图2中的商品自然放入原商品所在区域。\n\n保留图2商品的真实长宽比例，不要为了塞进原来的轮廓而压扁、拉长或修改结构。可以整体等比例调整大小，让新商品适合原版式。\n\n只修改新商品占据的区域，以及由替换产生的必要接触阴影、遮挡和局部反射。不要重做整张海报。\n\n商品之外的标题、文字内容、字体、字号、位置、背景纹理、装饰元素和画布尺寸保持不变。\n\n禁止将两件商品混合设计。不要保留旧商品的瓶盖、把手、标签或其他零件。\n\n不添加图2中没有的配件，不猜测看不清的包装文字，不改变商品颜色来迎合背景。\n\n只输出一张替换后的完整海报。"
+    ],
+    "steps": [
+      {
+        "en": "Please edit Image 1 by replacing the main product with the product shown in Image 2.\n\nStrictly separate the functions of the two reference images:\nImage 1 dictates the advertising composition, background, lighting direction, decorative elements, and text layout (excluding the product itself).\nImage 2 dictates the new product's authentic shape, structure, material, color, logo, and packaging details.\n\nRemove the old product from Image 1 and naturally place the product from Image 2 into the area previously occupied by the original product.\n\nPreserve the authentic aspect ratio of the product from Image 2; do not squash, stretch, or alter its structure to fit the original outline. You may scale the product proportionally as a whole to fit the original layout.\n\nModify only the area occupied by the new product, along with any necessary contact shadows, occlusions, and local reflections resulting from the replacement. Do not recreate the entire poster.\n\nKeep the headline, text content, font, font size, positioning, background texture, decorative elements, and canvas dimensions unchanged.\n\nDo not create a hybrid design combining the two products. Do not retain the old product's cap, handle, label, or other components.\n\nDo not add accessories not present in Image 2, do not guess at illegible packaging text, and do not alter the product's color to match the background.\n\nOutput only the single, completed poster with the product replaced.",
+        "zh": "请编辑图1，将其中的主商品替换为图2中的商品。\n\n两张参考图的用途必须严格分开：\n图1只负责广告构图、背景、灯光方向、装饰元素和商品之外的文字排版。\n图2只负责新商品的真实外形、结构、材质、颜色、Logo和包装信息。\n\n移除图1中的旧商品，将图2中的商品自然放入原商品所在区域。\n\n保留图2商品的真实长宽比例，不要为了塞进原来的轮廓而压扁、拉长或修改结构。可以整体等比例调整大小，让新商品适合原版式。\n\n只修改新商品占据的区域，以及由替换产生的必要接触阴影、遮挡和局部反射。不要重做整张海报。\n\n商品之外的标题、文字内容、字体、字号、位置、背景纹理、装饰元素和画布尺寸保持不变。\n\n禁止将两件商品混合设计。不要保留旧商品的瓶盖、把手、标签或其他零件。\n\n不添加图2中没有的配件，不猜测看不清的包装文字，不改变商品颜色来迎合背景。\n\n只输出一张替换后的完整海报。"
+      }
+    ]
+  },
+  "inputs": [
+    {
+      "en": "Image 1: the existing advertising poster.",
+      "zh": "图1：现有广告海报。"
+    },
+    {
+      "en": "Image 2: the new product reference.",
+      "zh": "图2：新产品参考。"
+    }
+  ],
+  "notes": [
+    {
+      "en": "This is a distinct illustrated recipe within the creator’s GPT Image 2.5 tutorial. The article’s shared engagement is not assigned to individual recipes.",
+      "zh": "这是作者 GPT Image 2.5 教程中的一个独立图解教程。文章的共享互动并未分配给单个食谱。"
+    },
+    {
+      "en": "The preview is a result shown by the author; required references must be supplied by the reader. The repository has not independently tested this workflow.",
+      "zh": "预览是作者展示的结果；读者必须提供所需的参考资料。该存储库尚未独立测试此工作流程。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "AdrianPunk115",
+    "url": "https://x.com/AdrianPunk115/status/2098055380857143807",
+    "prompt_url": "https://x.com/AdrianPunk115/status/2098055380857143807",
+    "post_language": "zh",
+    "checked_at": "2026-09-11T18:20:40.729Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "section": "Product replacement in a fixed poster"
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HR2hSJmbAAAE0l0?format=jpg&name=large",
+      "kind": "source-result",
+      "credit": "@AdrianPunk115",
+      "source_url": "https://x.com/AdrianPunk115/status/2098055380857143807"
+    }
+  ],
+  "engagement": {
+    "likes": null,
+    "bookmarks": null,
+    "reposts": null,
+    "replies": null,
+    "views": null,
+    "observed_at": "2026-09-11T18:20:40.729Z",
+    "source_url": "https://x.com/AdrianPunk115/status/2098055380857143807",
+    "method": "Individual section metrics are unavailable; shared article totals are not assigned to this recipe."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Third-party prompts and media retain their creators’ rights; external previews are linked, not relicensed."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "固定海報中的產品替換",
+      "summary": "在保留海報佈局、字體和背景的前提下，替換海報上的主要產品。",
+      "steps": [
+        "請編輯圖1，將其中的主商品替換為圖2的商品。\n\n兩張參考圖的用途必須嚴格分開：\n圖1只負責廣告構圖、背景、燈光方向、裝飾元素和商品以外的文字排版。\n圖2只負責新商品的真實外形、結構、材質、顏色、Logo和包裝資訊。\n\n移除圖1的舊商品，將圖2的商品自然放入原商品所在區域。\n\n保留圖2商品的真實長寬比例，不要為了塞進原來的輪廓而壓扁、拉長或修改結構。可以整體等比例調整大小，讓新商品適合原版式。\n\n只修改新商品佔據的區域，以及由替換產生的必要接觸陰影、遮蔽和局部反射。不要重做整張海報。\n\n商品以外的標題、文字內容、字體、字號、位置、背景紋理、裝飾元素和畫布尺寸保持不變。\n\n禁止將兩件商品混合設計。不要保留舊商品的瓶蓋、把手、標籤或其他零件。\n\n不添加圖2沒有的配件，不猜測看不清楚的包裝文字，不改變商品顏色來迎合背景。\n\n只輸出一張替換後的完整海報。"
+      ],
+      "inputs": [
+        "圖1：現有廣告海報。",
+        "圖2：新產品參考。"
+      ],
+      "notes": [
+        "這是作者 GPT Image 2.5 教學中的獨立圖解教學。文章的共享互動並未分配給單一食譜。",
+        "預覽是作者展示的結果；讀者必須提供所需的參考資料。該存儲庫尚未獨立測試此工作流程。"
+      ],
+      "source_digest": "39af1f1158a0841fde83d2f43263907e37932b43b29b612a025f6ee6f47bea68",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "固定ポスター内の製品の置き換え",
+      "summary": "ポスターのレイアウト、タイポグラフィ、背景はそのままに、メインの商品を差し替えてください。",
+      "steps": [
+        "図1のメイン製品を図2の製品に置き換えてください。\n\n2つの参考画像は厳密に別々の用途で使用してください。\n図1は、製品自体以外の広告構成、背景、照明方向、装飾要素、テキストレイアウトのみを担当します。\n\n図2は、新製品の実際の形状、構造、素材、色、ロゴ、パッケージ情報のみを担当します。\n\n図1から旧製品を削除し、図2の製品を元の製品があった場所に自然に配置してください。\n\n図2の製品の本来の縦横比を維持してください。元の輪郭に合わせるために、形状を平坦化、拡大縮小、または変更しないでください。全体のサイズは、新しい製品を元のレイアウトに合うように比例調整できます。\n\n新しい製品が占める領域、および置き換えによって生じる必要な接触影、遮蔽、局所反射のみを変更してください。ポスター全体を作り直さないでください。\n\n製品自体を除き、タイトル、テキスト内容、フォント、フォントサイズ、位置、背景テクスチャ、装飾要素、キャンバスサイズは変更しないでください。\n\n2つの製品のデザインを混在させないでください。古い製品のボトルキャップ、ハンドル、ラベル、その他の部品を保持しないでください。\n\n図2に示されていない付属品を追加しないでください。判読できないパッケージのテキストを推測しないでください。背景に合わせて製品の色を変更しないでください。\n\n置き換え後のポスターは1枚のみ出力してください。"
+      ],
+      "inputs": [
+        "画像1：既存の広告ポスター",
+        "画像2：新商品の参考画像"
+      ],
+      "notes": [
+        "これは、作成者のGPT Image 2.5チュートリアルに含まれる、独立した図解付きレシピです。記事の共有エンゲージメントは、個々のレシピには割り当てられていません。",
+        "プレビューは著者が表示した結果です。必要な参照情報は読者が提供する必要があります。リポジトリはこのワークフローを独自にテストしていません。"
+      ],
+      "source_digest": "39af1f1158a0841fde83d2f43263907e37932b43b29b612a025f6ee6f47bea68",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "고정 포스터의 제품 교체",
+      "summary": "레이아웃, 타이포그래피, 배경은 그대로 유지하면서 포스터의 주요 제품을 교체합니다.",
+      "steps": [
+        "그림 1의 주요 제품을 그림 2의 제품으로 교체하여 수정하십시오.\n\n두 참고 이미지는 용도를 엄격하게 구분해야 합니다.\n\n그림 1은 제품 자체를 제외한 광고 구도, 배경, 조명 방향, 장식 요소 및 텍스트 레이아웃에만 사용됩니다.\n\n그림 2는 새로운 제품의 실제 형태, 구조, 재질, 색상, 로고 및 포장 정보에만 사용됩니다.\n\n그림 1에서 기존 제품을 제거하고 그림 2의 제품을 원래 제품 위치에 자연스럽게 배치하십시오.\n\n그림 2의 제품 비율을 그대로 유지하고, 원래 윤곽에 맞추기 위해 평면화, 늘리기 또는 구조 변경을 하지 마십시오. 전체 크기는 새 제품이 기존 레이아웃에 맞도록 비례적으로 조정할 수 있습니다.\n\n새 제품이 차지하는 영역과 교체로 인해 발생하는 접촉 그림자, 가림 현상, 부분 반사만 수정하십시오. 포스터 전체를 다시 제작하지 마십시오.\n\n제품 자체를 제외한 제목, 본문 내용, 글꼴, 글꼴 크기, 위치, 배경 질감, 장식 요소 및 캔버스 크기는 변경하지 마십시오.\n\n두 제품의 디자인을 혼합하지 마십시오. 기존 제품의 병뚜껑, 손잡이, 라벨 또는 기타 부품을 그대로 사용하지 마십시오.\n\n그림 2에 표시되지 않은 액세서리를 추가하지 마십시오. 읽기 어려운 포장 텍스트를 추측하여 수정하지 마십시오. 제품 색상을 배경색에 맞게 변경하지 마십시오.\n\n완성된 교체 포스터를 하나만 출력하십시오."
+      ],
+      "inputs": [
+        "이미지 1: 기존 광고 포스터",
+        "이미지 2: 새로운 제품 참고 이미지"
+      ],
+      "notes": [
+        "이것은 제작자의 GPT Image 2.5 튜토리얼에 포함된 별도의 그림 설명 레시피입니다. 이 문서의 공유 참여도는 개별 레시피에 할당되지 않습니다.",
+        "미리보기는 작성자가 보여주는 결과이며, 필요한 참조는 독자가 제공해야 합니다. 이 저장소는 해당 워크플로를 독립적으로 테스트하지 않았습니다."
+      ],
+      "source_digest": "39af1f1158a0841fde83d2f43263907e37932b43b29b612a025f6ee6f47bea68",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Remplacement d'un produit sur une affiche fixe",
+      "summary": "Remplacer le produit principal d'une affiche tout en conservant sa mise en page, sa typographie et son arrière-plan.",
+      "steps": [
+        "Veuillez modifier la Figure 1 en remplaçant le produit principal par celui de la Figure 2.\n\nLes deux images de référence doivent avoir des usages strictement distincts :\n\nLa Figure 1 concerne uniquement la composition publicitaire, le fond, l'éclairage, les éléments décoratifs et la mise en page du texte, à l'exception du produit lui-même.\n\nLa Figure 2 concerne uniquement la forme, la structure, la matière, la couleur, le logo et les informations d'emballage du nouveau produit.\n\nRetirez l'ancien produit de la Figure 1 et placez naturellement le produit de la Figure 2 à sa place.\n\nConservez les proportions du produit de la Figure 2 ; ne l'aplatissez pas, ne l'étirez pas et ne modifiez pas sa structure pour l'adapter au contour d'origine. La taille globale peut être ajustée proportionnellement pour intégrer le nouveau produit à la mise en page d'origine.\n\nModifiez uniquement la zone occupée par le nouveau produit, ainsi que les ombres portées, les occlusions et les reflets locaux nécessaires résultant du remplacement. Ne refaites pas l'affiche entière.\n\nConservez le titre, le contenu textuel, la police, la taille de la police, la position, la texture de fond, les éléments décoratifs et la taille de la zone de travail, à l'exception du produit lui-même.\n\nNe mélangez pas les designs des deux produits. Ne conservez pas les bouchons, les poignées, les étiquettes ni aucune autre pièce de l'ancien produit.\n\nN'ajoutez pas d'accessoires non représentés sur la figure 2, ne tentez pas de deviner le texte illisible de l'emballage et ne modifiez pas les couleurs du produit pour les assortir au fond.\n\nImprimez une seule affiche complète avec les modifications apportées."
+      ],
+      "inputs": [
+        "Image 1 : l'affiche publicitaire existante.",
+        "Image 2 : la nouvelle référence produit."
+      ],
+      "notes": [
+        "Il s'agit d'une méthode illustrée spécifique au tutoriel GPT Image 2.5 de son créateur. L'engagement partagé de l'article n'est pas attribué à des recettes individuelles.",
+        "L'aperçu est un résultat affiché par l'auteur ; les références requises doivent être fournies par le lecteur. Ce processus n'a pas été testé indépendamment par le dépôt."
+      ],
+      "source_digest": "39af1f1158a0841fde83d2f43263907e37932b43b29b612a025f6ee6f47bea68",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Produktersatz auf einem festen Poster.",
+      "summary": "Ersetzen Sie das Hauptprodukt eines Posters, wobei Layout, Typografie und Hintergrund beibehalten werden.",
+      "steps": [
+        "Bitte bearbeiten Sie Abbildung 1 und ersetzen Sie das Hauptprodukt durch das Produkt aus Abbildung 2.\n\nDie beiden Referenzbilder müssen strikt getrennt verwendet werden:\nAbbildung 1 dient ausschließlich der Darstellung von Werbekomposition, Hintergrund, Lichtrichtung, Dekorationselementen und Textlayout (mit Ausnahme des Produkts selbst).\n\nAbbildung 2 dient ausschließlich der Darstellung von Form, Struktur, Material, Farbe, Logo und Verpackungsinformationen des neuen Produkts.\n\nEntfernen Sie das alte Produkt aus Abbildung 1 und platzieren Sie das Produkt aus Abbildung 2 an dessen Stelle.\n\nBehalten Sie das Seitenverhältnis des Produkts in Abbildung 2 bei; verzerren, strecken oder verändern Sie seine Struktur nicht, um sie an die ursprüngliche Kontur anzupassen. Die Gesamtgröße kann proportional angepasst werden, um das neue Produkt in das ursprüngliche Layout einzufügen.\n\nÄndern Sie nur den Bereich, der vom neuen Produkt belegt wird, sowie die durch den Austausch entstehenden Schatten, Verdeckungen und lokalen Reflexionen. Erstellen Sie nicht das gesamte Poster neu.\n\nBehalten Sie Titel, Textinhalt, Schriftart, Schriftgröße, Position, Hintergrundtextur, Dekorationselemente und Leinwandgröße bei, mit Ausnahme des Produkts selbst.\n\nVermischen Sie nicht die Designs zweier Produkte. Verwenden Sie keine Flaschenverschlüsse, Griffe, Etiketten oder andere Teile des alten Produkts.\n\nFügen Sie kein Zubehör hinzu, das nicht in Abbildung 2 dargestellt ist, versuchen Sie nicht, unleserlichen Verpackungstext zu raten, und ändern Sie die Produktfarben nicht, um sie an den Hintergrund anzupassen.\n\nErstellen Sie nur ein vollständig ersetztes Poster."
+      ],
+      "inputs": [
+        "Bild 1: Das bestehende Werbeplakat.",
+        "Bild 2: Die neue Produktreferenz."
+      ],
+      "notes": [
+        "Dies ist eine detaillierte, bebilderte Anleitung aus dem Tutorial GPT Image 2.5 des Erstellers. Die geteilte Interaktion im Artikel wird nicht einzelnen Rezepten zugeordnet.",
+        "Die Vorschau zeigt ein vom Autor dargestelltes Ergebnis; die benötigten Referenzen müssen vom Leser bereitgestellt werden. Das Repository hat diesen Workflow nicht unabhängig getestet."
+      ],
+      "source_digest": "39af1f1158a0841fde83d2f43263907e37932b43b29b612a025f6ee6f47bea68",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Sustitución de un producto en un póster fijo",
+      "summary": "Reemplazar el producto principal de un póster conservando su diseño, tipografía y fondo.",
+      "steps": [
+        "Edite la Figura 1, reemplazando el producto principal con el de la Figura 2.\n\nLas dos imágenes de referencia deben tener usos estrictamente separados:\nLa Figura 1 solo se encarga de la composición publicitaria, el fondo, la iluminación, los elementos decorativos y la disposición del texto, excluyendo el producto en sí.\n\nLa Figura 2 solo se encarga de la forma, estructura, material, color, logotipo e información del embalaje del nuevo producto.\n\nRetire el producto antiguo de la Figura 1 y coloque el producto de la Figura 2 en el área del producto original.\n\nConserve la proporción original del producto en la Figura 2; no lo aplane, estire ni modifique su estructura para que se ajuste al contorno original. El tamaño general se puede ajustar proporcionalmente para que el nuevo producto encaje en el diseño original.\n\nModifique únicamente el área que ocupa el nuevo producto y las sombras de contacto, oclusiones y reflejos locales necesarios resultantes del reemplazo. No rehaga el póster completo.\n\nMantenga sin cambios el título, el contenido del texto, la fuente, el tamaño de la fuente, la posición, la textura del fondo, los elementos decorativos y el tamaño del lienzo, excepto el producto en sí.\n\nNo combine diseños de dos productos. No conserve las tapas, asas, etiquetas ni otras partes del producto anterior.\n\nNo añada accesorios que no se muestren en la Figura 2, no intente adivinar el texto ilegible del empaque y no cambie los colores del producto para que coincidan con el fondo.\n\nGenere solo un póster completo con el reemplazo."
+      ],
+      "inputs": [
+        "Imagen 1: el póster publicitario existente.",
+        "Imagen 2: la nueva imagen de referencia del producto."
+      ],
+      "notes": [
+        "Esta es una receta ilustrada específica dentro del tutorial GPT Image 2.5 del creador. La participación compartida del artículo no se asigna a recetas individuales.",
+        "La vista previa es un resultado mostrado por el autor; el lector debe proporcionar las referencias necesarias. El repositorio no ha probado este flujo de trabajo de forma independiente."
+      ],
+      "source_digest": "39af1f1158a0841fde83d2f43263907e37932b43b29b612a025f6ee6f47bea68",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Substituição de produto em um pôster fixo",
+      "summary": "Substituir o produto principal de um pôster, preservando seu layout, tipografia e fundo.",
+      "steps": [
+        "Edite a Figura 1, substituindo o produto principal nela pelo produto na Figura 2.\n\nAs duas imagens de referência devem ter usos estritamente separados:\nA Figura 1 é responsável apenas pela composição publicitária, fundo, direção da iluminação, elementos decorativos e layout do texto, exceto o próprio produto.\n\nA Figura 2 é responsável apenas pela forma, estrutura, material, cor, logotipo e informações da embalagem do novo produto.\n\nRemova o produto antigo da Figura 1 e coloque o produto da Figura 2 naturalmente na área do produto original.\n\nPreserve a proporção original do produto na Figura 2; não achate, estique ou modifique sua estrutura para se ajustar ao contorno original. O tamanho geral pode ser ajustado proporcionalmente para que o novo produto se encaixe no layout original.\n\nModifique apenas a área ocupada pelo novo produto e as sombras de contato, oclusões e reflexos locais necessários resultantes da substituição. Não refaça o pôster inteiro.\n\nMantenha o título, o conteúdo do texto, a fonte, o tamanho da fonte, a posição, a textura do fundo, os elementos decorativos e o tamanho da tela inalterados, exceto o próprio produto.\n\nNão misture designs de dois produtos. Não mantenha tampas de garrafa, alças, rótulos ou outras partes do produto antigo.\n\nNão adicione acessórios não mostrados na Figura 2, não tente adivinhar o texto ilegível da embalagem e não altere as cores do produto para combinar com o fundo.\n\nGere apenas um pôster completo substituído."
+      ],
+      "inputs": [
+        "Imagem 1: o pôster publicitário existente.",
+        "Imagem 2: a nova referência do produto."
+      ],
+      "notes": [
+        "Esta é uma receita ilustrada distinta dentro do tutorial GPT Image 2.5 do criador. O engajamento compartilhado do artigo não é atribuído a receitas individuais.",
+        "A pré-visualização é um resultado mostrado pelo autor; as referências necessárias devem ser fornecidas pelo leitor. O repositório não testou este fluxo de trabalho de forma independente."
+      ],
+      "source_digest": "39af1f1158a0841fde83d2f43263907e37932b43b29b612a025f6ee6f47bea68",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
+  }
+}

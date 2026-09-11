@@ -1,0 +1,227 @@
+{
+  "schema_version": 1,
+  "id": "reference-shirt-try-on",
+  "title": {
+    "en": "Reference shirt virtual try-on",
+    "zh": "参考上衣虚拟试穿"
+  },
+  "summary": {
+    "en": "Apply a referenced shirt while preserving the subject, clothing construction, and printed details.",
+    "zh": "应用参考衬衫，同时保留主体、服装结构和印花细节。"
+  },
+  "category": "products",
+  "tags": [
+    "products",
+    "edit"
+  ],
+  "mode": "edit",
+  "featured": true,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/AdrianPunk115/status/2098055380857143807",
+    "evidence": "The creator explicitly presents these as GPT Image 2.5 workflows in the article. This records the creator’s attribution, not an independent model test."
+  },
+  "prompt": {
+    "kind": "original",
+    "original_language": "zh",
+    "original_steps": [
+      "请将图2中的上衣，穿到图1的人物身上，生成一张真实的试穿效果图。\n\n图1只负责人物身份、身体比例、姿势、镜头角度和背景。\n图2只负责上衣的款式、颜色、面料、剪裁、图案和细节。\n\n保留人物的脸、发型、肤色、体型与原有姿势，只替换上衣。不要为了让衣服更好看而改变肩宽、腰围或身体比例。\n\n准确保留上衣的领口、袖型、门襟、口袋、纽扣以及其他可见结构。\n\n原有的印花、刺绣、Logo和文字应位于衣服对应的位置。它们可以随布料产生自然弯曲和褶皱，但不能被改写、镜像、增加、删减或移动到其他位置。\n\n面料应根据肩部、手臂和躯干形成合理垂坠。保留原面料的厚薄感与表面质感，不要把针织变成光滑塑料，也不要把挺括面料变成贴身薄布。\n\n采用正面展示，不主动展示参考图没有提供的背面设计。\n\n保留原图的光线与环境，让替换后的衣服自然融入。只输出一张试穿图，不添加文字或前后对照。**请将图2中的上衣，穿到图1的人物身上，生成一张真实的试穿效果图。**\n\n图1只负责人物身份、身体比例、姿势、镜头角度和背景。\n图2只负责上衣的款式、颜色、面料、剪裁、图案和细节。\n\n保留人物的脸、发型、肤色、体型与原有姿势，只替换上衣。不要为了让衣服更好看而改变肩宽、腰围或身体比例。\n\n准确保留上衣的领口、袖型、门襟、口袋、纽扣以及其他可见结构。\n\n原有的印花、刺绣、Logo和文字应位于衣服对应的位置。它们可以随布料产生自然弯曲和褶皱，但不能被改写、镜像、增加、删减或移动到其他位置。\n\n面料应根据肩部、手臂和躯干形成合理垂坠。保留原面料的厚薄感与表面质感，不要把针织变成光滑塑料，也不要把挺括面料变成贴身薄布。\n\n采用正面展示，不主动展示参考图没有提供的背面设计。\n\n保留原图的光线与环境，让替换后的衣服自然融入。只输出一张试穿图，不添加文字或前后对照。"
+    ],
+    "steps": [
+      {
+        "en": "Please place the top from Image 2 onto the person in Image 1 to generate a realistic virtual try-on image.\n\nImage 1 determines the person's identity, body proportions, pose, camera angle, and background.\nImage 2 determines the top's style, color, fabric, cut, pattern, and details.\n\nRetain the person's face, hairstyle, skin tone, body shape, and original pose; replace only the top. Do not alter shoulder width, waist size, or body proportions simply to make the garment look better.\n\nAccurately preserve the top's neckline, sleeve style, placket, pockets, buttons, and other visible structural elements.\n\nOriginal prints, embroidery, logos, and text must remain in their corresponding positions on the garment. They may follow the natural curves and folds of the fabric but must not be altered, mirrored, added to, removed, or relocated.\n\nThe fabric should drape naturally over the shoulders, arms, and torso. Preserve the original fabric's thickness and surface texture; do not transform knitwear into smooth plastic or turn structured fabric into clingy, thin material.\n\nUse a frontal view; do not display back-view designs not present in the reference image.\n\nRetain the lighting and environment of the original image so the replaced garment blends in naturally. Output only a single try-on image; do not add text or \"before-and-after\" comparisons. **Please place the top from Image 2 onto the person in Image 1 to generate a realistic virtual try-on image.**\n\nImage 1 determines the person's identity, body proportions, pose, camera angle, and background.\nImage 2 determines the top's style, color, fabric, cut, pattern, and details.\n\nRetain the person's face, hairstyle, skin tone, body shape, and original pose; replace only the top. Do not alter shoulder width, waist size, or body proportions simply to make the garment look better.\n\nAccurately preserve the top's neckline, sleeve style, placket, pockets, buttons, and other visible structural elements.\n\nOriginal prints, embroidery, logos, and text must remain in their corresponding positions on the garment. They should naturally curve and fold with the fabric but cannot be rewritten, mirrored, added to, deleted, or moved to other locations.\n\nThe fabric should drape realistically over the shoulders, arms, and torso. Preserve the original fabric's thickness and surface texture; do not turn knitwear into smooth plastic or transform stiff, structured fabric into clingy, thin material.\n\nPresent the garment from the front view; do not actively display back-view designs not provided in the reference image.\n\nRetain the original image's lighting and environment so the replaced clothing blends in naturally. Output only a single \"try-on\" image; do not add text or \"before-and-after\" comparisons.",
+        "zh": "请将图2中的上衣，穿到图1的人物身上，生成一张真实的试穿效果图。\n\n图1只负责人物身份、身体比例、姿势、镜头角度和背景。\n图2只负责上衣的款式、颜色、面料、剪裁、图案和细节。\n\n保留人物的脸、发型、肤色、体型与原有姿势，只替换上衣。不要为了让衣服更好看而改变肩宽、腰围或身体比例。\n\n准确保留上衣的领口、袖型、门襟、口袋、纽扣以及其他可见结构。\n\n原有的印花、刺绣、Logo和文字应位于衣服对应的位置。它们可以随布料产生自然弯曲和褶皱，但不能被改写、镜像、增加、删减或移动到其他位置。\n\n面料应根据肩部、手臂和躯干形成合理垂坠。保留原面料的厚薄感与表面质感，不要把针织变成光滑塑料，也不要把挺括面料变成贴身薄布。\n\n采用正面展示，不主动展示参考图没有提供的背面设计。\n\n保留原图的光线与环境，让替换后的衣服自然融入。只输出一张试穿图，不添加文字或前后对照。**请将图2中的上衣，穿到图1的人物身上，生成一张真实的试穿效果图。**\n\n图1只负责人物身份、身体比例、姿势、镜头角度和背景。\n图2只负责上衣的款式、颜色、面料、剪裁、图案和细节。\n\n保留人物的脸、发型、肤色、体型与原有姿势，只替换上衣。不要为了让衣服更好看而改变肩宽、腰围或身体比例。\n\n准确保留上衣的领口、袖型、门襟、口袋、纽扣以及其他可见结构。\n\n原有的印花、刺绣、Logo和文字应位于衣服对应的位置。它们可以随布料产生自然弯曲和褶皱，但不能被改写、镜像、增加、删减或移动到其他位置。\n\n面料应根据肩部、手臂和躯干形成合理垂坠。保留原面料的厚薄感与表面质感，不要把针织变成光滑塑料，也不要把挺括面料变成贴身薄布。\n\n采用正面展示，不主动展示参考图没有提供的背面设计。\n\n保留原图的光线与环境，让替换后的衣服自然融入。只输出一张试穿图，不添加文字或前后对照。"
+      }
+    ]
+  },
+  "inputs": [
+    {
+      "en": "Image 1: the subject reference.",
+      "zh": "图 1：主体参考。"
+    },
+    {
+      "en": "Image 2: the shirt reference.",
+      "zh": "图 2：衬衫参考。"
+    }
+  ],
+  "notes": [
+    {
+      "en": "This is a distinct illustrated recipe within the creator’s GPT Image 2.5 tutorial. The article’s shared engagement is not assigned to individual recipes.",
+      "zh": "这是作者 GPT Image 2.5 教程中的一个独立图解教程。文章的共享互动并未分配给单个食谱。"
+    },
+    {
+      "en": "The preview is a result shown by the author; required references must be supplied by the reader. The repository has not independently tested this workflow.",
+      "zh": "预览是作者展示的结果；读者必须提供所需的参考资料。该存储库尚未独立测试此工作流程。"
+    },
+    {
+      "en": "The original source repeats the shirt instructions. That repetition is preserved in the original wording and translations.",
+      "zh": "原始来源重复了衬衫的说明。这种重复在原始措辞和翻译中均得到保留。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "AdrianPunk115",
+    "url": "https://x.com/AdrianPunk115/status/2098055380857143807",
+    "prompt_url": "https://x.com/AdrianPunk115/status/2098055380857143807",
+    "post_language": "zh",
+    "checked_at": "2026-09-11T18:20:40.729Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "section": "Reference shirt virtual try-on"
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HR22qgZbIAAF73P?format=jpg&name=large",
+      "kind": "source-result",
+      "credit": "@AdrianPunk115",
+      "source_url": "https://x.com/AdrianPunk115/status/2098055380857143807"
+    }
+  ],
+  "engagement": {
+    "likes": null,
+    "bookmarks": null,
+    "reposts": null,
+    "replies": null,
+    "views": null,
+    "observed_at": "2026-09-11T18:20:40.729Z",
+    "source_url": "https://x.com/AdrianPunk115/status/2098055380857143807",
+    "method": "Individual section metrics are unavailable; shared article totals are not assigned to this recipe."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Third-party prompts and media retain their creators’ rights; external previews are linked, not relicensed."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "參考襯衫虛擬試穿",
+      "summary": "應用參考襯衫，同時保留主體、服裝結構和印花細節。",
+      "steps": [
+        "請將圖2的上衣，穿到圖1的人物身上，產生一張真實的試穿效果圖。\n\n圖1只負責人物身分、身體比例、姿勢、鏡頭角度和背景。\n圖2只負責上衣的款式、顏色、布料、剪裁、圖案和細節。\n\n保留人物的臉、髮型、膚色、體型與原有姿勢，只替換上衣。不要為了讓衣服更好看而改變肩寬、腰圍或身體比例。\n\n準確保留上衣的領口、袖型、門襟、口袋、扣環以及其他可見結構。\n\n原有的印花、刺繡、Logo和文字應位於衣服對應的位置。它們可以隨布料產生自然彎曲和褶皺，但不能被改寫、鏡像、增加、刪除或移動到其他位置。\n\n布料應根據肩部、手臂和軀幹形成合理垂墜。保留原布料的厚薄感與表面質感，不要把針織變成光滑塑料，也不要把挺括布料變成貼身薄布。\n\n採用正面展示，不主動展示參考圖沒有提供的背面設計。\n\n保留原圖的光線與環境，讓替換後的衣服自然融入。只輸出一張試穿圖，不添加文字或前後對照。 **請將圖2的上衣，穿到圖1的人物身上，產生一張真實的試穿效果圖。 **\n\n圖1只負責人物身分、身體比例、姿勢、鏡頭角度和背景。\n圖2只負責上衣的款式、顏色、布料、剪裁、圖案和細節。\n\n保留人物的臉、髮型、膚色、體型與原有姿勢，只替換上衣。不要為了讓衣服更好看而改變肩寬、腰圍或身體比例。\n\n準確保留上衣的領口、袖型、門襟、口袋、扣環以及其他可見結構。\n\n原有的印花、刺繡、Logo和文字應位於衣服對應的位置。它們可以隨布料產生自然彎曲和褶皺，但不能被改寫、鏡像、增加、刪除或移動到其他位置。\n\n布料應根據肩部、手臂和軀幹形成合理垂墜。保留原布料的厚薄感與表面質感，不要把針織變成光滑塑料，也不要把挺括布料變成貼身薄布。\n\n採用正面展示，不主動展示參考圖沒有提供的背面設計。\n\n保留原圖的光線與環境，讓替換後的衣服自然融入。只輸出一張試穿圖，不添加文字或前後對照。"
+      ],
+      "inputs": [
+        "圖 1：主體參考。",
+        "圖 2：襯衫參考。"
+      ],
+      "notes": [
+        "這是作者 GPT Image 2.5 教學中的獨立圖解教學。文章的共享互動並未分配給單一食譜。",
+        "預覽是作者展示的結果；讀者必須提供所需的參考資料。該存儲庫尚未獨立測試此工作流程。",
+        "原始來源重複了襯衫的說明。這種重複在原始措詞和翻譯中均保留。"
+      ],
+      "source_digest": "afafb674052f02e60dab17081dd117f43cb125053d28edaf4636fb45e162ad1a",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "参照シャツのバーチャル試着",
+      "summary": "対象、衣服の構造、プリントの詳細を保持したまま、参照シャツを適用します。",
+      "steps": [
+        "図1の人物に図2のシャツを着用させ、リアルな試着効果画像を作成してください。\n\n図1では、人物の身元、体型、ポーズ、カメラアングル、背景のみをカバーしてください。\n\n図2では、シャツのスタイル、色、生地、カット、柄、ディテールのみをカバーしてください。\n\n人物の顔、髪型、肌の色、体型、元のポーズはそのままに、シャツのみを置き換えてください。服の見栄えを良くするために、肩幅、ウエストライン、体型を変更しないでください。\n\nシャツの襟、袖のタイプ、前立て、ポケット、ボタン、その他の見える構造を正確に保持してください。\n\n既存のプリント、刺繍、ロゴ、文字は、衣服上の適切な位置に配置してください。これらの要素は生地の伸縮に合わせて自然に曲がったり折り畳まれたりしますが、書き換え、反転、追加、削除、移動はできません。\n\n\n生地は肩、腕、胴体に合わせて適切にドレープするようにしてください。元の生地の厚みと質感を維持し、ニットを滑らかなプラスチックのようにしたり、硬い生地を体にまとわりつくような薄い布に変えたりしないでください。\n\n正面からの視点を使用し、参照画像にない背面のデザインは積極的に表示しないでください。\n\n元の画像の照明と環境を維持し、置き換えた衣服が自然に馴染むようにしてください。テキストやビフォーアフターの比較は追加せず、試着画像は1枚のみ出力してください。**図1の人物に図2のトップスを着用させて、リアルな試着画像を作成してください。**\n\n図1では、人物の身元、体型、ポーズ、カメラアングル、背景のみを処理すれば十分です。\n\n図2では、トップスのスタイル、色、生地、カット、柄、ディテールのみを処理すれば十分です。\n\n人物の顔、髪型、肌の色、体型、元のポーズは維持し、トップスのみを置き換えてください。衣服の見栄えを良くするために、肩幅、ウエストライン、または体型比率を変更しないでください。\n\n襟、袖、前立て、ポケット、ボタン、その他衣服の見える部分を正確に維持してください。\n\n既存のプリント、刺繍、ロゴ、テキストは、衣服の適切な位置に配置してください。これらは生地の自然なドレープやシワに合わせて配置できますが、書き換え、反転、追加、削除、または他の位置への移動はできません。\n\n生地は肩、腕、胴体に合わせて適切にドレープするようにしてください。元の生地の厚みと表面の質感を維持してください。ニットを滑らかなプラスチックのようにしたり、硬い生地を体にまとわりつくような薄い布にしたりしないでください。\n\n前面表示のディスプレイを使用し、参照画像にない背面のデザインは表示しないでください。\n\n元の画像の照明と環境を維持し、置き換えた衣服が自然に馴染むようにしてください。テキストやビフォーアフターの比較画像を追加せずに、試着画像を1枚のみ出力してください。"
+      ],
+      "inputs": [
+        "画像1：対象参照画像",
+        "画像2：シャツ参照画像"
+      ],
+      "notes": [
+        "これは、作成者のGPT Image 2.5チュートリアルに含まれる、独立した図解付きレシピです。記事の共有エンゲージメントは、個々のレシピには割り当てられていません。",
+        "プレビューは著者が表示した結果です。必要な参照情報は読者が提供する必要があります。リポジトリはこのワークフローを独自にテストしていません。",
+        "元のソースではシャツの手順が繰り返されています。その繰り返しは元の文言と翻訳の両方で保持されています。"
+      ],
+      "source_digest": "afafb674052f02e60dab17081dd117f43cb125053d28edaf4636fb45e162ad1a",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "참조 셔츠 가상 착용",
+      "summary": "피사체, 의류 구조 및 프린트 디테일을 유지하면서 참조된 셔츠를 적용합니다.",
+      "steps": [
+        "그림 1의 인물에게 그림 2의 셔츠를 입혀 실감나는 착용 효과 이미지를 생성해 주십시오.\n\n그림 1에서는 인물의 신원, 신체 비율, 포즈, 카메라 각도 및 배경만 가려야 합니다.\n\n그림 2에서는 셔츠의 스타일, 색상, 원단, 재단, 패턴 및 디테일만 가려야 합니다.\n\n인물의 얼굴, 헤어스타일, 피부톤, 체형 및 원래 포즈는 그대로 유지하고 셔츠만 교체하십시오. 옷이 더 잘 보이도록 어깨 너비, 허리선 또는 신체 비율을 변경하지 마십시오.\n\n셔츠의 칼라, 소매 형태, 앞단, 주머니, 단추 및 기타 보이는 구조를 정확하게 유지하십시오.\n\n기존의 프린트, 자수, 로고 및 텍스트는 옷의 해당 위치에 배치해야 합니다. 이러한 요소는 원단에 따라 자연스럽게 구부러지거나 접힐 수 있지만, 수정, 좌우 반전, 추가, 삭제 또는 위치 변경은 허용되지 않습니다.\n\n원단은 어깨, 팔, 몸통에 따라 적절하게 드레이핑되어야 합니다. 원래 원단의 두께와 질감을 유지하십시오. 니트 소재를 매끄러운 플라스틱처럼 만들거나, 뻣뻣한 원단을 몸에 달라붙는 얇은 천처럼 만들지 마십시오.\n\n정면 사진을 사용하십시오. 참고 이미지에 제공되지 않은 뒷면 디자인은 의도적으로 드러내지 마십시오.\n\n원본 이미지의 조명과 배경을 유지하여 교체된 의상이 자연스럽게 어우러지도록 하십시오. 텍스트나 전후 비교 이미지 없이, 착용 사진 한 장만 출력하십시오. **실제 착용 사진을 생성하려면 그림 1의 인물에게 그림 2의 상의를 입히십시오.**\n\n그림 1에서는 인물의 신원, 신체 비율, 포즈, 카메라 각도 및 배경만 조정하면 됩니다.\n\n그림 2에서는 상의의 스타일, 색상, 원단, 재단, 패턴 및 디테일만 조정하면 됩니다.\n\n인물의 얼굴, 헤어스타일, 피부톤, 체형 및 원래 포즈는 그대로 유지하고 상의만 교체하십시오. 의상이 더 잘 어울리도록 어깨 너비, 허리선 또는 신체 비율을 변경하지 마십시오.\n\n칼라, 소매, 앞단, 주머니, 단추 및 기타 의류의 눈에 보이는 구조를 정확하게 유지하십시오.\n\n기존의 프린트, 자수, 로고 및 텍스트는 의류의 해당 위치에 배치해야 합니다. 원단의 자연스러운 드레이핑과 주름은 그대로 유지하되, 내용을 수정하거나, 좌우 반전하거나, 추가하거나, 삭제하거나, 위치를 변경할 수 없습니다.\n\n원단은 어깨, 팔, 몸통에 맞게 적절하게 드레이핑되어야 합니다. 원래 원단의 두께와 표면 질감을 유지하십시오. 니트 소재를 매끄러운 플라스틱처럼 만들거나, 뻣뻣한 원단을 몸에 달라붙는 얇은 천처럼 만들지 마십시오.\n\n정면 이미지를 사용하십시오. 참조 이미지에 제공되지 않은 뒷면 디자인은 의도적으로 보여주지 마십시오.\n\n원본 이미지의 조명과 배경을 유지하여 교체된 의류가 자연스럽게 어우러지도록 하십시오. 텍스트나 전후 비교 이미지를 추가하지 않고, 착용 이미지 하나만 출력하십시오."
+      ],
+      "inputs": [
+        "이미지 1: 참조 대상.",
+        "이미지 2: 참조 셔츠."
+      ],
+      "notes": [
+        "이것은 제작자의 GPT Image 2.5 튜토리얼에 포함된 별도의 그림 설명 레시피입니다. 이 문서의 공유 참여도는 개별 레시피에 할당되지 않습니다.",
+        "미리보기는 작성자가 보여주는 결과이며, 필요한 참조는 독자가 제공해야 합니다. 이 저장소는 해당 워크플로를 독립적으로 테스트하지 않았습니다.",
+        "원본 소스에는 셔츠 관련 지침이 반복되어 있습니다. 해당 반복 내용은 원문과 번역본에 그대로 유지됩니다."
+      ],
+      "source_digest": "afafb674052f02e60dab17081dd117f43cb125053d28edaf4636fb45e162ad1a",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Essayage virtuel d'une chemise de référence",
+      "summary": "Appliquer une chemise de référence en conservant le sujet, la confection et les détails imprimés.",
+      "steps": [
+        "Veuillez faire porter la chemise de la figure 2 à la personne de la figure 1 afin de générer une image réaliste d'essayage.\n\nLa figure 1 doit uniquement montrer l'identité de la personne, ses proportions corporelles, sa pose, l'angle de la caméra et l'arrière-plan.\n\nLa figure 2 doit uniquement montrer le style, la couleur, le tissu, la coupe, le motif et les détails de la chemise.\n\nConservez le visage, la coiffure, le teint, la morphologie et la pose originale de la personne ; remplacez uniquement la chemise. Ne modifiez pas la largeur des épaules, le tour de taille ni les proportions corporelles pour améliorer l'apparence du vêtement.\n\nReproduisez fidèlement le col, le type de manches, la patte de boutonnage, les poches, les boutons et autres éléments visibles de la chemise.\n\nLes imprimés, broderies, logos et textes existants doivent être placés à leur emplacement respectif sur le vêtement. Ces éléments peuvent se plier et se froisser naturellement avec le tissu, mais ne doivent pas être modifiés, inversés, ajoutés, supprimés ou déplacés.\n\nLe tissu doit tomber correctement au niveau des épaules, des bras et du torse. Conservez l'épaisseur et la texture d'origine du tissu ; ne transformez pas la maille en plastique lisse, ni un tissu rigide en une étoffe fine et moulante.\n\nUtilisez une vue de face ; ne montrez pas les motifs du dos qui ne figurent pas sur l'image de référence.\n\nPréservez l'éclairage et l'environnement de l'image d'origine, afin que le vêtement remplacé se fonde naturellement. Générez une seule image d'essayage, sans texte ni comparaison avant/après. **Veuillez faire porter le haut de la figure 2 à la personne de la figure 1 pour obtenir une image d'essayage réaliste.**\n\nLa figure 1 nécessite uniquement la modification de l'identité, des proportions, de la pose, de l'angle de prise de vue et de l'arrière-plan de la personne.\n\nLa figure 2 nécessite uniquement la modification du style, de la couleur, du tissu, de la coupe, du motif et des détails du haut.\n\nConservez le visage, la coiffure, le teint, la morphologie et la pose d'origine de la personne ; remplacez uniquement le haut. Ne modifiez pas la largeur des épaules, le tour de taille ni les proportions pour améliorer l'apparence du vêtement.\n\nConservez fidèlement le col, les manches, la patte de boutonnage, les poches, les boutons et autres éléments visibles du vêtement.\n\nLes imprimés, broderies, logos et textes existants doivent être replacés à leur emplacement d'origine. Ils peuvent suivre les mouvements naturels du tissu, mais ne doivent pas être modifiés, inversés, ajoutés, supprimés ni déplacés.\n\nLe tissu doit tomber correctement au niveau des épaules, des bras et du torse. Conservez l'épaisseur et la texture d'origine du tissu ; ne transformez pas un tricot en plastique lisse, ni un tissu rigide en une étoffe fine et collante.\n\nUtilisez un affichage face au vêtement ; ne montrez pas les motifs du dos qui ne figurent pas sur l'image de référence.\n\nConservez l'éclairage et l'environnement de l'image d'origine, afin que le vêtement remplacé s'intègre naturellement. Ne générez qu'une seule image d'essayage, sans texte ni comparaison avant/après."
+      ],
+      "inputs": [
+        "Image 1 : sujet de référence.",
+        "Image 2 : chemise de référence."
+      ],
+      "notes": [
+        "Il s'agit d'une méthode illustrée spécifique au tutoriel GPT Image 2.5 de son créateur. L'engagement partagé de l'article n'est pas attribué à des recettes individuelles.",
+        "L'aperçu est un résultat affiché par l'auteur ; les références requises doivent être fournies par le lecteur. Ce processus n'a pas été testé indépendamment par le dépôt.",
+        "La source originale reprend les instructions concernant la chemise. Cette répétition est conservée dans le texte original et les traductions."
+      ],
+      "source_digest": "afafb674052f02e60dab17081dd117f43cb125053d28edaf4636fb45e162ad1a",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Virtuelle Anprobe eines Referenz-Shirts",
+      "summary": "Wenden Sie ein referenziertes Shirt an, wobei Motiv, Schnitt und Druckdetails erhalten bleiben.",
+      "steps": [
+        "Bitte ziehen Sie das Hemd aus Abbildung 2 der Person aus Abbildung 1 an, um einen realistischen Anprobeeffekt zu erzielen.\n\nAbbildung 1 muss lediglich die Identität der Person, ihre Körperproportionen, ihre Pose, den Kamerawinkel und den Hintergrund zeigen.\n\nAbbildung 2 muss lediglich Stil, Farbe, Stoff, Schnitt, Muster und Details des Hemdes zeigen.\n\nBehalten Sie Gesicht, Frisur, Hautton, Körperform und die ursprüngliche Pose der Person bei; ersetzen Sie nur das Hemd. Verändern Sie weder Schulterbreite, Taille noch Körperproportionen, um das Kleidungsstück optisch zu verbessern.\n\nBehalten Sie Kragen, Ärmelform, Knopfleiste, Taschen, Knöpfe und andere sichtbare Details des Hemdes genau bei.\n\nVorhandene Aufdrucke, Stickereien, Logos und Texte müssen an ihren entsprechenden Positionen auf dem Kleidungsstück platziert werden. Diese Elemente können sich mit dem Stoff natürlich biegen und falten, dürfen aber nicht verändert, gespiegelt, hinzugefügt, entfernt oder verschoben werden.\n\nDer Stoff sollte an Schultern, Armen und Oberkörper schön fallen. Dicke und Textur des Originalstoffs bleiben erhalten; Strickwaren dürfen nicht glatt wie Plastik und steife Stoffe nicht dünn und anschmiegsam werden.\n\nVerwenden Sie eine Vorderansicht; zeigen Sie keine Rückseitendetails, die nicht im Referenzbild enthalten sind.\n\nBewahren Sie die Beleuchtung und die Umgebung des Originalbildes, damit sich das ausgetauschte Kleidungsstück natürlich einfügt. Geben Sie nur ein Anprobebild aus, ohne Text oder Vorher-Nachher-Vergleiche. **Bitte ziehen Sie das Oberteil aus Abbildung 2 der Person in Abbildung 1 an, um ein realistisches Anprobebild zu erzeugen.**\n\nAbbildung 1 muss nur die Person, ihre Körperproportionen, ihre Pose, den Kamerawinkel und den Hintergrund berücksichtigen.\n\nAbbildung 2 muss nur Stil, Farbe, Stoff, Schnitt, Muster und Details des Oberteils berücksichtigen.\n\nBehalten Sie Gesicht, Frisur, Hautton, Körperform und die ursprüngliche Pose der Person bei; tauschen Sie nur das Oberteil aus. Verändern Sie weder Schulterbreite, Taille noch Körperproportionen, um das Kleidungsstück optisch zu verbessern.\n\nKragen, Ärmel, Knopfleiste, Taschen, Knöpfe und alle anderen sichtbaren Details des Kleidungsstücks müssen präzise erhalten bleiben.\n\nVorhandene Aufdrucke, Stickereien, Logos und Texte müssen an ihren entsprechenden Positionen auf dem Kleidungsstück platziert werden. Sie dürfen sich natürlich mit dem Stoff bewegen und Falten werfen, dürfen aber nicht verändert, gespiegelt, ergänzt, entfernt oder verschoben werden.\n\nDer Stoff muss an Schultern, Armen und Oberkörper schön fallen. Die ursprüngliche Dicke und Oberflächenstruktur des Stoffes muss erhalten bleiben; Strickwaren dürfen nicht zu glattem Plastik und steife Stoffe nicht zu dünnen, anschmiegsamen Stoffen werden.\n\nVerwenden Sie eine Frontansicht; zeigen Sie keine Rückseitendetails, die nicht im Referenzbild enthalten sind.\n\nBewahren Sie die Beleuchtung und die Umgebung des Originalbildes auf, damit sich das ersetzte Kleidungsstück natürlich einfügt. Geben Sie nur ein Anprobebild aus, ohne Text oder Vorher-Nachher-Vergleiche."
+      ],
+      "inputs": [
+        "Bild 1: Das Motiv als Referenz.",
+        "Bild 2: Das Shirt als Referenz."
+      ],
+      "notes": [
+        "Dies ist eine detaillierte, bebilderte Anleitung aus dem Tutorial GPT Image 2.5 des Erstellers. Die geteilte Interaktion im Artikel wird nicht einzelnen Rezepten zugeordnet.",
+        "Die Vorschau zeigt ein vom Autor dargestelltes Ergebnis; die benötigten Referenzen müssen vom Leser bereitgestellt werden. Das Repository hat diesen Workflow nicht unabhängig getestet.",
+        "Die Originalquelle wiederholt die Anweisungen für das Shirt. Diese Wiederholung ist im Originaltext und in den Übersetzungen erhalten."
+      ],
+      "source_digest": "afafb674052f02e60dab17081dd117f43cb125053d28edaf4636fb45e162ad1a",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Prueba virtual de la camisa de referencia",
+      "summary": "Aplica una camisa de referencia conservando el sujeto, la confección de la prenda y los detalles impresos.",
+      "steps": [
+        "Coloque la camisa de la Figura 2 sobre la persona de la Figura 1 para generar una imagen con efecto de prueba realista.\n\nLa Figura 1 solo debe cubrir la identidad de la persona, las proporciones corporales, la pose, el ángulo de la cámara y el fondo.\n\nLa Figura 2 solo debe cubrir el estilo, el color, la tela, el corte, el estampado y los detalles de la camisa.\n\nConserve el rostro, el peinado, el tono de piel, la forma del cuerpo y la pose original de la persona; solo reemplace la camisa. No modifique el ancho de los hombros, la cintura ni las proporciones corporales para que la ropa se vea mejor.\n\nConserve con precisión el cuello, el tipo de manga, la tapeta, los bolsillos, los botones y demás estructuras visibles de la camisa.\n\nLos estampados, bordados, logotipos y texto existentes deben colocarse en sus posiciones correspondientes en la prenda. Estos elementos pueden doblarse y plegarse naturalmente con la tela, pero no se pueden reescribir, reflejar, agregar, eliminar ni mover a otras posiciones.\n\nLa tela debe caer adecuadamente según los hombros, los brazos y el torso. Conserva el grosor y la textura originales de la tela; no conviertas las prendas de punto en plástico liso ni las telas rígidas en telas finas y pegajosas.\n\nUtiliza una vista frontal; no muestres diseños de la espalda que no estén presentes en la imagen de referencia.\n\nConserva la iluminación y el entorno de la imagen original, permitiendo que la prenda reemplazada se integre de forma natural. Genera solo una imagen de prueba, sin añadir texto ni comparaciones de antes y después. **Coloca la blusa de la Figura 2 sobre la persona de la Figura 1 para generar una imagen de prueba realista.**\n\nLa Figura 1 solo necesita gestionar la identidad de la persona, las proporciones corporales, la pose, el ángulo de la cámara y el fondo.\n\nLa Figura 2 solo necesita gestionar el estilo, el color, la tela, el corte, el estampado y los detalles de la blusa.\n\nConserva el rostro, el peinado, el tono de piel, la forma del cuerpo y la pose original de la persona; solo reemplaza la blusa. No modifiques el ancho de los hombros, la cintura ni las proporciones corporales para que la prenda luzca mejor.\n\nConservar con precisión el cuello, las mangas, la tapeta, los bolsillos, los botones y demás estructuras visibles de la prenda.\n\nLos estampados, bordados, logotipos y textos existentes deben colocarse en sus posiciones correspondientes en la prenda. Pueden caer y arrugarse naturalmente con la tela, pero no se pueden reescribir, reflejar, añadir, eliminar ni mover a otras posiciones.\n\nLa tela debe caer adecuadamente según los hombros, los brazos y el torso. Conservar el grosor y la textura de la tela original; no convertir la prenda de punto en plástico liso ni la tela rígida en una tela fina y pegajosa.\n\nUtilizar una pantalla frontal; no mostrar diseños de la parte posterior que no estén presentes en la imagen de referencia.\n\nConservar la iluminación y el entorno de la imagen original, permitiendo que la prenda reemplazada se integre de forma natural. Generar solo una imagen de prueba, sin añadir texto ni comparaciones de antes y después."
+      ],
+      "inputs": [
+        "Imagen 1: la referencia del sujeto.",
+        "Imagen 2: la referencia de la camisa."
+      ],
+      "notes": [
+        "Esta es una receta ilustrada específica dentro del tutorial GPT Image 2.5 del creador. La participación compartida del artículo no se asigna a recetas individuales.",
+        "La vista previa es un resultado mostrado por el autor; el lector debe proporcionar las referencias necesarias. El repositorio no ha probado este flujo de trabajo de forma independiente.",
+        "La fuente original repite las instrucciones de la camisa. Dicha repetición se conserva en la redacción original y en las traducciones."
+      ],
+      "source_digest": "afafb674052f02e60dab17081dd117f43cb125053d28edaf4636fb45e162ad1a",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Experimentação virtual de camisa de referência",
+      "summary": "Aplique uma camisa de referência, preservando o assunto, a construção da roupa e os detalhes da estampa.",
+      "steps": [
+        "Coloque a camisa da Figura 2 na pessoa da Figura 1 para gerar uma imagem realista de provador.\n\nA Figura 1 deve capturar apenas a identidade da pessoa, as proporções do corpo, a pose, o ângulo da câmera e o fundo.\n\nA Figura 2 deve capturar apenas o estilo, a cor, o tecido, o corte, a estampa e os detalhes da camisa.\n\nPreserve o rosto, o penteado, o tom de pele, o formato do corpo e a pose original da pessoa; substitua apenas a camisa. Não altere a largura dos ombros, a cintura ou as proporções do corpo para que a roupa fique melhor.\n\nPreserve com precisão a gola, o tipo de manga, a carcela, os bolsos, os botões e outras estruturas visíveis da camisa.\n\nEstampas, bordados, logotipos e textos existentes devem ser colocados em suas posições correspondentes na roupa. Esses elementos podem se dobrar e se curvar naturalmente com o tecido, mas não podem ser reescritos, espelhados, adicionados, excluídos ou movidos para outras posições.\n\nO tecido deve ter um caimento adequado nos ombros, braços e tronco. Mantenha a espessura e a textura originais do tecido; não transforme malhas em plástico liso, nem tecidos rígidos em tecidos finos e aderentes.\n\nUse uma vista frontal; não mostre ativamente detalhes das costas que não estejam presentes na imagem de referência.\n\nPreserve a iluminação e o ambiente da imagem original, permitindo que a peça substituída se integre naturalmente. Gere apenas uma imagem de provador, sem adicionar texto ou comparações de antes e depois. **Coloque a blusa da Figura 2 na pessoa da Figura 1 para gerar uma imagem de provador realista.**\n\nA Figura 1 precisa apenas manter a identidade da pessoa, as proporções do corpo, a pose, o ângulo da câmera e o fundo.\n\nA Figura 2 precisa apenas manter o estilo, a cor, o tecido, o corte, a estampa e os detalhes da blusa.\n\nPreserve o rosto, o penteado, o tom de pele, o formato do corpo e a pose original da pessoa; substitua apenas a blusa. Não altere a largura dos ombros, a cintura ou as proporções do corpo para que a peça fique melhor.\n\nPreserve com precisão a gola, as mangas, a carcela, os bolsos, os botões e outras estruturas visíveis da peça.\n\nEstampas, bordados, logotipos e textos existentes devem ser posicionados corretamente na peça. Eles podem se ajustar naturalmente ao tecido, como se fossem drapeados e amassados, mas não podem ser reescritos, espelhados, adicionados, excluídos ou movidos para outras posições.\n\nO tecido deve ter um caimento adequado nos ombros, braços e tronco. Mantenha a espessura e a textura originais do tecido; não transforme malhas em plástico liso, nem tecidos rígidos em tecidos finos e aderentes.\n\nUse uma visualização frontal; não mostre ativamente as partes traseiras que não estejam presentes na imagem de referência.\n\nPreserve a iluminação e o ambiente da imagem original, permitindo que a peça substituída se integre naturalmente. Gere apenas uma imagem de prova, sem adicionar texto ou comparações de antes e depois."
+      ],
+      "inputs": [
+        "Imagem 1: a referência do assunto.",
+        "Imagem 2: a referência da camisa."
+      ],
+      "notes": [
+        "Esta é uma receita ilustrada distinta dentro do tutorial GPT Image 2.5 do criador. O engajamento compartilhado do artigo não é atribuído a receitas individuais.",
+        "A pré-visualização é um resultado mostrado pelo autor; as referências necessárias devem ser fornecidas pelo leitor. O repositório não testou este fluxo de trabalho de forma independente.",
+        "A fonte original repete as instruções da camisa. Essa repetição é preservada na redação original e nas traduções."
+      ],
+      "source_digest": "afafb674052f02e60dab17081dd117f43cb125053d28edaf4636fb45e162ad1a",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
+  }
+}

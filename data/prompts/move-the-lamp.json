@@ -31,7 +31,10 @@
         "zh": "把台灯移到右边"
       }
     ],
-    "original_language": "en"
+    "original_language": "en",
+    "original_steps": [
+      "Move the lamp to the right"
+    ]
   },
   "inputs": [
     {
@@ -52,7 +55,8 @@
     "prompt_url": "https://x.com/higgsfield_ai/status/2097515081802379736",
     "checked_at": "2026-09-10T15:32:44.578Z",
     "status": "source-checked",
-    "disclosure": null
+    "disclosure": null,
+    "post_language": null
   },
   "previews": [
     {
@@ -79,5 +83,112 @@
   "rights": {
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "移動房間中的一盞燈。",
+      "summary": "測試局部物體移動和周圍光線的簡短說明。",
+      "steps": [
+        "將燈向右移動。"
+      ],
+      "inputs": [
+        "包含一盞燈的房間圖像。"
+      ],
+      "notes": [
+        "編輯後檢查原有燈具位置、陰影和周圍物體。"
+      ],
+      "source_digest": "63b1071c8a5a90bbbfdb9e4bbfd41ce19bcfa676d9e3f5e3ec42086f36832be3",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "部屋にあるランプを移動させる",
+      "summary": "特定のオブジェクトの移動と周囲の光の変化をテストするための短い指示。",
+      "steps": [
+        "ランプを右に移動させる"
+      ],
+      "inputs": [
+        "ランプが写っている部屋の画像。"
+      ],
+      "notes": [
+        "編集後、ランプの元の位置、落ちる影、および周囲のオブジェクトの状態を確認する。"
+      ],
+      "source_digest": "63b1071c8a5a90bbbfdb9e4bbfd41ce19bcfa676d9e3f5e3ec42086f36832be3",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "방 안의 램프 위치 이동하기",
+      "summary": "특정 사물의 위치 이동과 주변 조명 변화를 테스트하기 위한 간단한 지침입니다.",
+      "steps": [
+        "램프를 오른쪽으로 이동"
+      ],
+      "inputs": [
+        "램프가 포함된 방 이미지."
+      ],
+      "notes": [
+        "편집 후 램프의 이전 위치, 드리워진 그림자, 주변 사물을 확인하세요."
+      ],
+      "source_digest": "63b1071c8a5a90bbbfdb9e4bbfd41ce19bcfa676d9e3f5e3ec42086f36832be3",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Déplacer une lampe dans une pièce",
+      "summary": "Une instruction courte pour tester le déplacement localisé d'un objet et son impact sur la lumière environnante.",
+      "steps": [
+        "Déplacer la lampe vers la droite"
+      ],
+      "inputs": [
+        "Une image de pièce contenant une lampe."
+      ],
+      "notes": [
+        "Examiner l'ancienne position de la lampe, les ombres projetées et les objets environnants après la modification."
+      ],
+      "source_digest": "63b1071c8a5a90bbbfdb9e4bbfd41ce19bcfa676d9e3f5e3ec42086f36832be3",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Eine Lampe in einem Raum verschieben",
+      "summary": "Eine kurze Anweisung zum Testen der lokalen Objektverschiebung und des umgebenden Lichts.",
+      "steps": [
+        "Die Lampe nach rechts verschieben"
+      ],
+      "inputs": [
+        "Ein Bild eines Raums, der eine Lampe enthält."
+      ],
+      "notes": [
+        "Überprüfe nach der Bearbeitung die ursprüngliche Position der Lampe, die Schattenwürfe und die umliegenden Objekte."
+      ],
+      "source_digest": "63b1071c8a5a90bbbfdb9e4bbfd41ce19bcfa676d9e3f5e3ec42086f36832be3",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Mover una lámpara en una habitación",
+      "summary": "Una instrucción breve para probar el movimiento localizado de un objeto y la iluminación circundante.",
+      "steps": [
+        "Mover la lámpara hacia la derecha"
+      ],
+      "inputs": [
+        "Una imagen de una habitación que contiene una lámpara."
+      ],
+      "notes": [
+        "Inspeccionar la posición original de la lámpara, las sombras proyectadas y los objetos cercanos tras la edición."
+      ],
+      "source_digest": "63b1071c8a5a90bbbfdb9e4bbfd41ce19bcfa676d9e3f5e3ec42086f36832be3",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Mover uma luminária em um ambiente",
+      "summary": "Uma instrução breve para testar o movimento localizado de um objeto e a iluminação ao redor.",
+      "steps": [
+        "Mover a luminária para a direita"
+      ],
+      "inputs": [
+        "Uma imagem de um ambiente contendo uma luminária."
+      ],
+      "notes": [
+        "Inspecione a posição anterior da luminária, as sombras projetadas e os objetos próximos após a edição."
+      ],
+      "source_digest": "63b1071c8a5a90bbbfdb9e4bbfd41ce19bcfa676d9e3f5e3ec42086f36832be3",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
   }
 }

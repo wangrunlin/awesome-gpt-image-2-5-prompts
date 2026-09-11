@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "id": "transparent-product-relighting",
+  "title": {
+    "en": "Transparent product studio relighting",
+    "zh": "透明商品换景与重新布光"
+  },
+  "summary": {
+    "en": "Move a transparent product into a dark studio and reconstruct transmission, reflections, and contact shadows.",
+    "zh": "将透明产品移至黑暗的工作室，并重建透射光、反射光和接触阴影。"
+  },
+  "category": "products",
+  "tags": [
+    "products",
+    "edit"
+  ],
+  "mode": "edit",
+  "featured": true,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/AdrianPunk115/status/2098055380857143807",
+    "evidence": "The creator explicitly presents these as GPT Image 2.5 workflows in the article. This records the creator’s attribution, not an independent model test."
+  },
+  "prompt": {
+    "kind": "original",
+    "original_language": "zh",
+    "original_steps": [
+      "请将我上传的透明或半透明商品，放入一个新的商业摄影场景。\n\n保留原商品的轮廓、比例、厚度特征、瓶口或开口结构、标签位置和可辨认的包装文字。如果内部有液体，保留液体的颜色与液面高度。\n\n新场景采用深灰色摄影棚背景，商品放在低反光的深色台面上。一侧有柔和的大面积光源，后侧有一道克制的暖色轮廓光。\n\n重点处理商品与新环境的光学关系：\n透明区域应看到新的背景，而不能残留原照片的背景颜色或物体；\n根据商品形状呈现视觉上合理的透光和折射变化；\n表面反射应与新光源相符；\n底部保留自然的接触阴影。\n\n允许反射、受光和透过商品看到的背景发生变化，但不要改变商品本身的结构、颜色、标签与内容物。\n\n不要把透明玻璃变成不透明塑料，不要把磨砂材质变成完全透明，也不要给原本没有的区域增加镀铬效果。\n\n保留原商品的拍摄角度，不展示没有参考的背面。只生成一张3:4竖版商品摄影图，不增加道具或文案。"
+    ],
+    "steps": [
+      {
+        "en": "Please place the transparent or semi-transparent product I uploaded into a new commercial photography scene.\n\nRetain the original product's outline, proportions, thickness, bottle neck or opening structure, label placement, and legible packaging text. If the product contains liquid, retain its color and level.\n\nThe new scene uses a dark gray studio background, with the product placed on a low-reflectivity, dark surface. A soft, large-area light source is positioned on one side, with a restrained warm-toned rim light behind.\n\nFocus on the optical relationship between the product and the new environment: Transparent areas should show the new background without retaining the original photo's background color or objects; Present visually reasonable changes in light transmission and refraction based on the product's shape; Surface reflections should match the new light source; Retain natural contact shadows at the bottom.\n\nAllow changes in reflection, lighting, and the background seen through the product, but do not alter the product's structure, color, label, or contents.\n\nDo not turn transparent glass into opaque plastic, frosted materials into completely transparent materials, or add chrome effects to areas that were not originally present.\n\nRetain the original product's shooting angle; do not show the unreferenced back. Generate only one 3:4 vertical product photo, without adding props or text.",
+        "zh": "请将我上传的透明或半透明商品，放入一个新的商业摄影场景。\n\n保留原商品的轮廓、比例、厚度特征、瓶口或开口结构、标签位置和可辨认的包装文字。如果内部有液体，保留液体的颜色与液面高度。\n\n新场景采用深灰色摄影棚背景，商品放在低反光的深色台面上。一侧有柔和的大面积光源，后侧有一道克制的暖色轮廓光。\n\n重点处理商品与新环境的光学关系：\n透明区域应看到新的背景，而不能残留原照片的背景颜色或物体；\n根据商品形状呈现视觉上合理的透光和折射变化；\n表面反射应与新光源相符；\n底部保留自然的接触阴影。\n\n允许反射、受光和透过商品看到的背景发生变化，但不要改变商品本身的结构、颜色、标签与内容物。\n\n不要把透明玻璃变成不透明塑料，不要把磨砂材质变成完全透明，也不要给原本没有的区域增加镀铬效果。\n\n保留原商品的拍摄角度，不展示没有参考的背面。只生成一张3:4竖版商品摄影图，不增加道具或文案。"
+      }
+    ]
+  },
+  "inputs": [
+    {
+      "en": "A transparent or translucent product reference with visible shape, label, and contents.",
+      "zh": "提供透明或半透明的产品参考资料，其形状、标签和内容物清晰可见。"
+    }
+  ],
+  "notes": [
+    {
+      "en": "This is a distinct illustrated recipe within the creator’s GPT Image 2.5 tutorial. The article’s shared engagement is not assigned to individual recipes.",
+      "zh": "这是作者 GPT Image 2.5 教程中的一个独立图解教程。文章的共享互动并未分配给单个食谱。"
+    },
+    {
+      "en": "The preview is a result shown by the author; required references must be supplied by the reader. The repository has not independently tested this workflow.",
+      "zh": "预览是作者展示的结果；读者必须提供所需的参考资料。该存储库尚未独立测试此工作流程。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "AdrianPunk115",
+    "url": "https://x.com/AdrianPunk115/status/2098055380857143807",
+    "prompt_url": "https://x.com/AdrianPunk115/status/2098055380857143807",
+    "post_language": "zh",
+    "checked_at": "2026-09-11T18:20:40.729Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "section": "Transparent product studio relighting"
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HR3Ai-DbwAAWrPT?format=jpg&name=large",
+      "kind": "source-result",
+      "credit": "@AdrianPunk115",
+      "source_url": "https://x.com/AdrianPunk115/status/2098055380857143807"
+    }
+  ],
+  "engagement": {
+    "likes": null,
+    "bookmarks": null,
+    "reposts": null,
+    "replies": null,
+    "views": null,
+    "observed_at": "2026-09-11T18:20:40.729Z",
+    "source_url": "https://x.com/AdrianPunk115/status/2098055380857143807",
+    "method": "Individual section metrics are unavailable; shared article totals are not assigned to this recipe."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Third-party prompts and media retain their creators’ rights; external previews are linked, not relicensed."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "透明產品工作室重新佈光",
+      "summary": "將透明產品移至黑暗的工作室，並重建透射光、反射光和接觸陰影。",
+      "steps": [
+        "請將我上傳的透明或半透明商品，放入新的商業攝影場景。\n\n保留原商品的輪廓、比例、厚度特徵、瓶口或開口結構、標籤位置和可辨識的包裝文字。如果內部有液體，保留液體的顏色與液面高度。\n\n新場景採用深灰色攝影棚背景，商品放在低反射的深色檯面上。一側有柔和的大面積光源，後側有一道克制的暖色輪廓光。\n\n重點處理商品與新環境的光學關係：\n透明區域應看到新的背景，而不能殘留原照片的背景顏色或物體；\n根據商品形狀呈現視覺上合理的透光和折射變化；\n表面反射應與新光源相符；\n底部保留自然的接觸陰影。\n\n允許反射、受光和透過商品看到的背景發生變化，但不要改變商品本身的結構、顏色、標籤與內容物。\n\n不要把透明玻璃變成不透明塑料，不要把磨砂材質變成完全透明，也不要給原本沒有的區域增加鍍鉻效果。\n\n保留原商品的拍攝角度，不展示沒有參考的背面。只生成一張3:4直式商品攝影圖，不增加道具或文案。"
+      ],
+      "inputs": [
+        "提供透明或半透明的產品參考資料，其形狀、標籤和內容物清晰可見。"
+      ],
+      "notes": [
+        "這是作者 GPT Image 2.5 教學中的獨立圖解教學。文章的共享互動並未分配給單一食譜。",
+        "預覽是作者展示的結果；讀者必須提供所需的參考資料。該存儲庫尚未獨立測試此工作流程。"
+      ],
+      "source_digest": "49d3ead27194dd7b215c6306d7d05edcbab096d06446ee3be728a419dd6c08fb",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "透明製品のスタジオ照明の再調整",
+      "summary": "透明な製品を暗いスタジオに移動させ、透過、反射、接触影を再構築してください。",
+      "steps": [
+        "アップロードした透明または半透明の製品を、新しい商用写真シーンに配置してください。\n\n元の製品の輪郭、比率、厚み、ボトルネックまたは開口部の構造、ラベルの位置、判読可能なパッケージテキストを保持してください。内部に液体がある場合は、液体の色と液面を保持してください。\n\n新しいシーンは、ダークグレーのスタジオ背景を使用し、製品は低反射の暗い表面上に配置されます。片側に柔らかく広い範囲を照らす光源があり、背後には控えめな暖色系のリムライトがあります。\n\n製品と新しい環境との光学的な関係性を重視してください。透明部分は、元の写真の背景色や被写体を保持せずに、新しい背景を表示するようにしてください。製品の形状に応じて、光の透過と屈折に視覚的に妥当な変化を表現してください。表面の反射は新しい光源に合わせる必要があります。下部には自然な接触影を残してください。反射、露出、製品を通して見える背景の変更は許容されますが、製品の構造、色、ラベル、内容物を変更しないでください。\n\n透明なガラスを不透明なプラスチックに変更したり、曇りガラスを完全に透明にしたり、元々メッキされていなかった部分にクロムメッキを追加したりしないでください。\n\n元の製品の撮影角度を維持し、参照されていない背面を表示しないでください。小道具やテキストを追加せずに、3:4の縦長の製品写真を1枚のみ作成してください。"
+      ],
+      "inputs": [
+        "形状、ラベル、内容物が見える透明または半透明の製品の参考資料。"
+      ],
+      "notes": [
+        "これは、作成者のGPT Image 2.5チュートリアルに含まれる、独立した図解付きレシピです。記事の共有エンゲージメントは、個々のレシピには割り当てられていません。",
+        "プレビューは著者が表示した結果です。必要な参照情報は読者が提供する必要があります。リポジトリはこのワークフローを独自にテストしていません。"
+      ],
+      "source_digest": "49d3ead27194dd7b215c6306d7d05edcbab096d06446ee3be728a419dd6c08fb",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "투명 제품 스튜디오 조명 조정",
+      "summary": "투명 제품을 어두운 스튜디오로 옮겨 투과율, 반사, 접촉 그림자를 재구성하세요.",
+      "steps": [
+        "제가 업로드한 투명 또는 반투명 제품을 새로운 상업 사진 촬영 장면에 배치해 주십시오.\n\n원본 제품의 윤곽, 비율, 두께, 병목 또는 입구 구조, 라벨 위치 및 읽기 쉬운 포장 텍스트를 유지하십시오. 내부에 액체가 있는 경우 액체의 색상과 수위를 유지하십시오.\n\n새로운 장면은 어두운 회색 스튜디오 배경을 사용하며, 제품은 반사율이 낮은 어두운 표면에 놓여 있습니다. 한쪽에는 부드럽고 넓은 영역의 광원이 있고, 뒤쪽에는 은은한 따뜻한 톤의 림 라이트가 있습니다.\n\n제품과 새로운 환경 간의 광학적 관계에 집중하십시오. 투명한 영역은 원본 사진의 배경색이나 물체를 유지하지 않고 새로운 배경을 보여야 합니다. 제품의 모양에 따라 빛의 투과 및 굴절이 시각적으로 자연스럽게 변화하도록 표현하십시오. 표면 반사는 새로운 광원과 일치해야 합니다. 하단에 자연스러운 그림자를 유지하십시오. 반사, 조명 노출, 제품을 통해 보이는 배경의 변화는 허용되지만, 제품의 구조, 색상, 라벨 또는 내용물을 변경해서는 안 됩니다.\n\n투명 유리를 불투명 플라스틱으로, 반투명 재질을 완전히 투명하게 바꾸거나, 원래 없었던 부분에 크롬 도금을 추가해서는 안 됩니다.\n\n원래 제품 촬영 각도를 유지하고, 참조되지 않은 뒷면을 보여주지 마십시오. 소품이나 텍스트를 추가하지 않고 3:4 비율의 세로형 제품 사진을 한 장만 제작하십시오."
+      ],
+      "inputs": [
+        "모양, 라벨, 내용물이 보이는 투명 또는 반투명 제품 참고 자료."
+      ],
+      "notes": [
+        "이것은 제작자의 GPT Image 2.5 튜토리얼에 포함된 별도의 그림 설명 레시피입니다. 이 문서의 공유 참여도는 개별 레시피에 할당되지 않습니다.",
+        "미리보기는 작성자가 보여주는 결과이며, 필요한 참조는 독자가 제공해야 합니다. 이 저장소는 해당 워크플로를 독립적으로 테스트하지 않았습니다."
+      ],
+      "source_digest": "49d3ead27194dd7b215c6306d7d05edcbab096d06446ee3be728a419dd6c08fb",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Rééclairage studio d'un produit transparent",
+      "summary": "Déplacez un produit transparent dans un studio sombre et reconstituez la transmission, les reflets et les ombres portées.",
+      "steps": [
+        "Veuillez placer le produit transparent ou semi-transparent que j'ai téléchargé dans une nouvelle scène de photographie commerciale.\n\nConservez le contour, les proportions, l'épaisseur, le goulot ou l'ouverture, la position de l'étiquette et le texte lisible de l'emballage du produit d'origine. Si le produit contient un liquide, conservez sa couleur et son niveau.\n\nLa nouvelle scène utilise un fond studio gris foncé, le produit étant placé sur une surface sombre peu réfléchissante. Une source de lumière douce et diffuse se trouve d'un côté, et un éclairage d'ambiance chaud et discret est situé derrière.\n\nConcentrez-vous sur la relation optique entre le produit et le nouvel environnement : les zones transparentes doivent laisser apparaître le nouveau fond sans conserver la couleur ou les objets du fond de la photo d'origine ; les variations de transmission et de réfraction de la lumière doivent être visuellement cohérentes avec la forme du produit ; les reflets de surface doivent correspondre à la nouvelle source de lumière. Conservez les ombres portées naturelles au bas du produit. Les modifications de réflexion, d'exposition à la lumière et de l'arrière-plan visible à travers le produit sont autorisées, mais ne modifiez en aucun cas la structure, la couleur, l'étiquetage ou le contenu du produit.\n\nNe transformez pas le verre transparent en plastique opaque, les matériaux dépolis en matériaux totalement transparents, et n'ajoutez pas de chromage à des zones qui n'en présentaient pas à l'origine.\n\nConservez l'angle de prise de vue original du produit ; ne montrez pas le dos non référencé. Réalisez une seule photo du produit au format portrait 3:4, sans accessoires ni texte."
+      ],
+      "inputs": [
+        "Référence d'un produit transparent ou translucide dont la forme, l'étiquette et le contenu sont visibles."
+      ],
+      "notes": [
+        "Il s'agit d'une méthode illustrée spécifique au tutoriel GPT Image 2.5 de son créateur. L'engagement partagé de l'article n'est pas attribué à des recettes individuelles.",
+        "L'aperçu est un résultat affiché par l'auteur ; les références requises doivent être fournies par le lecteur. Ce processus n'a pas été testé indépendamment par le dépôt."
+      ],
+      "source_digest": "49d3ead27194dd7b215c6306d7d05edcbab096d06446ee3be728a419dd6c08fb",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Studiobeleuchtung für ein transparentes Produkt",
+      "summary": "Platzieren Sie ein transparentes Produkt in einem dunklen Studio und rekonstruieren Sie Lichtdurchlässigkeit, Reflexionen und Kontaktschatten.",
+      "steps": [
+        "Platzieren Sie das von mir hochgeladene transparente oder halbtransparente Produkt in einer neuen Szene für kommerzielle Fotografie.\n\nBehalten Sie die Konturen, Proportionen, Dicke, den Flaschenhals bzw. die Öffnung, die Etikettenposition und den lesbaren Verpackungstext des Originalprodukts bei. Falls sich Flüssigkeit im Produkt befindet, behalten Sie bitte deren Farbe und Füllstand bei.\n\nDie neue Szene verwendet einen dunkelgrauen Studiohintergrund. Das Produkt befindet sich auf einer dunklen, reflexionsarmen Oberfläche. Es gibt eine weiche, großflächige Lichtquelle an einer Seite und ein dezentes, warmtoniges Streiflicht im Hintergrund.\n\nKonzentrieren Sie sich auf die optische Beziehung zwischen dem Produkt und der neuen Umgebung: Transparente Bereiche sollten den neuen Hintergrund zeigen, ohne die Hintergrundfarbe oder Objekte des Originalfotos beizubehalten. Stellen Sie visuell plausible Änderungen der Lichtdurchlässigkeit und -brechung entsprechend der Produktform dar. Oberflächenreflexionen sollten der neuen Lichtquelle entsprechen. Natürliche Schattenwurf-Effekte am unteren Rand sollten erhalten bleiben. Änderungen der Reflexion, der Belichtung und des durch das Produkt sichtbaren Hintergrunds sind zulässig, dürfen jedoch weder die Struktur, Farbe, Kennzeichnung noch den Inhalt des Produkts verändern.\n\nVerwandeln Sie transparentes Glas nicht in undurchsichtigen Kunststoff, mattierte Materialien nicht in vollständig transparente Materialien und bringen Sie keine Chrombeschichtung an Stellen an, die ursprünglich nicht vorhanden waren.\n\nBehalten Sie den ursprünglichen Aufnahmewinkel des Produkts bei; zeigen Sie nicht die Rückseite des Produkts. Erstellen Sie nur ein Produktfoto im 3:4-Hochformat ohne Requisiten oder Text."
+      ],
+      "inputs": [
+        "Eine transparente oder durchscheinende Produktreferenz mit sichtbarer Form, Etikett und Inhalt."
+      ],
+      "notes": [
+        "Dies ist eine detaillierte, bebilderte Anleitung aus dem Tutorial GPT Image 2.5 des Erstellers. Die geteilte Interaktion im Artikel wird nicht einzelnen Rezepten zugeordnet.",
+        "Die Vorschau zeigt ein vom Autor dargestelltes Ergebnis; die benötigten Referenzen müssen vom Leser bereitgestellt werden. Das Repository hat diesen Workflow nicht unabhängig getestet."
+      ],
+      "source_digest": "49d3ead27194dd7b215c6306d7d05edcbab096d06446ee3be728a419dd6c08fb",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Reiluminación de estudio para productos transparentes",
+      "summary": "Traslada un producto transparente a un estudio oscuro y reconstruye la transmisión, los reflejos y las sombras de contacto.",
+      "steps": [
+        "Coloque el producto transparente o semitransparente que subí en una nueva escena de fotografía comercial.\n\nConserve el contorno, las proporciones, las características de grosor, la estructura del cuello o la abertura de la botella, la posición de la etiqueta y el texto legible del empaque del producto original. Si hay líquido en el interior, conserve el color y el nivel del líquido.\n\nLa nueva escena utiliza un fondo de estudio gris oscuro, con el producto colocado sobre una superficie oscura de baja reflectividad. Hay una fuente de luz suave y de gran área en un lado y una luz de contorno cálida y tenue detrás.\n\nConcéntrese en la relación óptica entre el producto y el nuevo entorno: las áreas transparentes deben mostrar el nuevo fondo sin conservar el color ni los objetos del fondo de la foto original; presente cambios visualmente razonables en la transmisión y refracción de la luz según la forma del producto; los reflejos de la superficie deben coincidir con la nueva fuente de luz. Conserva las sombras de contacto naturales en la parte inferior. Se permiten cambios en la reflexión, la exposición a la luz y el fondo visible a través del producto, pero no alteres su estructura, color, etiquetado ni contenido.\n\nNo conviertas el vidrio transparente en plástico opaco, los materiales esmerilados en completamente transparentes ni añadas cromado a zonas que no estaban presentes originalmente.\n\nConserva el ángulo de disparo original del producto; no muestres la parte posterior sin referencia. Genera una única fotografía del producto en formato vertical 3:4, sin añadir accesorios ni texto."
+      ],
+      "inputs": [
+        "Una referencia de producto transparente o translúcido con forma, etiqueta y contenido visibles."
+      ],
+      "notes": [
+        "Esta es una receta ilustrada específica dentro del tutorial GPT Image 2.5 del creador. La participación compartida del artículo no se asigna a recetas individuales.",
+        "La vista previa es un resultado mostrado por el autor; el lector debe proporcionar las referencias necesarias. El repositorio no ha probado este flujo de trabajo de forma independiente."
+      ],
+      "source_digest": "49d3ead27194dd7b215c6306d7d05edcbab096d06446ee3be728a419dd6c08fb",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Reiluminação de estúdio de produto transparente",
+      "summary": "Mova um produto transparente para um estúdio escuro e reconstrua a transmissão, os reflexos e as sombras de contato.",
+      "steps": [
+        "Insira o produto transparente ou semitransparente que eu enviei em uma nova cena de fotografia comercial.\n\nPreservar o contorno, as proporções, as características de espessura, a estrutura do gargalo ou da abertura da garrafa, a posição do rótulo e a legibilidade do texto da embalagem do produto original. Se houver líquido dentro, preservar a cor e o nível do líquido.\n\nA nova cena utiliza um fundo de estúdio cinza escuro, com o produto posicionado sobre uma superfície escura e de baixa refletividade. Há uma fonte de luz suave e ampla em um dos lados e uma luz de contorno suave e quente atrás.\n\nConcentre-se na relação óptica entre o produto e o novo ambiente: as áreas transparentes devem mostrar o novo fundo sem reter a cor ou os objetos do fundo da foto original; apresentar mudanças visualmente razoáveis ​​na transmissão e refração da luz de acordo com o formato do produto; os reflexos da superfície devem corresponder à nova fonte de luz; Mantenha as sombras de contato naturais na parte inferior. Alterações na reflexão, exposição à luz e no fundo visto através do produto são permitidas, mas não altere a estrutura, cor, rotulagem ou conteúdo do produto.\n\nNão converta vidro transparente em plástico opaco, materiais foscos em completamente transparentes ou adicione cromagem a áreas que não estavam originalmente presentes.\n\nPreserve o ângulo de captura original do produto; não mostre a parte traseira não referenciada. Gere apenas uma fotografia do produto em formato retrato 3:4, sem adicionar adereços ou texto."
+      ],
+      "inputs": [
+        "Uma referência de produto transparente ou translúcido com forma, rótulo e conteúdo visíveis."
+      ],
+      "notes": [
+        "Esta é uma receita ilustrada distinta dentro do tutorial GPT Image 2.5 do criador. O engajamento compartilhado do artigo não é atribuído a receitas individuais.",
+        "A pré-visualização é um resultado mostrado pelo autor; as referências necessárias devem ser fornecidas pelo leitor. O repositório não testou este fluxo de trabalho de forma independente."
+      ],
+      "source_digest": "49d3ead27194dd7b215c6306d7d05edcbab096d06446ee3be728a419dd6c08fb",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
+  }
+}

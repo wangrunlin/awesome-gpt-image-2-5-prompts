@@ -35,7 +35,8 @@
         "zh": "把精灵表拆分为单帧并组装循环 GIF，检查循环中的位置跳动与帧顺序错误。"
       }
     ],
-    "original_language": null
+    "original_language": null,
+    "original_steps": null
   },
   "inputs": [
     {
@@ -60,7 +61,8 @@
     "prompt_url": "https://x.com/Fomsky_Wei/status/2097559943075533257",
     "checked_at": "2026-09-10T15:25:52.452Z",
     "status": "source-checked",
-    "disclosure": null
+    "disclosure": null,
+    "post_language": null
   },
   "previews": [
     {
@@ -87,5 +89,126 @@
   "rights": {
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "哥布林弓箭手動畫",
+      "summary": "產生動作表，然後將其影格轉換為循環動畫。",
+      "steps": [
+        "繪製一個像素風格的男性哥布林，使其在連續 16 幀中完成一次射箭動作。將序列排列成精靈圖，並保持一致的比例和對齊方式。",
+        "將精靈圖分割成幀，並組裝成循環 GIF。檢查循環動畫是否存在位置跳變和幀順序錯誤。"
+      ],
+      "inputs": [
+        "影像生成工具和檔案處理工具。"
+      ],
+      "notes": [
+        "原始檔將 GPT Image 2.5 與舊型號進行了比較。打開帖子，並使用 2.5 範例中的第一個演示。",
+        "此方法已進行調整；無法保證畫面對齊和流暢運動。"
+      ],
+      "source_digest": "dba8ded29e0496402bf11f22e6566a10e646f83db35bb82499a414d49857c654",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "ゴブリンの弓兵のアニメーション",
+      "summary": "アクションシートを生成し、そのフレームを使ってループアニメーションを作成します。",
+      "steps": [
+        "弓を射る一連の動作を行う男性ゴブリンを、16フレームのドット絵（ピクセルアート）で描画します。スケールと配置を統一し、スプライトシートとして並べます。",
+        "スプライトシートをフレームごとに分割し、ループするGIFを組み立てます。位置のズレやフレーム順序の誤りがないか確認します。"
+      ],
+      "inputs": [
+        "画像生成ツールとファイル処理ツール。"
+      ],
+      "notes": [
+        "元の資料では、GPT Image 2.5と旧モデルを比較しています。その投稿を開き、最初のデモンストレーションを「2.5」の例として使用してください。",
+        "このレシピは改変されたものです。フレームの整合性や滑らかな動きは保証されません。"
+      ],
+      "source_digest": "dba8ded29e0496402bf11f22e6566a10e646f83db35bb82499a414d49857c654",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "고블린 궁수 애니메이션",
+      "summary": "액션 시트를 생성한 다음, 그 프레임들을 사용하여 반복 재생되는 애니메이션을 만드세요.",
+      "steps": [
+        "활을 쏘는 동작 하나를 16개의 연속 프레임으로 구성한 픽셀 아트 남성 고블린을 그리세요. 일관된 크기와 정렬 상태로 해당 시퀀스를 스프라이트 시트 형태로 배치하세요.",
+        "스프라이트 시트를 개별 프레임으로 분리한 뒤 반복 재생되는 GIF로 만드세요. 루프 재생 시 위치가 튀거나 프레임 순서에 오류가 없는지 확인하세요."
+      ],
+      "inputs": [
+        "이미지 생성 도구 및 파일 처리 도구."
+      ],
+      "notes": [
+        "원본 자료는 GPT Image 2.5와 구형 모델을 비교하고 있습니다. 해당 게시물을 열고 첫 번째 시연 예시를 '2.5 예제'로 활용하세요.",
+        "이 레시피는 수정된 버전이므로, 프레임 정렬이나 매끄러운 움직임이 보장되지 않습니다."
+      ],
+      "source_digest": "dba8ded29e0496402bf11f22e6566a10e646f83db35bb82499a414d49857c654",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Animation d'un gobelin archer",
+      "summary": "Générez une planche d'action, puis transformez ses images en une animation en boucle.",
+      "steps": [
+        "Dessinez un gobelin mâle en pixel art effectuant une action de tir à l'arc sur 16 images consécutives. Disposez la séquence sous forme de planche de sprites avec une échelle et un alignement cohérents.",
+        "Découpez la planche de sprites en images individuelles et assemblez-les pour créer un GIF en boucle. Vérifiez la boucle pour détecter tout saut de position ou erreur dans l'ordre des images."
+      ],
+      "inputs": [
+        "Un outil de génération d'images et un outil de traitement de fichiers."
+      ],
+      "notes": [
+        "La source compare GPT Image 2.5 à un modèle plus ancien. Ouvrez la publication et utilisez la première démonstration pour l'exemple 2.5.",
+        "La méthode a été adaptée ; l'alignement des images et la fluidité du mouvement ne sont pas garantis."
+      ],
+      "source_digest": "dba8ded29e0496402bf11f22e6566a10e646f83db35bb82499a414d49857c654",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Animation eines Goblin-Bogenschützen",
+      "summary": "Erstelle eine Aktionssequenz und wandle deren Einzelbilder in eine Endlosschleifen-Animation um.",
+      "steps": [
+        "Zeichne einen männlichen Goblin im Pixel-Art-Stil, der eine Aktion mit Pfeil und Bogen über 16 aufeinanderfolgende Einzelbilder hinweg ausführt. Ordne die Sequenz als Sprite-Sheet mit einheitlichem Maßstab und gleichbleibender Ausrichtung an.",
+        "Zerlege das Sprite-Sheet in Einzelbilder und setze daraus ein GIF mit Endlosschleife zusammen. Überprüfe die Schleife auf Sprünge in der Positionierung und Fehler in der Reihenfolge der Bilder."
+      ],
+      "inputs": [
+        "Ein Tool zur Bilderzeugung und ein Tool zur Dateibearbeitung."
+      ],
+      "notes": [
+        "Die Quelle vergleicht GPT Image 2.5 mit einem älteren Modell. Öffne den Beitrag und verwende das erste Demonstrationsbeispiel für die Version 2.5.",
+        "Das Verfahren wurde angepasst; die Ausrichtung der Einzelbilder und ein flüssiger Bewegungsablauf können nicht garantiert werden."
+      ],
+      "source_digest": "dba8ded29e0496402bf11f22e6566a10e646f83db35bb82499a414d49857c654",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Animación de un duende arquero.",
+      "summary": "Genera una hoja de acción y luego convierte sus fotogramas en una animación en bucle.",
+      "steps": [
+        "Dibuja un duende macho en estilo *pixel art* realizando una acción de disparo con arco y flecha a lo largo de 16 fotogramas consecutivos. Organiza la secuencia como una hoja de *sprites* con escala y alineación uniformes.",
+        "Divide la hoja de *sprites* en fotogramas y monta un GIF en bucle. Revisa el bucle para detectar saltos de posición o errores en el orden de los fotogramas."
+      ],
+      "inputs": [
+        "Una herramienta de generación de imágenes y una herramienta de procesamiento de archivos."
+      ],
+      "notes": [
+        "La fuente compara el modelo GPT Image 2.5 con uno anterior. Abre la publicación y utiliza la primera demostración para el ejemplo 2.5.",
+        "La receta está adaptada; no se garantiza la alineación de los fotogramas ni la fluidez del movimiento."
+      ],
+      "source_digest": "dba8ded29e0496402bf11f22e6566a10e646f83db35bb82499a414d49857c654",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Uma animação de um goblin arqueiro",
+      "summary": "Gere uma sequência de ação e, em seguida, transforme seus quadros em uma animação em loop.",
+      "steps": [
+        "Desenhe um goblin macho em pixel art realizando uma ação de arco e flecha ao longo de 16 quadros consecutivos. Organize a sequência como uma *sprite sheet* (folha de sprites) com escala e alinhamento consistentes.",
+        "Separe a *sprite sheet* em quadros e monte um GIF em loop. Verifique o loop em busca de saltos de posição e erros na ordem dos quadros."
+      ],
+      "inputs": [
+        "Uma ferramenta de geração de imagens e uma ferramenta de processamento de arquivos."
+      ],
+      "notes": [
+        "A fonte compara o GPT Image 2.5 com um modelo mais antigo. Abra a publicação e use a primeira demonstração para o exemplo 2.5.",
+        "A receita foi adaptada; o alinhamento dos quadros e a fluidez do movimento não são garantidos."
+      ],
+      "source_digest": "dba8ded29e0496402bf11f22e6566a10e646f83db35bb82499a414d49857c654",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
   }
 }

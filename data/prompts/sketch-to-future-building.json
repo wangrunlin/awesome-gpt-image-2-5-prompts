@@ -31,7 +31,10 @@
         "zh": "把它变成一座未来建筑"
       }
     ],
-    "original_language": "en"
+    "original_language": "en",
+    "original_steps": [
+      "turn it into a future building"
+    ]
   },
   "inputs": [
     {
@@ -52,7 +55,8 @@
     "prompt_url": "https://x.com/peter6759/status/2097503664789430530",
     "checked_at": "2026-09-10T15:31:42.777Z",
     "status": "source-checked",
-    "disclosure": null
+    "disclosure": null,
+    "post_language": null
   },
   "previews": [
     {
@@ -79,5 +83,112 @@
   "rights": {
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "將草圖轉化為未來的建築",
+      "summary": "一個極簡的草圖到建築的提示，視覺參考完成了大部分工作。",
+      "steps": [
+        "將其轉化為未來的建築"
+      ],
+      "inputs": [
+        "一張提供建築形狀的草圖。"
+      ],
+      "notes": [
+        "來源貼文展示了粗略的輸入和最終的建築成果。"
+      ],
+      "source_digest": "8cd49d0f061726f44a94c0afa312d5a5334645bcb792abcdc7b78cd7a86e1944",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "スケッチを未来の建築物に変える",
+      "summary": "視覚的なリファレンス（参照画像）が大部分の役割を果たす、最小限の構成の「スケッチから建築へ」というプロンプト。",
+      "steps": [
+        "未来的な建物へと変える"
+      ],
+      "inputs": [
+        "建物の形状を示すスケッチ。"
+      ],
+      "notes": [
+        "元の投稿には、大まかな入力画像と、それに基づいて生成された建物の画像の両方が示されています。"
+      ],
+      "source_digest": "8cd49d0f061726f44a94c0afa312d5a5334645bcb792abcdc7b78cd7a86e1944",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "스케치를 미래의 건축물로 변환하기",
+      "summary": "시각적 참조 자료가 작업의 대부분을 수행하는, 최소한의 정보만 담은 '스케치-건축물 변환' 프롬프트입니다.",
+      "steps": [
+        "미래형 건물로 변환"
+      ],
+      "inputs": [
+        "건물 형태를 제공하는 스케치."
+      ],
+      "notes": [
+        "원본 게시물은 대략적인 입력 이미지와 결과물인 건물 이미지를 모두 보여줍니다."
+      ],
+      "source_digest": "8cd49d0f061726f44a94c0afa312d5a5334645bcb792abcdc7b78cd7a86e1944",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Transformer un croquis en un futur bâtiment",
+      "summary": "Une consigne minimaliste pour passer du croquis à l'architecture, où une référence visuelle effectue la majeure partie du travail.",
+      "steps": [
+        "le transformer en un bâtiment futuriste"
+      ],
+      "inputs": [
+        "Une esquisse définissant la forme du bâtiment."
+      ],
+      "notes": [
+        "La publication d'origine présente à la fois l'ébauche initiale et le bâtiment final."
+      ],
+      "source_digest": "8cd49d0f061726f44a94c0afa312d5a5334645bcb792abcdc7b78cd7a86e1944",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Verwandeln Sie eine Skizze in ein zukünftiges Gebäude",
+      "summary": "Ein minimalistischer Prompt zur Umwandlung einer Skizze in Architektur, bei dem eine visuelle Referenz den Großteil der Arbeit übernimmt.",
+      "steps": [
+        "in ein futuristisches Gebäude verwandeln"
+      ],
+      "inputs": [
+        "Eine Skizze, die die Gebäudeform vorgibt."
+      ],
+      "notes": [
+        "Der ursprüngliche Beitrag zeigt sowohl die grobe Eingabe als auch das resultierende Gebäude."
+      ],
+      "source_digest": "8cd49d0f061726f44a94c0afa312d5a5334645bcb792abcdc7b78cd7a86e1944",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Transformar un boceto en un edificio futuro",
+      "summary": "Una instrucción minimalista para convertir un boceto en arquitectura, donde la referencia visual realiza la mayor parte del trabajo.",
+      "steps": [
+        "convertirlo en un edificio futurista"
+      ],
+      "inputs": [
+        "Un boceto que proporciona la forma del edificio."
+      ],
+      "notes": [
+        "La publicación original muestra tanto la entrada preliminar como el edificio resultante."
+      ],
+      "source_digest": "8cd49d0f061726f44a94c0afa312d5a5334645bcb792abcdc7b78cd7a86e1944",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Transforme um esboço em um edifício futuro",
+      "summary": "Um comando minimalista de \"esboço para arquitetura\", no qual uma referência visual realiza a maior parte do trabalho.",
+      "steps": [
+        "transformá-lo em um edifício futurista"
+      ],
+      "inputs": [
+        "Um esboço que fornece o formato do edifício."
+      ],
+      "notes": [
+        "A publicação original mostra tanto a entrada inicial (esboço) quanto o edifício resultante."
+      ],
+      "source_digest": "8cd49d0f061726f44a94c0afa312d5a5334645bcb792abcdc7b78cd7a86e1944",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
   }
 }

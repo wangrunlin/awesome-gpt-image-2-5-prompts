@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "id": "cosplay-mirror-group-selfie",
+  "title": {
+    "en": "Cosplay mirror group selfie",
+    "zh": "动漫角色 Cosplay 镜面合影"
+  },
+  "summary": {
+    "en": "Use a flash-lit mirror composition for a semi-realistic cosplay group portrait.",
+    "zh": "利用闪光灯镜面构图，拍摄一张半写实风格的 Cosplay 合影。"
+  },
+  "category": "photography",
+  "tags": [
+    "photography",
+    "generate"
+  ],
+  "mode": "generate",
+  "featured": true,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/underwoodxie96/status/2097536477500452937",
+    "evidence": "The creator explicitly names GPT Image 2.5 in this post. This is source attribution, not an independent model test."
+  },
+  "prompt": {
+    "kind": "original",
+    "original_language": "en",
+    "original_steps": [
+      "Holding a phone with the flash on, taking a mirror selfie in a slightly messy, casually lit room. Surrounded by multiple anime-style characters, designed similarly to characters from Female characters in dead or Alive Xtreme Beach Volleyball game. They were wearing bikinis and standing very close, gathered intimately around me — some gently touching my face, others leaning in closely.  The makeup style is soft and natural, while the facial features are clearly inspired by anime aesthetics.  The scene has a warm, cozy atmosphere with soft shadows and a visible flash reflection in the mirror. The visual style is semi-realistic with cinematic lighting, a slightly grainy texture, and a modern TikTok-style aesthetic.  The characters look like real people in high-quality cosplay rather than fully animated figures."
+    ],
+    "steps": [
+      {
+        "en": "Holding a phone with the flash on, taking a mirror selfie in a slightly messy, casually lit room. Surrounded by multiple anime-style characters, designed similarly to characters from Female characters in dead or Alive Xtreme Beach Volleyball game. They were wearing bikinis and standing very close, gathered intimately around me — some gently touching my face, others leaning in closely.  The makeup style is soft and natural, while the facial features are clearly inspired by anime aesthetics.  The scene has a warm, cozy atmosphere with soft shadows and a visible flash reflection in the mirror. The visual style is semi-realistic with cinematic lighting, a slightly grainy texture, and a modern TikTok-style aesthetic.  The characters look like real people in high-quality cosplay rather than fully animated figures.",
+        "zh": "手持开启闪光灯的手机，在一个光线随意、略显凌乱的房间里对着镜子自拍。周围环绕着几位动漫风格的角色，其设计类似于《死或生：沙滩排球》（Dead or Alive Xtreme Beach Volleyball）中的女性角色。她们身穿比基尼，紧紧簇拥在我身边——有的轻抚我的脸庞，有的则贴身依偎。妆容风格柔和自然，面部特征明显带有动漫美学色彩。画面氛围温暖舒适，伴有柔和的阴影，镜面上可见闪光灯的反光。视觉风格介于写实与动漫之间，采用电影级布光，带有轻微的颗粒质感，呈现出一种现代 TikTok 风格的美感。这些角色看起来像是进行高质量 Cosplay 的真人，而非纯粹的动画形象。"
+      }
+    ]
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "The source says “me” but does not specify a required reference upload. Identity preservation is therefore not established by this recipe.",
+      "zh": "原帖提到“我”，但未说明必须上传参考图，因此无法据此确认能保持特定人物身份。"
+    },
+    {
+      "en": "The creator notes less noise but patchy colors. This preview and these metrics belong to the September 9 post, not the quoted May 6 example.",
+      "zh": "创作者指出画面噪点较少，但色彩分布不均匀。此预览及相关指标对应的是 9 月 9 日发布的帖子，而非文中引用的 5 月 6 日的示例。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "underwoodxie96",
+    "url": "https://x.com/underwoodxie96/status/2097536477500452937",
+    "prompt_url": "https://x.com/underwoodxie96/status/2097536477500452937",
+    "post_language": "en",
+    "checked_at": "2026-09-11T18:03:40Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRvx6aBa0AA8FVq?format=jpg&name=medium",
+      "kind": "source-result",
+      "credit": "@underwoodxie96",
+      "source_url": "https://x.com/underwoodxie96/status/2097536477500452937"
+    }
+  ],
+  "engagement": {
+    "likes": 3564,
+    "bookmarks": 2154,
+    "reposts": 194,
+    "replies": 14,
+    "views": 186019,
+    "observed_at": "2026-09-11T18:03:40Z",
+    "source_url": "https://x.com/underwoodxie96/status/2097536477500452937",
+    "method": "X primary post UI; quoted-post metrics excluded"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Third-party prompts and media retain their creators’ rights; external previews are linked, not relicensed."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "角色扮演鏡面合照自拍",
+      "summary": "使用閃光燈打光的鏡面構圖，拍攝半寫實的角色扮演合照。",
+      "steps": [
+        "在一個略顯凌亂、光線隨意的房間裡，拿著手機，打開閃光燈，對著鏡子自拍。周圍環繞著許多動漫風格的角色，她們的設計風格類似於《死或生：極限沙灘排球》遊戲中的女性角色。她們穿著比基尼，站得很近，親密地圍著我——有的輕輕撫摸我的臉，有的則湊得很近。妝容柔和自然，五官明顯受到了動漫美學的啟發。場景營造出溫暖舒適的氛圍，柔和的陰影和鏡子中清晰可見的閃光燈反射清晰可見。視覺風格是半寫實的，帶有電影般的燈光效果、略帶顆粒感的紋理以及現代TikTok風格的美感。這些角色看起來像是穿著高品質cosplay服裝的真人，而不是完全動畫化的角色。"
+      ],
+      "inputs": [],
+      "notes": [
+        "來源顯示為“我”，但沒有指定所需的參考上傳。因此，此配方無法實現身分保護。",
+        "創作者註意到雜訊減少，但色彩分佈不均。此預覽和這些指標屬於9月9日的帖子，而非引用的5月6日範例。"
+      ],
+      "source_digest": "e456be90d2ab52ffe3bafad855ec952d12572d18a6f60c3d779ffdae04f3ef1f",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "コスプレグループ自撮り（鏡越し）",
+      "summary": "フラッシュライトを使った鏡越しの構図で、セミリアルなコスプレグループポートレートを撮影しましょう。",
+      "steps": [
+        "フラッシュを焚いたスマートフォンを手に持ち、少し散らかった、自然な照明の部屋で鏡越しに自撮りをしている様子。『Dead or Alive Xtreme Beach Volleyball』の女性キャラクターに似たデザインのアニメ調のキャラクターたちに囲まれています。彼女たちはビキニ姿で、私の周りに親密な距離感で集まっており、ある者は優しく私の顔に触れ、ある者は身を乗り出すように近づいています。メイクは柔らかくナチュラルですが、顔立ちは明らかにアニメの美学に基づいています。柔らかな影と鏡に映り込んだフラッシュの光が、温かく居心地の良い雰囲気を醸し出しています。ビジュアルスタイルはセミリアリスティックで、映画のような照明、わずかに粒状感のあるテクスチャ、そして現代的なTikTok風の美学が取り入れられています。キャラクターは、完全なアニメーション・フィギュアというよりは、ハイクオリティなコスプレをした実在の人物のように見えます。"
+      ],
+      "inputs": [],
+      "notes": [
+        "元データには「私（me）」とありますが、参照画像のアップロードは指定されていません。したがって、このレシピでは特定の人物の同一性は保持されません。",
+        "作成者は、ノイズは少ないものの色ムラがあると言及しています。このプレビューと指標は、引用された5月6日の例ではなく、9月9日の投稿のものです。"
+      ],
+      "source_digest": "e456be90d2ab52ffe3bafad855ec952d12572d18a6f60c3d779ffdae04f3ef1f",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "코스프레 그룹 거울 셀카",
+      "summary": "플래시를 ​​활용한 거울 구도로 반실사풍 코스프레 그룹 사진을 연출하세요.",
+      "steps": [
+        "플래시를 ​​켠 채 휴대폰을 들고, 약간 어질러져 있고 은은한 조명이 비치는 방에서 거울 셀카를 찍는 모습. '데드 오어 얼라이브 익스트림 비치 발리볼(Dead or Alive Xtreme Beach Volleyball)' 게임 속 여성 캐릭터들과 유사한 스타일로 디자인된 여러 애니메이션풍 캐릭터들에게 둘러싸여 있다. 캐릭터들은 비키니 차림으로 내 주변에 아주 가깝고 친밀하게 모여 있으며, 어떤 캐릭터는 내 얼굴을 부드럽게 만지고 또 어떤 캐릭터는 가까이 몸을 기울이고 있다. 메이크업은 부드럽고 자연스럽지만, 이목구비는 애니메이션 미학에서 영감을 받은 것이 분명하다. 부드러운 그림자와 거울에 비친 플래시 반사광이 어우러져 따뜻하고 아늑한 분위기를 자아낸다. 시각적 스타일은 영화 같은 조명, 약간의 그레인(입자감) 질감, 현대적인 틱톡(TikTok) 스타일의 미학이 가미된 세미 리얼리즘(반실사)이다. 캐릭터들은 완전한 애니메이션 캐릭터라기보다는 고품질 코스프레를 한 실제 사람처럼 보인다."
+      ],
+      "inputs": [],
+      "notes": [
+        "원본에는 '나(me)'라고 명시되어 있으나, 필수 참조 이미지 업로드에 대한 언급은 없다. 따라서 이 레시피로는 특정 인물의 정체성을 유지하는 것이 보장되지 않는다.",
+        "제작자는 노이즈는 줄었으나 색상이 고르지 않게 표현되었다고 언급한다. 이 미리보기와 지표는 인용된 5월 6일자 예시가 아닌, 9월 9일자 게시물에 해당한다."
+      ],
+      "source_digest": "e456be90d2ab52ffe3bafad855ec952d12572d18a6f60c3d779ffdae04f3ef1f",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Selfie de groupe miroir cosplay",
+      "summary": "Utilisez une composition de miroir éclairé par un flash pour un portrait de groupe cosplay semi-réaliste.",
+      "steps": [
+        "Un selfie pris dans un miroir, téléphone en main avec le flash activé, dans une pièce légèrement en désordre et à l'éclairage décontracté. Je suis entouré de plusieurs personnages de style anime, dont le design rappelle celui des personnages féminins du jeu *Dead or Alive Xtreme Beach Volleyball*. Elles portent des bikinis et se tiennent tout près, rassemblées intimement autour de moi ; certaines me touchent doucement le visage, d'autres se penchent vers moi. Le maquillage est doux et naturel, tandis que les traits du visage s'inspirent clairement de l'esthétique anime. La scène dégage une atmosphère chaleureuse et intime, avec des ombres douces et le reflet visible du flash dans le miroir. Le style visuel est semi-réaliste, avec un éclairage cinématographique, une texture légèrement granuleuse et une esthétique moderne façon TikTok. Les personnages ressemblent à de vraies personnes en cosplay de haute qualité plutôt qu'à des figures entièrement animées."
+      ],
+      "inputs": [],
+      "notes": [
+        "La source mentionne « moi » mais ne précise pas qu'une image de référence doit être téléchargée. La préservation de l'identité n'est donc pas assurée par cette recette.",
+        "Le créateur note moins de bruit numérique, mais des couleurs irrégulières. Cet aperçu et ces métriques concernent la publication du 9 septembre, et non l'exemple cité du 6 mai."
+      ],
+      "source_digest": "e456be90d2ab52ffe3bafad855ec952d12572d18a6f60c3d779ffdae04f3ef1f",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Cosplay-Gruppen-Selfie vor dem Spiegel",
+      "summary": "Nutze eine Spiegelkomposition mit Blitzlicht für ein halb realistisches Cosplay-Gruppenporträt.",
+      "steps": [
+        "Ein Spiegel-Selfie, aufgenommen mit eingeschaltetem Blitz in einem leicht unordentlichen, zwanglos beleuchteten Raum. Umgeben von mehreren Charakteren im Anime-Stil, die ähnlich gestaltet sind wie die weiblichen Figuren aus dem Spiel „Dead or Alive Xtreme Beach Volleyball“. Sie tragen Bikinis und stehen sehr nah bei mir, eng um mich geschart – einige berühren sanft mein Gesicht, andere beugen sich dicht heran. Das Make-up ist sanft und natürlich gehalten, während die Gesichtszüge eindeutig von der Anime-Ästhetik inspiriert sind. Die Szene strahlt eine warme, gemütliche Atmosphäre aus, mit weichen Schatten und einer sichtbaren Reflexion des Blitzes im Spiegel. Der visuelle Stil ist semi-realistisch, mit filmischer Beleuchtung, einer leicht körnigen Textur und einer modernen Ästhetik im TikTok-Stil. Die Charaktere wirken eher wie echte Menschen in hochwertigem Cosplay als wie vollständig animierte Figuren."
+      ],
+      "inputs": [],
+      "notes": [
+        "Die Quelle spricht von „mir“ (oder „ich“), spezifiziert jedoch keinen erforderlichen Referenz-Upload. Eine Wahrung der Identität ist durch dieses Rezept daher nicht gegeben.",
+        "Der Ersteller merkt an, dass weniger Bildrauschen vorhanden ist, die Farben jedoch ungleichmäßig wirken. Diese Vorschau und die zugehörigen Kennzahlen beziehen sich auf den Beitrag vom 9. September, nicht auf das zitierte Beispiel vom 6. Mai."
+      ],
+      "source_digest": "e456be90d2ab52ffe3bafad855ec952d12572d18a6f60c3d779ffdae04f3ef1f",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Selfie grupal de *cosplay* frente al espejo",
+      "summary": "Utiliza una composición frente al espejo con iluminación de flash para un retrato grupal de *cosplay* de estilo semirrealista.",
+      "steps": [
+        "Sosteniendo un teléfono con el flash activado, tomándose una selfi frente al espejo en una habitación ligeramente desordenada y con iluminación casual. Rodeado de varios personajes estilo anime, diseñados de forma similar a los personajes femeninos del juego *Dead or Alive Xtreme Beach Volleyball*. Llevaban bikinis y estaban muy cerca, agrupados íntimamente a mi alrededor; algunos me tocaban suavemente la cara, otros se inclinaban hacia mí. El estilo de maquillaje es suave y natural, mientras que los rasgos faciales están claramente inspirados en la estética del anime. La escena tiene una atmósfera cálida y acogedora, con sombras suaves y el reflejo visible del flash en el espejo. El estilo visual es semirrealista, con iluminación cinematográfica, una textura ligeramente granulada y una estética moderna estilo TikTok. Los personajes parecen personas reales con *cosplay* de alta calidad, más que figuras totalmente animadas."
+      ],
+      "inputs": [],
+      "notes": [
+        "La fuente menciona \"yo\" (o \"mí\"), pero no especifica que se requiera subir una imagen de referencia. Por lo tanto, esta receta no establece la preservación de la identidad.",
+        "El creador señala que hay menos ruido, pero los colores presentan irregularidades. Esta vista previa y estas métricas corresponden a la publicación del 9 de septiembre, no al ejemplo citado del 6 de mayo."
+      ],
+      "source_digest": "e456be90d2ab52ffe3bafad855ec952d12572d18a6f60c3d779ffdae04f3ef1f",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Selfie em grupo no espelho com cosplay",
+      "summary": "Use uma composição de espelho com flash para um retrato de grupo de cosplay em estilo semirrealista.",
+      "steps": [
+        "Segurando um celular com o flash ligado, tirando uma selfie no espelho em um quarto levemente bagunçado e com iluminação casual. Cercado por várias personagens em estilo anime, com design semelhante às personagens do jogo *Dead or Alive Xtreme Beach Volleyball*. Elas usavam biquínis e estavam muito próximas, reunidas de forma íntima ao meu redor — algumas tocando suavemente meu rosto, outras inclinando-se para perto. A maquiagem é leve e natural, enquanto os traços faciais são claramente inspirados na estética de anime. A cena tem uma atmosfera quente e aconchegante, com sombras suaves e o reflexo do flash visível no espelho. O estilo visual é semirrealista, com iluminação cinematográfica, textura levemente granulada e uma estética moderna estilo TikTok. As personagens parecem pessoas reais fazendo cosplay de alta qualidade, em vez de figuras totalmente animadas."
+      ],
+      "inputs": [],
+      "notes": [
+        "A fonte menciona \"eu\" (ou \"mim\"), mas não especifica o envio de uma imagem de referência obrigatória. Portanto, a preservação da identidade não é estabelecida por esta receita.",
+        "O criador observa menos ruído, porém cores irregulares. Esta prévia e estas métricas referem-se à postagem de 9 de setembro, e não ao exemplo citado de 6 de maio."
+      ],
+      "source_digest": "e456be90d2ab52ffe3bafad855ec952d12572d18a6f60c3d779ffdae04f3ef1f",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
+  }
+}

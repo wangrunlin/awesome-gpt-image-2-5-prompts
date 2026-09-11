@@ -1,0 +1,216 @@
+{
+  "schema_version": 1,
+  "id": "person-holding-reference-product",
+  "title": {
+    "en": "Person holding a reference product",
+    "zh": "人物手持参考商品"
+  },
+  "summary": {
+    "en": "Combine a person and product with plausible grip, contact shadows, scale, and consistent illumination.",
+    "zh": "将人物与产品结合起来，确保抓握姿势合理，包含接触阴影、比例和一致的光照。"
+  },
+  "category": "products",
+  "tags": [
+    "products",
+    "edit"
+  ],
+  "mode": "edit",
+  "featured": true,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/AdrianPunk115/status/2098055380857143807",
+    "evidence": "The creator explicitly presents these as GPT Image 2.5 workflows in the article. This records the creator’s attribution, not an independent model test."
+  },
+  "prompt": {
+    "kind": "original",
+    "original_language": "zh",
+    "original_steps": [
+      "请根据我上传的两张图片，生成一张自然、可信的真人商品展示照片。\n\n图1是人物参考，决定人物身份、五官、发型、肤色和服装。\n图2是商品参考，决定商品的外形、结构、颜色、材质、Logo和包装信息。\n\n让图1中的人物自然地拿着图2中的商品，像是在镜头前展示它。商品位于胸前或身体侧前方，主要展示面朝向镜头，不遮挡人物脸部。\n\n根据商品形状选择合理的握持方式。手指应自然包握、托住或捏住商品，有正确的前后遮挡、接触阴影和受力关系。手不能穿进商品，商品也不能悬浮在掌心上方。\n\n保留人物可辨认的五官关系、年龄感、发型和皮肤细节，不换脸，不改变体型。允许手臂与手部为了拿起商品而调整姿势。\n\n商品不能被重新设计。保留原来的轮廓、瓶盖或其他结构、标签位置、主要配色和可辨认文字。不要镜像Logo，不增加配件。\n\n让人物和商品处于同一套光照中，避免生硬拼贴感。背景沿用人物照片，适当简化干扰元素。\n\n3:4竖版，人物与商品都清晰可见，不增加标题、宣传语或购买评价。"
+    ],
+    "steps": [
+      {
+        "en": "Please generate a natural, realistic product display photo featuring a real person, based on the two uploaded images.\n\nImage 1 serves as the reference for the person, determining their identity, facial features, hairstyle, skin tone, and clothing.\nImage 2 serves as the reference for the product, determining its shape, structure, color, material, logo, and packaging details.\n\nHave the person from Image 1 naturally hold the product from Image 2, as if showcasing it to the camera. Position the product in front of the chest or to the side-front of the body, with its main display face turned toward the camera and without obscuring the person's face.\n\nChoose a logical grip based on the product's shape. Fingers should naturally wrap around, cradle, or pinch the product, demonstrating correct depth (foreground/background layering), contact shadows, and physical interaction. The hand should not clip into the product, nor should the product float above the palm.\n\nPreserve the person's recognizable facial features, apparent age, hairstyle, and skin details; do not alter the face or body shape. Adjustments to arm and hand positioning are permitted to facilitate holding the product.\n\nDo not redesign the product. Retain its original silhouette, cap or structural elements, label placement, primary color scheme, and recognizable text. Do not mirror the logo or add extra accessories.\n\nEnsure the person and the product share the same lighting environment to avoid a jarring, pasted-together look. Retain the background from the original photo of the person, but simplify distracting elements as appropriate.\n\nUse a 3:4 vertical format with both the person and the product clearly visible; do not add titles, slogans, or customer reviews.",
+        "zh": "请根据我上传的两张图片，生成一张自然、可信的真人商品展示照片。\n\n图1是人物参考，决定人物身份、五官、发型、肤色和服装。\n图2是商品参考，决定商品的外形、结构、颜色、材质、Logo和包装信息。\n\n让图1中的人物自然地拿着图2中的商品，像是在镜头前展示它。商品位于胸前或身体侧前方，主要展示面朝向镜头，不遮挡人物脸部。\n\n根据商品形状选择合理的握持方式。手指应自然包握、托住或捏住商品，有正确的前后遮挡、接触阴影和受力关系。手不能穿进商品，商品也不能悬浮在掌心上方。\n\n保留人物可辨认的五官关系、年龄感、发型和皮肤细节，不换脸，不改变体型。允许手臂与手部为了拿起商品而调整姿势。\n\n商品不能被重新设计。保留原来的轮廓、瓶盖或其他结构、标签位置、主要配色和可辨认文字。不要镜像Logo，不增加配件。\n\n让人物和商品处于同一套光照中，避免生硬拼贴感。背景沿用人物照片，适当简化干扰元素。\n\n3:4竖版，人物与商品都清晰可见，不增加标题、宣传语或购买评价。"
+      }
+    ]
+  },
+  "inputs": [
+    {
+      "en": "Image 1: the person reference.",
+      "zh": "图1：人物参考。"
+    },
+    {
+      "en": "Image 2: the product reference.",
+      "zh": "图2：产品参考。"
+    }
+  ],
+  "notes": [
+    {
+      "en": "This is a distinct illustrated recipe within the creator’s GPT Image 2.5 tutorial. The article’s shared engagement is not assigned to individual recipes.",
+      "zh": "这是作者 GPT Image 2.5 教程中的一个独立图解教程。文章的共享互动并未分配给单个食谱。"
+    },
+    {
+      "en": "The preview is a result shown by the author; required references must be supplied by the reader. The repository has not independently tested this workflow.",
+      "zh": "预览是作者展示的结果；读者必须提供所需的参考资料。该存储库尚未独立测试此工作流程。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "AdrianPunk115",
+    "url": "https://x.com/AdrianPunk115/status/2098055380857143807",
+    "prompt_url": "https://x.com/AdrianPunk115/status/2098055380857143807",
+    "post_language": "zh",
+    "checked_at": "2026-09-11T18:20:40.729Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "section": "Person holding a reference product"
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HR24sTybEAE94tW?format=jpg&name=large",
+      "kind": "source-result",
+      "credit": "@AdrianPunk115",
+      "source_url": "https://x.com/AdrianPunk115/status/2098055380857143807"
+    }
+  ],
+  "engagement": {
+    "likes": null,
+    "bookmarks": null,
+    "reposts": null,
+    "replies": null,
+    "views": null,
+    "observed_at": "2026-09-11T18:20:40.729Z",
+    "source_url": "https://x.com/AdrianPunk115/status/2098055380857143807",
+    "method": "Individual section metrics are unavailable; shared article totals are not assigned to this recipe."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Third-party prompts and media retain their creators’ rights; external previews are linked, not relicensed."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "人物手持參考產品",
+      "summary": "將人物與產品結合起來，確保抓握姿勢合理，包含接觸陰影、比例和一致的光照。",
+      "steps": [
+        "請根據我上傳的兩張圖片，產生一張自然、可信的真人商品展示照片。\n\n圖1是人物參考，決定人物身分、五官、髮型、膚色和服裝。\n圖2是商品參考，決定商品的外形、結構、顏色、材質、Logo和包裝資訊。\n\n讓圖1的人物自然地拿著圖2的商品，像是在鏡頭前展示它。商品位於胸前或身體側前方，主要展示面向鏡頭，不遮擋人物臉部。\n\n根據商品形狀選擇合理的握持方式。手指應自然包握、托住或捏住商品，有正確的前後遮擋、接觸陰影和受力關係。手不能穿進商品，商品也不能懸浮在掌心上方。\n\n保留人物可辨識的五官關係、年齡感、髮型和皮膚細節，不換臉，不改變體型。允許手臂與手部為了拿起商品而調整姿勢。\n\n商品不能被重新設計。保留原來的輪廓、瓶蓋或其他結構、標籤位置、主要配色和可辨識文字。不要鏡像Logo，不增加配件。\n\n讓人物和商品處於同一套光照中，避免生硬拼貼感。背景沿用人物照片，適當簡化乾擾元素。\n\n3:4直版，人物與商品都清晰可見，不增加標題、宣傳語或購買評價。"
+      ],
+      "inputs": [
+        "圖1：人物參考。",
+        "圖2：產品參考。"
+      ],
+      "notes": [
+        "這是作者 GPT Image 2.5 教學中的獨立圖解教學。文章的共享互動並未分配給單一食譜。",
+        "預覽是作者展示的結果；讀者必須提供所需的參考資料。該存儲庫尚未獨立測試此工作流程。"
+      ],
+      "source_digest": "b066608f598e3b548b16d8a8ae9f13021045c0ddcd4ecc50235a7ec6b5e33919",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "参考製品を持っている人物",
+      "summary": "人物と製品を、自然な持ち方、接触影、スケール、一貫した照明で組み合わせる。",
+      "steps": [
+        "アップロードした2枚の画像を基に、自然で説得力のある実写製品展示写真を作成してください。\n\n図1は人物参考画像です。人物の身元、顔の特徴、髪型、肌の色、服装を決定してください。\n\n図2は製品参考画像です。製品の形状、構造、色、素材、ロゴ、パッケージ情報を決定してください。\n\n図1の人物が図2の製品をカメラの前で展示しているかのように、自然に持っているように撮影してください。製品は、胸の前または体の横に配置し、メインの表示面がカメラに向くようにしてください。人物の顔を遮らないように注意してください。\n\n製品の形状に合わせて、適切な持ち方を選んでください。指は自然に製品を包み込み、支え、または挟むように持ち、前後の重なり、接触影、力の加減が適切になるようにしてください。手が製品の中に入ったり、製品が手のひらより上に浮いたりしないようにしてください。\n\n人物の顔の特徴、年齢感、髪型、肌の質感はそのままにしてください。顔や体型は変更しないでください。製品を持ち上げる際に、腕や手の姿勢を調整できるようにしてください。\n\n製品のデザインを変更しないでください。元の輪郭、ボトルキャップなどの構造、ラベルの位置、メインカラー、判読可能なテキストを維持してください。ロゴを反転させたり、アクセサリーを追加したりしないでください。\n\n人物と製品を同じ照明の下に配置し、不自然な継ぎ合わせ効果を避けてください。人物と同じ背景画像を使用し、必要に応じて邪魔な要素を簡略化してください。\n\n縦長の3:4フォーマットで、キャラクターと商品がはっきりと見えるようにしてください。タイトル、宣伝文句、購入レビューなどは追加しないでください。"
+      ],
+      "inputs": [
+        "画像1：人物の参考画像",
+        "画像2：製品の参考画像"
+      ],
+      "notes": [
+        "これは、作成者のGPT Image 2.5チュートリアルに含まれる、独立した図解付きレシピです。記事の共有エンゲージメントは、個々のレシピには割り当てられていません。",
+        "プレビューは著者が表示した結果です。必要な参照情報は読者が提供する必要があります。リポジトリはこのワークフローを独自にテストしていません。"
+      ],
+      "source_digest": "b066608f598e3b548b16d8a8ae9f13021045c0ddcd4ecc50235a7ec6b5e33919",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "제품을 들고 있는 사람",
+      "summary": "실감나는 그립, 접촉 그림자, 크기, 일관된 조명을 사용하여 사람과 제품을 결합합니다.",
+      "steps": [
+        "제가 업로드한 두 이미지를 바탕으로 자연스럽고 실감 나는 실물 제품 디스플레이 사진을 제작해 주세요.\n\n그림 1은 인물 참고 이미지로, 인물의 신원, 이목구비, 헤어스타일, 피부톤, 의상을 반영해야 합니다.\n\n그림 2는 제품 참고 이미지로, 제품의 형태, 구조, 색상, 소재, 로고, 포장 정보를 반영해야 합니다.\n\n그림 1의 인물이 그림 2의 제품을 마치 카메라 앞에서 제품을 보여주는 것처럼 자연스럽게 들고 있는 모습을 표현해 주세요. 제품은 얼굴을 가리지 않도록 가슴 앞이나 몸 옆에 위치시키고, 주요 표시면이 카메라를 향하도록 해야 합니다.\n\n제품의 형태에 따라 적절한 잡는 방법을 선택하십시오. 손가락은 자연스럽게 제품을 감싸거나, 받치거나, 쥐어야 하며, 앞뒤로 적절히 겹치고, 접촉 그림자가 생기고, 힘이 실리는 정도가 적절해야 합니다. 손이 제품 안에 들어가거나 제품이 손바닥 위로 들리지 않도록 하십시오.\n\n인물의 얼굴 특징, 나이, 헤어스타일, 피부색 등을 그대로 유지하고, 얼굴이나 체형을 변형하지 마십시오. 제품을 집을 때 팔과 손의 자세를 조절할 수 있도록 하십시오.\n\n제품은 변경할 수 없습니다. 원래의 윤곽, 병뚜껑이나 기타 구조, 라벨 위치, 주요 색상, 읽기 쉬운 텍스트를 그대로 유지하십시오. 로고를 좌우 반전하거나 액세서리를 추가하지 마십시오.\n\n인물과 제품은 동일한 조명 아래에서 배치하여 어색하거나 부자연스러운 느낌을 피하십시오. 배경 이미지는 인물과 동일하게 사용하되, 필요한 경우 시선을 분산시키는 요소를 단순화하십시오.\n\n3:4 세로 비율로, 캐릭터와 제품이 모두 명확하게 보이도록 제작해 주세요. 제목, 홍보 문구, 구매 후기는 추가하지 마세요."
+      ],
+      "inputs": [
+        "이미지 1: 참고용 사람",
+        "이미지 2: 참고용 제품"
+      ],
+      "notes": [
+        "이것은 제작자의 GPT Image 2.5 튜토리얼에 포함된 별도의 그림 설명 레시피입니다. 이 문서의 공유 참여도는 개별 레시피에 할당되지 않습니다.",
+        "미리보기는 작성자가 보여주는 결과이며, 필요한 참조는 독자가 제공해야 합니다. 이 저장소는 해당 워크플로를 독립적으로 테스트하지 않았습니다."
+      ],
+      "source_digest": "b066608f598e3b548b16d8a8ae9f13021045c0ddcd4ecc50235a7ec6b5e33919",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Personne tenant un produit de référence",
+      "summary": "Combiner une personne et un produit en veillant à une prise en main réaliste, aux ombres portées, à l'échelle et à un éclairage cohérent.",
+      "steps": [
+        "Veuillez créer une photo réaliste et naturelle du produit à partir des deux images que j'ai téléchargées.\n\nLa figure 1 est une référence pour une personne : déterminez son identité, ses traits du visage, sa coiffure, son teint et ses vêtements.\n\nLa figure 2 est une référence pour le produit : déterminez sa forme, sa structure, sa couleur, sa matière, son logo et les informations sur son emballage.\n\nLa personne de la figure 1 doit tenir le produit de la figure 2 de manière naturelle, comme si elle le présentait devant une caméra. Le produit doit être positionné devant la poitrine ou sur le côté du corps, la face principale tournée vers la caméra, sans masquer le visage.\n\nChoisissez une prise en main adaptée à la forme du produit. Les doigts doivent l'envelopper, le soutenir ou le pincer naturellement, en veillant à un bon chevauchement avant-arrière, à des ombres portées correctes et à une répartition harmonieuse des forces. Les mains ne doivent pas être à l'intérieur du produit et celui-ci ne doit pas être suspendu au-dessus de la paume.\n\nConservez les traits du visage, l'âge apparent, la coiffure et les détails de la peau de la personne ; ne modifiez ni la forme du visage ni celle du corps. Prévoyez une marge de manœuvre pour ajuster la posture du bras et de la main lors de la prise en main du produit.\n\nLe produit ne doit pas être modifié. Conservez le contour d'origine, le bouchon ou toute autre structure, l'emplacement de l'étiquette, les couleurs principales et la lisibilité du texte. Ne dupliquez pas le logo et n'ajoutez pas d'accessoires.\n\nPlacez les personnages et les produits sous le même éclairage afin d'éviter un effet disparate. Utilisez la même image de fond que le personnage, en simplifiant les éléments distrayants si nécessaire.\n\nFormat vertical 3:4, garantissant une visibilité optimale des personnages et des produits. N'ajoutez ni titres, ni textes promotionnels, ni avis clients."
+      ],
+      "inputs": [
+        "Image 1 : la personne de référence.",
+        "Image 2 : le produit de référence."
+      ],
+      "notes": [
+        "Il s'agit d'une méthode illustrée spécifique au tutoriel GPT Image 2.5 de son créateur. L'engagement partagé de l'article n'est pas attribué à des recettes individuelles.",
+        "L'aperçu est un résultat affiché par l'auteur ; les références requises doivent être fournies par le lecteur. Ce processus n'a pas été testé indépendamment par le dépôt."
+      ],
+      "source_digest": "b066608f598e3b548b16d8a8ae9f13021045c0ddcd4ecc50235a7ec6b5e33919",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Person mit einem Referenzprodukt",
+      "summary": "Person und Produkt mit plausibler Griffhaltung, Kontaktschatten, Größe und gleichmäßiger Beleuchtung kombinieren.",
+      "steps": [
+        "Bitte erstellen Sie anhand der beiden hochgeladenen Bilder ein natürliches und glaubwürdiges Produktfoto.\n\nAbbildung 1 zeigt eine Person als Referenz. Bestimmen Sie die Identität, die Gesichtszüge, die Frisur, den Hautton und die Kleidung der Person.\n\nAbbildung 2 zeigt ein Produkt als Referenz. Bestimmen Sie Form, Struktur, Farbe, Material, Logo und Verpackungsinformationen des Produkts.\n\nLassen Sie die Person in Abbildung 1 das Produkt in Abbildung 2 natürlich halten, als würde sie es vor einer Kamera präsentieren. Das Produkt sollte vor der Brust oder seitlich am Körper positioniert werden, wobei die Hauptanzeigeseite zur Kamera zeigt und das Gesicht der Person nicht verdeckt wird.\n\nWählen Sie eine geeignete Grifftechnik, die der Form des Produkts entspricht. Die Finger sollten das Produkt natürlich umfassen, stützen oder einklemmen, wobei eine angemessene Überlappung von vorne nach hinten, Kontaktschatten und Kraftverhältnisse gewährleistet sein sollten. Die Hände sollten sich nicht im Produkt befinden und das Produkt sollte nicht über der Handfläche hängen.\n\nBewahren Sie die erkennbaren Gesichtszüge, das Alter, die Frisur und die Hautdetails der Person; verändern Sie weder die Gesichts- noch die Körperform. Ermöglichen Sie Anpassungen der Arm- und Handhaltung zum Aufheben des Produkts.\n\nDas Produkt darf nicht neu gestaltet werden. Behalten Sie die ursprüngliche Kontur, den Flaschenverschluss oder andere Strukturen, die Etikettenplatzierung, das Hauptfarbschema und den lesbaren Text bei. Spiegeln Sie das Logo nicht und fügen Sie keine Accessoires hinzu.\n\nPlatzieren Sie die Personen und das Produkt im gleichen Licht, um einen unharmonischen, patchworkartigen Effekt zu vermeiden. Verwenden Sie dasselbe Hintergrundbild wie die Person und vereinfachen Sie gegebenenfalls ablenkende Elemente.\n\nBitte verwenden Sie das 3:4-Hochformat, um sicherzustellen, dass sowohl Charaktere als auch Produkte gut sichtbar sind. Fügen Sie keine Titel, Werbetexte oder Kundenrezensionen hinzu."
+      ],
+      "inputs": [
+        "Bild 1: Die Referenzperson.",
+        "Bild 2: Das Referenzprodukt."
+      ],
+      "notes": [
+        "Dies ist eine detaillierte, bebilderte Anleitung aus dem Tutorial GPT Image 2.5 des Erstellers. Die geteilte Interaktion im Artikel wird nicht einzelnen Rezepten zugeordnet.",
+        "Die Vorschau zeigt ein vom Autor dargestelltes Ergebnis; die benötigten Referenzen müssen vom Leser bereitgestellt werden. Das Repository hat diesen Workflow nicht unabhängig getestet."
+      ],
+      "source_digest": "b066608f598e3b548b16d8a8ae9f13021045c0ddcd4ecc50235a7ec6b5e33919",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Persona sosteniendo un producto de referencia",
+      "summary": "Combina una persona y un producto con un agarre plausible, sombras de contacto, escala e iluminación uniforme.",
+      "steps": [
+        "Genere una fotografía de presentación de producto natural y creíble a partir de las dos imágenes que he subido.\n\nLa Figura 1 es una referencia de la persona; determine su identidad, rasgos faciales, peinado, tono de piel y vestimenta.\n\nLa Figura 2 es una referencia del producto; determine su forma, estructura, color, material, logotipo e información del embalaje.\n\nLa persona de la Figura 1 debe sostener el producto de la Figura 2 de forma natural, como si lo estuviera mostrando frente a una cámara. El producto debe colocarse frente al pecho o al costado del cuerpo, con la pantalla principal orientada hacia la cámara, sin obstruir el rostro de la persona.\n\nElija un método de agarre adecuado según la forma del producto. Los dedos deben rodear, sostener o sujetar el producto de forma natural, con la superposición adecuada entre la parte frontal y posterior, las sombras de contacto y las relaciones de fuerza correctas. Las manos no deben estar dentro del producto, y este no debe quedar suspendido sobre la palma.\n\nConserve los rasgos faciales reconocibles de la persona, su edad aparente, el peinado y los detalles de la piel; no altere la forma del rostro ni del cuerpo. Permita ajustes en la postura del brazo y la mano para sujetar el producto.\n\nEl producto no se puede rediseñar. Mantenga el contorno original, la tapa u otra estructura, la ubicación de la etiqueta, la combinación de colores principal y el texto legible. No refleje el logotipo ni añada accesorios.\n\nColoque a los personajes y los productos bajo la misma iluminación para evitar un efecto discordante y desordenado. Utilice la misma imagen de fondo que el personaje, simplificando los elementos que distraigan según sea necesario.\n\nFormato vertical 3:4, asegurando que tanto los personajes como los productos sean claramente visibles. No añada títulos, texto promocional ni reseñas de compra."
+      ],
+      "inputs": [
+        "Imagen 1: la persona de referencia.",
+        "Imagen 2: el producto de referencia."
+      ],
+      "notes": [
+        "Esta es una receta ilustrada específica dentro del tutorial GPT Image 2.5 del creador. La participación compartida del artículo no se asigna a recetas individuales.",
+        "La vista previa es un resultado mostrado por el autor; el lector debe proporcionar las referencias necesarias. El repositorio no ha probado este flujo de trabajo de forma independiente."
+      ],
+      "source_digest": "b066608f598e3b548b16d8a8ae9f13021045c0ddcd4ecc50235a7ec6b5e33919",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Pessoa segurando um produto de referência",
+      "summary": "Combine uma pessoa e um produto com pegada plausível, sombras de contato, escala e iluminação consistente.",
+      "steps": [
+        "Gere uma foto de exibição de produto realista e natural com base nas duas imagens que enviei.\n\nA Figura 1 é uma referência de pessoa, determinando a identidade da pessoa, suas características faciais, penteado, tom de pele e vestimenta.\n\nA Figura 2 é uma referência de produto, determinando a forma, estrutura, cor, material, logotipo e informações da embalagem do produto.\n\nFaça com que a pessoa na Figura 1 segure o produto na Figura 2 de forma natural, como se estivesse exibindo-o em frente a uma câmera. O produto deve ser posicionado em frente ao peito ou na lateral do corpo, com a tela principal voltada para a câmera, sem obstruir o rosto da pessoa.\n\nEscolha uma forma de segurar o produto que seja adequada ao seu formato. Os dedos devem envolver, apoiar ou pinçar o produto naturalmente, com sobreposição adequada da frente para trás, sombras de contato e distribuição de força apropriada. As mãos não devem estar dentro do produto, e o produto não deve ficar suspenso acima da palma da mão.\n\nPreserve as características faciais reconhecíveis da pessoa, a sensação de idade, o penteado e os detalhes da pele; não altere o formato do rosto ou do corpo. Permita ajustes na postura do braço e da mão para pegar o produto.\n\nO produto não pode ser redesenhado. Mantenha o contorno original, a tampa ou outra estrutura, a posição do rótulo, o esquema de cores principal e o texto legível. Não espelhe o logotipo nem adicione acessórios.\n\nPosicione os personagens e os produtos sob a mesma iluminação para evitar um efeito fragmentado e desagradável. Use a mesma imagem de fundo do personagem, simplificando os elementos que possam distrair, se necessário.\n\nFormato vertical 3:4, garantindo que tanto os personagens quanto os produtos estejam claramente visíveis. Não adicione títulos, textos promocionais ou avaliações de compras."
+      ],
+      "inputs": [
+        "Imagem 1: a pessoa de referência.",
+        "Imagem 2: o produto de referência."
+      ],
+      "notes": [
+        "Esta é uma receita ilustrada distinta dentro do tutorial GPT Image 2.5 do criador. O engajamento compartilhado do artigo não é atribuído a receitas individuais.",
+        "A pré-visualização é um resultado mostrado pelo autor; as referências necessárias devem ser fornecidas pelo leitor. O repositório não testou este fluxo de trabalho de forma independente."
+      ],
+      "source_digest": "b066608f598e3b548b16d8a8ae9f13021045c0ddcd4ecc50235a7ec6b5e33919",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
+  }
+}

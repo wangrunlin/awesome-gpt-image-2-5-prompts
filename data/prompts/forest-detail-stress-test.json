@@ -31,7 +31,10 @@
         "zh": "一张林间空地的照片，周围有大量绿色树叶，高度细致"
       }
     ],
-    "original_language": "en"
+    "original_language": "en",
+    "original_steps": [
+      "Photo of a clearing in the woods with lots of green foliage, highly detailed"
+    ]
   },
   "inputs": [],
   "notes": [
@@ -47,7 +50,8 @@
     "prompt_url": "https://x.com/mark_k/status/2097411028510179759",
     "checked_at": "2026-09-10T15:31:42.128Z",
     "status": "source-checked",
-    "disclosure": null
+    "disclosure": null,
+    "post_language": null
   },
   "previews": [
     {
@@ -74,5 +78,98 @@
   "rights": {
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "森林細節壓力測試",
+      "summary": "茂密的樹葉是測試重複紋理和雜訊偽影的有效視覺物件。",
+      "steps": [
+        "一張森林空地的照片，綠樹成蔭，細節豐富。"
+      ],
+      "inputs": [],
+      "notes": [
+        "作者稱結果好壞參半。此圖僅作為有效的壓力測試，而非完美展示。"
+      ],
+      "source_digest": "3f03f78e0bcb784f6710bb0d9b2711f7b763b4202381034fef7376b7939f62c0",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "森林のディテールに関するストレステスト",
+      "summary": "鬱蒼と茂る葉は、繰り返されるテクスチャやノイズによるアーティファクト（画像の乱れ）を確認するための、有用な視覚的テスト対象となります。",
+      "steps": [
+        "緑豊かな葉に囲まれた森の空き地の写真、高精細"
+      ],
+      "inputs": [],
+      "notes": [
+        "作成者は、その仕上がりを「一長一短（評価が分かれるもの）」と評しています。これは完璧な作例としてではなく、有用なストレステストとして収録されています。"
+      ],
+      "source_digest": "3f03f78e0bcb784f6710bb0d9b2711f7b763b4202381034fef7376b7939f62c0",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "숲의 세부 묘사 성능 테스트(스트레스 테스트)",
+      "summary": "울창한 나뭇잎은 반복되는 텍스처와 노이즈 아티팩트(noise artifacts)를 확인하기 위한 유용한 시각적 테스트 대상입니다.",
+      "steps": [
+        "녹색 잎이 무성한 숲속 공터 사진, 매우 정교한 디테일"
+      ],
+      "inputs": [],
+      "notes": [
+        "제작자는 결과물이 다소 아쉬운 점이 있다고 평가했습니다. 이 자료는 완벽한 결과물을 보여주기 위한 것이 아니라 유용한 성능 테스트(스트레스 테스트) 사례로 포함되었습니다."
+      ],
+      "source_digest": "3f03f78e0bcb784f6710bb0d9b2711f7b763b4202381034fef7376b7939f62c0",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Test de contrainte sur les détails d'une forêt",
+      "summary": "Un feuillage dense constitue un test visuel utile pour évaluer la répétition des textures et les artefacts de bruit numérique.",
+      "steps": [
+        "Photo d'une clairière en forêt avec un feuillage vert abondant, très détaillée"
+      ],
+      "inputs": [],
+      "notes": [
+        "Le créateur a qualifié le résultat de mitigé. Cet élément est inclus comme test de contrainte utile, et non comme une démonstration parfaite."
+      ],
+      "source_digest": "3f03f78e0bcb784f6710bb0d9b2711f7b763b4202381034fef7376b7939f62c0",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Belastungstest anhand eines Waldmotivs",
+      "summary": "Dichtes Blattwerk eignet sich hervorragend als visueller Test für sich wiederholende Texturen und Rauschartefakte.",
+      "steps": [
+        "Foto einer Waldlichtung mit üppigem grünen Blattwerk, detailreich"
+      ],
+      "inputs": [],
+      "notes": [
+        "Der Ersteller bewertete das Ergebnis als durchwachsen. Es dient hier als nützlicher Belastungstest, nicht als makelloses Vorzeigebeispiel."
+      ],
+      "source_digest": "3f03f78e0bcb784f6710bb0d9b2711f7b763b4202381034fef7376b7939f62c0",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Prueba de estrés con detalles de un bosque",
+      "summary": "El follaje denso constituye una prueba visual útil para evaluar texturas repetitivas y artefactos de ruido.",
+      "steps": [
+        "Fotografía de un claro en el bosque con abundante follaje verde, de gran detalle."
+      ],
+      "inputs": [],
+      "notes": [
+        "El creador describió el resultado como desigual. Se incluye aquí como una prueba de estrés útil, no como una muestra de perfección técnica."
+      ],
+      "source_digest": "3f03f78e0bcb784f6710bb0d9b2711f7b763b4202381034fef7376b7939f62c0",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Um teste de estresse de detalhes de floresta",
+      "summary": "Folhagem densa é um teste visual útil para verificar texturas repetitivas e artefatos de ruído.",
+      "steps": [
+        "Foto de uma clareira na floresta com muita folhagem verde, altamente detalhada"
+      ],
+      "inputs": [],
+      "notes": [
+        "O criador descreveu o resultado como misto. Isso está incluído como um teste de estresse útil, não como uma demonstração impecável."
+      ],
+      "source_digest": "3f03f78e0bcb784f6710bb0d9b2711f7b763b4202381034fef7376b7939f62c0",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
   }
 }

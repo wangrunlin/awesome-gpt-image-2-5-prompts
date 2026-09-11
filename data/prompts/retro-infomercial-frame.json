@@ -32,6 +32,9 @@
         "en": "a frame grab from a 1994 infomercial, standard definition video with scanlines. A host in a teal blazer, a battered saucer on a rotating plinth with Antarctic ice frozen around one leg, a price starburst, a phone number, and three lines of legal small print.",
         "zh": "一帧取自 1994 年电视购物广告的画面，采用带扫描线的标清视频质感。主持人穿蓝绿色西装外套；旋转展台上放着一个破旧飞碟，其中一条支腿结着南极冰。画面还包含爆炸形价格标签、电话号码和三行法律小字。"
       }
+    ],
+    "original_steps": [
+      "a frame grab from a 1994 infomercial, standard definition video with scanlines. A host in a teal blazer, a battered saucer on a rotating plinth with Antarctic ice frozen around one leg, a price starburst, a phone number, and three lines of legal small print."
     ]
   },
   "inputs": [],
@@ -56,7 +59,8 @@
     "prompt_url": "https://x.com/ImagineArt_X/status/2097520474226147462",
     "checked_at": "2026-09-10T16:35:40.097Z",
     "status": "source-checked",
-    "disclosure": null
+    "disclosure": null,
+    "post_language": null
   },
   "previews": [
     {
@@ -83,5 +87,112 @@
   "rights": {
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "復古電視購物廣告畫面",
+      "summary": "創造一張懷舊風格的廣告靜幀，將產品展示與密集的文字疊加在一起。",
+      "steps": [
+        "一張1994年電視購物廣告的幀截圖，標清視頻，帶有掃描線。畫面中，主持人身穿青綠色西裝外套，一個破舊的碟子放在旋轉底座上，碟子的一條腿上凍著南極冰塊，旁邊有一個價格星形圖案、一個電話號碼和三行法律聲明小字。"
+      ],
+      "inputs": [],
+      "notes": [
+        "創作者的父主題貼文中標識了 GPT Image 2.5 Sunburst，並指出 GPT 圖像 2 在左側，2.5 在右側。此預覽連結到第二個來源圖像。這是創建者的聲明，而非維護者的測試。",
+        "英文文字區塊保留了已發布的簡報，但不包括其「提示 N:」標籤。互動屬於此回复，而非整個比較主題帖。",
+        "來源未指定價格、電話號碼或法律聲明。對於實際廣告，請提供您認可的數值。所需輸出為靜態影像，而非完整視訊。"
+      ],
+      "source_digest": "2c70c4ec0e8b2ab914399a2bf95f2db74bd2617c04a92bccc485034aff53febe",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "レトロなインフォマーシャル（通販番組）風の広告フレーム。",
+      "summary": "製品の表示と、情報の詰まったオーバーレイテキストを組み合わせた、ノスタルジックな広告用静止画を作成する。",
+      "steps": [
+        "1994年のインフォマーシャルから切り出したフレーム画像。走査線が見える標準画質の映像です。ティールブルーのブレザーを着た司会者、回転台に乗った傷だらけのソーサー（脚の1本が南極の氷で固められている）、価格を表示するスターバースト（星形の図形）、電話番号、そして3行の法的免責事項（細かい文字）が含まれています。"
+      ],
+      "inputs": [],
+      "notes": [
+        "作成者の親スレッドでは、GPT Image 2.5 Sunburstが特定され、GPT Image 2が左側、2.5が右側にあるとされています。このプレビューは、2番目のソース画像へのリンクです。これは作成者による主張であり、メンテナーによるテストではありません。",
+        "英語のブロックは、「Prompt N:」ラベルを除き、公開された概要を保持しています。エンゲージメントは、比較スレッド全体ではなく、この個別の返信に帰属します。",
+        "元の素材には、価格、電話番号、法的文言は指定されていません。実際の広告として制作する場合は、承認済みの値を各自で設定してください。求められている出力は静止画であり、完成した動画ではありません。"
+      ],
+      "source_digest": "2c70c4ec0e8b2ab914399a2bf95f2db74bd2617c04a92bccc485034aff53febe",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "복고풍 인포머셜(정보 전달형 광고) 스타일의 프레임",
+      "summary": "제품 전시와 빽빽한 오버레이 텍스트를 결합하여 향수를 불러일으키는 광고용 스틸 이미지를 제작하세요.",
+      "steps": [
+        "1994년 인포머셜(정보 제공형 광고)에서 캡처한 프레임으로, 스캔라인이 보이는 표준 화질(SD) 영상입니다. 청록색 블레이저를 입은 진행자, 회전하는 받침대 위에 놓인 낡은 접시(한쪽 다리 주변에 남극의 얼음이 얼어붙어 있음), 가격 표시용 별 모양 그래픽, 전화번호, 그리고 세 줄의 작은 법적 고지 문구가 포함되어 있습니다."
+      ],
+      "inputs": [],
+      "notes": [
+        "제작자의 원본 스레드에서는 GPT Image 2.5 Sunburst를 언급하며 왼쪽은 GPT Image 2, 오른쪽은 2.5 버전이라고 밝히고 있습니다. 이 미리보기는 두 번째 원본 이미지를 참조합니다. 이는 제작자의 주장이며, 관리자의 테스트 결과가 아닙니다.",
+        "영어 텍스트 블록은 'Prompt N:'이라는 라벨을 제외하고 공개된 의뢰 내용을 그대로 유지합니다. 반응(engagement)은 전체 비교 스레드가 아닌 이 개별 답변에 대한 것입니다.",
+        "원본에는 가격, 전화번호, 법적 고지 문구가 명시되어 있지 않습니다. 실제 광고로 제작할 경우 승인된 내용을 직접 입력하십시오. 요청된 결과물은 완성된 영상이 아닌 스틸 이미지입니다."
+      ],
+      "source_digest": "2c70c4ec0e8b2ab914399a2bf95f2db74bd2617c04a92bccc485034aff53febe",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Image publicitaire dans le style d'un téléachat rétro.",
+      "summary": "Créez une image publicitaire nostalgique mêlant présentation de produit et texte en superposition dense.",
+      "steps": [
+        "Une image extraite d'un téléachat de 1994, vidéo en définition standard avec lignes de balayage. Un présentateur en veste bleu-vert, une soucoupe abîmée sur un socle rotatif avec de la glace de l'Antarctique gelée autour d'un pied, un encart en forme d'étoile indiquant le prix, un numéro de téléphone et trois lignes de mentions légales en petits caractères."
+      ],
+      "inputs": [],
+      "notes": [
+        "Le fil de discussion parent du créateur identifie GPT Image 2.5 Sunburst et indique que l'image GPT 2 est à gauche et 2,5 à droite. Cet aperçu relie la deuxième image source. Il s'agit d'une réclamation du créateur, pas d'un test du responsable.",
+        "Le bloc anglais conserve le mémoire publié, à l'exclusion de son étiquette « Prompt N : ». L'engagement appartient à cette réponse individuelle, et non à l'ensemble du fil de comparaison.",
+        "La source ne précise ni prix, ni numéro de téléphone, ni mentions légales. Pour une véritable publicité, fournissez vos propres valeurs validées. Le résultat attendu est une image fixe, et non une vidéo terminée."
+      ],
+      "source_digest": "2c70c4ec0e8b2ab914399a2bf95f2db74bd2617c04a92bccc485034aff53febe",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Werbe-Frame im Stil eines Retro-Infomercials",
+      "summary": "Erstellen Sie ein nostalgisches Werbebild, das eine Produktpräsentation mit dichtem Overlay-Text kombiniert.",
+      "steps": [
+        "Ein Standbild aus einem Infomercial von 1994; Standard-Definition-Video mit Zeilensprungstreifen. Zu sehen sind ein Moderator in einem blaugrünen Blazer, eine ramponierte Untertasse auf einem drehbaren Sockel (wobei antarktisches Eis um einen der Standfüße gefroren ist), ein sternförmiges Preisschild, eine Telefonnummer sowie drei Zeilen rechtlicher Kleingedruckter Hinweise."
+      ],
+      "inputs": [],
+      "notes": [
+        "Der ursprüngliche Beitrag des Erstellers verweist auf „GPT Image 2.5 Sunburst“ und gibt an, dass sich „GPT Image 2“ auf der linken und „2.5“ auf der rechten Seite befindet. Diese Vorschau verlinkt das zweite Quellbild. Dies ist eine Behauptung des Erstellers, kein Test durch die Betreuer.",
+        "Der englische Textblock gibt die ursprüngliche Aufgabenstellung wieder, jedoch ohne die Bezeichnung „Prompt N:“. Interaktionen beziehen sich auf diese einzelne Antwort, nicht auf den gesamten Vergleichs-Thread.",
+        "Die Quelle gibt weder einen Preis noch eine Telefonnummer oder rechtliche Hinweise an. Verwenden Sie für eine tatsächliche Werbeanzeige Ihre eigenen, freigegebenen Angaben. Das gewünschte Ergebnis ist ein Standbild, kein fertiges Video."
+      ],
+      "source_digest": "2c70c4ec0e8b2ab914399a2bf95f2db74bd2617c04a92bccc485034aff53febe",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Fotograma publicitario estilo infomercial retro.",
+      "summary": "Cree una imagen publicitaria nostálgica que combine la presentación de un producto con una gran cantidad de texto superpuesto.",
+      "steps": [
+        "Captura de imagen de un infomercial de 1994; vídeo de definición estándar con líneas de barrido. Un presentador con americana verde azulado, un platillo deteriorado sobre una plataforma giratoria con hielo de la Antártida congelado alrededor de una pata, un gráfico de estrella con el precio, un número de teléfono y tres líneas de letra pequeña con información legal."
+      ],
+      "inputs": [],
+      "notes": [
+        "El hilo original del creador identifica la imagen GPT Image 2.5 Sunburst y señala que la imagen GPT 2 está a la izquierda y la 2.5 a la derecha. Esta vista previa enlaza con la segunda imagen de referencia. Se trata de una afirmación del creador, no de una prueba realizada por el responsable del mantenimiento.",
+        "El bloque en inglés conserva la descripción original publicada, excluyendo la etiqueta \"Prompt N:\". La interacción corresponde a esta respuesta individual, no a todo el hilo comparativo.",
+        "La fuente no especifica precio, número de teléfono ni texto legal. Para un anuncio real, proporcione sus propios valores aprobados. El resultado solicitado es una imagen fija, no un vídeo terminado."
+      ],
+      "source_digest": "2c70c4ec0e8b2ab914399a2bf95f2db74bd2617c04a92bccc485034aff53febe",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Quadro publicitário no estilo de infomercial retrô.",
+      "summary": "Crie uma imagem publicitária nostálgica que combine a exibição de um produto com uma sobreposição de texto denso.",
+      "steps": [
+        "Um quadro capturado de um infomercial de 1994; vídeo em definição padrão com linhas de varredura visíveis. Um apresentador vestindo um blazer verde-azulado, um pires avariado sobre uma base giratória com gelo da Antártida congelado em torno de uma das hastes, um elemento gráfico em forma de estrela com o preço, um número de telefone e três linhas de texto legal em letras miúdas."
+      ],
+      "inputs": [],
+      "notes": [
+        "A discussão original do criador identifica o GPT Image 2.5 Sunburst e indica que a Imagem GPT 2 está à esquerda e a 2.5, à direita. Esta prévia vincula a segunda imagem de referência. Trata-se de uma afirmação do criador, não de um teste realizado pelo responsável pela manutenção.",
+        "O bloco em inglês preserva a descrição original do pedido, excluindo o rótulo \"Prompt N:\". O engajamento refere-se a esta resposta específica, e não a toda a discussão comparativa.",
+        "A fonte não especifica preço, número de telefone ou texto legal. Para um anúncio real, forneça seus próprios valores aprovados. O resultado solicitado é uma imagem estática, não um vídeo finalizado."
+      ],
+      "source_digest": "2c70c4ec0e8b2ab914399a2bf95f2db74bd2617c04a92bccc485034aff53febe",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
   }
 }

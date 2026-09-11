@@ -5,11 +5,77 @@
   "repository": "https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts",
   "contact": "support@image-2-5.com",
   "categories": [
-    { "id": "editing", "en": "Editing and restoration", "zh": "局部编辑与修复" },
-    { "id": "products", "en": "Products and UGC", "zh": "产品与 UGC" },
-    { "id": "photography", "en": "Portraits and photography", "zh": "人像与摄影" },
-    { "id": "design", "en": "Posters and editorial design", "zh": "海报与编辑设计" },
-    { "id": "characters", "en": "Characters and sprite workflows", "zh": "角色与精灵图工作流" },
-    { "id": "sketch", "en": "Sketch-guided creation", "zh": "草图引导创作" }
+    {
+      "id": "editing",
+      "en": "Editing and restoration",
+      "zh": "局部编辑与修复",
+      "zh-TW": "編輯與修復",
+      "ja": "編集と復元",
+      "ko": "편집 및 복원",
+      "fr": "Édition et restauration",
+      "de": "Bearbeitung und Wiederherstellung",
+      "pt-BR": "Edição e restauração",
+      "es": "Edición y restauración"
+    },
+    {
+      "id": "products",
+      "en": "Products and UGC",
+      "zh": "产品与 UGC",
+      "zh-TW": "產品與使用者生成內容 (UGC)",
+      "ja": "製品とUGC（ユーザー生成コンテンツ）",
+      "ko": "제품 및 사용자 생성 콘텐츠(UGC)",
+      "fr": "Produits et contenu généré par les utilisateurs (UGC)",
+      "de": "Produkte und nutzergenerierte Inhalte (UGC)",
+      "pt-BR": "Produtos e conteúdo gerado pelo usuário (UGC)",
+      "es": "Productos y contenido generado por el usuario"
+    },
+    {
+      "id": "photography",
+      "en": "Portraits and photography",
+      "zh": "人像与摄影",
+      "zh-TW": "肖像與攝影",
+      "ja": "ポートレートと写真",
+      "ko": "인물 사진 및 사진 촬영",
+      "fr": "Portraits et photographie",
+      "de": "Porträts und Fotografie",
+      "pt-BR": "Retratos e fotografia",
+      "es": "Retratos y fotografía"
+    },
+    {
+      "id": "design",
+      "en": "Posters and editorial design",
+      "zh": "海报与编辑设计",
+      "zh-TW": "海報與編輯設計",
+      "ja": "ポスターとエディトリアルデザイン",
+      "ko": "포스터 및 편집 디자인",
+      "fr": "Affiches et design éditorial",
+      "de": "Poster und redaktionelles Design",
+      "pt-BR": "Pôsteres e design editorial",
+      "es": "Carteles y diseño editorial"
+    },
+    {
+      "id": "characters",
+      "en": "Characters and sprite workflows",
+      "zh": "角色与精灵图工作流",
+      "zh-TW": "角色與精靈工作流程",
+      "ja": "キャラクターとスプライトのワークフロー",
+      "ko": "캐릭터 및 스프라이트 워크플로",
+      "fr": "Personnages et flux de travail pour sprites",
+      "de": "Charaktere und Sprite-Workflows",
+      "pt-BR": "Personagens e fluxos de trabalho com sprites",
+      "es": "Personajes y flujos de trabajo de sprites"
+    },
+    {
+      "id": "sketch",
+      "en": "Sketch-guided creation",
+      "zh": "草图引导创作",
+      "zh-TW": "草圖引導式創作",
+      "ja": "スケッチをガイドとした生成",
+      "ko": "스케치 기반 생성",
+      "fr": "Création guidée par esquisse",
+      "de": "Skizzenbasierte Erstellung",
+      "pt-BR": "Criação guiada por esboço",
+      "es": "Creación guiada por bocetos"
+    }
   ]
 }

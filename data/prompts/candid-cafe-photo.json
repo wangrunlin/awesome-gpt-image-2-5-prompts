@@ -31,7 +31,10 @@
         "zh": "给我生成一张真实感的 iPhone 照片，内容是一名身处咖啡馆的女性"
       }
     ],
-    "original_language": "en"
+    "original_language": "en",
+    "original_steps": [
+      "make me a realistic iphone photo of a woman in a cafe"
+    ]
   },
   "inputs": [],
   "notes": [
@@ -47,7 +50,8 @@
     "prompt_url": "https://x.com/blueemi99/status/2097602273085931662",
     "checked_at": "2026-09-10T15:32:10.082Z",
     "status": "source-checked",
-    "disclosure": null
+    "disclosure": null,
+    "post_language": null
   },
   "previews": [
     {
@@ -74,5 +78,98 @@
   "rights": {
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "一張咖啡館裡的手機抓拍照片",
+      "summary": "一個實用的日常自然攝影基線。",
+      "steps": [
+        "用iPhone拍攝一張咖啡館裡女性的逼真照片。"
+      ],
+      "inputs": [],
+      "notes": [
+        "一個極簡基線，不保證包含相機元資料或特定裝置的輸出。"
+      ],
+      "source_digest": "6c921ad7b8ebe40a412c5ae7cb7c1eb6f3e03f074b8504439e5ab7b3d41ffcd4",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "카페에서 스마트폰으로 찍은 자연스러운 사진",
+      "summary": "자연스러운 일상 사진 촬영을 위한 유용한 기본 설정(baseline).",
+      "steps": [
+        "카페에 있는 여성의 사실적인 아이폰 사진을 생성해 주세요."
+      ],
+      "inputs": [],
+      "notes": [
+        "카메라 메타데이터나 특정 기기 고유의 출력 특성이 보장되지 않는 최소한의 기본 설정."
+      ],
+      "source_digest": "6c921ad7b8ebe40a412c5ae7cb7c1eb6f3e03f074b8504439e5ab7b3d41ffcd4",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Ein ungezwungenes Handyfoto aus einem Café",
+      "summary": "Eine nützliche, einfache Vorlage für natürlich wirkende Alltagsfotografie.",
+      "steps": [
+        "Erstelle ein realistisches iPhone-Foto einer Frau in einem Café."
+      ],
+      "inputs": [],
+      "notes": [
+        "Eine minimalistische Vorlage ohne garantierte Kamera-Metadaten oder gerätespezifische Ausgabe."
+      ],
+      "source_digest": "6c921ad7b8ebe40a412c5ae7cb7c1eb6f3e03f074b8504439e5ab7b3d41ffcd4",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Una foto espontánea tomada con el móvil en una cafetería",
+      "summary": "Una referencia básica útil para fotografía cotidiana de aspecto natural.",
+      "steps": [
+        "Genera una foto realista estilo iPhone de una mujer en una cafetería"
+      ],
+      "inputs": [],
+      "notes": [
+        "Una referencia básica mínima, sin garantía de metadatos de cámara ni resultados específicos de un dispositivo concreto."
+      ],
+      "source_digest": "6c921ad7b8ebe40a412c5ae7cb7c1eb6f3e03f074b8504439e5ab7b3d41ffcd4",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Uma foto espontânea de café tirada com celular",
+      "summary": "Uma referência básica útil para fotografia cotidiana com aspecto natural.",
+      "steps": [
+        "crie uma foto realista de iPhone mostrando uma mulher em um café"
+      ],
+      "inputs": [],
+      "notes": [
+        "Uma referência básica minimalista, sem garantia de metadados da câmera ou saída específica do dispositivo."
+      ],
+      "source_digest": "6c921ad7b8ebe40a412c5ae7cb7c1eb6f3e03f074b8504439e5ab7b3d41ffcd4",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Une photo de téléphone franche dans un café",
+      "summary": "Une courte ligne de base utile pour une photographie quotidienne d’apparence naturelle.",
+      "steps": [
+        "fais-moi une photo iPhone réaliste d'une femme dans un café"
+      ],
+      "inputs": [],
+      "notes": [
+        "Une référence minimale, sans métadonnées de caméra garanties ni sortie spécifique à l'appareil."
+      ],
+      "source_digest": "6c921ad7b8ebe40a412c5ae7cb7c1eb6f3e03f074b8504439e5ab7b3d41ffcd4",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "カフェで撮影した自然な雰囲気のスマホ写真",
+      "summary": "日常の自然な写真撮影に役立つ、便利なショートベースライン。",
+      "steps": [
+        "カフェにいる女性のリアルなiPhone写真を作成してください。"
+      ],
+      "inputs": [],
+      "notes": [
+        "カメラのメタデータやデバイス固有の出力は保証されません。最小限のベースラインです。"
+      ],
+      "source_digest": "6c921ad7b8ebe40a412c5ae7cb7c1eb6f3e03f074b8504439e5ab7b3d41ffcd4",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
   }
 }

@@ -1,0 +1,231 @@
+{
+  "schema_version": 1,
+  "id": "three-reference-product-ad",
+  "title": {
+    "en": "Three-reference product advertisement",
+    "zh": "三张参考图分工的商品广告"
+  },
+  "summary": {
+    "en": "Separate product identity, lighting, and layout references with an explicit priority order.",
+    "zh": "产品标识、灯光和布局参考图需分别列出，并明确优先级。"
+  },
+  "category": "design",
+  "tags": [
+    "design",
+    "edit"
+  ],
+  "mode": "edit",
+  "featured": true,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/jackzhang123vip/status/2098414576031481953",
+    "evidence": "The creator explicitly names GPT Image 2.5 in this post. This is source attribution, not an independent model test."
+  },
+  "prompt": {
+    "kind": "original",
+    "original_language": "zh",
+    "original_steps": [
+      "图1是最高优先级的产品原图；图2只提供颜色、光线、明暗关系和整体氛围；图3只提供构图、产品位置、视觉比例和留白结构。冲突优先级：图1产品真实性与标签准确性 > 图3版式结构 > 图2色彩与光线。创建一张1024×1536竖版商业产品广告。使用图1中的同一支洗发露，将其完整放在画面左侧，并按照图3在右侧保留大面积干净、均匀的文案留白区域。应用图2从左上方照入的柔和暖光、低饱和奶油色、淡杏色和灰绿色氛围，但不要复制图2中的物体。完整保留图1产品的形状、比例、琥珀色玻璃、象牙白泵头结构、标签尺寸和位置、叶片图形，以及两行准确文字“山野洗发露”和“净含量 300毫升”。文字必须清晰、顺序正确，并且只出现在产品标签上。不得重新设计、变色、变形、裁切、复制或改写产品。只允许为融入环境添加符合物理规律的反射和自然接触阴影。产品完整可见，四周留有安全边距，右侧不得生成任何文字。不要复制图2或图3中的球体、玻璃方块、布料、圆柱、产品、文字、Logo或品牌元素。\n不要添加文案、占位字、英文、乱码、二维码、水印、额外包装、道具、人物或第二个产品。"
+    ],
+    "steps": [
+      {
+        "en": "Image 1 is the primary reference for the product itself; Image 2 provides only the color, lighting, tonal values, and overall atmosphere; Image 3 provides only the composition, product placement, visual proportions, and negative space structure. Conflict priority: Product authenticity and label accuracy from Image 1 > Layout structure from Image 3 > Color and lighting from Image 2. Create a 1024×1536 vertical commercial product advertisement. Use the exact shampoo bottle from Image 1, placing it fully on the left side of the frame, while reserving a large, clean, and uniform area of ​​negative space for copy on the right, as shown in Image 3. Apply the atmosphere from Image 2—featuring soft warm light entering from the top-left, low-saturation creamy tones, pale apricot hues, and grey-green accents—but do not replicate the objects found in Image 2. Fully preserve the product's shape, proportions, amber glass, ivory-white pump structure, label size and placement, leaf graphic, and the two lines of accurate text (\"“山野洗发露”\" and \"“净含量 300毫升”\"). The text must be clear, in the correct order, and appear only on the product label. Do not redesign, recolor, distort, crop, duplicate, or alter the product. Only physically accurate reflections and natural contact shadows may be added to integrate the product into the environment. The product must be fully visible with safe margins around it; no text may be generated on the right side. Do not replicate the spheres, glass cubes, fabric, cylinders, products, text, logos, or branding elements from Image 2 or Image 3.\nDo not add copy, placeholder text, English text, garbled characters, QR codes, watermarks, extra packaging, props, people, or a second product.",
+        "zh": "图1是最高优先级的产品原图；图2只提供颜色、光线、明暗关系和整体氛围；图3只提供构图、产品位置、视觉比例和留白结构。冲突优先级：图1产品真实性与标签准确性 > 图3版式结构 > 图2色彩与光线。创建一张1024×1536竖版商业产品广告。使用图1中的同一支洗发露，将其完整放在画面左侧，并按照图3在右侧保留大面积干净、均匀的文案留白区域。应用图2从左上方照入的柔和暖光、低饱和奶油色、淡杏色和灰绿色氛围，但不要复制图2中的物体。完整保留图1产品的形状、比例、琥珀色玻璃、象牙白泵头结构、标签尺寸和位置、叶片图形，以及两行准确文字“山野洗发露”和“净含量 300毫升”。文字必须清晰、顺序正确，并且只出现在产品标签上。不得重新设计、变色、变形、裁切、复制或改写产品。只允许为融入环境添加符合物理规律的反射和自然接触阴影。产品完整可见，四周留有安全边距，右侧不得生成任何文字。不要复制图2或图3中的球体、玻璃方块、布料、圆柱、产品、文字、Logo或品牌元素。\n不要添加文案、占位字、英文、乱码、二维码、水印、额外包装、道具、人物或第二个产品。"
+      }
+    ],
+    "preserved_literals": [
+      "山野洗发露",
+      "净含量 300毫升"
+    ]
+  },
+  "inputs": [
+    {
+      "en": "Image 1: the product reference with its original label.",
+      "zh": "图 1：带有原始标签的产品参考图。"
+    },
+    {
+      "en": "Image 2: the desired color and light reference.",
+      "zh": "图 2：所需的颜色和灯光参考图。"
+    },
+    {
+      "en": "Image 3: a layout reference showing product placement and empty space.",
+      "zh": "图 3：布局参考图，展示产品摆放位置和留白。"
+    }
+  ],
+  "notes": [
+    {
+      "en": "A distinct illustrated test in the creator’s GPT Image 2.5 article. Shared article engagement is not assigned to individual tests.",
+      "zh": "作者在 GPT Image 2.5 文章中进行了单独的插图测试。共享文章的互动量不分配给单个测试。"
+    },
+    {
+      "en": "Any scores or observations in the source are the author’s reports, not independent tests by this repository.",
+      "zh": "源文件中的任何分数或观察结果均为作者的报告，并非本仓库的独立测试。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "jackzhang123vip",
+    "url": "https://x.com/jackzhang123vip/status/2098414576031481953",
+    "prompt_url": "https://x.com/jackzhang123vip/status/2098414576031481953",
+    "post_language": "zh",
+    "checked_at": "2026-09-11T18:28:44.380Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "section": "Three-reference product advertisement"
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HR8McVcasAAxJwu?format=jpg&name=large",
+      "kind": "source-result",
+      "credit": "@jackzhang123vip",
+      "source_url": "https://x.com/jackzhang123vip/status/2098414576031481953"
+    }
+  ],
+  "engagement": {
+    "likes": null,
+    "bookmarks": null,
+    "reposts": null,
+    "replies": null,
+    "views": null,
+    "observed_at": "2026-09-11T18:28:44.380Z",
+    "source_url": "https://x.com/jackzhang123vip/status/2098414576031481953",
+    "method": "Individual section metrics are unavailable; shared article totals are not assigned to this test."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Third-party prompts and media retain their creators’ rights; external previews are linked, not relicensed."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "三圖產品廣告參考圖",
+      "summary": "產品識別、燈光和佈局參考圖需分別列出，並明確優先順序。",
+      "steps": [
+        "圖1是最高優先順序的產品原圖；圖2只提供顏色、光線、明暗關係和整體氛圍；圖3只提供構圖、產品位置、視覺比例和留白結構。衝突優先：圖1產品真實性與標籤準確度 > 圖3版式結構 > 圖2色彩與光線。創建一張1024×1536豎版商業產品廣告。使用圖1的同一支洗髮露，將其完整放在畫面左側，並依照圖3在右側保留大面積乾淨、均勻的文案留白區域。應用圖2從左上方照入的柔和暖光、低飽和奶油色、淡杏色和灰綠色氛圍，但不要複製圖2的物體。完整保留圖1產品的形狀、比例、琥珀色玻璃、象牙白泵頭結構、標籤尺寸和位置、葉片圖形，以及兩行準確文字“山野洗发露”和“净含量 300毫升”。文字必須清晰、順序正確，並且只出現在產品標籤上。不得重新設計、變色、變形、裁切、複製或改寫產品。只允許為融入環境添加符合物理規律的反射和自然接觸陰影。產品完整可見，四周留有安全邊距，右側不得產生任何文字。不要複製圖2或圖3的球體、玻璃方塊、布料、圓柱體、產品、文字、Logo或品牌元素。\n不要添加文案、佔位字、英文、亂碼、二維碼、浮水印、額外包裝、道具、人物或第二個產品。"
+      ],
+      "inputs": [
+        "圖 1：帶有原始標籤的產品參考圖。",
+        "圖 2：所需的顏色和燈光參考圖。",
+        "圖 3：佈置參考圖，展示產品擺放位置和留白。"
+      ],
+      "notes": [
+        "作者在 GPT Image 2.5 文章中進行了單獨的插圖測試。分享文章的互動量不分配給單一測試。",
+        "來源文件中的任何分數或觀察結果均為作者的報告，並非本倉庫的獨立測試。"
+      ],
+      "source_digest": "a1e01e6bfe7469f731b04df793d4269331480e6e25d6911fcae987aac08d133a",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "3つの参考資料を用いた商品広告",
+      "summary": "商品識別情報、照明、レイアウトの参考資料を、優先順位を明確に示して個別に作成してください。",
+      "steps": [
+        "図1は最優先のオリジナル商品画像です。図2は色、照明、明暗関係、全体的な雰囲気のみを提供します。図3は構図、商品配置、視覚的な比率、余白構造のみを提供します。優先順位：図1の商品真正性とラベルの正確性 > 図3のレイアウト構造 > 図2の色と照明。1024×1536ピクセルの縦型商用商品広告を作成してください。図1と同じシャンプーを使用し、画像の左側に完全に配置し、図3に示すように右側にテキスト用の広く均一な白い領域を残します。図2の左上にある、柔らかく温かい光、低彩度のクリーム、薄いアプリコット、および灰緑色の雰囲気を適用しますが、図2のオブジェクトをコピーしないでください。図1の形状、比率、琥珀色のガラス、象牙色のポンプヘッド構造、ラベルのサイズと位置、ブレードのグラフィック、および正確なテキスト“山野洗发露”と“净含量 300毫升”の2行を完全に保持します。テキストは明瞭で、正しい順序で、製品ラベルにのみ表示される必要があります。製品の再設計、色の変更、歪み、トリミング、コピー、または書き換えは行わないでください。物理的に正確な反射と自然な接触影のみが環境に溶け込むことが許可されます。製品は周囲に安全マージンを設けて完全に見える必要があり、右側にはテキストを生成しないでください。図2または図3の球体、ガラスキューブ、布地、円筒、製品、テキスト、ロゴ、ブランド要素をコピーしないでください。\n\nテキスト、プレースホルダーテキスト、英語、文字化けした文字、QRコード、透かし、追加のパッケージ、小道具、キャラクター、または別の製品を追加しないでください。"
+      ],
+      "inputs": [
+        "画像1：元のラベルが付いた商品参考資料。",
+        "画像2：希望する色と光の参考資料。",
+        "画像3：商品の配置と空きスペースを示すレイアウト参考資料。"
+      ],
+      "notes": [
+        "作成者の記事GPT Image 2.5に掲載されている、図解付きのテストです。記事へのエンゲージメントは、個々のテストには割り当てられていません。",
+        "ソースに記載されているスコアや観察結果は、このリポジトリによる独立したテストではなく、著者の報告です。"
+      ],
+      "source_digest": "a1e01e6bfe7469f731b04df793d4269331480e6e25d6911fcae987aac08d133a",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "3가지 참고 자료를 활용한 제품 광고",
+      "summary": "제품 아이덴티티, 조명, 레이아웃 참고 자료를 각각 별도로 작성하고 우선순위를 명확히 지정하십시오.",
+      "steps": [
+        "그림 1은 최우선 순위의 원본 제품 이미지입니다. 그림 2는 색상, 조명, 명암 관계 및 전체적인 분위기만을 제공합니다. 그림 3은 구도, 제품 배치, 시각적 비율 및 여백 구조만을 제공합니다. 우선순위 충돌: 그림 1의 제품 진위성 및 라벨 정확성 > 그림 3의 레이아웃 구조 > 그림 2의 색상 및 조명. 1024×1536 세로형 상업용 제품 광고를 제작하십시오. 그림 1의 샴푸를 그대로 사용하여 이미지의 왼쪽 부분에 완전히 배치하고, 그림 3과 같이 오른쪽에는 텍스트를 위한 넓고 깨끗한 흰색 여백을 남겨둡니다. 그림 2의 왼쪽 상단에서 볼 수 있는 부드럽고 따뜻한 빛, 채도가 낮은 크림색, 연한 살구색, 회록색의 분위기를 적용하되, 그림 2의 사물을 그대로 복사하지 마십시오. 그림 1의 형태, 비율, 호박색 유리, 아이보리색 펌프 헤드 구조, 라벨의 크기와 위치, 블레이드 그래픽, 그리고 정확한 두 줄의 텍스트 “山野洗发露”와 “净含量 300毫升”를 모두 그대로 유지하십시오. 텍스트는 명확하고 올바른 순서로 제품 라벨에만 표시되어야 합니다. 제품을 재디자인하거나, 색상을 변경하거나, 왜곡하거나, 자르거나, 복사하거나, 다시 쓰지 마십시오. 물리적으로 정확한 반사와 자연스러운 그림자만 주변 환경과 어우러지도록 허용합니다. 제품은 안전 여백을 두고 완전히 보여야 하며, 오른쪽에는 텍스트가 생성되지 않아야 합니다. 그림 2 또는 3의 구체, 유리 큐브, 천, 원통, 제품, 텍스트, 로고 또는 브랜드 요소를 복사하지 마십시오.\n\n텍스트, 자리 표시자 텍스트, 영어, 알아볼 수 없는 문자, QR 코드, 워터마크, 추가 포장, 소품, 캐릭터 또는 두 번째 제품을 추가하지 마십시오."
+      ],
+      "inputs": [
+        "이미지 1: 원래 라벨이 부착된 제품 참고 자료.",
+        "이미지 2: 원하는 색상 및 조명 참고 자료.",
+        "이미지 3: 제품 배치 및 빈 공간을 보여주는 레이아웃 참고 자료."
+      ],
+      "notes": [
+        "제작자의 GPT Image 2.5 문서에 별도의 그림 테스트가 포함되어 있습니다. 문서 공유 참여도는 개별 테스트에 할당되지 않습니다.",
+        "원본의 점수 또는 관찰 내용은 작성자의 보고서이며, 본 저장소에서 수행한 독립적인 테스트 결과가 아닙니다."
+      ],
+      "source_digest": "a1e01e6bfe7469f731b04df793d4269331480e6e25d6911fcae987aac08d133a",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Publicité produit à trois références",
+      "summary": "Références distinctes pour l'identité du produit, l'éclairage et la mise en page, avec un ordre de priorité explicite.",
+      "steps": [
+        "L'image originale du produit (Figure 1) est prioritaire. La Figure 2 présente les couleurs, l'éclairage, les jeux d'ombre et de lumière, ainsi que l'ambiance générale. La Figure 3 présente la composition, la position du produit, les proportions visuelles et la structure des espaces blancs. Priorité des éléments en conflit : Authenticité du produit et exactitude de l'étiquette (Figure 1) > Structure de la mise en page (Figure 3) > Couleurs et éclairage (Figure 2). Créer une publicité verticale pour le produit (1024 × 1536 pixels). En utilisant le même shampooing que sur la figure 1, placez-le entièrement à gauche de l'image et conservez un large espace blanc uniforme à droite pour le texte, comme illustré sur la figure 3. Appliquez la lumière chaude douce, le crème peu saturé, l'abricot clair et l'ambiance gris-vert du coin supérieur gauche de la figure 2, sans toutefois reproduire les objets de cette figure. Conservez intégralement la forme, les proportions, le verre ambré, la structure ivoire du bouchon, la taille et la position de l'étiquette, le graphisme de la lame et les deux lignes de texte “山野洗发露” et “净含量 300毫升” de la figure 1. Le texte doit être clair, dans le bon ordre et apparaître uniquement sur l'étiquette du produit. Ne modifiez ni ne changez les couleurs, ni ne déformez, ni recadrez, ni ne réécrivez le produit. Seuls les reflets réalistes et les ombres portées naturelles sont autorisés. Le produit doit être parfaitement visible, avec des marges de sécurité suffisantes, et aucun texte ne doit apparaître à droite. Ne copiez pas les sphères, les cubes de verre, le tissu, les cylindres, les produits, le texte, les logos ni les éléments de marque des figures 2 et 3.\n\nN'ajoutez pas de texte, de texte de substitution, d'anglais, de caractères illisibles, de codes QR, de filigranes, d'emballages supplémentaires, d'accessoires, de personnages ni un deuxième produit."
+      ],
+      "inputs": [
+        "Image 1 : Référence du produit avec son étiquette d'origine.",
+        "Image 2 : Référence de couleur et d'éclairage souhaitée.",
+        "Image 3 : Référence de mise en page montrant le placement du produit et l'espace vide."
+      ],
+      "notes": [
+        "Un test illustré distinct est présenté dans l'article GPT Image 2.5 du créateur. L'engagement lié à l'article partagé n'est pas attribué aux tests individuels.",
+        "Les scores et observations figurant dans la source sont des rapports de l'auteur et non des tests indépendants réalisés par ce dépôt."
+      ],
+      "source_digest": "a1e01e6bfe7469f731b04df793d4269331480e6e25d6911fcae987aac08d133a",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Produktwerbung mit drei Referenzen",
+      "summary": "Separate Referenzen für Produktidentität, Beleuchtung und Layout mit expliziter Prioritätsreihenfolge.",
+      "steps": [
+        "Abbildung 1 ist das Originalproduktbild mit höchster Priorität; Abbildung 2 zeigt lediglich Farbe, Beleuchtung, Licht- und Schattenverhältnisse sowie die Gesamtwirkung; Abbildung 3 zeigt lediglich Komposition, Produktposition, visuelle Proportionen und die Struktur des Leerraums. Prioritätskonflikt: Abbildung 1: Produktauthentizität und Etikettengenauigkeit > Abbildung 3: Layoutstruktur > Abbildung 2: Farbe und Beleuchtung. Erstellen Sie eine vertikale Produktanzeige im Format 1024 × 1536. Platzieren Sie das Shampoo aus Abbildung 1 vollständig auf der linken Bildseite und lassen Sie rechts, wie in Abbildung 3 gezeigt, eine große, saubere und gleichmäßige weiße Fläche für den Text frei. Verwenden Sie das weiche, warme Licht, die cremefarbenen, hellaprikosenfarbenen und graugrünen Farbtöne mit geringer Sättigung aus der oberen linken Ecke von Abbildung 2, kopieren Sie jedoch nicht die Objekte aus Abbildung 2. Behalten Sie Form, Proportionen, das bernsteinfarbene Glas, die Struktur des elfenbeinfarbenen Pumpenkopfes, die Etikettengröße und -position, die Klingengrafik sowie die beiden Zeilen des korrekten Textes “山野洗发露” und “净含量 300毫升” aus Abbildung 1 vollständig bei. Der Text muss klar und in der richtigen Reihenfolge sein und darf nur auf dem Produktetikett erscheinen. Das Produkt darf nicht umgestaltet, farblich verändert, verzerrt, beschnitten, kopiert oder neu geschrieben werden. Nur physikalisch korrekte Reflexionen und natürliche Kontaktschatten sind zulässig, um sich in die Umgebung einzufügen. Das Produkt muss vollständig sichtbar sein, mit Sicherheitsabständen ringsherum, und es darf kein Text auf der rechten Seite erscheinen. Kopieren Sie nicht die Kugeln, Glaswürfel, Stoffe, Zylinder, Produkte, Texte, Logos oder Markenelemente aus Abbildung 2 oder 3.\n\nFügen Sie keine Texte, Platzhaltertexte, englische Wörter, fehlerhafte Zeichen, QR-Codes, Wasserzeichen, zusätzliche Verpackungen, Requisiten, Figuren oder ein zweites Produkt hinzu."
+      ],
+      "inputs": [
+        "Bild 1: Produktreferenz mit Originaletikett.",
+        "Bild 2: Gewünschte Farb- und Lichtreferenz.",
+        "Bild 3: Layoutreferenz mit Produktplatzierung und Freiraum."
+      ],
+      "notes": [
+        "Ein separater illustrierter Test im Artikel GPT Image 2.5 des Erstellers. Die Interaktionen im Artikel werden nicht einzelnen Tests zugeordnet.",
+        "Alle Ergebnisse und Beobachtungen in der Quelle sind Berichte des Autors und keine unabhängigen Tests dieses Repositorys."
+      ],
+      "source_digest": "a1e01e6bfe7469f731b04df793d4269331480e6e25d6911fcae987aac08d133a",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Anuncio de producto con tres referencias",
+      "summary": "Identificación del producto, iluminación y referencias de diseño separadas con un orden de prioridad explícito.",
+      "steps": [
+        "La Figura 1 es la imagen original del producto con mayor prioridad; la Figura 2 solo proporciona color, iluminación, relaciones de luz y sombra, y la atmósfera general; la Figura 3 solo proporciona composición, posición del producto, proporción visual y estructura del espacio en blanco. Prioridad de conflicto: Autenticidad del producto y precisión de la etiqueta de la Figura 1 > Estructura del diseño de la Figura 3 > Color e iluminación de la Figura 2. Crear un anuncio comercial vertical de 1024 × 1536 píxeles. Utilizando el mismo champú de la Figura 1, colóquelo completamente en el lado izquierdo de la imagen y conserve una gran área de espacio blanco limpio y uniforme para el texto en el lado derecho como se muestra en la Figura 3. Aplique la luz cálida suave, crema de baja saturación, albaricoque claro y atmósfera verde grisácea de la parte superior izquierda de la Figura 2, pero no copie los objetos de la Figura 2. Conserve completamente la forma, proporción, vidrio ámbar, estructura del cabezal de bomba marfil, tamaño y posición de la etiqueta, gráficos de cuchilla y las dos líneas de texto exacto “山野洗发露” y “净含量 300毫升” de la Figura 1. El texto debe ser claro, en el orden correcto y aparecer solo en la etiqueta del producto. No rediseñe, cambie el color, distorsione, recorte, copie ni reescriba el producto. Solo se permiten reflejos físicamente exactos y sombras de contacto naturales para integrarse en el entorno. El producto debe ser completamente visible, con márgenes de seguridad a su alrededor, y no debe generarse ningún texto en el lado derecho. No copie las esferas, cubos de vidrio, tela, cilindros, productos, texto, logotipos ni elementos de marca de las figuras 2 o 3.\n\nNo añada texto, texto de relleno, texto en inglés, caracteres ilegibles, códigos QR, marcas de agua, embalaje adicional, accesorios, personajes ni un segundo producto."
+      ],
+      "inputs": [
+        "Imagen 1: Referencia del producto con su etiqueta original.",
+        "Imagen 2: Referencia de color e iluminación deseada.",
+        "Imagen 3: Referencia de diseño que muestra la ubicación del producto y el espacio vacío."
+      ],
+      "notes": [
+        "Prueba ilustrada específica en el artículo GPT Image 2.5 del creador. La participación en el artículo compartido no se asigna a pruebas individuales.",
+        "Las puntuaciones u observaciones en la fuente son informes del autor, no pruebas independientes realizadas por este repositorio."
+      ],
+      "source_digest": "a1e01e6bfe7469f731b04df793d4269331480e6e25d6911fcae987aac08d133a",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Anúncio de produto com três referências",
+      "summary": "Referências separadas para identidade visual do produto, iluminação e layout, com uma ordem de prioridade explícita.",
+      "steps": [
+        "A Figura 1 é a imagem original do produto com a maior prioridade; a Figura 2 fornece apenas cor, iluminação, relações de luz e sombra e atmosfera geral; a Figura 3 fornece apenas composição, posição do produto, proporção visual e estrutura de espaço em branco. Prioridade de conflito: Autenticidade do produto e precisão do rótulo na Figura 1 > Estrutura de layout na Figura 3 > Cor e iluminação na Figura 2. Crie um anúncio comercial vertical do produto de 1024×1536. Utilizando o mesmo shampoo da Figura 1, posicione-o inteiramente no lado esquerdo da imagem e reserve uma grande área de espaço em branco, limpa e uniforme, para o texto no lado direito, conforme mostrado na Figura 3. Aplique a luz quente suave, o creme de baixa saturação, o damasco claro e a atmosfera verde-acinzentada do canto superior esquerdo da Figura 2, mas não copie os objetos da Figura 2. Mantenha integralmente a forma, a proporção, o vidro âmbar, a estrutura da cabeça da bomba em marfim, o tamanho e a posição do rótulo, os gráficos da lâmina e as duas linhas de texto “山野洗发露” e “净含量 300毫升” da Figura 1. O texto deve ser legível, estar na ordem correta e aparecer apenas no rótulo do produto. Não redesenhe, altere a cor, distorça, recorte, copie ou reescreva o produto. Apenas reflexos fisicamente precisos e sombras de contato naturais são permitidos para se integrarem ao ambiente. O produto deve estar totalmente visível, com margens de segurança ao redor, e nenhum texto deve ser gerado no lado direito. Não copie as esferas, cubos de vidro, tecido, cilindros, produtos, texto, logotipos ou elementos de marca das Figuras 2 ou 3.\n\nNão adicione texto, texto de preenchimento, inglês, caracteres ilegíveis, códigos QR, marcas d'água, embalagens extras, adereços, personagens ou um segundo produto."
+      ],
+      "inputs": [
+        "Imagem 1: a referência do produto com seu rótulo original.",
+        "Imagem 2: a referência de cor e luz desejada.",
+        "Imagem 3: uma referência de layout mostrando a colocação do produto e o espaço vazio."
+      ],
+      "notes": [
+        "Um teste ilustrado distinto no artigo GPT Image 2.5 do criador. O engajamento compartilhado do artigo não é atribuído a testes individuais.",
+        "Quaisquer pontuações ou observações na fonte são relatórios do autor, não testes independentes deste repositório."
+      ],
+      "source_digest": "a1e01e6bfe7469f731b04df793d4269331480e6e25d6911fcae987aac08d133a",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
+  }
+}

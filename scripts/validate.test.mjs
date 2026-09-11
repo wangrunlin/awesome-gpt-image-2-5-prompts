@@ -3,8 +3,9 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import path from 'node:path';
 import { readData, root, validate } from './validate.mjs';
+import { readmeFile } from './catalog.mjs';
 
-const { entries, site } = readData();
+const { entries, site, locales } = readData();
 test('the checked-in collection satisfies the data contract', () => assert.deepEqual(validate(entries, site), []));
 test('duplicate IDs cannot silently overwrite generated pages', () => assert.ok(validate([entries[0], entries[0]], site).some(e => e.includes('duplicate id'))));
 test('missing metrics are unknown; a missing observation date fails', () => {
@@ -33,7 +34,7 @@ test('unsafe URLs and incomplete translations fail validation', () => {
   assert.ok(errors.some(e => e.includes('English and Chinese')));
 });
 test('generated Markdown local links resolve inside the repository', () => {
-  const files = ['README.md', 'README.zh-CN.md', ...entries.map(e => `prompts/${e.id}.md`)];
+  const files = [...locales.locales.map(l => readmeFile(l.id)), ...entries.map(e => `prompts/${e.id}.md`)];
   for (const file of files) {
     const body = fs.readFileSync(path.join(root, file), 'utf8');
     for (const match of body.matchAll(/\]\(([^)]+)\)/g)) {

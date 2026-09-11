@@ -9,19 +9,20 @@ more than hitting a fixed quota. The catalog remains the source of truth.
    unrelated edits. Compare both showcase and prompt/reply URLs with existing
    entries before drafting a new case.
 2. Review recent primary creator posts. Use other galleries only to discover
-   links. Prefer product imagery, typography, and usable one-step prompts where
-   the current catalog has gaps.
+   links. Prioritize explicit GPT Image 2.5 evidence and the composite engagement
+   score documented in CURATION.md. Source posts may use any language; do not
+   require bilingual posts.
 3. Open the primary post and any author reply containing the full instructions.
    Verify the model claim, actual prompt, reference requirements, and result.
    Record conflicting model labels in a candidate note until resolved.
 4. Add three to five worthwhile cases when available. Different briefs in one
    thread can be separate entries, but preserve their individual post URLs and
    metrics. Never multiply a thread's total engagement across its replies.
-5. Write bilingual data under `data/prompts/`. Label condensation as adaptation;
+5. Write all configured language versions under `data/prompts/`. Label condensation as adaptation;
    keep original wording, translations, source images, and independent outputs
    separate. Missing metrics remain null.
-6. Run `npm run build` and `npm run check`. Review the generated English and
-   Chinese pages, including image provenance and any unsupported workflow steps.
+6. Run `npm run build` and `npm run check`. Review all generated language galleries, especially
+   same-case language anchors and images outside collapsed prompts, including image provenance and any unsupported workflow steps.
 7. Prepare a small review package containing the diff, source URLs, validation,
    and publication-ready copy. A local passing check is not a public release.
 

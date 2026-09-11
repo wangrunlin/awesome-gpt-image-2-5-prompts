@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "id": "fresh-grocery-mobile-ui",
+  "title": {
+    "en": "Fresh grocery mobile app UI",
+    "zh": "生鲜电商手机界面"
+  },
+  "summary": {
+    "en": "Design a Chinese grocery home screen with product cards, nearby stores, and four navigation tabs.",
+    "zh": "设计一个中文生鲜食品应用主界面，包含产品卡片、附近门店和四个导航标签。"
+  },
+  "category": "design",
+  "tags": [
+    "design",
+    "generate"
+  ],
+  "mode": "generate",
+  "featured": true,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/jackzhang123vip/status/2098414576031481953",
+    "evidence": "The creator explicitly names GPT Image 2.5 in this post. This is source attribution, not an independent model test."
+  },
+  "prompt": {
+    "kind": "original",
+    "original_language": "zh",
+    "original_steps": [
+      "移动端UI设计，生鲜电商App首页界面，清新简洁风格，以白色为主色调，搭配绿色健康主题色。顶部包含状态栏、欢迎语“早上好，林小姐”及搜索框。页面中部设有横幅广告区，展示新鲜蔬果图片，并配有宣传文字。下方为“今日特惠”板块，横向排列番茄、上海青、香蕉等新鲜农产品，展示商品图片、名称及价格。底部为“附近商户”列表，包含店铺名称、距离和评分。界面最底部为标准导航栏，包含首页、分类、购物车、我的四个图标，UI布局规整，高保真设计，扁平化设计语言，专业界面交互设计，极简主义，清晰的排版，高分辨率，矢量图形风格。"
+    ],
+    "steps": [
+      {
+        "en": "Mobile UI design for a fresh-food e-commerce app homepage. Fresh and clean style; white is the dominant color, accented with a healthy green theme color. The top section includes the status bar, a welcome message (“早上好，林小姐”), and a search bar. The middle section features a banner ad area displaying images of fresh fruits and vegetables accompanied by promotional text. Below this is a section (“今日特惠”) displaying fresh produce—such as tomatoes, Shanghai bok choy, and bananas—arranged horizontally, showing product images, names, and prices. The bottom section is a list (“附近商户”) displaying store names, distances, and ratings. A standard navigation bar sits at the very bottom, featuring icons for “首页”、“分类”、“购物车”、“我的”. The UI layout is organized and high-fidelity, utilizing a flat design language and professional interaction design. Features include minimalism, clear typography, high resolution, and a vector-graphic style.",
+        "zh": "移动端UI设计，生鲜电商App首页界面，清新简洁风格，以白色为主色调，搭配绿色健康主题色。顶部包含状态栏、欢迎语“早上好，林小姐”及搜索框。页面中部设有横幅广告区，展示新鲜蔬果图片，并配有宣传文字。下方为“今日特惠”板块，横向排列番茄、上海青、香蕉等新鲜农产品，展示商品图片、名称及价格。底部为“附近商户”列表，包含店铺名称、距离和评分。界面最底部为标准导航栏，包含首页、分类、购物车、我的四个图标，UI布局规整，高保真设计，扁平化设计语言，专业界面交互设计，极简主义，清晰的排版，高分辨率，矢量图形风格。"
+      }
+    ],
+    "preserved_literals": [
+      "早上好，林小姐",
+      "今日特惠",
+      "附近商户",
+      "首页",
+      "分类",
+      "购物车",
+      "我的"
+    ]
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "A distinct illustrated test in the creator’s GPT Image 2.5 article. Shared article engagement is not assigned to individual tests.",
+      "zh": "作者在 GPT Image 2.5 文章中进行了单独的插图测试。共享文章的互动量不分配给单个测试。"
+    },
+    {
+      "en": "Any scores or observations in the source are the author’s reports, not independent tests by this repository.",
+      "zh": "源文件中的任何分数或观察结果均为作者的报告，并非本仓库的独立测试。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "jackzhang123vip",
+    "url": "https://x.com/jackzhang123vip/status/2098414576031481953",
+    "prompt_url": "https://x.com/jackzhang123vip/status/2098414576031481953",
+    "post_language": "zh",
+    "checked_at": "2026-09-11T18:28:44.380Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "section": "Fresh grocery mobile app UI"
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HR8KyZta8AAqI3b?format=jpg&name=large",
+      "kind": "source-result",
+      "credit": "@jackzhang123vip",
+      "source_url": "https://x.com/jackzhang123vip/status/2098414576031481953"
+    }
+  ],
+  "engagement": {
+    "likes": null,
+    "bookmarks": null,
+    "reposts": null,
+    "replies": null,
+    "views": null,
+    "observed_at": "2026-09-11T18:28:44.380Z",
+    "source_url": "https://x.com/jackzhang123vip/status/2098414576031481953",
+    "method": "Individual section metrics are unavailable; shared article totals are not assigned to this test."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Third-party prompts and media retain their creators’ rights; external previews are linked, not relicensed."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "生鮮食品行動應用使用者介面",
+      "summary": "設計一個中文生鮮食品應用主介面，包含產品卡片、附近門市和四個導航標籤。",
+      "steps": [
+        "行動端UI設計，生鮮電商App首頁介面，清新簡潔風格，以白色為主色調，搭配綠色健康主題色。上方包含狀態列、歡迎語“早上好，林小姐”及搜尋框。頁面中部設有橫幅廣告區，展示新鮮蔬果圖片，並附有宣傳文字。下方為“今日特惠”板塊，橫向排列番茄、上海青、香蕉等新鮮農產品，展示商品圖片、名稱及價格。底部為“附近商户”列表，包含店家名稱、距離和評分。介面最底部為標準導航欄，包含“首页”、“分类”、“购物车”、“我的”四個圖標，UI佈局規整，高保真設計，扁平化設計語言，專業界面交互設計，極簡主義，清晰的排版，高分辨率，矢量圖形風格。"
+      ],
+      "inputs": [],
+      "notes": [
+        "作者在 GPT Image 2.5 文章中進行了單獨的插圖測試。分享文章的互動量不分配給單一測試。",
+        "來源文件中的任何分數或觀察結果均為作者的報告，並非本倉庫的獨立測試。"
+      ],
+      "source_digest": "b75c7c679b87b05bf66dab8f8bf55bbff96b3b006feb16b7e99272a397004a01",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "生鮮食品モバイルアプリのUI",
+      "summary": "商品カード、近隣店舗、4つのナビゲーションタブを備えた中国系食料品店のホーム画面をデザインしてください。",
+      "steps": [
+        "モバイルUIデザイン：生鮮食品ECアプリのホームページインターフェース。クリーンでシンプルなスタイルで、メインカラーは白、健康的なテーマカラーは緑です。上部にはステータスバー、ウェルカムメッセージ“早上好，林小姐”、検索ボックスがあります。中央にはバナー広告エリアがあり、新鮮な果物や野菜の画像とプロモーションテキストが表示されます。下部には、トマト、チンゲン菜、バナナなどの生鮮食品が横一列に並べられた“今日特惠”セクションがあり、商品画像、商品名、価格が表示されます。一番下には、店舗名、距離、評価を含む“附近商户”リストがあります。最下部には、“首页”、“分类”、“购物车”、“我的”のアイコンを備えた標準的なナビゲーションバーがあります。UIレイアウトは整然としており、高精細なデザイン、フラットデザイン、プロフェッショナルなインターフェースインタラクションデザイン、ミニマリズム、明瞭なタイポグラフィ、高解像度、ベクターグラフィックスタイルが特徴です。"
+      ],
+      "inputs": [],
+      "notes": [
+        "作成者の記事GPT Image 2.5に掲載されている、図解付きのテストです。記事へのエンゲージメントは、個々のテストには割り当てられていません。",
+        "ソースに記載されているスコアや観察結果は、このリポジトリによる独立したテストではなく、著者の報告です。"
+      ],
+      "source_digest": "b75c7c679b87b05bf66dab8f8bf55bbff96b3b006feb16b7e99272a397004a01",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "신선식품 모바일 앱 UI",
+      "summary": "제품 카드, 주변 매장, 4개의 탐색 탭이 있는 중국 식료품점 홈 화면을 디자인하세요.",
+      "steps": [
+        "모바일 UI 디자인: 신선식품 전자상거래 앱 홈페이지 인터페이스. 깔끔하고 심플한 스타일로, 흰색을 메인 색상으로 하고 녹색을 건강 테마 색상으로 사용했습니다. 상단에는 상태 표시줄, 환영 메시지(“早上好，林小姐”), 검색창이 있습니다. 페이지 중앙에는 신선한 과일과 채소 이미지와 홍보 문구가 담긴 배너 광고 영역이 있습니다. 그 아래에는 토마토, 청경채, 바나나 등의 신선 농산물이 가로로 배열되어 있으며, 제품 이미지, 이름, 가격이 표시됩니다(“今日特惠”). 맨 아래에는 매장 이름, 거리, 평점이 포함된 목록(“附近商户”)이 있습니다. 맨 아래에는 “首页”、“分类”、“购物车”、“我的” 아이콘이 있는 표준 내비게이션 바가 있습니다. 깔끔한 UI 레이아웃은 고품질 디자인, 플랫 디자인 언어, 전문적인 인터페이스 인터랙션 디자인, 미니멀리즘, 명확한 타이포그래피, 고해상도, 벡터 그래픽 스타일을 특징으로 합니다."
+      ],
+      "inputs": [],
+      "notes": [
+        "제작자의 GPT Image 2.5 문서에 별도의 그림 테스트가 포함되어 있습니다. 문서 공유 참여도는 개별 테스트에 할당되지 않습니다.",
+        "원본의 점수 또는 관찰 내용은 작성자의 보고서이며, 본 저장소에서 수행한 독립적인 테스트 결과가 아닙니다."
+      ],
+      "source_digest": "b75c7c679b87b05bf66dab8f8bf55bbff96b3b006feb16b7e99272a397004a01",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Interface utilisateur d'une application mobile de courses fraîches",
+      "summary": "Concevoir un écran d'accueil pour une épicerie chinoise avec des fiches produits, les magasins à proximité et quatre onglets de navigation.",
+      "steps": [
+        "Conception d'interface utilisateur mobile : Interface de la page d'accueil d'une application e-commerce de produits frais, style épuré et minimaliste, avec le blanc comme couleur principale et le vert comme couleur thématique. La partie supérieure comprend une barre d'état, le message de bienvenue (“早上好，林小姐”) et un champ de recherche. Au centre, une bannière publicitaire présente des images de fruits et légumes frais accompagnées d'un texte promotionnel. En dessous, la section (“今日特惠”) affiche horizontalement des produits frais tels que des tomates, du bok choy et des bananes, avec leurs images, noms et prix. En bas, la liste (“附近商户”) inclut les noms des magasins, les distances et les avis. Tout en bas, une barre de navigation standard propose les icônes “首页”、“分类”、“购物车”、“我的”. L'interface est soignée et se caractérise par un design haute fidélité, un style plat, une interaction professionnelle, le minimalisme, une typographie claire, une haute résolution et un style graphique vectoriel."
+      ],
+      "inputs": [],
+      "notes": [
+        "Un test illustré distinct est présenté dans l'article GPT Image 2.5 du créateur. L'engagement lié à l'article partagé n'est pas attribué aux tests individuels.",
+        "Les scores et observations figurant dans la source sont des rapports de l'auteur et non des tests indépendants réalisés par ce dépôt."
+      ],
+      "source_digest": "b75c7c679b87b05bf66dab8f8bf55bbff96b3b006feb16b7e99272a397004a01",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Benutzeroberfläche für eine mobile App für frische Lebensmittel",
+      "summary": "Gestalten Sie einen Startbildschirm für einen chinesischen Lebensmittelladen mit Produktkarten, Filialen in der Nähe und vier Navigationsleisten.",
+      "steps": [
+        "Mobile UI-Design: Startseite einer E-Commerce-App für frische Lebensmittel. Das Design ist klar und schlicht, mit Weiß als Hauptfarbe und Grün als Farbthema für ein gesundes Aussehen. Oben befinden sich die Statusleiste, die Willkommensnachricht “早上好，林小姐” und das Suchfeld. In der Mitte der Seite befindet sich ein Banner mit Bildern von frischem Obst und Gemüse sowie Werbetexten. Darunter folgt der Bereich “今日特惠” mit horizontal angeordneten Produkten wie Tomaten, Pak Choi und Bananen, inklusive Produktbildern, Namen und Preisen. Ganz unten befindet sich die Liste “附近商户” mit Händlernamen, Entfernungen und Bewertungen. Die Standard-Navigationsleiste am unteren Rand bietet Symbole für “首页”、“分类”、“购物车”、“我的”. Das UI-Layout ist übersichtlich und zeichnet sich durch hohe Detailgenauigkeit, Flat Design, professionelles Interface-Design, Minimalismus, klare Typografie, hohe Auflösung und Vektorgrafiken aus."
+      ],
+      "inputs": [],
+      "notes": [
+        "Ein separater illustrierter Test im Artikel GPT Image 2.5 des Erstellers. Die Interaktionen im Artikel werden nicht einzelnen Tests zugeordnet.",
+        "Alle Ergebnisse und Beobachtungen in der Quelle sind Berichte des Autors und keine unabhängigen Tests dieses Repositorys."
+      ],
+      "source_digest": "b75c7c679b87b05bf66dab8f8bf55bbff96b3b006feb16b7e99272a397004a01",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Interfaz de usuario de una aplicación móvil de supermercado",
+      "summary": "Diseña una pantalla de inicio de supermercado chino con tarjetas de productos, tiendas cercanas y cuatro pestañas de navegación.",
+      "steps": [
+        "Diseño de interfaz de usuario móvil: Interfaz de la página de inicio de la aplicación de comercio electrónico de alimentos frescos, estilo limpio y sencillo, con el blanco como color principal y el verde como color temático de salud. La parte superior incluye una barra de estado, el mensaje de bienvenida “早上好，林小姐” y un cuadro de búsqueda. La página presenta un banner publicitario en el centro, con imágenes de frutas y verduras frescas y texto promocional. Debajo se encuentra la sección “今日特惠”, dispuesta horizontalmente con productos frescos como tomates, bok choy y plátanos, mostrando imágenes, nombres y precios. En la parte inferior se encuentra la lista “附近商户”, que incluye nombres de tiendas, distancias y valoraciones. En la parte inferior del todo hay una barra de navegación estándar con iconos para “首页”、“分类”、“购物车”、“我的”. El diseño de la interfaz de usuario es impecable, con un diseño de alta fidelidad, un lenguaje de diseño plano, un diseño de interacción profesional, minimalismo, tipografía clara, alta resolución y estilo de gráficos vectoriales."
+      ],
+      "inputs": [],
+      "notes": [
+        "Prueba ilustrada específica en el artículo GPT Image 2.5 del creador. La participación en el artículo compartido no se asigna a pruebas individuales.",
+        "Las puntuaciones u observaciones en la fuente son informes del autor, no pruebas independientes realizadas por este repositorio."
+      ],
+      "source_digest": "b75c7c679b87b05bf66dab8f8bf55bbff96b3b006feb16b7e99272a397004a01",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Interface de usuário de aplicativo móvel para supermercado de produtos frescos",
+      "summary": "Crie uma tela inicial para um supermercado chinês com cartões de produtos, lojas próximas e quatro abas de navegação.",
+      "steps": [
+        "Design de interface de usuário para dispositivos móveis: Interface da página inicial de um aplicativo de e-commerce de alimentos frescos, com estilo limpo e simples, tendo o branco como cor principal e o verde como cor do tema saudável. A parte superior inclui uma barra de status, a mensagem de boas-vindas “早上好，林小姐” e uma caixa de pesquisa. A página apresenta uma área de banner publicitário no centro, exibindo imagens de frutas e vegetais frescos com texto promocional. Abaixo, encontra-se a seção “今日特惠”, organizada horizontalmente com produtos frescos como tomates, acelga chinesa e bananas, exibindo imagens, nomes e preços dos produtos. Na parte inferior, está a lista “附近商户”, incluindo nomes de lojas, distâncias e avaliações. Na parte inferior, há uma barra de navegação padrão com ícones para “首页”、“分类”、“购物车”、“我的”. O layout da interface do usuário é organizado, apresentando design de alta fidelidade, linguagem de design plano, design de interação de interface profissional, minimalismo, tipografia clara, alta resolução e estilo de gráficos vetoriais."
+      ],
+      "inputs": [],
+      "notes": [
+        "Um teste ilustrado distinto no artigo GPT Image 2.5 do criador. O engajamento compartilhado do artigo não é atribuído a testes individuais.",
+        "Quaisquer pontuações ou observações na fonte são relatórios do autor, não testes independentes deste repositório."
+      ],
+      "source_digest": "b75c7c679b87b05bf66dab8f8bf55bbff96b3b006feb16b7e99272a397004a01",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
+  }
+}

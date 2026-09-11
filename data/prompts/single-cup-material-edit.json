@@ -1,0 +1,216 @@
+{
+  "schema_version": 1,
+  "id": "single-cup-material-edit",
+  "title": {
+    "en": "Single-cup color and finish edit",
+    "zh": "杯子颜色与表面材质局部编辑"
+  },
+  "summary": {
+    "en": "Change a red glossy cup to matte white while retaining the surrounding portrait and room.",
+    "zh": "将一个红色亮面杯子改为哑光白色，同时保留周围的人物和房间。"
+  },
+  "category": "design",
+  "tags": [
+    "design",
+    "edit"
+  ],
+  "mode": "edit",
+  "featured": true,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/jackzhang123vip/status/2098414576031481953",
+    "evidence": "The creator explicitly names GPT Image 2.5 in this post. This is source attribution, not an independent model test."
+  },
+  "prompt": {
+    "kind": "original",
+    "original_language": "zh",
+    "original_steps": [
+      "只把桌面最右侧的亮面红色陶瓷杯改成哑光白色陶瓷杯。\n保持杯子的尺寸、形状、杯柄方向、位置、透视和接触阴影不变。\n保持人物身份、面部、表情、头发、身体、毛衣、双手与手指、笔记本、\n灰色电脑、植物、桌面纹理、窗户、墙面装饰、书架、光线、非杯子区域\n的阴影、镜头角度、裁切和景深不变。不要改动杯子以外的任何内容。"
+    ],
+    "steps": [
+      {
+        "en": "Change only the glossy red ceramic cup on the far right of the desktop to a matte white ceramic cup.\n\nKeep the cup's size, shape, handle direction, position, perspective, and contact shadow unchanged.\n\nKeep the character's identity, face, expression, hair, body, sweater, hands and fingers, notebook, gray computer, plants, desktop texture, window, wall decorations, bookshelf, lighting, shadows in non-cup areas, camera angle, cropping, and depth of field unchanged. Do not change anything other than the cup.",
+        "zh": "只把桌面最右侧的亮面红色陶瓷杯改成哑光白色陶瓷杯。\n保持杯子的尺寸、形状、杯柄方向、位置、透视和接触阴影不变。\n保持人物身份、面部、表情、头发、身体、毛衣、双手与手指、笔记本、\n灰色电脑、植物、桌面纹理、窗户、墙面装饰、书架、光线、非杯子区域\n的阴影、镜头角度、裁切和景深不变。不要改动杯子以外的任何内容。"
+      }
+    ]
+  },
+  "inputs": [
+    {
+      "en": "The scene photograph containing the cup, person, and desk objects.",
+      "zh": "包含杯子、人物和桌面物品的场景照片。"
+    }
+  ],
+  "notes": [
+    {
+      "en": "A distinct illustrated test in the creator’s GPT Image 2.5 article. Shared article engagement is not assigned to individual tests.",
+      "zh": "作者在 GPT Image 2.5 文章中进行了单独的插图测试。共享文章的互动量不分配给单个测试。"
+    },
+    {
+      "en": "Any scores or observations in the source are the author’s reports, not independent tests by this repository.",
+      "zh": "源文件中的任何分数或观察结果均为作者的报告，并非本仓库的独立测试。"
+    },
+    {
+      "en": "The author reports a successful visible cup edit, with slight changes elsewhere in the image. Visual preservation is not pixel-identical preservation.",
+      "zh": "作者报告称，杯子的视觉效果已得到显著提升，图像其他部分也略有改动。视觉效果的保留并非像素级的完全保留。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "jackzhang123vip",
+    "url": "https://x.com/jackzhang123vip/status/2098414576031481953",
+    "prompt_url": "https://x.com/jackzhang123vip/status/2098414576031481953",
+    "post_language": "zh",
+    "checked_at": "2026-09-11T18:28:44.380Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "section": "Single-cup color and finish edit"
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HR8OAYLbcAAIKTN?format=jpg&name=medium",
+      "kind": "source-result",
+      "credit": "@jackzhang123vip",
+      "source_url": "https://x.com/jackzhang123vip/status/2098414576031481953"
+    }
+  ],
+  "engagement": {
+    "likes": null,
+    "bookmarks": null,
+    "reposts": null,
+    "replies": null,
+    "views": null,
+    "observed_at": "2026-09-11T18:28:44.380Z",
+    "source_url": "https://x.com/jackzhang123vip/status/2098414576031481953",
+    "method": "Individual section metrics are unavailable; shared article totals are not assigned to this test."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Third-party prompts and media retain their creators’ rights; external previews are linked, not relicensed."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "單一杯子的顏色和表面處理調整",
+      "summary": "將一個紅色亮面杯子改為霧面白色，同時保留周圍的人物和房間。",
+      "steps": [
+        "只把桌面最右側的亮面紅色陶瓷杯改成霧面白色陶瓷杯。\n保持杯子的尺寸、形狀、杯柄方向、位置、透視和接觸陰影不變。\n保持人物、臉部、表情、頭髮、身體、毛衣、雙手與手指、筆記本、\n灰色電腦、植物、桌面紋理、窗戶、牆面裝飾、書架、光線、非杯子區域\n的陰影、鏡頭角度、裁切和景深不變。不要改動杯子以外的任何內容。"
+      ],
+      "inputs": [
+        "包含杯子、人物和桌面物品的場景照片。"
+      ],
+      "notes": [
+        "作者在 GPT Image 2.5 文章中進行了單獨的插圖測試。分享文章的互動量不分配給單一測試。",
+        "來源文件中的任何分數或觀察結果均為作者的報告，並非本倉庫的獨立測試。",
+        "作者報告稱，杯子的視覺效果已顯著提升，影像其他部分也略有改變。視覺效果的保留並非像素級的完全保留。"
+      ],
+      "source_digest": "166b8676719b47704baf56a304b503cd2f5310792fbada1e8403449646f691b2",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "カップ1個の色と仕上げの編集",
+      "summary": "周囲の人物と部屋はそのままに、赤い光沢のあるカップをマットな白に変更する。",
+      "steps": [
+        "テーブルの右端にある光沢のある赤いセラミックマグカップのみを、マットな白いセラミックマグカップに変更してください。\n\nマグカップのサイズ、形状、取っ手の方向、位置、遠近感、コンタクトシャドウは変更しないでください。\n\n人物の身元、顔、表情、髪型、体型、セーター、手と指、ノート、グレーのコンピューター、植物、デスクトップの質感、窓、壁の装飾、本棚、照明、マグカップ以外の部分の影、カメラアングル、トリミング、被写界深度は変更しないでください。マグカップ以外のものは一切変更しないでください。"
+      ],
+      "inputs": [
+        "カップ、人物、机上の物が写っているシーン写真。"
+      ],
+      "notes": [
+        "作成者の記事GPT Image 2.5に掲載されている、図解付きのテストです。記事へのエンゲージメントは、個々のテストには割り当てられていません。",
+        "ソースに記載されているスコアや観察結果は、このリポジトリによる独立したテストではなく、著者の報告です。",
+        "著者は、カップの視覚的な編集は成功したが、画像内の他の部分にはわずかな変更が加えられたと報告している。視覚的な保存は、ピクセル単位での完全な保存を意味するものではない。"
+      ],
+      "source_digest": "166b8676719b47704baf56a304b503cd2f5310792fbada1e8403449646f691b2",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "컵 색상 및 마감 편집",
+      "summary": "주변 인물과 방은 그대로 유지하면서 빨간색 유광 컵을 무광 흰색으로 변경합니다.",
+      "steps": [
+        "테이블 맨 오른쪽에 있는 유광 빨간색 세라믹 머그컵만 무광 흰색 세라믹 머그컵으로 변경하십시오.\n\n머그컵의 크기, 모양, 손잡이 방향, 위치, 원근감, 그림자는 변경하지 마십시오.\n\n인물의 신원, 얼굴, 표정, 머리카락, 몸, 스웨터, 손과 손가락, 노트북, 회색 컴퓨터, 식물, 바탕 화면 질감, 창문, 벽 장식, 책장, 조명, 머그컵 이외의 부분의 그림자, 카메라 각도, 자르기, 심도 등을 변경하지 마십시오. 머그컵 외에는 아무것도 수정하지 마십시오."
+      ],
+      "inputs": [
+        "컵, 인물, 책상 위의 물건들이 포함된 장면 사진."
+      ],
+      "notes": [
+        "제작자의 GPT Image 2.5 문서에 별도의 그림 테스트가 포함되어 있습니다. 문서 공유 참여도는 개별 테스트에 할당되지 않습니다.",
+        "원본의 점수 또는 관찰 내용은 작성자의 보고서이며, 본 저장소에서 수행한 독립적인 테스트 결과가 아닙니다.",
+        "작성자는 컵의 가시적인 편집이 성공적으로 이루어졌으며 이미지의 다른 부분에 약간의 변화가 있다고 보고했습니다. 시각적 보존은 픽셀 단위까지 동일한 보존을 의미하지는 않습니다."
+      ],
+      "source_digest": "166b8676719b47704baf56a304b503cd2f5310792fbada1e8403449646f691b2",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Retouche couleur et finition d'une seule tasse.",
+      "summary": "Remplacement d'une tasse rouge brillante par une tasse blanche mate, tout en conservant le portrait et la pièce environnants.",
+      "steps": [
+        "Remplacez uniquement la tasse en céramique rouge brillante située à l'extrême droite de la table par une tasse en céramique blanche mate.\n\nConservez la taille, la forme, l'orientation de l'anse, la position, la perspective et l'ombre portée de la tasse.\n\nNe modifiez rien d'autre que la tasse : l'identité, le visage, l'expression, les cheveux, le corps, le pull, les mains et les doigts, le carnet, l'ordinateur gris, les plantes, la texture du bureau, la fenêtre, la décoration murale, l'étagère, l'éclairage, les ombres (sauf sur la tasse), l'angle de prise de vue, le cadrage et la profondeur de champ."
+      ],
+      "inputs": [
+        "Photographie de la scène contenant la tasse, la personne et les objets sur le bureau."
+      ],
+      "notes": [
+        "Un test illustré distinct est présenté dans l'article GPT Image 2.5 du créateur. L'engagement lié à l'article partagé n'est pas attribué aux tests individuels.",
+        "Les scores et observations figurant dans la source sont des rapports de l'auteur et non des tests indépendants réalisés par ce dépôt.",
+        "L'auteur indique que la retouche de la tasse est réussie, avec de légères modifications ailleurs dans l'image. La préservation visuelle n'implique pas une préservation à l'identique au pixel près."
+      ],
+      "source_digest": "166b8676719b47704baf56a304b503cd2f5310792fbada1e8403449646f691b2",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Farb- und Oberflächenbearbeitung einer einzelnen Tasse",
+      "summary": "Eine rote, glänzende Tasse in eine matte, weiße Tasse umwandeln, wobei das Porträt und der Raum erhalten bleiben.",
+      "steps": [
+        "Ersetzen Sie lediglich die glänzende rote Keramiktasse ganz rechts auf dem Tisch durch eine matte weiße Keramiktasse.\n\nDie Größe, Form, Henkelrichtung, Position, Perspektive und der Schattenwurf der Tasse dürfen nicht verändert werden.\n\nAuch die Identität der Person, ihr Gesicht, ihr Ausdruck, ihre Haare, ihr Körper, ihr Pullover, ihre Hände und Finger, ihr Notizbuch, der graue Computerbildschirm, die Pflanzen, die Textur des Schreibtisches, das Fenster, die Wanddekoration, das Bücherregal, die Beleuchtung, die Schatten außerhalb der Tasse, der Kamerawinkel, der Bildausschnitt und die Schärfentiefe dürfen nicht verändert werden. Es darf nichts außer der Tasse verändert werden."
+      ],
+      "inputs": [
+        "Das Szenenfoto mit Tasse, Person und Schreibtischgegenständen."
+      ],
+      "notes": [
+        "Ein separater illustrierter Test im Artikel GPT Image 2.5 des Erstellers. Die Interaktionen im Artikel werden nicht einzelnen Tests zugeordnet.",
+        "Alle Ergebnisse und Beobachtungen in der Quelle sind Berichte des Autors und keine unabhängigen Tests dieses Repositorys.",
+        "Der Autor berichtet von einer erfolgreichen Bearbeitung der sichtbaren Tasse mit leichten Änderungen an anderen Stellen im Bild. Visuelle Erhaltung bedeutet nicht pixelgenaue Erhaltung."
+      ],
+      "source_digest": "166b8676719b47704baf56a304b503cd2f5310792fbada1e8403449646f691b2",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Edición de color y acabado de una sola taza",
+      "summary": "Cambiar una taza roja brillante a blanca mate, conservando el retrato y la habitación circundantes.",
+      "steps": [
+        "Cambie únicamente la taza de cerámica roja brillante del extremo derecho de la mesa por una taza de cerámica blanca mate.\n\nMantenga el tamaño, la forma, la dirección del asa, la posición, la perspectiva y la sombra de contacto de la taza sin cambios.\n\nMantén intactos la identidad, el rostro, la expresión, el cabello, el cuerpo, el suéter, las manos y los dedos, el cuaderno, la computadora gris, las plantas, la textura del escritorio, la ventana, la decoración de la pared, la estantería, la iluminación, las sombras en las áreas que no sean la taza, el ángulo de la cámara, el encuadre y la profundidad de campo de la persona. No modifiques nada más que la taza."
+      ],
+      "inputs": [
+        "Fotografía de la escena que contiene la taza, la persona y los objetos del escritorio."
+      ],
+      "notes": [
+        "Prueba ilustrada específica en el artículo GPT Image 2.5 del creador. La participación en el artículo compartido no se asigna a pruebas individuales.",
+        "Las puntuaciones u observaciones en la fuente son informes del autor, no pruebas independientes realizadas por este repositorio.",
+        "El autor informa de una edición exitosa de la taza, con ligeros cambios en otras partes de la imagen. La preservación visual no es idéntica a la preservación píxel a píxel."
+      ],
+      "source_digest": "166b8676719b47704baf56a304b503cd2f5310792fbada1e8403449646f691b2",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Edição de cor e acabamento de uma única xícara.",
+      "summary": "Alterar uma xícara vermelha brilhante para branca fosca, mantendo o retrato e o ambiente ao redor.",
+      "steps": [
+        "Altere apenas a caneca de cerâmica vermelha brilhante, à extrema direita da mesa, para uma caneca de cerâmica branca fosca.\n\nMantenha o tamanho, a forma, a direção da alça, a posição, a perspectiva e a sombra de contato da caneca inalterados.\n\nMantenha inalterados a identidade da pessoa, o rosto, a expressão, o cabelo, o corpo, o suéter, as mãos e os dedos, o caderno, o computador cinza, as plantas, a textura da área de trabalho, a janela, a decoração da parede, a estante de livros, a iluminação, as sombras em áreas que não sejam a caneca, o ângulo da câmera, o enquadramento e a profundidade de campo. Não modifique nada além da caneca."
+      ],
+      "inputs": [
+        "A fotografia da cena contendo a xícara, a pessoa e os objetos da mesa."
+      ],
+      "notes": [
+        "Um teste ilustrado distinto no artigo GPT Image 2.5 do criador. O engajamento compartilhado do artigo não é atribuído a testes individuais.",
+        "Quaisquer pontuações ou observações na fonte são relatórios do autor, não testes independentes deste repositório.",
+        "O autor relata uma edição visual bem-sucedida da xícara, com pequenas alterações em outras partes da imagem. A preservação visual não é uma preservação idêntica em nível de pixel."
+      ],
+      "source_digest": "166b8676719b47704baf56a304b503cd2f5310792fbada1e8403449646f691b2",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
+  }
+}

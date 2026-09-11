@@ -10,7 +10,7 @@ Send the original post, creator, complete prompt or clearly labeled adaptation,
 reference requirements, and a result example. A prompt in the author's reply
 needs its own URL as well as the showcase post's URL.
 
-We welcome useful low-engagement examples. A large like count cannot substitute
+We prioritize source-backed GPT Image 2.5 cases with strong observed interest, in any source language. Low-engagement leads may remain in the local candidate queue. A large like count cannot substitute
 for an actual prompt. Pure announcements and showcases without a reusable
 workflow belong in research, not the published catalog.
 
@@ -20,7 +20,7 @@ workflow belong in research, not the published catalog.
 2. Add one stable, lowercase kebab-case file in `data/prompts/`. Start with a
    similar existing entry and follow [the data contract](docs/DATA_FORMAT.md).
 3. Keep original wording, translation, and adaptation labels accurate. Provide
-   complete English and simplified Chinese titles, summaries, steps, and notes.
+   complete titles, summaries, steps, and notes for every language configured in data/locales.json. Preserve the original prompt and record post/prompt languages separately.
 4. Include primary source links, model evidence, reference requirements, source
    result previews, and a dated public metric snapshot where available.
 5. Run `npm run build`, then `npm run check`.

@@ -1,0 +1,185 @@
+{
+  "schema_version": 1,
+  "id": "beach-w-sit-pose",
+  "title": {
+    "en": "Beach portrait with a W-sitting pose",
+    "zh": "海滩鸭子坐姿人像"
+  },
+  "summary": {
+    "en": "Explore a short Chinese pose instruction combined with emoji scene cues.",
+    "zh": "探索结合表情符号场景提示的简短中文姿势说明。"
+  },
+  "category": "photography",
+  "tags": [
+    "photography",
+    "generate"
+  ],
+  "mode": "generate",
+  "featured": true,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/DeepBlueX0/status/2097479273514934642",
+    "evidence": "The creator explicitly names GPT Image 2.5 in this post. This is source attribution, not an independent model test."
+  },
+  "prompt": {
+    "kind": "original",
+    "original_language": "zh",
+    "original_steps": [
+      "鸭子坐（W-sit）🏝️👙😜🦵🫰🍋🥤"
+    ],
+    "steps": [
+      {
+        "en": "W-sitting pose（W-sit）🏝️👙😜🦵🫰🍋🥤",
+        "zh": "鸭子坐（W-sit）🏝️👙😜🦵🫰🍋🥤"
+      }
+    ]
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "The original is a short Chinese prompt with emoji cues. The main post supplies no additional detailed prompt and specifies no required reference image.",
+      "zh": "原文是包含表情符号场景提示的简短中文提示词。主帖没有提供更详细的提示词，也没有指定必需的参考图片。"
+    },
+    {
+      "en": "This preview and its engagement belong to the September 9 GPT Image 2.5 post, not the quoted September 2 GPT Image 2 example.",
+      "zh": "此预览及其互动属于9月9日的GPT Image 2.5帖子，而非引用的9月2日GPT Image 2示例。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "DeepBlueX0",
+    "url": "https://x.com/DeepBlueX0/status/2097479273514934642",
+    "prompt_url": "https://x.com/DeepBlueX0/status/2097479273514934642",
+    "post_language": "zh",
+    "checked_at": "2026-09-11T18:16:54.116Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRu-RnEbgAAK_Tk?format=jpg&name=medium",
+      "kind": "source-result",
+      "credit": "@DeepBlueX0",
+      "source_url": "https://x.com/DeepBlueX0/status/2097479273514934642"
+    }
+  ],
+  "engagement": {
+    "likes": 156,
+    "bookmarks": 112,
+    "reposts": 6,
+    "replies": 20,
+    "views": 22046,
+    "observed_at": "2026-09-11T18:16:54.116Z",
+    "source_url": "https://x.com/DeepBlueX0/status/2097479273514934642",
+    "method": "X primary post UI; quoted-post metrics excluded"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Third-party prompts and media retain their creators’ rights; external previews are linked, not relicensed."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "海灘人像，W形坐姿",
+      "summary": "探索結合表情符號場景提示的簡短中文姿勢說明。",
+      "steps": [
+        "鴨子坐（W-sit）🏝️👙😜🦵🫰🍋🥤"
+      ],
+      "inputs": [],
+      "notes": [
+        "原文是包含表情符號場景提示的簡短中文提示詞。主帖沒有提供更詳細的提示詞，也沒有指定必需的參考圖片。",
+        "此預覽及其互動屬於9月9日的GPT Image 2.5帖子，而非引用的9月2日GPT Image 2範例。"
+      ],
+      "source_digest": "0a60da6bd3b17bb8e1da707ae7a4ea9bc0956967617372fa40c38405131fd1d5",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "W字座りのビーチポートレート",
+      "summary": "絵文字のシーンキューと組み合わせた短い中国語のポーズ指示を検討してください。",
+      "steps": [
+        "アヒル座り（W座り）🏝️👙😜🦵🫰🍋🥤"
+      ],
+      "inputs": [],
+      "notes": [
+        "原文は、絵文字で場面を示す短い中国語のプロンプトです。メイン投稿には、さらに詳しいプロンプトは掲載されておらず、必須の参照画像も指定されていません。",
+        "このプレビューとそのエンゲージメントは、9月9日のGPT Image 2.5投稿のものであり、引用されている9月2日のGPT画像2の例とは異なります。"
+      ],
+      "source_digest": "0a60da6bd3b17bb8e1da707ae7a4ea9bc0956967617372fa40c38405131fd1d5",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "W자 자세로 앉은 해변 인물 사진",
+      "summary": "이모지 장면 단서와 결합된 간단한 중국어 포즈 지침을 살펴보세요.",
+      "steps": [
+        "오리 앉기 (W-sit) 🏝️👙😜🦵🫰🍋🥤"
+      ],
+      "inputs": [],
+      "notes": [
+        "원문은 이모지로 장면을 나타내는 짧은 중국어 프롬프트입니다. 본문에는 더 자세한 프롬프트가 없으며, 필수 참고 이미지도 지정되어 있지 않습니다.",
+        "이 미리보기 및 관련 내용은 9월 9일 GPT Image 2.5 게시물에 속하며, 9월 2일 인용된 GPT 이미지 2 예시와는 관련이 없습니다."
+      ],
+      "source_digest": "0a60da6bd3b17bb8e1da707ae7a4ea9bc0956967617372fa40c38405131fd1d5",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Portrait de plage en position assise en W",
+      "summary": "Explorer une courte instruction de pose en chinois combinée à des indications de scène par emoji.",
+      "steps": [
+        "Canard assis (position en W) 🏝️👙😜🦵🫰🍋🥤"
+      ],
+      "inputs": [],
+      "notes": [
+        "Le texte original est un court prompt en chinois avec des indications de scène sous forme d’émojis. La publication principale ne fournit pas de prompt plus détaillé et ne précise aucune image de référence obligatoire.",
+        "Cet aperçu et son interaction appartiennent au message GPT Image 2.5 du 9 septembre, et non à l'exemple cité du 2 septembre (Image 2 de GPT)."
+      ],
+      "source_digest": "0a60da6bd3b17bb8e1da707ae7a4ea9bc0956967617372fa40c38405131fd1d5",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Strandporträt in W-förmiger Sitzhaltung",
+      "summary": "Entdecken Sie eine kurze chinesische Posenanleitung mit Emoji-Szenenhinweisen.",
+      "steps": [
+        "Ente sitzend (W-sitzen) 🏝️👙😜🦵🫰🍋🥤"
+      ],
+      "inputs": [],
+      "notes": [
+        "Das Original ist ein kurzer chinesischer Prompt mit Emojis als Szenenhinweisen. Der Hauptbeitrag enthält keinen ausführlicheren Prompt und nennt kein erforderliches Referenzbild.",
+        "Diese Vorschau und die dazugehörige Interaktion beziehen sich auf den Beitrag GPT Image 2.5 vom 9. September und nicht auf das zitierte Beispielbild GPT vom 2. September."
+      ],
+      "source_digest": "0a60da6bd3b17bb8e1da707ae7a4ea9bc0956967617372fa40c38405131fd1d5",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Retrato de playa con postura en W",
+      "summary": "Explora una breve instrucción de pose china combinada con emojis.",
+      "steps": [
+        "Pato sentado (W-sit) 🏝️👙😜🦵🫰🍋🥤"
+      ],
+      "inputs": [],
+      "notes": [
+        "El original es un breve prompt en chino con emojis que indican la escena. La publicación principal no ofrece un prompt más detallado ni especifica una imagen de referencia obligatoria.",
+        "Esta vista previa y su interacción pertenecen a la publicación GPT Image 2.5 del 9 de septiembre, no al ejemplo de la Imagen 2 de GPT del 2 de septiembre citado."
+      ],
+      "source_digest": "0a60da6bd3b17bb8e1da707ae7a4ea9bc0956967617372fa40c38405131fd1d5",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Retrato de praia com pose sentada em forma de W",
+      "summary": "Explore uma breve instrução de pose em chinês combinada com dicas de cena em emoji.",
+      "steps": [
+        "Pato Sentado (W-sit) 🏝️👙😜🦵🫰🍋🥤"
+      ],
+      "inputs": [],
+      "notes": [
+        "O original é um prompt curto em chinês com emojis que indicam a cena. A postagem principal não fornece um prompt mais detalhado nem especifica uma imagem de referência obrigatória.",
+        "Esta prévia e seu engajamento pertencem à postagem GPT Image 2.5 de 9 de setembro, não ao exemplo citado da Imagem 2 do GPT de 2 de setembro."
+      ],
+      "source_digest": "0a60da6bd3b17bb8e1da707ae7a4ea9bc0956967617372fa40c38405131fd1d5",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
+  }
+}

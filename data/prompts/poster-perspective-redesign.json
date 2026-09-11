@@ -31,7 +31,8 @@
         "zh": "以原海报为参考，保留整体构图和视觉世界观，从男性视角重新演绎，并将所有可见文字替换为符合新概念的文案。"
       }
     ],
-    "original_language": null
+    "original_language": null,
+    "original_steps": null
   },
   "inputs": [
     {
@@ -52,7 +53,8 @@
     "prompt_url": "https://x.com/ponzponz15/status/2097513870969688188",
     "checked_at": "2026-09-10T15:31:42.414Z",
     "status": "source-checked",
-    "disclosure": null
+    "disclosure": null,
+    "post_language": null
   },
   "previews": [
     {
@@ -79,5 +81,112 @@
   "rights": {
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "在保留原有世界觀的前提下重新設計海報。",
+      "summary": "在保持海報整體視覺結構的前提下，改變視角和文案。",
+      "steps": [
+        "以原海報為參考，保留其整體構圖和視覺世界觀。從男性視角重新詮釋，並將所有可見文字替換為符合修改後概念的新文案。"
+      ],
+      "inputs": [
+        "原海報。用於生產工作時，請提供完全相同的替換文案。"
+      ],
+      "notes": [
+        "日文說明的英文翻譯。原帖左側標註新結果，右側標示舊版。"
+      ],
+      "source_digest": "54281c044d04e76fd7eae5819074ac6df110ff9c321b5d9275578bb8ed383c31",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "ポスターの世界観を維持しつつ、デザインを一新する",
+      "summary": "ポスターの全体的な視覚的構成を保ちながら、視点（アングル）とコピー（テキスト）を変更する。",
+      "steps": [
+        "元のポスターを参考にし、その全体的な構図と視覚的な世界観を維持します。男性の視点から再解釈を行い、表示されているすべてのテキストを、変更後のコンセプトに合った新しいコピーに置き換えます。"
+      ],
+      "inputs": [
+        "元の投稿。実際の制作作業では、正確な差し替え用テキスト（コピー）を提示してください。"
+      ],
+      "notes": [
+        "日本語の指示を英語に翻案したもの。元の投稿では、左側に新しい結果、右側に旧モデルのオリジナル画像が並べられています。"
+      ],
+      "source_digest": "54281c044d04e76fd7eae5819074ac6df110ff9c321b5d9275578bb8ed383c31",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "포스터의 세계관을 유지하며 재디자인하기",
+      "summary": "포스터의 전체적인 시각적 구조는 유지하면서 시점과 문구(카피)를 변경하세요.",
+      "steps": [
+        "원본 포스터를 참고하여 전체적인 구도와 시각적 세계관을 유지하세요. 남성의 시각에서 이를 재해석하고, 모든 텍스트를 변경된 콘셉트에 맞는 새로운 문구로 교체하세요."
+      ],
+      "inputs": [
+        "원본 게시물입니다. 실제 제작 시에는 정확한 대체 문구를 제공해야 합니다."
+      ],
+      "notes": [
+        "일본어 지침을 영어로 각색한 것입니다. 원본 게시물은 왼쪽에는 새로운 결과물을, 오른쪽에는 구형 모델의 원본을 배치하고 있습니다."
+      ],
+      "source_digest": "54281c044d04e76fd7eae5819074ac6df110ff9c321b5d9275578bb8ed383c31",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Repenser une affiche tout en conservant son univers",
+      "summary": "Modifier la perspective et le texte tout en préservant la structure visuelle globale de l'affiche.",
+      "steps": [
+        "En utilisant l'affiche originale comme référence, conservez sa composition globale et son univers visuel. Réinterprétez-la selon une perspective masculine et remplacez tout le texte visible par un nouveau contenu adapté au concept revisité."
+      ],
+      "inputs": [
+        "L'image originale. Pour la production, fournissez le texte de remplacement exact."
+      ],
+      "notes": [
+        "Adaptation en anglais de l'instruction japonaise. La publication originale présente le nouveau résultat à gauche et le modèle précédent à droite."
+      ],
+      "source_digest": "54281c044d04e76fd7eae5819074ac6df110ff9c321b5d9275578bb8ed383c31",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Ein Poster neu gestalten und dabei dessen visuelle Welt beibehalten",
+      "summary": "Perspektive und Text ändern, während die visuelle Gesamtstruktur des Posters erhalten bleibt.",
+      "steps": [
+        "Nutze das Originalposter als Referenz und behalte die Gesamtkomposition sowie die visuelle Welt bei. Interpretiere es aus einer männlichen Perspektive neu und ersetze den gesamten sichtbaren Text durch neue Inhalte, die zum überarbeiteten Konzept passen."
+      ],
+      "inputs": [
+        "Das Original-Posting. Für die Produktion ist die exakte Ersatzvorlage bereitzustellen."
+      ],
+      "notes": [
+        "Englische Adaption der japanischen Anweisung. Im Original-Posting ist das neue Ergebnis links und das Originalmodell (die frühere Version) rechts zu sehen."
+      ],
+      "source_digest": "54281c044d04e76fd7eae5819074ac6df110ff9c321b5d9275578bb8ed383c31",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Rediseñar un póster manteniendo su universo visual",
+      "summary": "Cambiar la perspectiva y el texto conservando la estructura visual general del póster.",
+      "steps": [
+        "Utilizando el póster original como referencia, conserva su composición general y su universo visual. Reinterprétalo desde una perspectiva masculina y sustituye todo el texto visible por un nuevo mensaje que encaje con el concepto revisado."
+      ],
+      "inputs": [
+        "La publicación original. Para la fase de producción, proporcione el texto de sustitución exacto."
+      ],
+      "notes": [
+        "Adaptación al inglés de las instrucciones en japonés. La publicación original etiqueta el nuevo resultado a la izquierda y el modelo original (anterior) a la derecha."
+      ],
+      "source_digest": "54281c044d04e76fd7eae5819074ac6df110ff9c321b5d9275578bb8ed383c31",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Redesenhar um pôster mantendo seu universo visual",
+      "summary": "Alterar a perspectiva e o texto (copy) preservando a estrutura visual geral do pôster.",
+      "steps": [
+        "Usando o pôster original como referência, mantenha sua composição geral e universo visual. Reinterprete-o sob uma perspectiva masculina e substitua todo o texto visível por um novo conteúdo que se adeque ao conceito revisado."
+      ],
+      "inputs": [
+        "A postagem original. Para fins de produção, forneça a cópia exata para substituição."
+      ],
+      "notes": [
+        "Adaptação para o inglês de uma instrução em japonês. A postagem original identifica o novo resultado à esquerda e o modelo original (anterior) à direita."
+      ],
+      "source_digest": "54281c044d04e76fd7eae5819074ac6df110ff9c321b5d9275578bb8ed383c31",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
   }
 }

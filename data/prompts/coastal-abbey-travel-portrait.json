@@ -1,0 +1,174 @@
+{
+  "schema_version": 1,
+  "id": "coastal-abbey-travel-portrait",
+  "title": {
+    "en": "Candid coastal abbey travel portrait",
+    "zh": "海边修道院旅行人像"
+  },
+  "summary": {
+    "en": "Place a naturally lit traveler in front of a historic coastal abbey with detailed clothing and architecture.",
+    "zh": "在自然光下，将一位旅行者置于一座历史悠久的海滨修道院前，修道院的服饰和建筑细节需清晰展现。"
+  },
+  "category": "photography",
+  "tags": [
+    "photography",
+    "generate"
+  ],
+  "mode": "generate",
+  "featured": true,
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/saniaspeaks_/status/2097532595814940683",
+    "evidence": "The creator explicitly names GPT Image 2.5 in this post. This is source attribution, not an independent model test."
+  },
+  "prompt": {
+    "kind": "original",
+    "original_language": "en",
+    "original_steps": [
+      "A photorealistic candid travel portrait of a young East Asian woman standing on a quiet sandy shoreline beside large moss-covered rocks, with a magnificent historic stone abbey and medieval castle-like architecture rising dramatically on a rocky island behind her. She has long straight dark brown hair falling naturally over one shoulder, soft youthful facial features, and a gentle warm smile while looking directly at the camera.\n\nShe is wearing a long oversized black coat with her hands casually tucked inside the pockets, layered over a light-colored outfit. A large soft cream-white scarf is wrapped warmly around her neck, hanging down the front with a small black designer-style emblem near the end. A delicate chain shoulder bag is partially visible.\n\nThe composition captures her in the foreground while the vast historic abbey dominates the background, surrounded by ancient stone walls, rocky cliffs, sandy tidal flats, and a calm coastal atmosphere. A few small distant vehicles and people add realistic scale to the scene. Soft natural evening light and a clear pale blue sky create a peaceful European travel mood.\n\nUltra-realistic photography, authentic candid travel photo, natural skin texture, realistic fabric details, soft cinematic lighting, subtle smartphone camera aesthetic, slightly dreamy color grading, natural proportions, detailed architecture, peaceful coastal atmosphere, vertical composition, 3:4 aspect ratio."
+    ],
+    "steps": [
+      {
+        "en": "A photorealistic candid travel portrait of a young East Asian woman standing on a quiet sandy shoreline beside large moss-covered rocks, with a magnificent historic stone abbey and medieval castle-like architecture rising dramatically on a rocky island behind her. She has long straight dark brown hair falling naturally over one shoulder, soft youthful facial features, and a gentle warm smile while looking directly at the camera.\n\nShe is wearing a long oversized black coat with her hands casually tucked inside the pockets, layered over a light-colored outfit. A large soft cream-white scarf is wrapped warmly around her neck, hanging down the front with a small black designer-style emblem near the end. A delicate chain shoulder bag is partially visible.\n\nThe composition captures her in the foreground while the vast historic abbey dominates the background, surrounded by ancient stone walls, rocky cliffs, sandy tidal flats, and a calm coastal atmosphere. A few small distant vehicles and people add realistic scale to the scene. Soft natural evening light and a clear pale blue sky create a peaceful European travel mood.\n\nUltra-realistic photography, authentic candid travel photo, natural skin texture, realistic fabric details, soft cinematic lighting, subtle smartphone camera aesthetic, slightly dreamy color grading, natural proportions, detailed architecture, peaceful coastal atmosphere, vertical composition, 3:4 aspect ratio.",
+        "zh": "一张写实风格的旅行写真，一位年轻的东亚女性站在宁静的沙滩上，身旁是长满青苔的大石头。在她身后，一座宏伟的古老石砌修道院和中世纪城堡般的建筑群耸立在岩石岛屿上，气势磅礴。她有着一头深棕色的长直发，自然地披散在一侧肩头，五官柔和年轻，面带温暖的微笑，直视镜头。\n\n她身穿一件黑色长款宽松大衣，双手随意地插在口袋里，内搭浅色内衬。一条柔软的米白色大围巾温暖地围在她的脖子上，垂在胸前，末端附近缀着一枚小巧的黑色设计师风格徽章。一只精致的链条肩包隐约可见。\n\n画面以她为前景，背景则是气势恢宏的古老修道院，周围环绕着古老的石墙、嶙峋的峭壁、沙滩般的潮滩，营造出宁静的海岸氛围。远处几辆小车和行人为画面增添了真实感。柔和的自然晚光和湛蓝的天空，营造出宁静的欧洲旅行氛围。\n\n超写实摄影，真实自然的旅行抓拍，自然的肌肤纹理，逼真的面料细节，柔和的电影级光线，微妙的智能手机相机美感，略带梦幻的色彩调校，自然的比例，细致的建筑细节，宁静的海岸氛围，竖幅构图，3:4宽高比。"
+      }
+    ]
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "The source supplies the full prompt and two examples. This preview is the first image; no person reference upload is specified.",
+      "zh": "来源提供了完整的提示和两个示例。此预览图为第一张图；未指定人物参考图上传。"
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "saniaspeaks_",
+    "url": "https://x.com/saniaspeaks_/status/2097532595814940683",
+    "prompt_url": "https://x.com/saniaspeaks_/status/2097532595814940683",
+    "post_language": "en",
+    "checked_at": "2026-09-11T18:08:16.434Z",
+    "status": "source-checked",
+    "disclosure": null
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRvuwVcasAAwAwf?format=jpg&name=900x900",
+      "kind": "source-result",
+      "credit": "@saniaspeaks_",
+      "source_url": "https://x.com/saniaspeaks_/status/2097532595814940683"
+    }
+  ],
+  "engagement": {
+    "likes": 295,
+    "bookmarks": 216,
+    "reposts": 30,
+    "replies": 62,
+    "views": 24807,
+    "observed_at": "2026-09-11T18:08:16.434Z",
+    "source_url": "https://x.com/saniaspeaks_/status/2097532595814940683",
+    "method": "X primary post UI; quoted-post metrics excluded"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Third-party prompts and media retain their creators’ rights; external previews are linked, not relicensed."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "海濱修道院旅行寫真",
+      "summary": "在自然光下，將一位旅行者置於一座歷史悠久的海濱修道院前，修道院的服飾和建築細節需清晰展現。",
+      "steps": [
+        "一張寫實風格的旅行寫真，一位年輕的東亞女性站在寧靜的沙灘上，身旁是長滿青苔的大石頭。在她身後，一座宏偉的古老石砌修道院和中世紀城堡般的建築群聳立在岩石島嶼上，氣勢磅礴。她有著深棕色的長直發，自然地披散在一側肩頭，五官柔和年輕，面帶溫暖的微笑，直視鏡頭。\n\n她穿著一件黑色長版寬鬆大衣，雙手隨意地插在口袋裡，內搭淺色內襯。一條柔軟的米白色大圍巾溫暖地圍在她的脖子上，垂在胸前，末端附近綴著一枚小巧的黑色設計師風格徽章。一隻精緻的鏈條肩包隱約可見。\n\n畫面以她為前景，背景則是氣勢恢宏的古老修道院，周圍環繞著古老的石牆、嶙峋的峭壁、沙灘般的潮灘，營造出寧靜的海岸氛圍。遠處幾輛小車和行人為畫面增添了真實感。柔和的自然晚光和湛藍的天空，營造出寧靜的歐洲旅行氛圍。\n\n超寫實攝影，真實自然的旅行抓拍，自然的肌膚紋理，逼真的面料細節，柔和的電影級光線，微妙的智慧型手機相機美感，略帶夢幻的色彩調校，自然的比例，細緻的建築細節，寧靜的海岸氛圍，豎幅構圖，3:4寬高比。"
+      ],
+      "inputs": [],
+      "notes": [
+        "來源提供了完整的提示和兩個範例。此預覽圖為第一張圖；未指定人物參考圖上傳。"
+      ],
+      "source_digest": "2fbda16fb8cbaacdc5c0d6459e829b99030247639fff4c8296b8e2b4d12467f6",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "海岸沿いの修道院を背景にした、自然な雰囲気の旅行ポートレート",
+      "summary": "自然光の下、歴史ある海岸沿いの修道院を背景に、衣服や建築様式が詳細に描写された旅行者を配置してください。",
+      "steps": [
+        "苔むした大きな岩のそばの静かな砂浜に立つ、東アジアの若い女性の、フォトリアルな自然な雰囲気の旅行ポートレート。背後の岩だらけの島には、壮麗な石造りの修道院と中世の城のような建築物がそびえ立っています。彼女は長くまっすぐなダークブラウンの髪を片方の肩に自然に垂らし、若々しく柔らかな顔立ちで、カメラをまっすぐ見つめながら、優しく温かい微笑みを浮かべています。\n\n彼女は、淡い色の服の上に、ゆったりとしたロング丈の黒いコートを羽織り、両手をポケットにさりげなく入れています。首元には、柔らかく柔らかなクリームホワイトの大きなスカーフが暖かく巻かれ、その先端近くには小さな黒いデザイナー風のエンブレムがあしらわれています。繊細なチェーンのショルダーバッグが、一部見えています。\n\n構図は、彼女を前景に捉え、背景には広大な歴史的修道院がそびえ立ち、古代の石壁、岩だらけの崖、砂浜の干潟、そして穏やかな海岸の雰囲気に囲まれています。遠くに見える数台の車と人々が、風景にリアルなスケール感を与えています。柔らかな夕暮れの自然光と澄んだ淡い青空が、穏やかなヨーロッパ旅行のムードを醸し出しています。\n\n超リアルな写真、自然な旅行写真、自然な肌の質感、リアルな布地のディテール、柔らかな映画のような照明、繊細なスマートフォンカメラの美学、やや夢のようなカラーグレーディング、自然なプロポーション、精緻な建築、穏やかな海岸の雰囲気、縦構図、3:4のアスペクト比。"
+      ],
+      "inputs": [],
+      "notes": [
+        "ソースにはプロンプト全文と2つの例が提供されています。このプレビューは最初の画像です。人物の参考資料のアップロードは指定されていません。"
+      ],
+      "source_digest": "2fbda16fb8cbaacdc5c0d6459e829b99030247639fff4c8296b8e2b4d12467f6",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "해안 수도원을 배경으로 한 자연스러운 여행 인물 사진",
+      "summary": "자연광을 받아 조명이 비추는 해안 수도원 앞에 서 있는 여행자를, 의상과 건축물의 디테일을 살려 표현합니다.",
+      "steps": [
+        "고요한 모래사장 위에 서 있는 젊은 동아시아 여성의 사실적인 여행 인물 사진. 커다란 이끼 덮인 바위 옆에 서 있으며, 뒤편의 바위섬에는 웅장한 역사적인 석조 수도원과 중세 성곽 같은 건축물이 드라마틱하게 솟아 있습니다. 그녀는 한쪽 어깨로 자연스럽게 흘러내리는 긴 생머리와 부드럽고 젊어 보이는 이목구비, 카메라를 똑바로 바라보며 따뜻하고 온화한 미소를 짓고 있습니다.\n\n그녀는 넉넉한 사이즈의 긴 검은색 코트를 입고 있으며, 밝은 색 옷 위에 손을 무심하게 주머니에 넣고 있다. 크고 부드러운 크림색 스카프가 목을 따뜻하게 두르고 있으며, 끝자락에는 작은 검은색 디자이너 스타일의 엠블럼이 달려 있다. 섬세한 체인 숄더백이 살짝 보인다.\n\n사진은 그녀를 전경에, 광활한 역사적인 수도원을 배경으로 펼쳐지는 고풍스러운 석조 벽, 바위 절벽, 모래톱, 그리고 고요한 해안 풍경을 담아내고 있다. 멀리 보이는 몇 대의 차량과 사람들은 장면에 사실적인 규모감을 더한다. 부드러운 저녁 햇살과 맑고 푸른 하늘은 평화로운 유럽 여행의 분위기를 자아낸다.\n\n극사실적인 사진, 자연스러운 여행 사진, 자연스러운 피부 질감, 사실적인 옷감 디테일, 부드러운 영화 같은 조명, 은은한 스마트폰 카메라 감성, 몽환적인 색감, 자연스러운 비율, 섬세한 건축물 묘사, 평화로운 해안 분위기, 세로 구도, 3:4 화면비."
+      ],
+      "inputs": [],
+      "notes": [
+        "출처에는 전체 프롬프트와 두 개의 예시 이미지가 제공됩니다. 이 미리보기는 첫 번째 이미지입니다. 인물 참고 자료 업로드는 지정되지 않았습니다."
+      ],
+      "source_digest": "2fbda16fb8cbaacdc5c0d6459e829b99030247639fff4c8296b8e2b4d12467f6",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Portrait de voyage spontané devant une abbaye côtière.",
+      "summary": "Placer un voyageur éclairé naturellement devant une abbaye côtière historique, avec des vêtements et une architecture détaillés.",
+      "steps": [
+        "Portrait de voyage photoréaliste d'une jeune femme d'Asie de l'Est, debout sur une plage de sable fin, près de gros rochers couverts de mousse. Derrière elle, une magnifique abbaye en pierre et une architecture médiévale, évoquant un château, se dressent majestueusement sur un îlot rocheux. Elle a de longs cheveux bruns foncés et raides qui tombent naturellement sur une épaule, des traits doux et juvéniles, et un sourire chaleureux et bienveillant, regardant directement l'objectif.\n\nElle porte un long manteau noir oversize, les mains nonchalamment glissées dans les poches, par-dessus une tenue claire. Une grande écharpe douce couleur crème est enroulée autour de son cou, tombant sur le devant et ornée d'un petit emblème noir de marque. On aperçoit partiellement un délicat sac à bandoulière à chaîne.\n\nLa composition la place au premier plan, tandis que l'imposante abbaye historique domine l'arrière-plan, entourée de vieux murs de pierre, de falaises rocheuses, de vasières et d'une atmosphère côtière paisible. Quelques véhicules et passants au loin ajoutent une touche de réalisme à la scène. La douce lumière naturelle du soir et un ciel bleu pâle et limpide créent une ambiance de voyage européenne sereine.\n\nPhotographie ultra-réaliste, photo de voyage authentique prise sur le vif, texture de peau naturelle, détails réalistes des tissus, éclairage doux et cinématographique, esthétique subtile de la photographie sur smartphone, étalonnage des couleurs légèrement onirique, proportions naturelles, architecture détaillée, atmosphère côtière paisible, composition verticale, format 3:4."
+      ],
+      "inputs": [],
+      "notes": [
+        "La source fournit la consigne complète et deux exemples. Cet aperçu est la première image ; aucune personne de référence n'est spécifiée."
+      ],
+      "source_digest": "2fbda16fb8cbaacdc5c0d6459e829b99030247639fff4c8296b8e2b4d12467f6",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Reiseporträt vor einer Küstenabtei (natürliche Darstellung)",
+      "summary": "Platzieren Sie eine Reisende in natürlichem Licht vor einer historischen Küstenabtei mit detailreicher Kleidung und Architektur.",
+      "steps": [
+        "Ein fotorealistisches Reiseporträt einer jungen ostasiatischen Frau, die an einem ruhigen Sandstrand neben großen, moosbedeckten Felsen steht. Im Hintergrund erhebt sich auf einer Felseninsel eine prächtige, historische Steinabtei mit mittelalterlicher, burgähnlicher Architektur. Sie hat langes, glattes, dunkelbraunes Haar, das ihr natürlich über die Schulter fällt, weiche, jugendliche Gesichtszüge und ein freundliches, warmes Lächeln, während sie direkt in die Kamera blickt.\n\nSie trägt einen langen, übergroßen schwarzen Mantel, in dessen Taschen ihre Hände lässig stecken, über einem hellen Outfit. Ein großer, weicher, cremeweißer Schal liegt warm um ihren Hals und hängt ihr mit einem kleinen schwarzen Designer-Emblem am Ende über die Brust. Eine zierliche Schultertasche mit Kette ist teilweise sichtbar.\n\nDie Komposition zeigt sie im Vordergrund, während die weitläufige, historische Abtei den Hintergrund dominiert, umgeben von alten Steinmauern, Felswänden, sandigen Wattflächen und einer ruhigen Küstenatmosphäre. Einige wenige Fahrzeuge und Personen in der Ferne verleihen der Szene realistische Dimensionen. Sanftes, natürliches Abendlicht und ein klarer, hellblauer Himmel erzeugen eine friedliche, europäische Reisestimmung.\n\nUltrarealistische Fotografie, authentisches Reisefoto, natürliche Hautstruktur, realistische Stoffdetails, weiche, filmische Beleuchtung, subtile Smartphone-Ästhetik, leicht verträumte Farbgebung, natürliche Proportionen, detaillierte Architektur, friedliche Küstenatmosphäre, Hochformat, Seitenverhältnis 3:4."
+      ],
+      "inputs": [],
+      "notes": [
+        "Die Quelle enthält die vollständige Aufgabenstellung und zwei Beispiele. Diese Vorschau zeigt das erste Bild. Es ist kein Upload von Personenreferenzen angegeben."
+      ],
+      "source_digest": "2fbda16fb8cbaacdc5c0d6459e829b99030247639fff4c8296b8e2b4d12467f6",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Retrato espontáneo de viaje en una abadía costera.",
+      "summary": "Imagen de una viajera con luz natural frente a una histórica abadía costera, con vestimenta y arquitectura detalladas.",
+      "steps": [
+        "Retrato espontáneo de viaje fotorrealista de una joven de Asia Oriental de pie en una tranquila playa de arena junto a grandes rocas cubiertas de musgo, con una magnífica abadía de piedra histórica y una arquitectura medieval que se alza majestuosamente sobre una isla rocosa detrás de ella. Tiene el cabello largo, liso y castaño oscuro que cae naturalmente sobre un hombro, rasgos faciales suaves y juveniles, y una sonrisa cálida y amable mientras mira directamente a la cámara.\n\nLleva un abrigo largo negro de corte holgado con las manos casualmente metidas en los bolsillos, sobre un conjunto de color claro. Una gran bufanda suave de color blanco crema la envuelve cálidamente alrededor del cuello, cayendo por delante con un pequeño emblema negro de estilo diseñador cerca del extremo. Un delicado bolso de hombro con cadena es parcialmente visible.\n\nLa composición la captura en primer plano, mientras que la vasta abadía histórica domina el fondo, rodeada de antiguas murallas de piedra, acantilados rocosos, marismas arenosas y una tranquila atmósfera costera. Algunos vehículos y personas a lo lejos añaden realismo a la escena. La suave luz natural del atardecer y un cielo azul pálido crean una atmósfera de viaje europea apacible.\n\nFotografía ultrarrealista, auténtica foto de viaje espontánea, textura de piel natural, detalles realistas de la tela, iluminación cinematográfica suave, sutil estética de cámara de smartphone, gradación de color ligeramente onírica, proporciones naturales, arquitectura detallada, atmósfera costera apacible, composición vertical, relación de aspecto 3:4."
+      ],
+      "inputs": [],
+      "notes": [
+        "La fuente proporciona la descripción completa y dos ejemplos. Esta vista previa es la primera imagen; no se especifica ninguna referencia personal."
+      ],
+      "source_digest": "2fbda16fb8cbaacdc5c0d6459e829b99030247639fff4c8296b8e2b4d12467f6",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Retrato espontâneo de viagem em uma abadia costeira.",
+      "summary": "Colocar um viajante com iluminação natural em frente a uma abadia costeira histórica, com detalhes de suas roupas e arquitetura.",
+      "steps": [
+        "Um retrato espontâneo e fotorrealista de uma jovem mulher do Leste Asiático em pé em uma tranquila praia de areia ao lado de grandes rochas cobertas de musgo, com uma magnífica abadia de pedra histórica e arquitetura medieval semelhante a um castelo erguendo-se dramaticamente em uma ilha rochosa atrás dela. Ela tem longos cabelos castanho-escuros lisos que caem naturalmente sobre um ombro, traços faciais suaves e joviais e um sorriso gentil e caloroso enquanto olha diretamente para a câmera.\n\n Ela veste um longo casaco preto oversized, com as mãos casualmente enfiadas nos bolsos, sobre uma roupa de cor clara. Um grande cachecol macio, em tom creme, envolve seu pescoço, pendendo na frente com um pequeno emblema preto de grife próximo à ponta. Uma delicada bolsa de ombro com corrente é parcialmente visível.\n\nA composição a captura em primeiro plano, enquanto a vasta abadia histórica domina o fundo, cercada por antigas muralhas de pedra, penhascos rochosos, planícies de maré arenosas e uma atmosfera costeira tranquila. Alguns pequenos veículos e pessoas ao longe adicionam escala realista à cena. A suave luz natural do entardecer e um céu azul claro criam uma atmosfera de viagem europeia pacífica.\n\nFotografia ultrarrealista, foto de viagem espontânea e autêntica, textura de pele natural, detalhes realistas do tecido, iluminação cinematográfica suave, estética sutil de câmera de smartphone, gradação de cores levemente onírica, proporções naturais, arquitetura detalhada, atmosfera costeira tranquila, composição vertical, proporção 3:4."
+      ],
+      "inputs": [],
+      "notes": [
+        "A fonte fornece o prompt completo e dois exemplos. Esta prévia é a primeira imagem; nenhum upload de referência de pessoa é especificado."
+      ],
+      "source_digest": "2fbda16fb8cbaacdc5c0d6459e829b99030247639fff4c8296b8e2b4d12467f6",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
+  }
+}

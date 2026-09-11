@@ -31,7 +31,8 @@
         "zh": "修复这张低分辨率图片，保留原有画风、色彩和构图。清理噪点并提升清晰度，不添加新物体或臆造表面细节。"
       }
     ],
-    "original_language": null
+    "original_language": null,
+    "original_steps": null
   },
   "inputs": [
     {
@@ -52,7 +53,8 @@
     "prompt_url": "https://x.com/k_matsumaru/status/2097506834659893340",
     "checked_at": "2026-09-10T15:23:27.450Z",
     "status": "source-checked",
-    "disclosure": null
+    "disclosure": null,
+    "post_language": null
   },
   "previews": [
     {
@@ -79,5 +81,112 @@
   "rights": {
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "修復低解析度影像",
+      "summary": "在保留原有插畫風格和構圖的前提下，讓雜訊較多的影像更加清晰。",
+      "steps": [
+        "修復此低解析度影像。保留其繪畫風格、色彩和構圖。清除雜訊區域並提高清晰度，但不要新增物件或人為新增的表面細節。"
+      ],
+      "inputs": [
+        "低解析度來源影像。"
+      ],
+      "notes": [
+        "根據創作者的日文提示，提供簡潔的英文版本。修復過程中可能會添加細節；請將修復結果與原始圖片進行比較。"
+      ],
+      "source_digest": "94f235becf718155b76f420d76d5e31bde3e00539e94c8eb79c11bb093747efd",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "低解像度の画像を復元する",
+      "summary": "ノイズの多い画像を、元のイラストのスタイルや構図を維持したまま鮮明にします。",
+      "steps": [
+        "この低解像度の画像を復元します。描画スタイル、色、構図を維持してください。新しいオブジェクトや架空の表面ディテールを追加することなく、ノイズの多い部分を修正し、鮮明さを向上させます。"
+      ],
+      "inputs": [
+        "低解像度の元画像。"
+      ],
+      "notes": [
+        "作成者の日本語プロンプトを簡潔な英語に改変したものです。復元処理によって詳細が新たに生成される場合があるため、結果を元画像と比較してください。"
+      ],
+      "source_digest": "94f235becf718155b76f420d76d5e31bde3e00539e94c8eb79c11bb093747efd",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "저해상도 이미지 복원",
+      "summary": "노이즈가 있는 이미지를 원래의 일러스트 스타일과 구도를 유지하면서 더 선명하게 만드세요.",
+      "steps": [
+        "이 저해상도 이미지를 복원하세요. 드로잉 스타일, 색상, 구도는 그대로 유지해야 합니다. 새로운 개체나 임의의 표면 디테일을 추가하지 말고, 노이즈가 있는 부분을 정리하여 선명도를 높이세요."
+      ],
+      "inputs": [
+        "저해상도 원본 이미지."
+      ],
+      "notes": [
+        "제작자의 일본어 프롬프트를 간결한 영어로 수정한 것입니다. 복원 과정에서 세부 사항이 임의로 생성될 수 있으므로, 결과물을 원본과 비교해 보세요."
+      ],
+      "source_digest": "94f235becf718155b76f420d76d5e31bde3e00539e94c8eb79c11bb093747efd",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Restaurer une image basse résolution",
+      "summary": "Rendre plus nette une image bruitée tout en conservant son style d'illustration et sa composition d'origine.",
+      "steps": [
+        "Restaurez cette image basse résolution. Préservez son style de dessin, ses couleurs et sa composition. Nettoyez les zones bruitées et améliorez la netteté sans ajouter de nouveaux objets ni inventer de détails de surface."
+      ],
+      "inputs": [
+        "Une image source basse résolution."
+      ],
+      "notes": [
+        "Adaptation concise en anglais du prompt japonais original de l'auteur. La restauration peut entraîner l'ajout de détails inventés ; comparez le résultat avec l'original."
+      ],
+      "source_digest": "94f235becf718155b76f420d76d5e31bde3e00539e94c8eb79c11bb093747efd",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Wiederherstellung eines Bildes mit niedriger Auflösung",
+      "summary": "Verbessere die Klarheit eines verrauschten Bildes, ohne den ursprünglichen Illustrationsstil und die Komposition zu verändern.",
+      "steps": [
+        "Stelle dieses Bild mit niedriger Auflösung wieder her. Bewahre dabei den Zeichenstil, die Farben und die Komposition. Bereinige verrauschte Bereiche und verbessere die Bildschärfe, ohne neue Objekte oder frei erfundene Oberflächendetails hinzuzufügen."
+      ],
+      "inputs": [
+        "Ein Quellbild mit niedriger Auflösung."
+      ],
+      "notes": [
+        "Prägnante englische Adaption des japanischen Prompts des Erstellers. Bei der Wiederherstellung können Details hinzukommen, die im Original nicht vorhanden waren; vergleiche das Ergebnis mit dem Original."
+      ],
+      "source_digest": "94f235becf718155b76f420d76d5e31bde3e00539e94c8eb79c11bb093747efd",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Restaurar una imagen de baja resolución.",
+      "summary": "Aclarar una imagen con ruido visual manteniendo su estilo de ilustración y composición originales.",
+      "steps": [
+        "Restaura esta imagen de baja resolución. Conserva su estilo de dibujo, colores y composición. Limpia las zonas con ruido y mejora la nitidez sin añadir objetos nuevos ni detalles superficiales inventados."
+      ],
+      "inputs": [
+        "Una imagen de origen de baja resolución."
+      ],
+      "notes": [
+        "Adaptación concisa al inglés del *prompt* original en japonés del creador. El proceso de restauración puede generar detalles nuevos; compara el resultado con el original."
+      ],
+      "source_digest": "94f235becf718155b76f420d76d5e31bde3e00539e94c8eb79c11bb093747efd",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Restaure uma imagem de baixa resolução",
+      "summary": "Torne uma imagem com ruído mais nítida, mantendo seu estilo de ilustração e composição originais.",
+      "steps": [
+        "Restaure esta imagem de baixa resolução. Preserve seu estilo de desenho, cores e composição. Limpe áreas com ruído e melhore a nitidez sem adicionar novos objetos ou detalhes de superfície inventados."
+      ],
+      "inputs": [
+        "Uma imagem de origem em baixa resolução."
+      ],
+      "notes": [
+        "Adaptação concisa para o inglês do prompt original do criador em japonês. A restauração pode criar detalhes; compare o resultado com o original."
+      ],
+      "source_digest": "94f235becf718155b76f420d76d5e31bde3e00539e94c8eb79c11bb093747efd",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
   }
 }

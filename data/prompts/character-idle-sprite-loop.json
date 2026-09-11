@@ -36,7 +36,8 @@
         "zh": "拆分为单帧 PNG 并对齐，导出透明循环 GIF 及各帧。缩放使用最近邻采样，检查裁切、位置跳动以及画出来的假透明棋盘格。"
       }
     ],
-    "original_language": null
+    "original_language": null,
+    "original_steps": null
   },
   "inputs": [
     {
@@ -61,7 +62,8 @@
     "prompt_url": "https://x.com/hahazwei/status/2097591869932986560",
     "checked_at": "2026-09-10T15:32:09.329Z",
     "status": "source-checked",
-    "disclosure": null
+    "disclosure": null,
+    "post_language": null
   },
   "previews": [
     {
@@ -88,5 +90,126 @@
   "rights": {
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  },
+  "localizations": {
+    "zh-TW": {
+      "title": "參考角色的空閒循環",
+      "summary": "將上傳的角色轉換為具有一致空閒循環的小像素精靈。",
+      "steps": [
+        "使用角色參考，在 1024×1024 的透明畫布上，以 4×4 的佈局繪製 16 個像素藝術空閒幀。將每個角色保持在其 256×256 的單元格內，並設定固定基線和足夠的邊距。使用輕微的呼吸效果和一次眨眼。保留角色設計。",
+        "將圖紙分割成單獨的 PNG 幀，對齊它們，然後匯出包含這些幀的透明循環 GIF。使用最近鄰插值調整大小，並檢查是否有裁剪、位置跳躍和虛假棋盤格透明度。"
+      ],
+      "inputs": [
+        "角色參考以及可以分割影像並寫入 GIF/PNG 檔案的工具。"
+      ],
+      "notes": [
+        "作者回覆中長篇提示的精簡版。它始終要求一個空閒循環；來源檔案中還包含一個跳舞指令。",
+        "預覽圖是創作者貼文中的靜態畫面。文件導出需要單獨的處理步驟。"
+      ],
+      "source_digest": "3e95ec7d8a515e18c3a9e64a4020941112068badcf6c34681d84c8dd1f1fb524",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ko": {
+      "title": "캐릭터 대기 동작(idle loop) 참조용",
+      "summary": "업로드된 캐릭터를 일관된 대기 동작 주기를 가진 작은 픽셀 스프라이트로 변환하세요.",
+      "steps": [
+        "캐릭터 참조 이미지를 사용하여 1024x1024 크기의 투명 캔버스에 4x4 배열로 16프레임의 픽셀 아트 대기 동작을 그리세요. 각 캐릭터는 고정된 기준선(baseline)과 충분한 여백을 두고 256x256 셀 안에 배치하세요. 미세한 숨쉬기 동작과 한 번의 눈 깜빡임을 포함하고, 캐릭터 디자인을 유지하세요.",
+        "시트를 개별 PNG 프레임으로 분할 및 정렬하고, 투명 배경의 반복 재생 GIF와 개별 프레임들을 내보내세요. 리사이징 시 '최근접 이웃(nearest-neighbor)' 방식을 사용하고, 이미지 잘림(clipping), 위치 튀는 현상(position jumps), 의도치 않은 체커보드 무늬(투명도 오류)가 없는지 확인하세요."
+      ],
+      "inputs": [
+        "캐릭터 참조 자료와 이미지를 분할하여 GIF/PNG 파일로 저장할 수 있는 도구."
+      ],
+      "notes": [
+        "작성자의 답글에 포함된 긴 프롬프트를 요약한 내용입니다. 지속적으로 대기 동작(idle loop)을 요청하고 있으며, 원본에는 춤추는 동작에 대한 지시사항도 포함되어 있습니다.",
+        "미리보기 이미지는 제작자의 게시물에 있는 스틸 컷입니다. 파일로 내보내려면 별도의 처리 과정이 필요합니다."
+      ],
+      "source_digest": "3e95ec7d8a515e18c3a9e64a4020941112068badcf6c34681d84c8dd1f1fb524",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "de": {
+      "title": "Eine Referenz-Animation für die Leerlaufphase (Idle-Loop) einer Figur",
+      "summary": "Verwandle eine hochgeladene Figur in ein kleines Pixel-Sprite mit einem konsistenten Leerlauf-Zyklus.",
+      "steps": [
+        "Erstelle auf Basis der Referenzfigur 16 Pixel-Art-Einzelbilder für den Leerlauf, angeordnet in einem 4x4-Raster auf einer transparenten 1024x1024-Pixel-Leinwand. Platziere jede Figur innerhalb ihrer 256x256-Pixel-Zelle mit fester Grundlinie und großzügigem Abstand zum Rand. Integriere eine dezente Atembewegung und einmaliges Blinzeln; behalte das Charakterdesign bei.",
+        "Unterteile das Raster in einzelne PNG-Einzelbilder, richte sie aus und exportiere ein transparentes, animiertes GIF sowie die Einzelbilder. Verwende beim Skalieren das „Nearest-Neighbor“-Verfahren und prüfe auf Bildabschneidungen (Clipping), Sprünge in der Positionierung sowie fehlerhafte Schachbrettmuster bei der Transparenz."
+      ],
+      "inputs": [
+        "Eine Charaktervorlage sowie Tools zum Aufteilen von Bildern und zum Erstellen von GIF-/PNG-Dateien."
+      ],
+      "notes": [
+        "Eine gekürzte Fassung des ausführlichen Prompts aus der Antwort des Autors. Sie verlangt durchgehend eine Leerlauf-Animation (Idle-Loop); die Quelle enthält zudem eine Anweisung für eine Tanzbewegung.",
+        "Die Vorschau ist ein Standbild aus dem Beitrag des Erstellers. Der Dateiexport erfordert einen separaten Verarbeitungsschritt."
+      ],
+      "source_digest": "3e95ec7d8a515e18c3a9e64a4020941112068badcf6c34681d84c8dd1f1fb524",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "es": {
+      "title": "Ciclo de animación en reposo (idle) de un personaje de referencia",
+      "summary": "Convierte un personaje subido en un pequeño *sprite* de píxeles con un ciclo de reposo coherente.",
+      "steps": [
+        "Utilizando la referencia del personaje, dibuja 16 fotogramas de *pixel art* en reposo dispuestos en una cuadrícula de 4x4 sobre un lienzo transparente de 1024x1024 píxeles. Mantén cada personaje dentro de su celda de 256x256 píxeles, con una línea base fija y un margen amplio. Incluye un movimiento sutil de respiración y un parpadeo; conserva el diseño del personaje.",
+        "Divide la hoja en fotogramas PNG individuales, alinéalos y exporta un GIF transparente en bucle junto con los fotogramas. Utiliza el método de redimensionamiento por vecino más cercano (*nearest-neighbor*) y revisa si hay recortes, saltos de posición o falsos efectos de transparencia de tablero de ajedrez."
+      ],
+      "inputs": [
+        "Una referencia del personaje y herramientas capaces de dividir imágenes y generar archivos GIF/PNG."
+      ],
+      "notes": [
+        "Adaptación resumida de la instrucción detallada que aparece en la respuesta del autor. Solicita sistemáticamente un bucle de animación en reposo (*idle loop*); la fuente original también incluye una instrucción de baile.",
+        "La vista previa es una imagen estática tomada de la publicación del creador. La exportación del archivo requiere un paso de procesamiento independiente."
+      ],
+      "source_digest": "3e95ec7d8a515e18c3a9e64a4020941112068badcf6c34681d84c8dd1f1fb524",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "pt-BR": {
+      "title": "Uma sequência de referência de animação de espera (idle loop) de personagem",
+      "summary": "Transforme um personagem enviado em um pequeno sprite de pixel art com um ciclo de espera consistente.",
+      "steps": [
+        "Usando a referência do personagem, desenhe 16 quadros de animação de espera em pixel art, organizados em uma grade 4x4 dentro de uma tela transparente de 1024x1024 pixels. Mantenha cada personagem dentro de sua célula de 256x256 pixels, com uma linha de base fixa e margens amplas. Inclua um movimento sutil de respiração e um piscar de olhos; preserve o design do personagem.",
+        "Divida a grade em quadros PNG individuais, alinhe-os e exporte um GIF transparente em loop, além dos quadros separados. Utilize o redimensionamento por vizinho mais próximo (nearest-neighbor) e verifique se há cortes (clipping), saltos de posição ou artefatos de transparência em padrão xadrez."
+      ],
+      "inputs": [
+        "Uma referência de personagem e ferramentas capazes de dividir imagens e gerar arquivos GIF/PNG."
+      ],
+      "notes": [
+        "Adaptação resumida do prompt detalhado presente na resposta do autor. O prompt solicita consistentemente um loop de animação em repouso (*idle loop*); a fonte original também inclui uma instrução para uma animação de dança.",
+        "A prévia é uma imagem estática extraída da publicação do criador. A exportação do arquivo requer uma etapa de processamento à parte."
+      ],
+      "source_digest": "3e95ec7d8a515e18c3a9e64a4020941112068badcf6c34681d84c8dd1f1fb524",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "fr": {
+      "title": "Une boucle inactive de caractère de référence",
+      "summary": "Transformez un personnage téléchargé en un petit sprite de pixels avec un cycle d'inactivité cohérent.",
+      "steps": [
+        "À l’aide de la référence du personnage, dessinez 16 images inactives pixel-art dans une feuille 4 x 4 sur une toile transparente de 1 024 x 1 024. Conservez chaque personnage dans sa cellule de 256 x 256 avec une ligne de base fixe et un remplissage généreux. Utilisez une respiration subtile et un clignement des yeux ; préserver la conception des personnages.",
+        "Divisez la feuille en images PNG individuelles, alignez-les et exportez un GIF en boucle transparent ainsi que les images. Utilisez le redimensionnement du voisin le plus proche et inspectez les écrêtages, les sauts de position et la fausse transparence en damier."
+      ],
+      "inputs": [
+        "Une référence de personnage et des outils permettant de diviser des images et d'écrire des fichiers GIF/PNG."
+      ],
+      "notes": [
+        "Adaptation condensée de la longue invite de la réponse de l'auteur. Il demande systématiquement une boucle inactive ; la source contient également une instruction de danse.",
+        "L’aperçu est une image tirée du message du créateur. L'exportation de fichiers nécessite une étape de traitement distincte."
+      ],
+      "source_digest": "3e95ec7d8a515e18c3a9e64a4020941112068badcf6c34681d84c8dd1f1fb524",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    },
+    "ja": {
+      "title": "参照キャラクターのアイドルループ",
+      "summary": "アップロードされたキャラクターを、一定のアイドルサイクルを持つ小さなピクセルスプライトに変換します。",
+      "steps": [
+        "キャラクター参照を使用して、1024×1024の透明なキャンバス上に、4×4のシートに16個のピクセルアートのアイドルフレームを描画します。各キャラクターは、固定ベースラインと十分なパディングを備えた256×256のセル内に収まるようにしてください。微妙な呼吸と瞬きを1回だけ行い、キャラクターデザインを維持してください。",
+        "シートを個々のPNGフレームに分割し、それらを整列させて、透明なループGIFとフレームをエクスポートしてください。ニアレストネイバーリサイズを使用し、クリッピング、位置ずれ、偽のチェッカーボード透明度がないか確認してください。"
+      ],
+      "inputs": [
+        "キャラクターリファレンスと、画像を分割してGIF/PNGファイルを書き出すツール。"
+      ],
+      "notes": [
+        "作者の返信にある長いプロンプトを要約したもの。常にアイドルループを要求していますが、ソースにはダンスの指示も含まれています。",
+        "プレビューは作者の投稿からの静止画です。ファイルのエクスポートには別の処理ステップが必要です。"
+      ],
+      "source_digest": "3e95ec7d8a515e18c3a9e64a4020941112068badcf6c34681d84c8dd1f1fb524",
+      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    }
   }
 }

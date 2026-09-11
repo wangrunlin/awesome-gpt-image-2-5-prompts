@@ -1,62 +1,67 @@
 # Curation and evidence
 
-We collect usable image prompts and workflows for
-[Image 2.5](https://image-2-5.com), with priority given to clear instructions,
-distinct visual ideas, useful reference handling, and source-backed examples.
+Prioritize **GPT Image 2.5 relevance and observed popularity**, regardless of the
+source language. The creator does not need to publish bilingual content. We
+preserve source wording and provide the translations.
 
-## Admission rules
+## Admission
 
-1. Open the primary creator post. Verify that it names GPT Image 2.5 and contains
-   an actual prompt or explains a usable workflow.
-2. Follow author replies when the prompt is not in the main post. Keep both URLs.
-3. Preserve short original prompts where appropriate. Label translated prompts
-   and editorial recipes honestly; do not pass an inferred prompt off as original.
-4. Record required images, previous outputs, extra models, and file-processing
-   tools. Image generation alone does not produce every workflow deliverable.
-5. Credit every source result. Mixed-model comparison images and video thumbnails
-   need context. Keep third-party media external unless reuse is authorized.
-6. Capture public engagement with a UTC timestamp. Record hidden values as null.
-7. Review for duplication. A renamed copy of the same recipe does not add value.
+1. Open the primary creator post and the full prompt in its author reply when needed.
+2. Verify explicit GPT Image 2.5 attribution, a complete usable prompt or workflow, its corresponding result, and required inputs.
+3. Record creator statements separately from independently tested model/output evidence. Keep contradictory model evidence in the local candidate queue.
+4. Preserve exact wording. Label editorial condensation or changes as adaptations. Never reconstruct an alleged source prompt from a picture.
+5. Explain reference images, prior outputs, other models and export tools. A generated sprite sheet is not itself a GIF.
+6. Credit source media and capture dated metrics from the measured post. Hidden metrics stay null.
+7. Deduplicate the actual recipe, not just its title. Translations, recolors and repeated promotion do not create independent cases.
 
-## Using X engagement
+Collections and resource articles are discovery leads. A bundle cannot become
+many cases unless each has its own complete prompt, corresponding result and
+model evidence. Never multiply a parent thread's engagement across replies.
+Older-model examples are not relabeled as GPT Image 2.5 just because another
+repository changed its title.
 
-The first collection was checked on **2026-09-10 UTC**. Views, likes, saves,
-reposts, and replies are observation snapshots from the public X interface.
-The source URL identifies exactly which post was measured. Search snippets and
-another directory's ranking are discovery leads, not verified live metrics.
+## Discovery order
 
-Likes order cases within a category, but do not determine admission. Saves can
-suggest practical interest; replies may represent debate or problems. Views
-measure exposure and are not unique users. We do not infer sales, reproducibility,
-model superiority, or prompt effectiveness from these numbers. Paid-partnership
-labels observed on source posts remain disclosed in the catalog.
+The internal discovery score is a weighted mean of `log(1 + count)`:
 
-The initial list deliberately includes a foliage stress test with mixed results
-and a transparency workflow that needed repair. Useful limitations belong beside
-impressive examples. Featured status is an editorial selection, not a ranking.
+| Metric | Weight |
+| --- | ---: |
+| Likes | 0.35 |
+| Bookmarks | 0.35 |
+| Reposts | 0.20 |
+| Views | 0.10 |
 
-## Original, adapted, and tested
+For unavailable values, exclude the term and normalize the remaining weights.
+All unavailable means a null score. Zero is a known observation, not missing.
+Ties use the stable ID. Replies remain recorded but are not part of the score.
 
-- **Original prompt:** the English block preserves the creator's English wording;
-  Chinese is our translation.
-- **Translation:** a faithful rendering of a non-English source, clearly marked.
-- **Editor adaptation:** a condensed or clarified recipe based on a published
-  prompt or workflow. The source result is not claimed as its exact output.
-- **Source-checked:** the cited public source was opened and reviewed.
-- **Independently tested:** a maintainer actually ran the recorded prompt with
-  recorded inputs, model, settings, date, and output evidence.
+This ranks discovery interest, not quality, reproducibility, model superiority,
+unique users, website conversion or sales. Every case shows its actual metric
+observation time; there is no misleading shared freshness badge. Existing
+published IDs remain stable. Low-engagement leads can stay in the local queue
+while stronger eligible cases are prioritized.
 
-All launch entries are source-checked and **none are independently tested**.
-The exact Flare/Sunburst variant is unknown unless the primary source specifies
-it. Another directory's inferred variant is not enough.
+## Original, translated and adapted
 
-## Refresh and corrections
+- **Original:** source wording is archived separately in its actual source language.
+- **Translation:** faithful localized wording. Preserve placeholders, numeric constraints, step order, negative instructions and intended text inside the image.
+- **Editor adaptation:** a disclosed rewrite, including historical condensed recipes. Its preview is not claimed as a verified output of the rewrite.
+- **Source-checked:** the cited primary source was opened and reviewed.
+- **Independently tested:** a maintainer actually ran the prompt with recorded inputs, model, settings and public result evidence.
 
-Prefer a useful new case or a material correction over repeatedly refreshing
-every number. Change the observation timestamp when refreshing metrics. Preserve
-stable IDs and review changes through Git history. If a post disappears, open a
-correction issue; do not invent missing text or silently attribute a mirror as
-the original. If verification is no longer possible, remove the case from the
-published catalog until evidence can be restored.
+Translate prompt instructions directly from their source language, not through
+an English pivot. Editorial notes are translated from the authored English.
+Do not assume that a post's language is the prompt's language. Missing original
+text and unknown languages remain explicitly unknown.
 
-See [CONTENT_POLICY.md](../CONTENT_POLICY.md) for attribution and removal requests.
+## Batch acceptance
+
+Calibrate with three to five cases, then review batches of about ten. Reach 50
+complete cases before continuing toward 100. Every counted case needs all
+configured languages, complete provenance and passing build/check results.
+Do not pad the count when sufficient source evidence is unavailable. Store
+rejected leads and unfinished translations locally with their reasons.
+
+Public release remains separate from local completion. Refresh only numbers
+that were actually observed again; preserve their individual timestamps.
+See [content policy](../CONTENT_POLICY.md) for corrections and removal requests.

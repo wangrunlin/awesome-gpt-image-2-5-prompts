@@ -3,9 +3,9 @@
 The repository is the public content source for [Image 2.5](https://image-2-5.com).
 These are planned directions, not implemented website features or deadlines.
 
-- [x] English-first README and complete Chinese counterpart.
+- [x] Complete image-first galleries in nine languages with stable case anchors.
 - [x] Source-linked prompt pages with reference requirements and dated X metrics.
-- [x] Structured bilingual catalog, contribution forms, and automated validation.
+- [x] Structured multilingual catalog with compatible English/Chinese projections and automated validation.
 - [ ] Add more distinctive, source-verified product, typography, and editing cases.
 - [ ] Independently reproduce selected prompts and attach input/settings/output evidence.
 - [ ] Add a dedicated prompt page on image-2-5.com with visual browsing and filters.

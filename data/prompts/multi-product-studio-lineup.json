@@ -1,13 +1,26 @@
 {
-  "schema_version": 1,
   "id": "multi-product-studio-lineup",
   "title": {
     "en": "Coherent multi-product studio lineup",
-    "zh": "多商品统一棚拍组合图"
+    "zh-CN": "多商品统一棚拍组合图",
+    "zh-TW": "協調的多產品攝影棚拍攝場景",
+    "ja": "一貫性のある複数製品のスタジオ撮影レイアウト",
+    "ko": "일관성 있는 다중 제품 스튜디오 배치",
+    "fr": "Composition studio cohérente de plusieurs produits",
+    "de": "Harmonische Produktpräsentation im Studio",
+    "es": "Alineación coherente de varios productos en estudio",
+    "pt-BR": "Alinhamento coerente de estúdio com vários produtos"
   },
   "summary": {
     "en": "Arrange several separately photographed products in one consistent studio composition.",
-    "zh": "将几张单独拍摄的产品照片组合成一个统一的摄影棚场景。"
+    "zh-CN": "将几张单独拍摄的产品照片组合成一个统一的摄影棚场景。",
+    "zh-TW": "將幾張單獨拍攝的產品照片組合成一個統一的攝影棚場景。",
+    "ja": "別々に撮影した複数の製品を、一貫性のあるスタジオ構図に配置する。",
+    "ko": "별도로 촬영된 여러 제품을 하나의 일관된 스튜디오 구도로 배치합니다.",
+    "fr": "Disposez plusieurs produits photographiés séparément dans une composition studio harmonieuse.",
+    "de": "Mehrere separat fotografierte Produkte in einer einheitlichen Studio-Komposition anordnen.",
+    "es": "Organizar varios productos fotografiados por separado en una composición de estudio uniforme.",
+    "pt-BR": "Organize vários produtos fotografados separadamente em uma composição de estúdio consistente."
   },
   "category": "products",
   "tags": [
@@ -15,7 +28,6 @@
     "edit"
   ],
   "mode": "edit",
-  "featured": true,
   "model": {
     "family": "GPT Image 2.5",
     "variant": null,
@@ -31,24 +43,52 @@
     "steps": [
       {
         "en": "Please combine the multiple product photos I uploaded into a single main image with a unified shooting style.\n\nThe main product in each reference image should be treated as an independent and unambiguous object. Each product should appear only once in the final image, without omissions, repetitions, or merging.\n\nAccurately preserve the unique shape, structure, color, material, logo, label, and legible text of each product. Do not mix bottle caps, color schemes, packaging patterns, or labels from different products.\n\nPlace all products on the same studio table to create a simple, layered display. Slight spatial relationships between products are acceptable, but the main display surface and brand information should be clearly visible.\n\nUse the angles already shown in the reference images for each product whenever possible; avoid actively showing the back side where no reference is available.\n\nUse consistent light source direction, color temperature, sharpness, and touch shadows to make them appear as if they were taken in the same shot, avoiding a patchwork effect with different backgrounds and lighting.\n\nUse a simple, neutral background that coordinates with the overall color scheme of the product set and does not overshadow the main products. Do not change the product colors to match the background.\n\nDo not add any unprovided products, gifts, gift boxes, packaging bags, prices, or promotional text.\n\nGenerate a 1:1 square main image of the combined product set, ensuring all products are fully visible within the frame.",
-        "zh": "请将我上传的多张商品照片，合成为一张统一拍摄风格的组合主图。\n\n每张参考图中的主要商品，都作为一个独立且不可混淆的对象。每件商品在最终画面中只出现一次，不遗漏、不重复、不合并。\n\n准确保留各商品自己的外形、结构、颜色、材质、Logo、标签和可辨认文字。不能把不同商品的瓶盖、配色、包装图案或标签混用。\n\n让全部商品放在同一摄影棚台面上，形成简洁、有层次的组合陈列。商品之间可以有轻微前后关系，但主要展示面与品牌信息应清晰可见。\n\n尽量沿用各商品参考图中已经展示的角度，不主动展示缺乏参考的背面。\n\n统一光源方向、色温、清晰度和接触阴影，让它们像在同一次拍摄中完成，避免各自带着不同背景和不同光线的拼贴感。\n\n背景采用与整组商品配色协调的简洁中性色，不抢主体。不要改变商品颜色来配合背景。\n\n不添加未提供的商品、赠品、礼盒、包装袋、价格或宣传文字。\n\n生成一张1:1方形组合主图，所有商品完整留在画面内。"
+        "zh-CN": "请将我上传的多张商品照片，合成为一张统一拍摄风格的组合主图。\n\n每张参考图中的主要商品，都作为一个独立且不可混淆的对象。每件商品在最终画面中只出现一次，不遗漏、不重复、不合并。\n\n准确保留各商品自己的外形、结构、颜色、材质、Logo、标签和可辨认文字。不能把不同商品的瓶盖、配色、包装图案或标签混用。\n\n让全部商品放在同一摄影棚台面上，形成简洁、有层次的组合陈列。商品之间可以有轻微前后关系，但主要展示面与品牌信息应清晰可见。\n\n尽量沿用各商品参考图中已经展示的角度，不主动展示缺乏参考的背面。\n\n统一光源方向、色温、清晰度和接触阴影，让它们像在同一次拍摄中完成，避免各自带着不同背景和不同光线的拼贴感。\n\n背景采用与整组商品配色协调的简洁中性色，不抢主体。不要改变商品颜色来配合背景。\n\n不添加未提供的商品、赠品、礼盒、包装袋、价格或宣传文字。\n\n生成一张1:1方形组合主图，所有商品完整留在画面内。",
+        "zh-TW": "請將我上傳的多張商品照片，合成為一張統一拍攝風格的組合主圖。\n\n每張參考圖中的主要商品，都作為一個獨立且不可混淆的物件。每件商品在最終畫面中只出現一次，不遺漏、不重複、不合併。\n\n準確保留各商品本身的外形、結構、顏色、材質、Logo、標籤和可辨識文字。不能把不同商品的瓶蓋、配色、包裝圖案或標籤混用。\n\n讓全部商品放在同一攝影棚檯面上，形成簡潔、有層次的組合陳列。商品之間可以有輕微前後關係，但主要展示面與品牌訊息應清晰可見。\n\n盡量沿用各商品參考圖中已經展示的角度，不主動展示缺乏參考的背面。\n\n統一光源方向、色溫、清晰度和接觸陰影，讓它們像在同一次拍攝中完成，避免各自帶著不同背景和不同光線的拼貼感。\n\n背景採用與整組商品配色協調的簡潔中性色，不搶主體。不要改變商品顏色來配合背景。\n\n不添加未提供的商品、贈品、禮盒、包裝袋、價格或宣傳文字。\n\n產生一張1:1方形組合主圖，所有商品完整留在畫面內。",
+        "ja": "アップロードした複数の商品写真を、統一された撮影スタイルで1枚のメイン画像に合成してください。\n\n参考画像に写っている各メイン商品は、それぞれ独立した明確なオブジェクトとして扱ってください。最終画像には、各商品が一度だけ登場し、省略、重複、合成はしないでください。\n\n各商品の形状、構造、色、素材、ロゴ、ラベル、識別可能な文字を正確に保持してください。異なる商品のボトルキャップ、配色、パッケージパターン、ラベルを混在させないでください。\n\nすべての商品を同じスタジオテーブルに配置し、シンプルで立体感のあるディスプレイを作成してください。商品間のわずかな空間的な関係性は許容されますが、メインのディスプレイ面とブランド情報は明確に見えるようにしてください。\n\n\n各製品の参考画像に示されている角度を可能な限り活用し、参考画像がない場合は背面を意図的に写さないようにしてください。\n\n光源の方向、色温度、シャープネス、コンタクトシャドウを統一し、まるで同じショットで撮影したかのように見えるようにしてください。背景や照明が異なると、パッチワークのような不自然な印象になります。\n\n背景は、製品セット全体の配色と調和する、シンプルでニュートラルな色を使用してください。ただし、メインの製品が目立たないように注意してください。背景に合わせて製品の色を変更しないでください。提供されていない製品、ギフト、ギフトボックス、包装袋、価格、販促テキストなどは追加しないでください。\n\nすべての製品がフレーム内に収まるように、1:1の正方形のメイン画像を作成してください。",
+        "ko": "제가 업로드한 여러 제품 사진을 통일된 촬영 스타일로 하나의 메인 이미지로 합성해 주세요.\n\n참고 이미지의 각 주요 제품은 독립적이고 명확한 개체로 취급되어야 합니다. 최종 이미지에는 각 제품이 한 번만 나타나야 하며, 누락, 반복 또는 병합이 없어야 합니다.\n\n각 제품의 고유한 형태, 구조, 색상, 재질, 로고, 라벨 및 식별 가능한 텍스트를 정확하게 유지해야 합니다. 다른 제품의 병뚜껑, 색상 구성, 포장 패턴 또는 라벨을 혼합해서는 안 됩니다.\n\n모든 제품을 동일한 스튜디오 테이블 위에 배치하여 단순하면서도 입체적인 디스플레이를 연출해 주세요. 제품 간의 약간의 공간적 관계는 허용되지만, 주요 디스플레이 표면과 브랜드 정보는 명확하게 보여야 합니다.\n\n각 제품의 참고 이미지에 나와 있는 각도를 최대한 활용하고, 참고 이미지가 없는 뒷면은 의도적으로 보여주지 마십시오.\n\n일관된 광원 방향, 색온도, 선명도, 그림자를 사용하여 마치 같은 장면에서 촬영한 것처럼 보이도록 하고, 배경과 조명이 다른 부분을 이어 붙인 듯한 효과를 피하십시오.\n\n배경은 제품 전체의 색 구성과 조화를 이루면서도 주요 제품을 압도하지 않는 단순하고 중립적인 색상을 사용하십시오. 배경색에 맞춰 제품 색상을 변경하지 마십시오. 제공되지 않은 제품, 선물, 선물 상자, 포장 백, 가격표, 홍보 문구 등을 추가하지 마십시오.\n\n모든 제품이 프레임 안에 완전히 보이도록 1:1 비율의 정사각형 메인 이미지를 생성하십시오.",
+        "fr": "Veuillez combiner les différentes photos de produits que j’ai téléchargées en une seule image principale, avec un style de prise de vue uniforme.\n\nChaque produit principal des images de référence doit être traité comme un objet indépendant et non ambigu. Chaque produit ne doit apparaître qu’une seule fois dans l’image finale, sans omission, répétition ni fusion.\n\nVeuillez conserver fidèlement la forme, la structure, la couleur, le matériau, le logo, l’étiquette et le texte identifiable de chaque produit. Ne mélangez pas les bouchons, les couleurs, les motifs d’emballage ou les étiquettes de différents produits.\n\nDisposez tous les produits sur la même table de studio afin de créer une présentation simple et structurée. De légères relations spatiales entre les produits sont acceptables, mais les surfaces principales et les informations sur la marque doivent être clairement visibles.\n\nUtilisez autant que possible les angles déjà présentés dans les images de référence pour chaque produit et évitez de montrer activement le dos lorsqu’il n’y a pas de référence.\n\nUtilisez une source de lumière, une température de couleur, une netteté et des ombres portées uniformes pour donner l'impression que les photos ont été prises lors d'une même prise de vue, évitant ainsi un effet patchwork dû à des arrière-plans et des éclairages différents.\n\nUtilisez une couleur neutre et simple pour l'arrière-plan, coordonnée avec la palette de couleurs générale de la série de produits, sans pour autant éclipser le produit principal. Ne modifiez pas les couleurs des produits pour les assortir à l'arrière-plan. N'ajoutez aucun produit, cadeau, coffret cadeau, sac d'emballage, prix ou texte promotionnel non fourni.\n\nGénérez une image principale carrée au format 1:1, dans laquelle tous les produits sont entièrement visibles.",
+        "de": "Bitte kombinieren Sie die von mir hochgeladenen Produktfotos zu einem einzigen Hauptbild mit einheitlichem Aufnahmestil.\n\nJedes Hauptprodukt in den Referenzbildern sollte als eigenständiges und eindeutiges Objekt behandelt werden. Jedes Produkt sollte im endgültigen Bild nur einmal erscheinen, ohne Auslassungen, Wiederholungen oder Verschmelzungen.\n\nBewahren Sie die einzigartige Form, Struktur, Farbe, das Material, das Logo, das Etikett und den charakteristischen Text jedes Produkts präzise auf. Verwenden Sie keine Flaschenverschlüsse, Farbschemata, Verpackungsmuster oder Etiketten verschiedener Produkte.\n\nPlatzieren Sie alle Produkte auf demselben Studiotisch, um eine einfache und übersichtliche Präsentation zu schaffen. Leichte räumliche Beziehungen zwischen den Produkten sind akzeptabel, die Hauptpräsentationsflächen und Markeninformationen sollten jedoch deutlich sichtbar sein.\n\nVerwenden Sie möglichst die in den Referenzbildern für jedes Produkt gezeigten Blickwinkel und vermeiden Sie es, die Rückseite aktiv zu zeigen, sofern keine Referenzbilder vorhanden sind.\n\nAchten Sie auf eine einheitliche Lichtquelle, Farbtemperatur, Schärfe und Schattenwurf, damit die Produkte wie aus einem Guss wirken und kein Patchwork-Effekt durch unterschiedliche Hintergründe und Beleuchtung entsteht.\n\nVerwenden Sie für den Hintergrund eine schlichte, neutrale Farbe, die mit dem Farbschema der Produktgruppe harmoniert, ohne das Hauptprodukt zu überstrahlen. Passen Sie die Produktfarben nicht an den Hintergrund an. Fügen Sie keine zusätzlichen Produkte, Geschenke, Geschenkverpackungen, Preisschilder oder Werbetexte hinzu.\n\nErstellen Sie ein quadratisches Hauptbild im 1:1-Format, in dem alle Produkte vollständig im Bildausschnitt zu sehen sind.",
+        "es": "Por favor, combine las múltiples fotos de productos que subí en una sola imagen principal con un estilo de fotografía uniforme.\n\nCada producto principal en las imágenes de referencia debe tratarse como un objeto independiente y sin ambigüedades. Cada producto debe aparecer solo una vez en la imagen final, sin omisiones, repeticiones ni fusiones.\n\nConserve con precisión la forma, estructura, color, material, logotipo, etiqueta y texto identificativo únicos de cada producto. No mezcle tapas de botellas, combinaciones de colores, patrones de empaque ni etiquetas de diferentes productos.\n\nColoque todos los productos en la misma mesa de estudio para crear una presentación sencilla y con capas. Se permiten ligeras relaciones espaciales entre los productos, pero las superficies principales de la presentación y la información de la marca deben ser claramente visibles.\n\nUtilice los ángulos ya mostrados en las imágenes de referencia de cada producto en la medida de lo posible y evite mostrar la parte posterior donde no haya referencia.\n\nUtilice una dirección de la fuente de luz, temperatura de color, nitidez y sombras de contacto consistentes para que parezcan tomadas en la misma imagen, evitando un efecto de mosaico con diferentes fondos e iluminación.\n\nUtilice un color neutro y sencillo para el fondo que combine con la paleta de colores general del conjunto de productos, sin eclipsar el producto principal. No cambie los colores de los productos para que coincidan con el fondo. No añada productos no proporcionados, regalos, cajas de regalo, bolsas de embalaje, precios ni texto promocional.\n\nGenere una imagen principal cuadrada a escala 1:1 con todos los productos completamente visibles dentro del encuadre.",
+        "pt-BR": "Combine as várias fotos de produtos que enviei em uma única imagem principal com um estilo de fotografia unificado.\n\nCada produto principal nas imagens de referência deve ser tratado como um objeto independente e inequívoco. Cada produto deve aparecer apenas uma vez na imagem final, sem omissões, repetições ou fusões.\n\nPreserve com precisão a forma, a estrutura, a cor, o material, o logotipo, o rótulo e o texto identificável exclusivos de cada produto. Não misture tampas de garrafa, esquemas de cores, padrões de embalagem ou rótulos de produtos diferentes.\n\nDisponha todos os produtos na mesma mesa do estúdio para criar uma exibição simples e em camadas. Ligeiras relações espaciais entre os produtos são aceitáveis, mas as superfícies principais de exibição e as informações da marca devem estar claramente visíveis.\n\nUtilize os ângulos já mostrados nas imagens de referência para cada produto sempre que possível e evite mostrar ativamente a parte de trás quando não houver referência.\n\nUse a mesma direção da fonte de luz, temperatura de cor, nitidez e sombras de contato para que as fotos pareçam ter sido tiradas na mesma imagem, evitando um efeito de mosaico com fundos e iluminação diferentes.\n\nUse uma cor neutra e simples para o fundo que combine com o esquema de cores geral do conjunto de produtos, sem ofuscar o produto principal. Não altere as cores dos produtos para combinar com o fundo. Não adicione produtos, brindes, caixas de presente, sacolas de embalagem, preços ou textos promocionais não fornecidos.\n\nGere uma imagem principal quadrada em proporção 1:1 com todos os produtos totalmente exibidos dentro do quadro."
       }
     ]
   },
   "inputs": [
     {
       "en": "One reference photograph per product to include in the arrangement.",
-      "zh": "每个产品需提供一张参考照片用于场景布置。"
+      "zh-CN": "每个产品需提供一张参考照片用于场景布置。",
+      "zh-TW": "每個產品需提供一張參考照片用於場景佈置。",
+      "ja": "配置に含める製品ごとに1枚の参考写真。",
+      "ko": "배치에 포함할 제품당 하나의 참조 사진.",
+      "fr": "Une photo de référence par produit à inclure dans la composition.",
+      "de": "Ein Referenzfoto pro Produkt für die Anordnung.",
+      "es": "Una fotografía de referencia por producto para incluir en la composición.",
+      "pt-BR": "Uma fotografia de referência por produto para incluir na composição."
     }
   ],
   "notes": [
     {
       "en": "This is a distinct illustrated recipe within the creator’s GPT Image 2.5 tutorial. The article’s shared engagement is not assigned to individual recipes.",
-      "zh": "这是作者 GPT Image 2.5 教程中的一个独立图解教程。文章的共享互动并未分配给单个食谱。"
+      "zh-CN": "这是作者 GPT Image 2.5 教程中的一个独立图解教程。文章的共享互动并未分配给单条案例。",
+      "zh-TW": "這是作者 GPT Image 2.5 教學中的獨立圖解教學。文章的共享互動並未分配給單一案例。",
+      "ja": "これは、作成者のGPT Image 2.5チュートリアルに含まれる、独立した図解付きレシピです。記事の共有エンゲージメントは、個々のレシピには割り当てられていません。",
+      "ko": "이것은 제작자의 GPT Image 2.5 튜토리얼에 포함된 별도의 그림 설명 레시피입니다. 이 문서의 공유 참여도는 개별 레시피에 할당되지 않습니다.",
+      "fr": "Il s'agit d'une méthode illustrée spécifique au tutoriel GPT Image 2.5 de son créateur. L'engagement partagé de l'article n'est pas attribué à des recettes individuelles.",
+      "de": "Dies ist eine detaillierte, bebilderte Anleitung aus dem Tutorial GPT Image 2.5 des Erstellers. Die geteilte Interaktion im Artikel wird nicht einzelnen Rezepten zugeordnet.",
+      "es": "Esta es una receta ilustrada específica dentro del tutorial GPT Image 2.5 del creador. La participación compartida del artículo no se asigna a recetas individuales.",
+      "pt-BR": "Esta é uma receita ilustrada distinta dentro do tutorial GPT Image 2.5 do criador. O engajamento compartilhado do artigo não é atribuído a receitas individuais."
     },
     {
       "en": "The preview is a result shown by the author; required references must be supplied by the reader. The repository has not independently tested this workflow.",
-      "zh": "预览是作者展示的结果；读者必须提供所需的参考资料。该存储库尚未独立测试此工作流程。"
+      "zh-CN": "预览是作者展示的结果；读者必须提供所需的参考资料。本仓库尚未独立测试此工作流程。",
+      "zh-TW": "預覽是作者展示的結果；讀者必須提供所需的參考資料。該存儲庫尚未獨立測試此工作流程。",
+      "ja": "プレビューは著者が表示した結果です。必要な参照情報は読者が提供する必要があります。リポジトリはこのワークフローを独自にテストしていません。",
+      "ko": "미리보기는 작성자가 보여주는 결과이며, 필요한 참조는 독자가 제공해야 합니다. 이 저장소는 해당 워크플로를 독립적으로 테스트하지 않았습니다.",
+      "fr": "L'aperçu est un résultat affiché par l'auteur ; les références requises doivent être fournies par le lecteur. Ce processus n'a pas été testé indépendamment par le dépôt.",
+      "de": "Die Vorschau zeigt ein vom Autor dargestelltes Ergebnis; die benötigten Referenzen müssen vom Leser bereitgestellt werden. Das Repository hat diesen Workflow nicht unabhängig getestet.",
+      "es": "La vista previa es un resultado mostrado por el autor; el lector debe proporcionar las referencias necesarias. El repositorio no ha probado este flujo de trabajo de forma independiente.",
+      "pt-BR": "A pré-visualização é um resultado mostrado pelo autor; as referências necessárias devem ser fornecidas pelo leitor. O repositório não testou este fluxo de trabalho de forma independente."
     }
   ],
   "source": {
@@ -88,118 +128,32 @@
     "status": "third-party-terms",
     "note": "Third-party prompts and media retain their creators’ rights; external previews are linked, not relicensed."
   },
-  "localizations": {
-    "zh-TW": {
-      "title": "協調的多產品攝影棚拍攝場景",
-      "summary": "將幾張單獨拍攝的產品照片組合成一個統一的攝影棚場景。",
-      "steps": [
-        "請將我上傳的多張商品照片，合成為一張統一拍攝風格的組合主圖。\n\n每張參考圖中的主要商品，都作為一個獨立且不可混淆的物件。每件商品在最終畫面中只出現一次，不遺漏、不重複、不合併。\n\n準確保留各商品本身的外形、結構、顏色、材質、Logo、標籤和可辨識文字。不能把不同商品的瓶蓋、配色、包裝圖案或標籤混用。\n\n讓全部商品放在同一攝影棚檯面上，形成簡潔、有層次的組合陳列。商品之間可以有輕微前後關係，但主要展示面與品牌訊息應清晰可見。\n\n盡量沿用各商品參考圖中已經展示的角度，不主動展示缺乏參考的背面。\n\n統一光源方向、色溫、清晰度和接觸陰影，讓它們像在同一次拍攝中完成，避免各自帶著不同背景和不同光線的拼貼感。\n\n背景採用與整組商品配色協調的簡潔中性色，不搶主體。不要改變商品顏色來配合背景。\n\n不添加未提供的商品、贈品、禮盒、包裝袋、價格或宣傳文字。\n\n產生一張1:1方形組合主圖，所有商品完整留在畫面內。"
-      ],
-      "inputs": [
-        "每個產品需提供一張參考照片用於場景佈置。"
-      ],
-      "notes": [
-        "這是作者 GPT Image 2.5 教學中的獨立圖解教學。文章的共享互動並未分配給單一食譜。",
-        "預覽是作者展示的結果；讀者必須提供所需的參考資料。該存儲庫尚未獨立測試此工作流程。"
-      ],
-      "source_digest": "e226df5f39e0a093f305877ffd4b00e396ec5e4dcb2164220851b43cb0a31d66",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ja": {
-      "title": "一貫性のある複数製品のスタジオ撮影レイアウト",
-      "summary": "別々に撮影した複数の製品を、一貫性のあるスタジオ構図に配置する。",
-      "steps": [
-        "アップロードした複数の商品写真を、統一された撮影スタイルで1枚のメイン画像に合成してください。\n\n参考画像に写っている各メイン商品は、それぞれ独立した明確なオブジェクトとして扱ってください。最終画像には、各商品が一度だけ登場し、省略、重複、合成はしないでください。\n\n各商品の形状、構造、色、素材、ロゴ、ラベル、識別可能な文字を正確に保持してください。異なる商品のボトルキャップ、配色、パッケージパターン、ラベルを混在させないでください。\n\nすべての商品を同じスタジオテーブルに配置し、シンプルで立体感のあるディスプレイを作成してください。商品間のわずかな空間的な関係性は許容されますが、メインのディスプレイ面とブランド情報は明確に見えるようにしてください。\n\n\n各製品の参考画像に示されている角度を可能な限り活用し、参考画像がない場合は背面を意図的に写さないようにしてください。\n\n光源の方向、色温度、シャープネス、コンタクトシャドウを統一し、まるで同じショットで撮影したかのように見えるようにしてください。背景や照明が異なると、パッチワークのような不自然な印象になります。\n\n背景は、製品セット全体の配色と調和する、シンプルでニュートラルな色を使用してください。ただし、メインの製品が目立たないように注意してください。背景に合わせて製品の色を変更しないでください。提供されていない製品、ギフト、ギフトボックス、包装袋、価格、販促テキストなどは追加しないでください。\n\nすべての製品がフレーム内に収まるように、1:1の正方形のメイン画像を作成してください。"
-      ],
-      "inputs": [
-        "配置に含める製品ごとに1枚の参考写真。"
-      ],
-      "notes": [
-        "これは、作成者のGPT Image 2.5チュートリアルに含まれる、独立した図解付きレシピです。記事の共有エンゲージメントは、個々のレシピには割り当てられていません。",
-        "プレビューは著者が表示した結果です。必要な参照情報は読者が提供する必要があります。リポジトリはこのワークフローを独自にテストしていません。"
-      ],
-      "source_digest": "e226df5f39e0a093f305877ffd4b00e396ec5e4dcb2164220851b43cb0a31d66",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ko": {
-      "title": "일관성 있는 다중 제품 스튜디오 배치",
-      "summary": "별도로 촬영된 여러 제품을 하나의 일관된 스튜디오 구도로 배치합니다.",
-      "steps": [
-        "제가 업로드한 여러 제품 사진을 통일된 촬영 스타일로 하나의 메인 이미지로 합성해 주세요.\n\n참고 이미지의 각 주요 제품은 독립적이고 명확한 개체로 취급되어야 합니다. 최종 이미지에는 각 제품이 한 번만 나타나야 하며, 누락, 반복 또는 병합이 없어야 합니다.\n\n각 제품의 고유한 형태, 구조, 색상, 재질, 로고, 라벨 및 식별 가능한 텍스트를 정확하게 유지해야 합니다. 다른 제품의 병뚜껑, 색상 구성, 포장 패턴 또는 라벨을 혼합해서는 안 됩니다.\n\n모든 제품을 동일한 스튜디오 테이블 위에 배치하여 단순하면서도 입체적인 디스플레이를 연출해 주세요. 제품 간의 약간의 공간적 관계는 허용되지만, 주요 디스플레이 표면과 브랜드 정보는 명확하게 보여야 합니다.\n\n각 제품의 참고 이미지에 나와 있는 각도를 최대한 활용하고, 참고 이미지가 없는 뒷면은 의도적으로 보여주지 마십시오.\n\n일관된 광원 방향, 색온도, 선명도, 그림자를 사용하여 마치 같은 장면에서 촬영한 것처럼 보이도록 하고, 배경과 조명이 다른 부분을 이어 붙인 듯한 효과를 피하십시오.\n\n배경은 제품 전체의 색 구성과 조화를 이루면서도 주요 제품을 압도하지 않는 단순하고 중립적인 색상을 사용하십시오. 배경색에 맞춰 제품 색상을 변경하지 마십시오. 제공되지 않은 제품, 선물, 선물 상자, 포장 백, 가격표, 홍보 문구 등을 추가하지 마십시오.\n\n모든 제품이 프레임 안에 완전히 보이도록 1:1 비율의 정사각형 메인 이미지를 생성하십시오."
-      ],
-      "inputs": [
-        "배치에 포함할 제품당 하나의 참조 사진."
-      ],
-      "notes": [
-        "이것은 제작자의 GPT Image 2.5 튜토리얼에 포함된 별도의 그림 설명 레시피입니다. 이 문서의 공유 참여도는 개별 레시피에 할당되지 않습니다.",
-        "미리보기는 작성자가 보여주는 결과이며, 필요한 참조는 독자가 제공해야 합니다. 이 저장소는 해당 워크플로를 독립적으로 테스트하지 않았습니다."
-      ],
-      "source_digest": "e226df5f39e0a093f305877ffd4b00e396ec5e4dcb2164220851b43cb0a31d66",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "fr": {
-      "title": "Composition studio cohérente de plusieurs produits",
-      "summary": "Disposez plusieurs produits photographiés séparément dans une composition studio harmonieuse.",
-      "steps": [
-        "Veuillez combiner les différentes photos de produits que j’ai téléchargées en une seule image principale, avec un style de prise de vue uniforme.\n\nChaque produit principal des images de référence doit être traité comme un objet indépendant et non ambigu. Chaque produit ne doit apparaître qu’une seule fois dans l’image finale, sans omission, répétition ni fusion.\n\nVeuillez conserver fidèlement la forme, la structure, la couleur, le matériau, le logo, l’étiquette et le texte identifiable de chaque produit. Ne mélangez pas les bouchons, les couleurs, les motifs d’emballage ou les étiquettes de différents produits.\n\nDisposez tous les produits sur la même table de studio afin de créer une présentation simple et structurée. De légères relations spatiales entre les produits sont acceptables, mais les surfaces principales et les informations sur la marque doivent être clairement visibles.\n\nUtilisez autant que possible les angles déjà présentés dans les images de référence pour chaque produit et évitez de montrer activement le dos lorsqu’il n’y a pas de référence.\n\nUtilisez une source de lumière, une température de couleur, une netteté et des ombres portées uniformes pour donner l'impression que les photos ont été prises lors d'une même prise de vue, évitant ainsi un effet patchwork dû à des arrière-plans et des éclairages différents.\n\nUtilisez une couleur neutre et simple pour l'arrière-plan, coordonnée avec la palette de couleurs générale de la série de produits, sans pour autant éclipser le produit principal. Ne modifiez pas les couleurs des produits pour les assortir à l'arrière-plan. N'ajoutez aucun produit, cadeau, coffret cadeau, sac d'emballage, prix ou texte promotionnel non fourni.\n\nGénérez une image principale carrée au format 1:1, dans laquelle tous les produits sont entièrement visibles."
-      ],
-      "inputs": [
-        "Une photo de référence par produit à inclure dans la composition."
-      ],
-      "notes": [
-        "Il s'agit d'une méthode illustrée spécifique au tutoriel GPT Image 2.5 de son créateur. L'engagement partagé de l'article n'est pas attribué à des recettes individuelles.",
-        "L'aperçu est un résultat affiché par l'auteur ; les références requises doivent être fournies par le lecteur. Ce processus n'a pas été testé indépendamment par le dépôt."
-      ],
-      "source_digest": "e226df5f39e0a093f305877ffd4b00e396ec5e4dcb2164220851b43cb0a31d66",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "de": {
-      "title": "Harmonische Produktpräsentation im Studio",
-      "summary": "Mehrere separat fotografierte Produkte in einer einheitlichen Studio-Komposition anordnen.",
-      "steps": [
-        "Bitte kombinieren Sie die von mir hochgeladenen Produktfotos zu einem einzigen Hauptbild mit einheitlichem Aufnahmestil.\n\nJedes Hauptprodukt in den Referenzbildern sollte als eigenständiges und eindeutiges Objekt behandelt werden. Jedes Produkt sollte im endgültigen Bild nur einmal erscheinen, ohne Auslassungen, Wiederholungen oder Verschmelzungen.\n\nBewahren Sie die einzigartige Form, Struktur, Farbe, das Material, das Logo, das Etikett und den charakteristischen Text jedes Produkts präzise auf. Verwenden Sie keine Flaschenverschlüsse, Farbschemata, Verpackungsmuster oder Etiketten verschiedener Produkte.\n\nPlatzieren Sie alle Produkte auf demselben Studiotisch, um eine einfache und übersichtliche Präsentation zu schaffen. Leichte räumliche Beziehungen zwischen den Produkten sind akzeptabel, die Hauptpräsentationsflächen und Markeninformationen sollten jedoch deutlich sichtbar sein.\n\nVerwenden Sie möglichst die in den Referenzbildern für jedes Produkt gezeigten Blickwinkel und vermeiden Sie es, die Rückseite aktiv zu zeigen, sofern keine Referenzbilder vorhanden sind.\n\nAchten Sie auf eine einheitliche Lichtquelle, Farbtemperatur, Schärfe und Schattenwurf, damit die Produkte wie aus einem Guss wirken und kein Patchwork-Effekt durch unterschiedliche Hintergründe und Beleuchtung entsteht.\n\nVerwenden Sie für den Hintergrund eine schlichte, neutrale Farbe, die mit dem Farbschema der Produktgruppe harmoniert, ohne das Hauptprodukt zu überstrahlen. Passen Sie die Produktfarben nicht an den Hintergrund an. Fügen Sie keine zusätzlichen Produkte, Geschenke, Geschenkverpackungen, Preisschilder oder Werbetexte hinzu.\n\nErstellen Sie ein quadratisches Hauptbild im 1:1-Format, in dem alle Produkte vollständig im Bildausschnitt zu sehen sind."
-      ],
-      "inputs": [
-        "Ein Referenzfoto pro Produkt für die Anordnung."
-      ],
-      "notes": [
-        "Dies ist eine detaillierte, bebilderte Anleitung aus dem Tutorial GPT Image 2.5 des Erstellers. Die geteilte Interaktion im Artikel wird nicht einzelnen Rezepten zugeordnet.",
-        "Die Vorschau zeigt ein vom Autor dargestelltes Ergebnis; die benötigten Referenzen müssen vom Leser bereitgestellt werden. Das Repository hat diesen Workflow nicht unabhängig getestet."
-      ],
-      "source_digest": "e226df5f39e0a093f305877ffd4b00e396ec5e4dcb2164220851b43cb0a31d66",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "es": {
-      "title": "Alineación coherente de varios productos en estudio",
-      "summary": "Organizar varios productos fotografiados por separado en una composición de estudio uniforme.",
-      "steps": [
-        "Por favor, combine las múltiples fotos de productos que subí en una sola imagen principal con un estilo de fotografía uniforme.\n\nCada producto principal en las imágenes de referencia debe tratarse como un objeto independiente y sin ambigüedades. Cada producto debe aparecer solo una vez en la imagen final, sin omisiones, repeticiones ni fusiones.\n\nConserve con precisión la forma, estructura, color, material, logotipo, etiqueta y texto identificativo únicos de cada producto. No mezcle tapas de botellas, combinaciones de colores, patrones de empaque ni etiquetas de diferentes productos.\n\nColoque todos los productos en la misma mesa de estudio para crear una presentación sencilla y con capas. Se permiten ligeras relaciones espaciales entre los productos, pero las superficies principales de la presentación y la información de la marca deben ser claramente visibles.\n\nUtilice los ángulos ya mostrados en las imágenes de referencia de cada producto en la medida de lo posible y evite mostrar la parte posterior donde no haya referencia.\n\nUtilice una dirección de la fuente de luz, temperatura de color, nitidez y sombras de contacto consistentes para que parezcan tomadas en la misma imagen, evitando un efecto de mosaico con diferentes fondos e iluminación.\n\nUtilice un color neutro y sencillo para el fondo que combine con la paleta de colores general del conjunto de productos, sin eclipsar el producto principal. No cambie los colores de los productos para que coincidan con el fondo. No añada productos no proporcionados, regalos, cajas de regalo, bolsas de embalaje, precios ni texto promocional.\n\nGenere una imagen principal cuadrada a escala 1:1 con todos los productos completamente visibles dentro del encuadre."
-      ],
-      "inputs": [
-        "Una fotografía de referencia por producto para incluir en la composición."
-      ],
-      "notes": [
-        "Esta es una receta ilustrada específica dentro del tutorial GPT Image 2.5 del creador. La participación compartida del artículo no se asigna a recetas individuales.",
-        "La vista previa es un resultado mostrado por el autor; el lector debe proporcionar las referencias necesarias. El repositorio no ha probado este flujo de trabajo de forma independiente."
-      ],
-      "source_digest": "e226df5f39e0a093f305877ffd4b00e396ec5e4dcb2164220851b43cb0a31d66",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "pt-BR": {
-      "title": "Alinhamento coerente de estúdio com vários produtos",
-      "summary": "Organize vários produtos fotografados separadamente em uma composição de estúdio consistente.",
-      "steps": [
-        "Combine as várias fotos de produtos que enviei em uma única imagem principal com um estilo de fotografia unificado.\n\nCada produto principal nas imagens de referência deve ser tratado como um objeto independente e inequívoco. Cada produto deve aparecer apenas uma vez na imagem final, sem omissões, repetições ou fusões.\n\nPreserve com precisão a forma, a estrutura, a cor, o material, o logotipo, o rótulo e o texto identificável exclusivos de cada produto. Não misture tampas de garrafa, esquemas de cores, padrões de embalagem ou rótulos de produtos diferentes.\n\nDisponha todos os produtos na mesma mesa do estúdio para criar uma exibição simples e em camadas. Ligeiras relações espaciais entre os produtos são aceitáveis, mas as superfícies principais de exibição e as informações da marca devem estar claramente visíveis.\n\nUtilize os ângulos já mostrados nas imagens de referência para cada produto sempre que possível e evite mostrar ativamente a parte de trás quando não houver referência.\n\nUse a mesma direção da fonte de luz, temperatura de cor, nitidez e sombras de contato para que as fotos pareçam ter sido tiradas na mesma imagem, evitando um efeito de mosaico com fundos e iluminação diferentes.\n\nUse uma cor neutra e simples para o fundo que combine com o esquema de cores geral do conjunto de produtos, sem ofuscar o produto principal. Não altere as cores dos produtos para combinar com o fundo. Não adicione produtos, brindes, caixas de presente, sacolas de embalagem, preços ou textos promocionais não fornecidos.\n\nGere uma imagem principal quadrada em proporção 1:1 com todos os produtos totalmente exibidos dentro do quadro."
-      ],
-      "inputs": [
-        "Uma fotografia de referência por produto para incluir na composição."
-      ],
-      "notes": [
-        "Esta é uma receita ilustrada distinta dentro do tutorial GPT Image 2.5 do criador. O engajamento compartilhado do artigo não é atribuído a receitas individuais.",
-        "A pré-visualização é um resultado mostrado pelo autor; as referências necessárias devem ser fornecidas pelo leitor. O repositório não testou este fluxo de trabalho de forma independente."
-      ],
-      "source_digest": "e226df5f39e0a093f305877ffd4b00e396ec5e4dcb2164220851b43cb0a31d66",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+  "translation_meta": {
+    "source_digest": "7627f69752bdb6c56a2f58a64d1a68a5ac3606c431454ebed9ce57a3bc019833",
+    "text_digests": {
+      "zh-CN": "6e0300938bbf933b673371d5f807e618687fa7aef2f7c3a8963930c546fbc4ec",
+      "zh-TW": "955546cd328591eca40c39293e836d5920edda368a876050ca5841d85dabc98c",
+      "ja": "0902de0e9e970670616b04c319615445e703c13c4ff312f844ce5d4deb1f026e",
+      "ko": "d5ff79349fb3c05d2bccdb1249e9f3275722537318532691af22c351bf64ebf7",
+      "fr": "2d19bba2833b2f51f78946f7d48f5f72a08118502f34e9f5cf1993bc56d14d1d",
+      "de": "285d5aadc2fcf47301c7548e51cde7ca1de2ec8f6588d2f0f685f559d351ff1d",
+      "es": "566d162182d5088f80e07c1009ca5dc1a518c59581ba754a418a48edf804dee2",
+      "pt-BR": "d5ae65dd11058cc86e45f59c2e3b05d99dcd951bad29a96f1b8de4aa1e8732dc"
     }
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:12:37.869Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 4,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 4,
+      "distinctiveness": 3
+    },
+    "rationale": "The lineup shows coherent product scale and studio lighting; clear constraints protect distinct products and labels when combining user references."
   }
 }

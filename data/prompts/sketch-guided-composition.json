@@ -1,13 +1,26 @@
 {
-  "schema_version": 1,
   "id": "sketch-guided-composition",
   "title": {
     "en": "Recompose a scene from a sketch",
-    "zh": "用草图重排构图"
+    "zh-CN": "用草图重排构图",
+    "zh-TW": "根據草圖重新構圖",
+    "ja": "スケッチからシーンを再構成する",
+    "ko": "스케치를 바탕으로 장면 재구성하기",
+    "fr": "Recomposer une scène à partir d'un croquis",
+    "de": "Neukomposition einer Szene anhand einer Skizze",
+    "es": "Recomponer una escena a partir de un boceto",
+    "pt-BR": "Recomponha uma cena a partir de um esboço"
   },
   "summary": {
     "en": "Use a rough sketch to communicate where existing subjects should move.",
-    "zh": "通过粗略草图说明现有主体的新位置。"
+    "zh-CN": "通过粗略草图说明现有主体的新位置。",
+    "zh-TW": "使用草圖來表示現有角色應該移動的位置。",
+    "ja": "ラフスケッチを使って、既存の被写体をどこへ移動させるかを示します。",
+    "ko": "거친 스케치를 활용하여 기존 피사체들의 이동 위치를 지정해 보세요.",
+    "fr": "Utiliser un croquis sommaire pour indiquer où les sujets existants doivent se déplacer.",
+    "de": "Nutzen Sie eine grobe Skizze, um festzulegen, wohin sich vorhandene Motive bewegen sollen.",
+    "es": "Utiliza un boceto preliminar para indicar hacia dónde deben moverse los sujetos existentes.",
+    "pt-BR": "Use um esboço preliminar para indicar para onde os elementos existentes na cena devem se mover."
   },
   "category": "sketch",
   "tags": [
@@ -16,7 +29,6 @@
     "reference-image"
   ],
   "mode": "edit",
-  "featured": false,
   "model": {
     "family": "GPT Image 2.5",
     "variant": null,
@@ -28,7 +40,14 @@
     "steps": [
       {
         "en": "change the composition to this",
-        "zh": "把构图改成这样"
+        "zh-CN": "把构图改成这样",
+        "zh-TW": "將構圖改為這樣",
+        "ja": "構図をこれに変更する",
+        "ko": "구도를 이렇게 변경하세요",
+        "fr": "Modifier la composition pour obtenir ceci",
+        "de": "Ändern Sie die Komposition wie folgt:",
+        "es": "cambia la composición a esto",
+        "pt-BR": "mude a composição para isto"
       }
     ],
     "original_language": "en",
@@ -39,13 +58,27 @@
   "inputs": [
     {
       "en": "The original scene and a sketch showing the desired arrangement.",
-      "zh": "原始场景图与标明目标布局的草图。"
+      "zh-CN": "原始场景图与标明目标布局的草图。",
+      "zh-TW": "原始場景和一張顯示所需佈局的草圖。",
+      "ja": "元のシーンと、希望する配置を示したスケッチ。",
+      "ko": "원본 장면과 원하는 배치를 보여주는 스케치.",
+      "fr": "La scène originale et un croquis montrant la disposition souhaitée.",
+      "de": "Die ursprüngliche Szene und eine Skizze, die die gewünschte Anordnung zeigt.",
+      "es": "La escena original y un boceto que muestra la disposición deseada.",
+      "pt-BR": "A cena original e um esboço mostrando o arranjo desejado."
     }
   ],
   "notes": [
     {
       "en": "“This” refers to the attached sketch. Without both inputs, the short prompt is incomplete.",
-      "zh": "“这样”指附件草图。缺少任一输入时，这条短提示词不完整。"
+      "zh-CN": "“这样”指附件草图。缺少任一输入时，这条短提示词不完整。",
+      "zh-TW": "「這樣」指的是附件中的草圖。缺少這兩項內容，簡短的提示將不完整。",
+      "ja": "「これ（This）」は添付のスケッチを指します。両方の入力がなければ、この短いプロンプトは不完全なものとなります。",
+      "ko": "여기서 '이것(this)'은 첨부된 스케치를 가리킵니다. 두 가지 입력 정보가 ​​모두 없으면 이 짧은 프롬프트는 불완전한 상태가 됩니다.",
+      "fr": "« Ceci » fait référence au croquis joint. Sans ces deux éléments, la consigne courte est incomplète.",
+      "de": "„Wie folgt“ bezieht sich auf die beigefügte Skizze. Ohne beide Eingaben ist der kurze Prompt unvollständig.",
+      "es": "«Esto» ​​se refiere al boceto adjunto. Sin ambos elementos, la instrucción breve queda incompleta.",
+      "pt-BR": "\"Isto\" refere-se ao esboço anexado. Sem ambos os elementos, o comando curto fica incompleto."
     }
   ],
   "source": {
@@ -84,111 +117,32 @@
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
   },
-  "localizations": {
-    "zh-TW": {
-      "title": "根據草圖重新構圖",
-      "summary": "使用草圖來表示現有角色應該移動的位置。",
-      "steps": [
-        "將構圖改為這樣"
-      ],
-      "inputs": [
-        "原始場景和一張顯示所需佈局的草圖。"
-      ],
-      "notes": [
-        "「這樣」指的是附件中的草圖。缺少這兩項內容，簡短的提示將不完整。"
-      ],
-      "source_digest": "df43d748ce2b5b7f1d633e0f5ea7c80235202febd91e82d7cdcfdf005bc0f7c6",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ja": {
-      "title": "スケッチからシーンを再構成する",
-      "summary": "ラフスケッチを使って、既存の被写体をどこへ移動させるかを示します。",
-      "steps": [
-        "構図をこれに変更する"
-      ],
-      "inputs": [
-        "元のシーンと、希望する配置を示したスケッチ。"
-      ],
-      "notes": [
-        "「これ（This）」は添付のスケッチを指します。両方の入力がなければ、この短いプロンプトは不完全なものとなります。"
-      ],
-      "source_digest": "df43d748ce2b5b7f1d633e0f5ea7c80235202febd91e82d7cdcfdf005bc0f7c6",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ko": {
-      "title": "스케치를 바탕으로 장면 재구성하기",
-      "summary": "거친 스케치를 활용하여 기존 피사체들의 이동 위치를 지정해 보세요.",
-      "steps": [
-        "구도를 이렇게 변경하세요"
-      ],
-      "inputs": [
-        "원본 장면과 원하는 배치를 보여주는 스케치."
-      ],
-      "notes": [
-        "여기서 '이것(this)'은 첨부된 스케치를 가리킵니다. 두 가지 입력 정보가 ​​모두 없으면 이 짧은 프롬프트는 불완전한 상태가 됩니다."
-      ],
-      "source_digest": "df43d748ce2b5b7f1d633e0f5ea7c80235202febd91e82d7cdcfdf005bc0f7c6",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "fr": {
-      "title": "Recomposer une scène à partir d'un croquis",
-      "summary": "Utiliser un croquis sommaire pour indiquer où les sujets existants doivent se déplacer.",
-      "steps": [
-        "Modifier la composition pour obtenir ceci"
-      ],
-      "inputs": [
-        "La scène originale et un croquis montrant la disposition souhaitée."
-      ],
-      "notes": [
-        "« Ceci » fait référence au croquis joint. Sans ces deux éléments, la consigne courte est incomplète."
-      ],
-      "source_digest": "df43d748ce2b5b7f1d633e0f5ea7c80235202febd91e82d7cdcfdf005bc0f7c6",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "de": {
-      "title": "Neukomposition einer Szene anhand einer Skizze",
-      "summary": "Nutzen Sie eine grobe Skizze, um festzulegen, wohin sich vorhandene Motive bewegen sollen.",
-      "steps": [
-        "Ändern Sie die Komposition wie folgt:"
-      ],
-      "inputs": [
-        "Die ursprüngliche Szene und eine Skizze, die die gewünschte Anordnung zeigt."
-      ],
-      "notes": [
-        "„Wie folgt“ bezieht sich auf die beigefügte Skizze. Ohne beide Eingaben ist der kurze Prompt unvollständig."
-      ],
-      "source_digest": "df43d748ce2b5b7f1d633e0f5ea7c80235202febd91e82d7cdcfdf005bc0f7c6",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "es": {
-      "title": "Recomponer una escena a partir de un boceto",
-      "summary": "Utiliza un boceto preliminar para indicar hacia dónde deben moverse los sujetos existentes.",
-      "steps": [
-        "cambia la composición a esto"
-      ],
-      "inputs": [
-        "La escena original y un boceto que muestra la disposición deseada."
-      ],
-      "notes": [
-        "«Esto» ​​se refiere al boceto adjunto. Sin ambos elementos, la instrucción breve queda incompleta."
-      ],
-      "source_digest": "df43d748ce2b5b7f1d633e0f5ea7c80235202febd91e82d7cdcfdf005bc0f7c6",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "pt-BR": {
-      "title": "Recomponha uma cena a partir de um esboço",
-      "summary": "Use um esboço preliminar para indicar para onde os elementos existentes na cena devem se mover.",
-      "steps": [
-        "mude a composição para isto"
-      ],
-      "inputs": [
-        "A cena original e um esboço mostrando o arranjo desejado."
-      ],
-      "notes": [
-        "\"Isto\" refere-se ao esboço anexado. Sem ambos os elementos, o comando curto fica incompleto."
-      ],
-      "source_digest": "df43d748ce2b5b7f1d633e0f5ea7c80235202febd91e82d7cdcfdf005bc0f7c6",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+  "translation_meta": {
+    "source_digest": "795949dca536db67a1b9b97b43d78977b325e15264ddea59857dbc4cb1be00c1",
+    "text_digests": {
+      "zh-CN": "f884f670f91b8c5e08fe9ffc22ef2a0447ec839d0ef7c6e4eadaa0644774d3b4",
+      "zh-TW": "e49f9768e0aaf53ecc8e92192c0981d1bd30df3b65de0067153185462e4f9743",
+      "ja": "a9c1f7377b0576de010114343ed15bba1ab0f7e858800fb536e0f606269ae1d1",
+      "ko": "52cb6a39d9fc21a5101fffb95c370f9e9a24b0d1e9a6c86f40ca9317fe336b07",
+      "fr": "d1b44c1795706d2d49642ab37916b8b82c842273909707c48f7df697fddd04dc",
+      "de": "de88c95b024f6a5a5fb3d0a7350567d8e075db29186d3a6133d371a9a665ea92",
+      "es": "26384082d22d37f3b3c04fab3a504a714a4face7660c86bc8d2238d5b072a275",
+      "pt-BR": "8be2e735a831d61a6156174c24a183d5c791a450f56843e60d3e97b29003bc39"
     }
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:12:37.880Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 3,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 3,
+      "distinctiveness": 4
+    },
+    "rationale": "The reference-guided composition is a strong demonstration of spatial control; the short text is usable only together with both scene and sketch."
   }
 }

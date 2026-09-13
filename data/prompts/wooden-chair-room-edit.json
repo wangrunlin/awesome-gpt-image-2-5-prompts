@@ -1,0 +1,165 @@
+{
+  "id": "wooden-chair-room-edit",
+  "title": {
+    "en": "Replace chairs while preserving a room",
+    "zh-CN": "保留房间布局并替换椅子",
+    "zh-TW": "保留房間布局並替換椅子",
+    "ja": "部屋を保って椅子だけを交換",
+    "ko": "방을 유지하며 의자 교체",
+    "fr": "Remplacer les chaises en préservant la pièce",
+    "de": "Stühle austauschen und den Raum erhalten",
+    "es": "Sustituir sillas conservando la habitación",
+    "pt-BR": "Trocar cadeiras preservando o ambiente"
+  },
+  "summary": {
+    "en": "Limit a material edit to selected furniture and check camera and lighting continuity.",
+    "zh-CN": "将材质编辑限定到指定家具，并检查视角与光照连续性。",
+    "zh-TW": "將材質編輯限定到指定家具，並檢查視角與光照連續性。",
+    "ja": "素材の編集を指定の家具に限定し、視点と照明の連続性を確認する。",
+    "ko": "재질 편집을 지정한 가구로 제한하고 시점과 조명의 일관성을 확인합니다.",
+    "fr": "Limiter le changement de matière aux meubles choisis et vérifier cadrage et lumière.",
+    "de": "Materialänderung auf ausgewählte Möbel begrenzen und Kamera sowie Licht prüfen.",
+    "es": "Limitar la edición de material a los muebles elegidos y comprobar cámara e iluminación.",
+    "pt-BR": "Limitar a edição de material aos móveis escolhidos e conferir câmera e iluminação."
+  },
+  "category": "editing",
+  "tags": [
+    "official-guide",
+    "wooden-chair-room-edit"
+  ],
+  "mode": "edit",
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": "sunburst",
+    "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room",
+    "evidence": "The OpenAI image prompting guide labels the linked result GPT Image 2.5 Sunburst. This repository did not generate it."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "In this room photo, replace ONLY the white chairs with chairs made of wood.\nPreserve camera angle, room lighting, floor shadows, and surrounding objects.\nKeep all other aspects of the image unchanged.\nPhotorealistic contact shadows and fabric texture.",
+        "zh-CN": "在这张房间照片中，只将白色椅子替换成木制椅子。\n保留相机视角、室内光线、地板阴影及周围物体。\n保持图片的所有其他方面不变。\n写实的接触阴影和织物纹理。",
+        "zh-TW": "在這張房間照片中，只將白色椅子替換成木製椅子。\n保留相機視角、室內光線、地板陰影及周圍物體。\n保持圖片的所有其他方面不變。\n寫實的接觸陰影和織物紋理。",
+        "ja": "この部屋の写真で、白い椅子だけを木製の椅子に置き換えてください。\nカメラ角度、室内の照明、床の影、周囲の物を維持してください。\n画像の他のすべての部分は変更しないでください。\n写真のようにリアルな接地影と布の質感。",
+        "ko": "이 방 사진에서 흰색 의자만 나무 의자로 바꾸세요.\n카메라 각도, 실내 조명, 바닥 그림자와 주변 물체를 유지하세요.\n이미지의 다른 모든 부분은 그대로 두세요.\n사실적인 접촉 그림자와 직물 질감.",
+        "fr": "Dans cette photo de pièce, remplacez UNIQUEMENT les chaises blanches par des chaises en bois.\nPréservez l’angle de caméra, l’éclairage, les ombres au sol et les objets alentour.\nGardez tous les autres aspects de l’image inchangés.\nOmbres de contact et texture du tissu photoréalistes.",
+        "de": "Ersetze in diesem Raumfoto NUR die weißen Stühle durch Holzstühle.\nErhalte Kamerawinkel, Raumbeleuchtung, Bodenschatten und umgebende Objekte.\nLass alle anderen Aspekte des Bildes unverändert.\nFotorealistische Kontaktschatten und Stofftextur.",
+        "es": "En esta foto de una habitación, sustituye SOLO las sillas blancas por sillas de madera.\nConserva el ángulo de cámara, la iluminación, las sombras del suelo y los objetos cercanos.\nMantén sin cambios todos los demás aspectos de la imagen.\nSombras de contacto y textura de tela fotorrealistas.",
+        "pt-BR": "Nesta foto de um ambiente, substitua SOMENTE as cadeiras brancas por cadeiras de madeira.\nPreserve o ângulo da câmera, a iluminação, as sombras no chão e os objetos ao redor.\nMantenha todos os outros aspectos da imagem inalterados.\nSombras de contato e textura de tecido fotorrealistas."
+      }
+    ],
+    "original_language": "en",
+    "original_steps": [
+      "In this room photo, replace ONLY the white chairs with chairs made of wood.\nPreserve camera angle, room lighting, floor shadows, and surrounding objects.\nKeep all other aspects of the image unchanged.\nPhotorealistic contact shadows and fabric texture."
+    ]
+  },
+  "inputs": [
+    {
+      "en": "Upload the linked kitchen photograph with white chairs.",
+      "zh-CN": "上传下方带白色椅子的厨房照片。",
+      "zh-TW": "上傳下方帶白色椅子的廚房照片。",
+      "ja": "下記の白い椅子があるキッチン写真をアップロードしてください。",
+      "ko": "아래 흰색 의자가 있는 주방 사진을 업로드하세요.",
+      "fr": "Téléversez la photo liée de la cuisine avec des chaises blanches.",
+      "de": "Lade das verlinkte Küchenfoto mit weißen Stühlen hoch.",
+      "es": "Sube la foto enlazada de la cocina con sillas blancas.",
+      "pt-BR": "Envie a foto no link da cozinha com cadeiras brancas."
+    }
+  ],
+  "notes": [
+    {
+      "en": "The original also asks for fabric texture; specify upholstery separately when adapting the wooden-chair requirement.",
+      "zh-CN": "原文还要求织物纹理；改写木椅需求时，应单独说明是否保留软包。",
+      "zh-TW": "原文還要求織物紋理；改寫木椅需求時，應單獨說明是否保留軟墊。",
+      "ja": "原文は布の質感も求めています。木製椅子の要件を変更するときは、張り地を別途指定してください。",
+      "ko": "원문은 직물 질감도 요구합니다. 나무 의자 요구를 수정할 때 쿠션이나 덮개 여부를 별도로 지정하세요.",
+      "fr": "L’original demande aussi une texture de tissu ; précisez séparément le rembourrage lors de l’adaptation.",
+      "de": "Das Original verlangt auch Stofftextur; präzisiere beim Anpassen die Polsterung separat.",
+      "es": "El original también pide textura de tela; especifica el tapizado por separado al adaptar la petición.",
+      "pt-BR": "O original também pede textura de tecido; especifique o estofamento separadamente ao adaptar o pedido."
+    },
+    {
+      "en": "Source settings: `size=\"1536x1024\"`, `quality=\"medium\"`.",
+      "zh-CN": "来源参数：`size=\"1536x1024\"`, `quality=\"medium\"`.",
+      "zh-TW": "來源參數：`size=\"1536x1024\"`, `quality=\"medium\"`.",
+      "ja": "出典の設定：`size=\"1536x1024\"`, `quality=\"medium\"`.",
+      "ko": "출처 설정: `size=\"1536x1024\"`, `quality=\"medium\"`.",
+      "fr": "Paramètres de la source : `size=\"1536x1024\"`, `quality=\"medium\"`.",
+      "de": "Einstellungen der Quelle: `size=\"1536x1024\"`, `quality=\"medium\"`.",
+      "es": "Ajustes de la fuente: `size=\"1536x1024\"`, `quality=\"medium\"`.",
+      "pt-BR": "Configurações da fonte: `size=\"1536x1024\"`, `quality=\"medium\"`."
+    }
+  ],
+  "source": {
+    "platform": "documentation",
+    "author": "OpenAI",
+    "url": "https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room",
+    "prompt_url": "https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room",
+    "checked_at": "2026-09-13T16:20:44.580Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "post_language": "en"
+  },
+  "previews": [
+    {
+      "url": "https://developers.openai.com/images/platform/guides/image-prompting/kitchen-chairs-gpt-image-2-5-sunburst.webp",
+      "kind": "source-result",
+      "credit": "OpenAI — official guide example",
+      "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room"
+    }
+  ],
+  "references": [
+    {
+      "url": "https://developers.openai.com/images/platform/guides/image-prompting/kitchen.webp",
+      "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room",
+      "credit": "OpenAI — source input"
+    }
+  ],
+  "engagement": {
+    "likes": null,
+    "reposts": null,
+    "replies": null,
+    "bookmarks": null,
+    "views": null,
+    "observed_at": "2026-09-13T16:20:44.580Z",
+    "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#change-furniture-in-a-room",
+    "method": "Official documentation has no public social engagement counters."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and linked media remain subject to their source terms. Attribution does not grant a license to the source inputs or results."
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:20:44.580Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 4,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 3,
+      "distinctiveness": 3
+    },
+    "rationale": "The paired kitchen scene supports a constrained material change. Original wording also requests fabric, an ambiguity explicitly retained and explained instead of silently rewritten."
+  },
+  "translation_meta": {
+    "source_digest": "01dba57a1c47ded1f9dcab8506839116e767d70d4dc64f5d975dd86d780e6f33",
+    "text_digests": {
+      "zh-CN": "660f300149fcda2cd89855e08b359b7349c3f3e3aec60da117c06454a7ee5337",
+      "zh-TW": "490eb6000d7e43d6e3841f426860ef178624c59678edfa07be289bded7908d03",
+      "ja": "4e4ece91d353fa37b5d9166a541cb898459317e73c4e3f39285ba5339d36f5ec",
+      "ko": "19b91564f5ef5da9c1d395abbeb6229d29591fc184a084ad929d138a0e0272ac",
+      "fr": "f49bcbc9559acbb12ab09dfa9631258c9c52342ff2afd055ea8723775918bcd1",
+      "de": "e9d5db028448f3e4ed6e0e0245407f8dcd22627916df9719e4e6c0c947ed8852",
+      "es": "95ac78c403f9c708de4aa305b5c4d763563143606347b7e1a53d604bda2abaa3",
+      "pt-BR": "0694836095271ba58fa70314fa75718f4a754f5b33fa9a47536ba3602e289a92"
+    }
+  }
+}

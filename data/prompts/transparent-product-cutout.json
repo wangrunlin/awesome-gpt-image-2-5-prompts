@@ -1,0 +1,165 @@
+{
+  "id": "transparent-product-cutout",
+  "title": {
+    "en": "Transparent product cutout",
+    "zh-CN": "透明背景产品抠图",
+    "zh-TW": "透明背景產品去背",
+    "ja": "商品を透明背景で切り抜く",
+    "ko": "투명 배경 제품 누끼",
+    "fr": "Détourage de produit sur fond transparent",
+    "de": "Produkt auf transparentem Hintergrund freistellen",
+    "es": "Recorte de producto con fondo transparente",
+    "pt-BR": "Recorte de produto com fundo transparente"
+  },
+  "summary": {
+    "en": "Separate background removal from product restyling, with explicit alpha-output settings.",
+    "zh-CN": "区分去背景与产品改造，并明确透明通道输出参数。",
+    "zh-TW": "區分去背與產品改造，並明確指定透明通道輸出參數。",
+    "ja": "背景除去と商品の再デザインを区別し、アルファ出力の設定を明示する。",
+    "ko": "배경 제거와 제품 재디자인을 구분하고 알파 출력 설정을 명시합니다.",
+    "fr": "Distinguer détourage et restylage, avec des paramètres explicites pour le canal alpha.",
+    "de": "Freistellen vom Umgestalten trennen, mit expliziten Einstellungen für den Alphakanal.",
+    "es": "Separar la eliminación del fondo del rediseño del producto, con ajustes explícitos de canal alfa.",
+    "pt-BR": "Separar a remoção do fundo da remodelação do produto, com configurações explícitas de canal alfa."
+  },
+  "category": "products",
+  "tags": [
+    "official-guide",
+    "transparent-product-cutout"
+  ],
+  "mode": "edit",
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": "sunburst",
+    "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout",
+    "evidence": "The OpenAI image prompting guide labels the linked result GPT Image 2.5 Sunburst. This repository did not generate it."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "Extract the product from the input image and isolate it on a fully transparent background.\nOutput: centered product, crisp silhouette, no halos/fringing.\nPreserve product geometry and label legibility exactly.\nAdd only light polishing. Do not add a solid backdrop, checkerboard, scenery, or shadow.\nDo not restyle the product; remove the background and preserve clean alpha transparency.",
+        "zh-CN": "从输入图片中提取产品，将它单独放在完全透明的背景上。\n输出：产品居中，轮廓清晰，没有光晕或边缘杂色。\n精确保留产品几何形状及标签的可读性。\n只做轻微润饰。不要添加纯色背景、棋盘格、场景或阴影。\n不要改变产品风格；去除背景，保留干净的透明通道。",
+        "zh-TW": "從輸入圖片中提取產品，將它單獨放在完全透明的背景上。\n輸出：產品置中，輪廓清晰，沒有光暈或邊緣雜色。\n精確保留產品幾何形狀及標籤的可讀性。\n只做輕微修飾。不要添加純色背景、棋盤格、場景或陰影。\n不要改變產品風格；去除背景，保留乾淨的透明通道。",
+        "ja": "入力画像から商品を切り抜き、完全に透明な背景に配置してください。\n出力：商品を中央に置き、輪郭を鮮明にし、ハローや色にじみをなくしてください。\n商品の形状とラベルの読みやすさを正確に維持してください。\n軽い補正だけを行ってください。単色背景、市松模様、風景、影は追加しないでください。\n商品のスタイルは変えず、背景を除去してきれいなアルファ透明度を保持してください。",
+        "ko": "입력 이미지에서 제품을 추출하여 완전히 투명한 배경에 분리하세요.\n출력: 제품을 중앙에 배치하고 윤곽을 선명하게 하며 테두리의 후광이나 색 번짐을 없애세요.\n제품 형태와 라벨 가독성을 정확히 유지하세요.\n가벼운 보정만 하세요. 단색 배경, 체크무늬, 풍경 또는 그림자를 추가하지 마세요.\n제품 스타일을 바꾸지 말고 배경을 제거하여 깨끗한 알파 투명도를 유지하세요.",
+        "fr": "Extrayez le produit de l’image et isolez-le sur un fond entièrement transparent.\nSortie : produit centré, silhouette nette, sans halo ni franges colorées.\nPréservez exactement la géométrie du produit et la lisibilité de l’étiquette.\nRetouchez très légèrement. N’ajoutez ni fond uni, ni damier, ni décor, ni ombre.\nNe restylez pas le produit ; retirez le fond et conservez une transparence alpha propre.",
+        "de": "Extrahiere das Produkt aus dem Eingabebild und stelle es auf vollständig transparentem Hintergrund frei.\nAusgabe: zentriertes Produkt, scharfe Silhouette, keine Halos oder Farbsäume.\nErhalte Produktgeometrie und Lesbarkeit des Etiketts exakt.\nNimm nur leichte Korrekturen vor. Füge keinen einfarbigen Hintergrund, kein Schachbrettmuster, keine Szenerie und keinen Schatten hinzu.\nGestalte das Produkt nicht um; entferne den Hintergrund und erhalte saubere Alpha-Transparenz.",
+        "es": "Extrae el producto de la imagen y aíslalo sobre un fondo totalmente transparente.\nSalida: producto centrado, silueta nítida, sin halos ni bordes de color.\nConserva exactamente la geometría del producto y la legibilidad de la etiqueta.\nHaz solo retoques leves. No añadas fondo sólido, cuadrícula, paisaje ni sombra.\nNo cambies el estilo del producto; elimina el fondo y conserva una transparencia alfa limpia.",
+        "pt-BR": "Extraia o produto da imagem de entrada e isole-o em um fundo totalmente transparente.\nSaída: produto centralizado, silhueta nítida, sem halos ou franjas de cor.\nPreserve exatamente a geometria do produto e a legibilidade do rótulo.\nFaça apenas retoques leves. Não adicione fundo sólido, quadriculado, cenário ou sombra.\nNão altere o estilo do produto; remova o fundo e preserve uma transparência alfa limpa."
+      }
+    ],
+    "original_language": "en",
+    "original_steps": [
+      "Extract the product from the input image and isolate it on a fully transparent background.\nOutput: centered product, crisp silhouette, no halos/fringing.\nPreserve product geometry and label legibility exactly.\nAdd only light polishing. Do not add a solid backdrop, checkerboard, scenery, or shadow.\nDo not restyle the product; remove the background and preserve clean alpha transparency."
+    ]
+  },
+  "inputs": [
+    {
+      "en": "Upload the shampoo photograph linked below, or your own product photograph.",
+      "zh-CN": "上传下方洗发水照片，或自己的产品照片。",
+      "zh-TW": "上傳下方洗髮精照片，或自己的產品照片。",
+      "ja": "下記のシャンプー写真、または自分の商品写真をアップロードしてください。",
+      "ko": "아래 샴푸 사진 또는 본인 제품 사진을 업로드하세요.",
+      "fr": "Téléversez la photo de shampooing ci-dessous ou votre propre photo de produit.",
+      "de": "Lade das unten verlinkte Shampoo-Foto oder dein eigenes Produktfoto hoch.",
+      "es": "Sube la foto del champú enlazada abajo o una foto de tu propio producto.",
+      "pt-BR": "Envie a foto do xampu no link abaixo ou uma foto do seu próprio produto."
+    }
+  ],
+  "notes": [
+    {
+      "en": "Inspect alpha edges in an image editor; a displayed preview alone cannot prove transparency.",
+      "zh-CN": "在图像编辑器中检查透明通道边缘；仅凭展示预览无法证明透明度。",
+      "zh-TW": "在影像編輯器中檢查透明通道邊緣；僅憑展示預覽無法證明透明度。",
+      "ja": "画像編集ソフトでアルファ境界を確認してください。表示されたプレビューだけでは透明性を証明できません。",
+      "ko": "이미지 편집기에서 알파 경계를 확인하세요. 표시된 미리보기만으로 투명도를 입증할 수 없습니다.",
+      "fr": "Inspectez les contours alpha dans un éditeur ; l’aperçu seul ne prouve pas la transparence.",
+      "de": "Prüfe Alpha-Kanten in einem Bildeditor; die Vorschau allein belegt keine Transparenz.",
+      "es": "Inspecciona los bordes alfa en un editor; la vista previa por sí sola no demuestra transparencia.",
+      "pt-BR": "Inspecione as bordas alfa em um editor; a prévia sozinha não comprova transparência."
+    },
+    {
+      "en": "Source settings: `size=\"1024x1536\"`, `quality=\"medium\"`, `background=\"transparent\"`, `output_format=\"png\"`.",
+      "zh-CN": "来源参数：`size=\"1024x1536\"`, `quality=\"medium\"`, `background=\"transparent\"`, `output_format=\"png\"`.",
+      "zh-TW": "來源參數：`size=\"1024x1536\"`, `quality=\"medium\"`, `background=\"transparent\"`, `output_format=\"png\"`.",
+      "ja": "出典の設定：`size=\"1024x1536\"`, `quality=\"medium\"`, `background=\"transparent\"`, `output_format=\"png\"`.",
+      "ko": "출처 설정: `size=\"1024x1536\"`, `quality=\"medium\"`, `background=\"transparent\"`, `output_format=\"png\"`.",
+      "fr": "Paramètres de la source : `size=\"1024x1536\"`, `quality=\"medium\"`, `background=\"transparent\"`, `output_format=\"png\"`.",
+      "de": "Einstellungen der Quelle: `size=\"1024x1536\"`, `quality=\"medium\"`, `background=\"transparent\"`, `output_format=\"png\"`.",
+      "es": "Ajustes de la fuente: `size=\"1024x1536\"`, `quality=\"medium\"`, `background=\"transparent\"`, `output_format=\"png\"`.",
+      "pt-BR": "Configurações da fonte: `size=\"1024x1536\"`, `quality=\"medium\"`, `background=\"transparent\"`, `output_format=\"png\"`."
+    }
+  ],
+  "source": {
+    "platform": "documentation",
+    "author": "OpenAI",
+    "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout",
+    "prompt_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout",
+    "checked_at": "2026-09-13T16:20:44.578Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "post_language": "en"
+  },
+  "previews": [
+    {
+      "url": "https://developers.openai.com/images/platform/guides/image-prompting/extract-product-gpt-image-2-5-sunburst.webp",
+      "kind": "source-result",
+      "credit": "OpenAI — official guide example",
+      "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout"
+    }
+  ],
+  "references": [
+    {
+      "url": "https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp",
+      "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout",
+      "credit": "OpenAI — source input"
+    }
+  ],
+  "engagement": {
+    "likes": null,
+    "reposts": null,
+    "replies": null,
+    "bookmarks": null,
+    "views": null,
+    "observed_at": "2026-09-13T16:20:44.578Z",
+    "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout",
+    "method": "Official documentation has no public social engagement counters."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and linked media remain subject to their source terms. Attribution does not grant a license to the source inputs or results."
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:20:44.578Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 4,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 4,
+      "distinctiveness": 3
+    },
+    "rationale": "The bottle silhouette and label can be compared against an available source image. Explicit alpha settings improve reuse; web preview does not establish alpha-channel correctness."
+  },
+  "translation_meta": {
+    "source_digest": "f8c7b455820380cc57d1f74d6eceacdf588a7114d3bf0e20e462b9db901fddb0",
+    "text_digests": {
+      "zh-CN": "c67fe5c1fb7330508572a7c0a8087b69a7d2cabd7e80c06ea952dd9a3f479289",
+      "zh-TW": "c54f0f31025bb2c382b86ef6aff3c5d638c3fdaf97e45c8afabb7f603da21741",
+      "ja": "6f822e37210956f973e8ea9132a7960f05804f67a0509c645ba433a4275beb62",
+      "ko": "9801da8c2d0c331a3a90b825c20083c37496b2fa8e596d65c4b7699c95ab0ed9",
+      "fr": "18d0d2c815a3f377fa661fdbedb7ee64c26387562d9ed6ba84165e0e28e89a4d",
+      "de": "2e761d8cc3f5563d48d33f93401386bd77d2eefe284edbcd26a27b5643f2c705",
+      "es": "34bd4940620aa69a8e9b87fc3964af88986b3a64810861662c403d206c388af3",
+      "pt-BR": "1ad0e9b38eb50335dfd3cdda61d90e6403945df3aeb2537a88c3cdd440676aa5"
+    }
+  }
+}

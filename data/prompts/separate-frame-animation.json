@@ -1,13 +1,26 @@
 {
-  "schema_version": 1,
   "id": "separate-frame-animation",
   "title": {
     "en": "Animate with separate image variations",
-    "zh": "通过独立差分帧制作动画"
+    "zh-CN": "通过独立差分帧制作动画",
+    "zh-TW": "使用不同的圖像變體進行動畫製作。",
+    "ja": "個別の画像バリエーションを使用してアニメーション化",
+    "ko": "별도의 이미지 변형을 사용하여 애니메이션 제작",
+    "fr": "Animer à l'aide de variations d'images distinctes",
+    "de": "Animation mit separaten Bildvarianten",
+    "es": "Animar con variaciones de imagen independientes.",
+    "pt-BR": "Animar usando variações de imagem distintas."
   },
   "summary": {
     "en": "Use separate edited frames when a sprite grid distorts the character too much.",
-    "zh": "精灵表导致角色变形时，改用独立编辑的差分帧。"
+    "zh-CN": "精灵表导致角色变形时，改用独立编辑的差分帧。",
+    "zh-TW": "當精靈網格過度扭曲角色時，使用單獨的編輯畫面。",
+    "ja": "スプライトグリッドによってキャラクターが過度に歪んでしまう場合は、個別に編集したフレームを使用します。",
+    "ko": "스프라이트 그리드로 인해 캐릭터가 지나치게 왜곡될 경우, 별도로 편집된 프레임을 사용합니다.",
+    "fr": "Utilisez des images modifiées distinctes lorsqu'une grille de sprites déforme trop le personnage.",
+    "de": "Verwenden Sie separat bearbeitete Einzelbilder, wenn ein Sprite-Raster die Figur zu stark verzerrt.",
+    "es": "Utilice fotogramas editados por separado cuando una cuadrícula de *sprites* distorsione demasiado al personaje.",
+    "pt-BR": "Utilize quadros editados separadamente quando uma grade de *sprites* distorcer excessivamente o personagem."
   },
   "category": "characters",
   "tags": [
@@ -16,7 +29,6 @@
     "character"
   ],
   "mode": "workflow",
-  "featured": false,
   "model": {
     "family": "GPT Image 2.5",
     "variant": null,
@@ -28,11 +40,25 @@
     "steps": [
       {
         "en": "Create nine separate variations of the supplied character image for a gentle animation. Change the pose only slightly between frames. Keep the character’s size, position, identity, and background consistent.",
-        "zh": "基于提供的角色图，创建九张独立差分图用于轻柔动画。每帧只轻微改变姿势，保持角色大小、位置、身份和背景一致。"
+        "zh-CN": "基于提供的角色图，创建九张独立差分图用于轻柔动画。每帧只轻微改变姿势，保持角色大小、位置、身份和背景一致。",
+        "zh-TW": "為柔和的動畫創建九個不同的角色圖像變體。幀與幀之間僅略微改變姿勢。保持角色的大小、位置、標誌和背景一致。",
+        "ja": "滑らかなアニメーションにするため、提供されたキャラクター画像を元に9つの異なるバリエーションを作成します。フレーム間のポーズの変化はわずかなものにとどめます。キャラクターのサイズ、位置、同一性、背景は一貫性を保ちます。",
+        "ko": "부드러운 애니메이션을 위해 제공된 캐릭터 이미지로 9가지의 별도 변형 이미지를 만듭니다. 프레임 간의 자세 변화는 미세하게 조정합니다. 캐릭터의 크기, 위치, 개체(identity), 배경은 일정하게 유지합니다.",
+        "fr": "Créez neuf variations distinctes de l'image du personnage fournie pour obtenir une animation fluide. Ne modifiez que légèrement la pose entre les images. Veillez à la cohérence de la taille, de la position, de l'identité et de l'arrière-plan du personnage.",
+        "de": "Erstellen Sie für eine sanfte Animation neun verschiedene Varianten des bereitgestellten Figuren-Bildes. Ändern Sie die Pose zwischen den Einzelbildern nur geringfügig. Achten Sie darauf, dass Größe, Position, Identität und Hintergrund der Figur unverändert bleiben.",
+        "es": "Cree nueve variaciones independientes de la imagen del personaje proporcionada para lograr una animación suave. Cambie la postura solo ligeramente entre fotogramas. Mantenga constantes el tamaño, la posición, la identidad y el fondo del personaje.",
+        "pt-BR": "Crie nove variações distintas da imagem do personagem fornecida para obter uma animação suave. Altere a pose apenas ligeiramente entre os quadros. Mantenha consistentes o tamanho, a posição, a identidade e o fundo do personagem."
       },
       {
         "en": "Inspect and align the frames, then assemble them into a looping GIF. If the motion needs more in-between frames, create another set using the same references.",
-        "zh": "检查并对齐各帧，再组装循环 GIF。若需要更多中间帧，使用相同参考再生成一组。"
+        "zh-CN": "检查并对齐各帧，再组装循环 GIF。若需要更多中间帧，使用相同参考再生成一组。",
+        "zh-TW": "檢查並對齊幀，然後將它們組裝成循環播放的 GIF 動畫。如果動作需要更多中間幀，請使用相同的參考材料建立另一組幀。",
+        "ja": "フレームを確認・調整し、ループ再生するGIFにまとめます。動きをより滑らかにするために中間のフレームが必要な場合は、同じ参照画像を使用して別のセットを作成します。",
+        "ko": "프레임을 확인 및 정렬한 후, 이를 반복 재생되는 GIF로 구성합니다. 동작에 중간 프레임이 더 필요하다면 동일한 참조 자료를 사용하여 추가 세트를 제작합니다.",
+        "fr": "Vérifiez et alignez les images, puis assemblez-les pour créer un GIF en boucle. Si le mouvement nécessite davantage d'images intermédiaires, créez une autre série en utilisant les mêmes références.",
+        "de": "Überprüfen und richten Sie die Einzelbilder aus und fügen Sie sie zu einem GIF mit Endlosschleife zusammen. Falls für die Bewegung weitere Zwischenbilder erforderlich sind, erstellen Sie einen weiteren Satz unter Verwendung derselben Referenzen.",
+        "es": "Inspeccione y alinee los fotogramas; luego, móntelos en un GIF en bucle. Si el movimiento requiere más fotogramas intermedios, cree otro conjunto utilizando las mismas referencias.",
+        "pt-BR": "Inspecione e alinhe os quadros e, em seguida, monte-os em um GIF em *loop*. Se o movimento exigir mais quadros intermediários, crie outro conjunto utilizando as mesmas referências."
       }
     ],
     "original_language": null,
@@ -41,17 +67,38 @@
   "inputs": [
     {
       "en": "A character image; image editing and GIF assembly tools.",
-      "zh": "角色图；图像编辑与 GIF 组装工具。"
+      "zh-CN": "角色图；图像编辑与 GIF 组装工具。",
+      "zh-TW": "角色圖像；圖像編輯和 GIF 組裝工具。",
+      "ja": "キャラクター画像、画像編集ツール、GIF作成ツール。",
+      "ko": "캐릭터 이미지, 이미지 편집 도구 및 GIF 제작 도구.",
+      "fr": "Une image de personnage ; outils de retouche d'image et d'assemblage de GIF.",
+      "de": "Ein Bild einer Figur; Werkzeuge zur Bildbearbeitung und zum Erstellen von GIFs.",
+      "es": "Una imagen del personaje; herramientas de edición de imágenes y montaje de GIF.",
+      "pt-BR": "Uma imagem de personagem; ferramentas de edição de imagem e de montagem de GIF."
     }
   ],
   "notes": [
     {
       "en": "Editorial workflow adaptation. The creator reports using two sets of nine separate variations after a 3-by-3 sheet changed the design too much.",
-      "zh": "这是工作流编辑改写。作者报告 3×3 精灵表导致设计变化过大，随后改为两组各九张独立差分图。"
+      "zh-CN": "这是工作流编辑改写。作者报告 3×3 精灵表导致设计变化过大，随后改为两组各九张独立差分图。",
+      "zh-TW": "編輯工作流程調整。創作者報告稱，由於一張 3x3 的圖紙對設計進行了過多修改，因此使用了兩組各包含九個不同變體的素材。",
+      "ja": "編集ワークフローへの適応。 3×3のシート構成ではデザインが変わりすぎてしまったため、制作者はそれぞれ9種類のバリエーションからなる2つのセットを使用することにしました。",
+      "ko": "편집 워크플로 적용. 제작자는 3x3 격자 형태의 시트가 디자인을 지나치게 변형시키자, 대신 9개의 개별 변형으로 구성된 두 세트를 사용했다고 보고합니다.",
+      "fr": "Adaptation du flux de travail éditorial. Le créateur indique avoir utilisé deux séries de neuf variantes distinctes après qu'une grille de 3x3 a trop modifié le design.",
+      "de": "Anpassung des redaktionellen Arbeitsablaufs. Der Ersteller berichtet, dass er zwei Sätze mit je neun separaten Variationen verwendet hat, nachdem ein 3x3-Raster das Design zu stark verändert hatte.",
+      "es": "Adaptación del flujo de trabajo editorial. El creador informa que utilizó dos conjuntos de nueve variaciones distintas después de que una cuadrícula de 3x3 alterara demasiado el diseño.",
+      "pt-BR": "Adaptação do fluxo de trabalho editorial. O criador relata o uso de dois conjuntos de nove variações distintas, após uma grade de 3x3 ter alterado excessivamente o design."
     },
     {
       "en": "The original base image was made with Nano Banana Pro; GPT Image 2.5 was used for subsequent edits.",
-      "zh": "原始底图由 Nano Banana Pro 制作，后续编辑使用 GPT Image 2.5。"
+      "zh-CN": "原始底图由 Nano Banana Pro 制作，后续编辑使用 GPT Image 2.5。",
+      "zh-TW": "原始基礎影像使用 Nano Banana Pro 製作；後續編輯使用 GPT Image 2.5。",
+      "ja": "元のベース画像はNano Banana Proで作成され、その後の編集にはGPT Image 2.5が使用されました。",
+      "ko": "원본 이미지는 Nano Banana Pro로 생성되었으며, 후속 편집에는 GPT Image 2.5가 사용되었습니다.",
+      "fr": "L'image de base originale a été réalisée avec Nano Banana Pro ; GPT Image 2.5 a servi aux retouches ultérieures.",
+      "de": "Das ursprüngliche Ausgangsbild wurde mit Nano Banana Pro erstellt; für die anschließenden Bearbeitungen wurde GPT Image 2.5 verwendet.",
+      "es": "La imagen base original se creó con Nano Banana Pro; para las ediciones posteriores se utilizó GPT Image 2.5.",
+      "pt-BR": "A imagem base original foi criada com o Nano Banana Pro; o GPT Image 2.5 foi utilizado para as edições subsequentes."
     }
   ],
   "source": {
@@ -90,125 +137,32 @@
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
   },
-  "localizations": {
-    "zh-TW": {
-      "title": "使用不同的圖像變體進行動畫製作。",
-      "summary": "當精靈網格過度扭曲角色時，使用單獨的編輯畫面。",
-      "steps": [
-        "為柔和的動畫創建九個不同的角色圖像變體。幀與幀之間僅略微改變姿勢。保持角色的大小、位置、標誌和背景一致。",
-        "檢查並對齊幀，然後將它們組裝成循環播放的 GIF 動畫。如果動作需要更多中間幀，請使用相同的參考材料建立另一組幀。"
-      ],
-      "inputs": [
-        "角色圖像；圖像編輯和 GIF 組裝工具。"
-      ],
-      "notes": [
-        "編輯工作流程調整。創作者報告稱，由於一張 3x3 的圖紙對設計進行了過多修改，因此使用了兩組各包含九個不同變體的素材。",
-        "原始基礎影像使用 Nano Banana Pro 製作；後續編輯使用 GPT Image 2.5。"
-      ],
-      "source_digest": "e033bb31e757a2765adc3f0f34b162a8711620e59a10b721b95efc8e0d7ba2f9",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ja": {
-      "title": "個別の画像バリエーションを使用してアニメーション化",
-      "summary": "スプライトグリッドによってキャラクターが過度に歪んでしまう場合は、個別に編集したフレームを使用します。",
-      "steps": [
-        "滑らかなアニメーションにするため、提供されたキャラクター画像を元に9つの異なるバリエーションを作成します。フレーム間のポーズの変化はわずかなものにとどめます。キャラクターのサイズ、位置、同一性、背景は一貫性を保ちます。",
-        "フレームを確認・調整し、ループ再生するGIFにまとめます。動きをより滑らかにするために中間のフレームが必要な場合は、同じ参照画像を使用して別のセットを作成します。"
-      ],
-      "inputs": [
-        "キャラクター画像、画像編集ツール、GIF作成ツール。"
-      ],
-      "notes": [
-        "編集ワークフローへの適応。 3×3のシート構成ではデザインが変わりすぎてしまったため、制作者はそれぞれ9種類のバリエーションからなる2つのセットを使用することにしました。",
-        "元のベース画像はNano Banana Proで作成され、その後の編集にはGPT Image 2.5が使用されました。"
-      ],
-      "source_digest": "e033bb31e757a2765adc3f0f34b162a8711620e59a10b721b95efc8e0d7ba2f9",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ko": {
-      "title": "별도의 이미지 변형을 사용하여 애니메이션 제작",
-      "summary": "스프라이트 그리드로 인해 캐릭터가 지나치게 왜곡될 경우, 별도로 편집된 프레임을 사용합니다.",
-      "steps": [
-        "부드러운 애니메이션을 위해 제공된 캐릭터 이미지로 9가지의 별도 변형 이미지를 만듭니다. 프레임 간의 자세 변화는 미세하게 조정합니다. 캐릭터의 크기, 위치, 개체(identity), 배경은 일정하게 유지합니다.",
-        "프레임을 확인 및 정렬한 후, 이를 반복 재생되는 GIF로 구성합니다. 동작에 중간 프레임이 더 필요하다면 동일한 참조 자료를 사용하여 추가 세트를 제작합니다."
-      ],
-      "inputs": [
-        "캐릭터 이미지, 이미지 편집 도구 및 GIF 제작 도구."
-      ],
-      "notes": [
-        "편집 워크플로 적용. 제작자는 3x3 격자 형태의 시트가 디자인을 지나치게 변형시키자, 대신 9개의 개별 변형으로 구성된 두 세트를 사용했다고 보고합니다.",
-        "원본 이미지는 Nano Banana Pro로 생성되었으며, 후속 편집에는 GPT Image 2.5가 사용되었습니다."
-      ],
-      "source_digest": "e033bb31e757a2765adc3f0f34b162a8711620e59a10b721b95efc8e0d7ba2f9",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "fr": {
-      "title": "Animer à l'aide de variations d'images distinctes",
-      "summary": "Utilisez des images modifiées distinctes lorsqu'une grille de sprites déforme trop le personnage.",
-      "steps": [
-        "Créez neuf variations distinctes de l'image du personnage fournie pour obtenir une animation fluide. Ne modifiez que légèrement la pose entre les images. Veillez à la cohérence de la taille, de la position, de l'identité et de l'arrière-plan du personnage.",
-        "Vérifiez et alignez les images, puis assemblez-les pour créer un GIF en boucle. Si le mouvement nécessite davantage d'images intermédiaires, créez une autre série en utilisant les mêmes références."
-      ],
-      "inputs": [
-        "Une image de personnage ; outils de retouche d'image et d'assemblage de GIF."
-      ],
-      "notes": [
-        "Adaptation du flux de travail éditorial. Le créateur indique avoir utilisé deux séries de neuf variantes distinctes après qu'une grille de 3x3 a trop modifié le design.",
-        "L'image de base originale a été réalisée avec Nano Banana Pro ; GPT Image 2.5 a servi aux retouches ultérieures."
-      ],
-      "source_digest": "e033bb31e757a2765adc3f0f34b162a8711620e59a10b721b95efc8e0d7ba2f9",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "de": {
-      "title": "Animation mit separaten Bildvarianten",
-      "summary": "Verwenden Sie separat bearbeitete Einzelbilder, wenn ein Sprite-Raster die Figur zu stark verzerrt.",
-      "steps": [
-        "Erstellen Sie für eine sanfte Animation neun verschiedene Varianten des bereitgestellten Figuren-Bildes. Ändern Sie die Pose zwischen den Einzelbildern nur geringfügig. Achten Sie darauf, dass Größe, Position, Identität und Hintergrund der Figur unverändert bleiben.",
-        "Überprüfen und richten Sie die Einzelbilder aus und fügen Sie sie zu einem GIF mit Endlosschleife zusammen. Falls für die Bewegung weitere Zwischenbilder erforderlich sind, erstellen Sie einen weiteren Satz unter Verwendung derselben Referenzen."
-      ],
-      "inputs": [
-        "Ein Bild einer Figur; Werkzeuge zur Bildbearbeitung und zum Erstellen von GIFs."
-      ],
-      "notes": [
-        "Anpassung des redaktionellen Arbeitsablaufs. Der Ersteller berichtet, dass er zwei Sätze mit je neun separaten Variationen verwendet hat, nachdem ein 3x3-Raster das Design zu stark verändert hatte.",
-        "Das ursprüngliche Ausgangsbild wurde mit Nano Banana Pro erstellt; für die anschließenden Bearbeitungen wurde GPT Image 2.5 verwendet."
-      ],
-      "source_digest": "e033bb31e757a2765adc3f0f34b162a8711620e59a10b721b95efc8e0d7ba2f9",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "es": {
-      "title": "Animar con variaciones de imagen independientes.",
-      "summary": "Utilice fotogramas editados por separado cuando una cuadrícula de *sprites* distorsione demasiado al personaje.",
-      "steps": [
-        "Cree nueve variaciones independientes de la imagen del personaje proporcionada para lograr una animación suave. Cambie la postura solo ligeramente entre fotogramas. Mantenga constantes el tamaño, la posición, la identidad y el fondo del personaje.",
-        "Inspeccione y alinee los fotogramas; luego, móntelos en un GIF en bucle. Si el movimiento requiere más fotogramas intermedios, cree otro conjunto utilizando las mismas referencias."
-      ],
-      "inputs": [
-        "Una imagen del personaje; herramientas de edición de imágenes y montaje de GIF."
-      ],
-      "notes": [
-        "Adaptación del flujo de trabajo editorial. El creador informa que utilizó dos conjuntos de nueve variaciones distintas después de que una cuadrícula de 3x3 alterara demasiado el diseño.",
-        "La imagen base original se creó con Nano Banana Pro; para las ediciones posteriores se utilizó GPT Image 2.5."
-      ],
-      "source_digest": "e033bb31e757a2765adc3f0f34b162a8711620e59a10b721b95efc8e0d7ba2f9",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "pt-BR": {
-      "title": "Animar usando variações de imagem distintas.",
-      "summary": "Utilize quadros editados separadamente quando uma grade de *sprites* distorcer excessivamente o personagem.",
-      "steps": [
-        "Crie nove variações distintas da imagem do personagem fornecida para obter uma animação suave. Altere a pose apenas ligeiramente entre os quadros. Mantenha consistentes o tamanho, a posição, a identidade e o fundo do personagem.",
-        "Inspecione e alinhe os quadros e, em seguida, monte-os em um GIF em *loop*. Se o movimento exigir mais quadros intermediários, crie outro conjunto utilizando as mesmas referências."
-      ],
-      "inputs": [
-        "Uma imagem de personagem; ferramentas de edição de imagem e de montagem de GIF."
-      ],
-      "notes": [
-        "Adaptação do fluxo de trabalho editorial. O criador relata o uso de dois conjuntos de nove variações distintas, após uma grade de 3x3 ter alterado excessivamente o design.",
-        "A imagem base original foi criada com o Nano Banana Pro; o GPT Image 2.5 foi utilizado para as edições subsequentes."
-      ],
-      "source_digest": "e033bb31e757a2765adc3f0f34b162a8711620e59a10b721b95efc8e0d7ba2f9",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+  "translation_meta": {
+    "source_digest": "7c9c7317318d6360af6d30aea37d1d0e0aeb62c2268ef7ece9f41b8b2e4699fa",
+    "text_digests": {
+      "zh-CN": "4f10442e528b17f73d33fdf63a420e41e87ecc80c0a46c64685fe0bf849c6f1e",
+      "zh-TW": "cbd6dec12f3acd559cb5e9faed7c9d0baf238304860a6551d036b5b1bedc6844",
+      "ja": "19d929f7efd17bab33872f6284fef9908686b125baa34996bd8166f2bea6c4c4",
+      "ko": "2916827ac65059bb2c225ad500d2b43caa39b806c482bc7743bf7afcb4ffdc09",
+      "fr": "839d1269f1db5a6785ab93c1215f4bcdc96365a20eafe2a15d2867a38cda09c9",
+      "de": "fd9d50a9b715b75502f64395407a51ec59496cb4f707b8895894f0339872ea25",
+      "es": "051ca22a48dd20702bd1bf7ff0eddf85faea7764be1806e50bb24821d7be6628",
+      "pt-BR": "847d3055e8d2d31c3f99040ba9e75014210d7c84057b8e6dc52af89877e3b967"
     }
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:12:37.876Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 3,
+      "result": 2,
+      "usefulness": 4,
+      "clarity": 3,
+      "distinctiveness": 4
+    },
+    "rationale": "The workflow explains why separate variations can outperform a packed sheet and discloses the other model used for the base image. Continuity remains untested."
   }
 }

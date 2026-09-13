@@ -1,7 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { sourceDigest, textFor } from './catalog.mjs';
+import { sourceDigest, translationDigest, textFor, qualityScore, qualityWeights } from './catalog.mjs';
 
 export const root = fileURLToPath(new URL('../', import.meta.url));
 export function readData() {
@@ -31,23 +31,32 @@ export function validate(entries, site, locales = JSON.parse(fs.readFileSync(pat
   for (const locale of localeIds) {
     if (!language(locale)) errors.push(`Invalid locale: ${locale}`);
     for (const key of Object.keys(locales.messages.en)) if (!locales.messages[locale]?.[key]?.trim()) errors.push(`Missing UI translation: ${locale}.${key}`);
-    for (const c of site.categories) if (!(c[locale] ?? (locale === 'zh-CN' ? c.zh : null))?.trim()) errors.push(`Missing category translation: ${c.id}.${locale}`);
+    for (const c of site.categories) if (!c[locale]?.trim()) errors.push(`Missing category translation: ${c.id}.${locale}`);
   }
   for (const key of ['url', 'promptDestination', 'repository']) if (!url(site[key])) errors.push(`site.${key}: HTTPS URL required`);
   if (!entries.length) errors.push('Catalog must contain at least one entry');
+  if (!site.promptPages || typeof site.promptPages !== 'object') errors.push('site.promptPages required');
+  for (const c of site.categories) if ('zh' in c) errors.push('category: unsupported language field zh');
+  for (const [id, page] of Object.entries(site.promptPages ?? {})) {
+    if (!entries.some(e => e.id === id)) errors.push(`site.promptPages: unknown case ${id}`);
+    if (!url(page.url) || !validDate(page.checked_at)) errors.push(`site.promptPages.${id}: verified HTTPS URL and date required`);
+    else if (!url(site.url) || new URL(page.url).origin !== new URL(site.url).origin || new URL(page.url).pathname !== `/prompt/community-${id}` || new URL(page.url).search || new URL(page.url).hash) errors.push(`site.promptPages.${id}: wrong detail destination`);
+  }
+  const recipes = new Map();
   for (const e of entries) {
     const fail = message => errors.push(`${e.id ?? '(missing id)'}: ${message}`);
-    const bilingual = (v, name) => {
-      if (!v || ['en', 'zh'].some(k => typeof v[k] !== 'string' || !v[k].trim())) fail(`${name} requires English and Chinese`);
+    const localized = (v, name) => {
+      if (!v || typeof v !== 'object' || Array.isArray(v)) { fail(`${name}: localized object required`); return; }
+      for (const l of localeIds) if (typeof v[l] !== 'string' || !v[l].trim()) fail(`${name}: missing translation ${l}`);
+      for (const k of Object.keys(v)) if (!localeIds.includes(k)) fail(`${name}: unsupported language field ${k}`);
     };
     if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(e.id ?? '')) fail('id must be lowercase kebab-case');
     if (ids.has(e.id)) fail('duplicate id');
     ids.add(e.id);
-    if (e.schema_version !== 1) fail('unsupported schema_version');
-    bilingual(e.title, 'title'); bilingual(e.summary, 'summary');
+    for (const key of ['schema_version', 'localizations', 'featured', 'quality_score', 'discovery_score', 'placement', 'website_url']) if (key in e) fail(`redundant source field: ${key}`);
+    localized(e.title, 'title'); localized(e.summary, 'summary');
     if (!categories.has(e.category)) fail('unknown category');
     if (!['generate', 'edit', 'workflow'].includes(e.mode)) fail('unknown mode');
-    if (typeof e.featured !== 'boolean') fail('featured must be boolean');
     if (!Array.isArray(e.tags) || !e.tags.length || e.tags.some(t => !/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(t))) fail('tags must be nonempty kebab-case strings');
     if (!['original', 'adaptation', 'translation'].includes(e.prompt?.kind)) fail('unknown prompt kind');
     if (e.source?.post_language !== null && !language(e.source?.post_language)) fail('source.post_language must be a canonical language code or null');
@@ -56,20 +65,17 @@ export function validate(entries, site, locales = JSON.parse(fs.readFileSync(pat
     if (e.prompt?.kind === 'original' && e.prompt.original_steps?.length !== e.prompt.steps?.length) fail('original step count differs from translated steps');
     if (e.prompt?.kind === 'original' && e.prompt.original_language === 'en' && JSON.stringify(e.prompt.original_steps) !== JSON.stringify(e.prompt.steps?.map(s => s.en))) fail('English original must match preserved source wording');
     if (!Array.isArray(e.prompt?.steps) || !e.prompt.steps.length) fail('prompt steps required');
-    for (const s of e.prompt?.steps ?? []) bilingual(s, 'prompt step');
+    for (const s of e.prompt?.steps ?? []) localized(s, 'prompt step');
     for (const field of ['inputs', 'notes']) {
       if (!Array.isArray(e[field])) fail(`${field} must be an array`);
-      for (const v of e[field] ?? []) bilingual(v, field);
+      for (const v of e[field] ?? []) localized(v, field);
     }
-    for (const locale of localeIds.filter(l => !['en', 'zh-CN'].includes(l))) {
-      const content = textFor(e, locale);
-      if (!content || typeof content.title !== 'string' || !content.title.trim() || typeof content.summary !== 'string' || !content.summary.trim()) fail(`${locale}: title and summary required`);
-      for (const field of ['steps', 'inputs', 'notes']) {
-        const expected = field === 'steps' ? e.prompt?.steps : e[field];
-        if (!Array.isArray(content?.[field]) || content[field].length !== expected?.length || content[field].some(v => typeof v !== 'string' || !v.trim())) fail(`${locale}: incomplete ${field}`);
-      }
-      if (content?.source_digest !== sourceDigest(e)) fail(`${locale}: translation is stale`);
+    if (e.translation_meta?.source_digest !== sourceDigest(e)) fail('translation is stale');
+    for (const locale of localeIds.filter(l => l !== 'en')) {
+      if (e.translation_meta?.text_digests?.[locale] !== translationDigest(e, locale)) fail(`${locale}: translation review is stale`);
     }
+    if (Object.keys(e.translation_meta ?? {}).some(k => !['source_digest', 'text_digests'].includes(k))) fail('unsupported translation metadata field');
+    if (Object.keys(e.translation_meta?.text_digests ?? {}).some(l => l === 'en' || !localeIds.includes(l))) fail('unsupported translation metadata locale');
     if (e.prompt?.preserved_literals !== undefined) {
       const literals = e.prompt.preserved_literals;
       if (!Array.isArray(literals) || literals.some(v => typeof v !== 'string' || !v.trim())) fail('preserved_literals must contain nonempty strings');
@@ -98,6 +104,18 @@ export function validate(entries, site, locales = JSON.parse(fs.readFileSync(pat
     if (!e.engagement?.method) fail('metric observation method required');
     if (typeof e.verification?.independently_tested !== 'boolean') fail('independent test status required');
     if (e.verification?.independently_tested && !url(e.verification.test_url)) fail('independent tests require public evidence');
+    for (const r of e.references ?? []) if (!url(r.url) || !url(r.source_url) || !r.credit) fail('reference requires HTTPS URL, source and credit');
+    const c = e.curation;
+    if (c?.decision === 'hold') localized(c.notice, 'hold notice');
+    if (!c || c.version !== 1 || !validDate(c.reviewed_at) || !['publish', 'hold'].includes(c.decision) || typeof c.rationale !== 'string' || !c.rationale.trim() || typeof c.educational !== 'boolean') fail('curation requires version, date, decision, educational flag and rationale');
+    if (!c?.ratings || Object.keys(c.ratings).length !== Object.keys(qualityWeights).length || Object.keys(qualityWeights).some(k => !Number.isInteger(c.ratings[k]) || c.ratings[k] < 0 || c.ratings[k] > 4)) fail('quality ratings must be integers from 0 to 4');
+    if (!Array.isArray(c?.content_flags) || c.content_flags.some(f => !['suggestive', 'horror'].includes(f))) fail('unknown content flags');
+    if (c?.ratings && c.decision === 'publish' && qualityScore(e) < 65 && !c.educational) fail('low quality requires an educational reason or hold');
+    if (c?.decision === 'publish') {
+      const recipe = e.prompt?.steps?.map(s => s.en?.toLowerCase().replace(/\s+/g, ' ').trim()).join('\n');
+      if (recipes.has(recipe)) fail(`duplicate recipe: ${recipes.get(recipe)}`);
+      recipes.set(recipe, e.id);
+    }
     if (e.rights?.status !== 'third-party-terms' || !e.rights?.note) fail('third-party rights statement required');
   }
   return errors;

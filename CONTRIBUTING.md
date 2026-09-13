@@ -10,9 +10,11 @@ Send the original post, creator, complete prompt or clearly labeled adaptation,
 reference requirements, and a result example. A prompt in the author's reply
 needs its own URL as well as the showcase post's URL.
 
-We prioritize source-backed GPT Image 2.5 cases with strong observed interest, in any source language. Low-engagement leads may remain in the local candidate queue. A large like count cannot substitute
-for an actual prompt. Pure announcements and showcases without a reusable
-workflow belong in research, not the published catalog.
+We prioritize source-backed, useful and distinct recipes in any source language.
+Low engagement is not a reason to reject a complete case; high engagement is not
+a quality guarantee. Follow [curation](docs/CURATION.md) for admission, scoring,
+content flags and featured eligibility. Pure announcements or showcases without
+a reusable workflow stay in research.
 
 ## Add an entry with a pull request
 
@@ -23,12 +25,14 @@ workflow belong in research, not the published catalog.
    complete titles, summaries, steps, and notes for every language configured in data/locales.json. Preserve the original prompt and record post/prompt languages separately.
 4. Include primary source links, model evidence, reference requirements, source
    result previews, and a dated public metric snapshot where available.
-5. Run `npm run build`, then `npm run check`.
-6. Include the generated README files, catalog, and prompt pages in the PR.
+5. Record an editorial review and content flags. Review every translation and
+   update its source/text hashes; do not copy old approval metadata blindly.
+6. Run `npm run build`, then `npm run check`.
+7. Include the generated README files, catalog, and prompt pages in the PR.
 
 Never edit generated files by hand. Never insert product URLs or marketing copy
 into a creator's prompt. Project CTAs come from `data/site.json`; changing the
-future website destination should require one configuration edit.
+website destination should require one configuration edit.
 
 For independent tests, use your own or authorized inputs and include the actual
 model ID, parameters, date, prompt version, and output. Do not mark a source's

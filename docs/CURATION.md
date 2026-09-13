@@ -1,67 +1,91 @@
 # Curation and evidence
 
-Prioritize **GPT Image 2.5 relevance and observed popularity**, regardless of the
-source language. The creator does not need to publish bilingual content. We
-preserve source wording and provide the translations.
+Admission comes first, editorial quality second, placement last. Engagement is
+useful discovery evidence; it never decides quality order. There is no case quota.
 
 ## Admission
 
-1. Open the primary creator post and the full prompt in its author reply when needed.
-2. Verify explicit GPT Image 2.5 attribution, a complete usable prompt or workflow, its corresponding result, and required inputs.
-3. Record creator statements separately from independently tested model/output evidence. Keep contradictory model evidence in the local candidate queue.
-4. Preserve exact wording. Label editorial condensation or changes as adaptations. Never reconstruct an alleged source prompt from a picture.
-5. Explain reference images, prior outputs, other models and export tools. A generated sprite sheet is not itself a GIF.
-6. Credit source media and capture dated metrics from the measured post. Hidden metrics stay null.
-7. Deduplicate the actual recipe, not just its title. Translations, recolors and repeated promotion do not create independent cases.
+Open the primary source, including the author's prompt reply where applicable.
+Require explicit GPT Image 2.5 attribution, a reusable prompt or workflow, its
+corresponding result, input requirements and a rights statement. Preserve source
+wording separately from translations and disclosed editor adaptations. Never
+infer an alleged original prompt from an image or rename an older-model result.
+An adaptation's source preview is not proof that the adapted wording reproduces it.
 
-Collections and resource articles are discovery leads. A bundle cannot become
-many cases unless each has its own complete prompt, corresponding result and
-model evidence. Never multiply a parent thread's engagement across replies.
-Older-model examples are not relabeled as GPT Image 2.5 just because another
-repository changed its title.
+Official documentation can be a primary source. Keep its input images in
+`references`, outputs in `previews`, source settings in notes and all unavailable
+social metrics null. Each distinct recipe needs its own paired evidence.
+Shared article engagement must not be multiplied across cases.
 
-## Discovery order
+## Editorial quality, version 1
 
-The internal discovery score is a weighted mean of `log(1 + count)`:
+Rate each dimension from 0 to 4: no evidence, weak, usable, solid, excellent.
+The score is an editorial assessment of the documented recipe and visible source
+result, **not a model benchmark or independent reproduction score**.
 
-| Metric | Weight |
-| --- | ---: |
-| Likes | 0.35 |
-| Bookmarks | 0.35 |
-| Reposts | 0.20 |
-| Views | 0.10 |
+| Dimension | Weight | Review question |
+| --- | ---: | --- |
+| `reuse` | 30% | Are the inputs, steps and tools sufficient to try the workflow? |
+| `result` | 25% | Does the visible result meet composition, text and key constraints? |
+| `usefulness` | 20% | Is there a practical use or a clear learning objective? |
+| `clarity` | 15% | Are instructions understandable and internally consistent? |
+| `distinctiveness` | 10% | Does the recipe teach a distinct control method? |
 
-For unavailable values, exclude the term and normalize the remaining weights.
-All unavailable means a null score. Zero is a known observation, not missing.
-Ties use the stable ID. Replies remain recorded but are not part of the score.
+`quality_score = sum(rating × weight / 4)`. Store only ratings, review date,
+version and a case-specific rationale in `curation`. The build derives the score,
+featured eligibility and placement. Do not award points for length, likes or fame.
+A short, well-grounded local edit can be more useful than a long adjective list.
+Invisible details are unknown; preview inspection cannot prove alpha correctness,
+engineering accuracy, editable vector output or temporal consistency.
 
-This ranks discovery interest, not quality, reproducibility, model superiority,
-unique users, website conversion or sales. Every case shows its actual metric
-observation time; there is no misleading shared freshness badge. Existing
-published IDs remain stable. Low-engagement leads can stay in the local queue
-while stronger eligible cases are prioritized.
+- At least 80: eligible for featured selection if in the main gallery.
+- 65–79: ordinary gallery.
+- Below 65: publish only with a stated learning objective (`educational: true`),
+  in the collapsed exploration section; otherwise hold.
+- Order by descending quality, then stable ID. No heat-based tie breaker.
+- Select up to six featured links, at most one per category and two per author.
+  Show fewer if the constraints cannot be satisfied; never relax them to fill space.
 
-## Original, translated and adapted
+## Content placement
 
-- **Original:** source wording is archived separately in its actual source language.
-- **Translation:** faithful localized wording. Preserve placeholders, numeric constraints, step order, negative instructions and intended text inside the image.
-- **Editor adaptation:** a disclosed rewrite, including historical condensed recipes. Its preview is not claimed as a verified output of the rewrite.
-- **Source-checked:** the cited primary source was opened and reviewed.
-- **Independently tested:** a maintainer actually ran the prompt with recorded inputs, model, settings and public result evidence.
+Non-explicit adult suggestive material may be retained with `suggestive`, but
+its image and prompt default to collapsed exploration and it is never featured.
+Ordinary fashion or swimwear does not automatically receive this flag. Evaluate
+the actual presentation and prompt. Use `horror` for disturbing imagery.
 
-Translate prompt instructions directly from their source language, not through
-an English pivot. Editorial notes are translated from the authored English.
-Do not assume that a post's language is the prompt's language. Missing original
-text and unknown languages remain explicitly unknown.
+Sexualized depictions with unclear adult age stay on hold. Pornography,
+sexualization of minors and non-consensual intimate content are not admitted.
+See [content policy](../CONTENT_POLICY.md). Hold decisions remove the case from
+public gallery content and `catalog.entries`; `catalog.withheld` and a stable
+explanation page preserve the ID without displaying the image or recipe.
+A later review may change the decision when the actual evidence changes.
 
-## Batch acceptance
+## Source, language and testing
 
-Calibrate with three to five cases, then review batches of about ten. Reach 50
-complete cases before continuing toward 100. Every counted case needs all
-configured languages, complete provenance and passing build/check results.
-Do not pad the count when sufficient source evidence is unavailable. Store
-rejected leads and unfinished translations locally with their reasons.
+`source-checked` means the primary source was opened. It does not mean the
+maintainer ran the model. `independently_tested` requires a real authorized run
+with recorded model, inputs, settings and public output evidence. Do not turn an
+official or creator example into a maintainer test.
 
-Public release remains separate from local completion. Refresh only numbers
-that were actually observed again; preserve their individual timestamps.
-See [content policy](../CONTENT_POLICY.md) for corrections and removal requests.
+The post language and original prompt language can differ. Keep both. Preserve
+numbers, exclusions, variable names, step order and literal text intended for the
+image in every translation. Translation review hashes detect changed text; they
+are not a claim of native-speaker review or proof of semantic equivalence.
+
+## Discovery and stopping
+
+Review existing cases before searching for more. Then check official guides,
+low-engagement local candidates, recent work by known authors and primary links
+in useful collections. Prioritize gaps in product advertising, typography,
+infographics, precise editing and sketch control. Compare the actual technique;
+recolors, translations and repeated promotional posts are not new recipes.
+
+Record considered sources and exclusions. Stop a session after two consecutive
+search rounds produce no new admissible distinct recipe. An inaccessible or
+incomplete source remains a candidate, not a published case. Nine complete
+languages, provenance and passing checks are required before an addition counts.
+
+The derived `discovery_score` is a weighted mean of `log(1 + count)` using likes
+0.35, bookmarks 0.35, reposts 0.20 and views 0.10. Missing metrics are excluded
+and weights renormalized; all missing yields null. Replies are recorded only.
+Dates belong to individual observations, not a misleading shared freshness label.

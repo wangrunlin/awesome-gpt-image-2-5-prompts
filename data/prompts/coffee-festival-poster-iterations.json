@@ -1,13 +1,26 @@
 {
-  "schema_version": 1,
   "id": "coffee-festival-poster-iterations",
   "title": {
     "en": "Five-round coffee festival poster editing",
-    "zh": "咖啡节海报五轮连续编辑"
+    "zh-CN": "咖啡节海报五轮连续编辑",
+    "zh-TW": "五輪咖啡節海報編輯",
+    "ja": "コーヒーフェスティバルポスター編集（5ラウンド）",
+    "ko": "5단계 커피 축제 포스터 편집",
+    "fr": "Modification d'une affiche pour un festival du café (cinq étapes)",
+    "de": "Fünf Runden: Posterbearbeitung für ein Kaffeefestival",
+    "es": "Edición de póster para festival de café en cinco rondas",
+    "pt-BR": "Edição de pôster de festival de café em cinco etapas"
   },
   "summary": {
     "en": "Build a poster and change its palette, title scale, date, and steam in separate rounds.",
-    "zh": "制作一张海报，并分轮更改其调色板、标题大小、日期和蒸汽效果。"
+    "zh-CN": "制作一张海报，并分轮更改其调色板、标题大小、日期和蒸汽效果。",
+    "zh-TW": "製作一張海報，並分輪更改其調色板、標題大小、日期和蒸汽效果。",
+    "ja": "ポスターを作成し、色調、タイトルサイズ、日付、蒸気量をそれぞれ別のラウンドで変更します。",
+    "ko": "포스터 제작 후, 각 단계별로 색상 팔레트, 제목 크기, 날짜, 스팀 효과를 변경합니다.",
+    "fr": "Créez une affiche et modifiez sa palette de couleurs, l'échelle du titre, la date et l'effet vapeur lors d'étapes distinctes.",
+    "de": "Erstelle ein Poster und ändere in separaten Runden Farbpalette, Titelgröße, Datum und Dampf.",
+    "es": "Crea un póster y cambia su paleta de colores, escala del título, fecha y efecto de vapor en rondas separadas.",
+    "pt-BR": "Crie um pôster e altere sua paleta de cores, tamanho do título, data e vapor em etapas separadas."
   },
   "category": "design",
   "tags": [
@@ -15,7 +28,6 @@
     "workflow"
   ],
   "mode": "workflow",
-  "featured": true,
   "model": {
     "family": "GPT Image 2.5",
     "variant": null,
@@ -35,23 +47,58 @@
     "steps": [
       {
         "en": "Create a 1024×1536 portrait-oriented “城市咖啡节” poster.\nInclude only: “城市咖啡节”“一杯咖啡，遇见一座城”\n“2026.10.18”“滨江创意中心”.\nUse a modern Swiss design style with ivory white, coffee brown, and a touch of cobalt blue; employ a strict grid and ample negative space.\nFeature a visual of a pour-over coffee setup in the center. No logos, QR codes, watermarks, or extra text.",
-        "zh": "创建一张1024×1536竖版“城市咖啡节”海报。\n只能出现：“城市咖啡节”“一杯咖啡，遇见一座城”\n“2026.10.18”“滨江创意中心”。\n采用现代瑞士设计、象牙白、咖啡棕和少量钴蓝，严格网格和充足留白。\n中央为一组手冲咖啡视觉。不要Logo、二维码、水印或额外文字。"
+        "zh-CN": "创建一张1024×1536竖版“城市咖啡节”海报。\n只能出现：“城市咖啡节”“一杯咖啡，遇见一座城”\n“2026.10.18”“滨江创意中心”。\n采用现代瑞士设计、象牙白、咖啡棕和少量钴蓝，严格网格和充足留白。\n中央为一组手冲咖啡视觉。不要Logo、二维码、水印或额外文字。",
+        "zh-TW": "創作一張1024×1536直版“城市咖啡节”海報。\n只能出現：“城市咖啡节”“一杯咖啡，遇见一座城”\n“2026.10.18”“滨江创意中心”。\n採用現代瑞士設計、象牙白、咖啡棕和少量鈷藍，嚴格網格和充足留白。\n中央為一組手沖咖啡視覺。不要Logo、二維碼、浮水印或額外文字。",
+        "ja": "縦長の“城市咖啡节”ポスター（1024×1536ピクセル）を作成してください。\n\n表示できる要素は以下のとおりです：“城市咖啡节”“一杯咖啡，遇见一座城”\n“2026.10.18”“滨江创意中心”\n\nモダンなスイスデザインを基調とし、アイボリーホワイト、コーヒーブラウン、そしてコバルトブルーをアクセントカラーとして使用してください。グリッドを厳密に設定し、十分な余白を設けてください。\n\n中央にはハンドドリップコーヒーのビジュアル要素を配置してください。ロゴ、QRコード、透かし、その他のテキストは含めないでください。",
+        "ko": "1024×1536 크기의 세로형 “城市咖啡节” 포스터를 제작하세요.\n\n다음 요소만 표시되어야 합니다: “城市咖啡节”“一杯咖啡，遇见一座城”\n“2026.10.18”“滨江创意中心”\n\n모던한 스위스 디자인을 사용하고, 아이보리 화이트, 커피 브라운, 코발트 블루 색상을 약간씩 조합하여 엄격한 그리드와 충분한 여백을 활용하세요.\n\n중앙에는 핸드드립 커피 이미지를 배치하세요. 로고, QR 코드, 워터마크, 추가 텍스트는 포함하지 마세요.",
+        "fr": "Créez une affiche verticale “城市咖啡节” de 1024 × 1536 pixels.\n\nSeuls les éléments suivants peuvent apparaître : “城市咖啡节”“一杯咖啡，遇见一座城”\n“2026.10.18”“滨江创意中心”.\n\nUtilisez un design suisse moderne, blanc ivoire, brun café et une touche de bleu cobalt, avec une grille stricte et de larges espaces blancs.\n\nLe centre présente un élément visuel représentant un café filtre. N’incluez pas de logo, de code QR, de filigrane ni de texte supplémentaire.",
+        "de": "Erstellen Sie ein vertikales Poster (1024 × 1536 Pixel) mit der Zeichenkette “城市咖啡节”.\n\nNur die folgenden Elemente dürfen angezeigt werden: “城市咖啡节”“一杯咖啡，遇见一座城”\n“2026.10.18”“滨江创意中心”.\n\nVerwenden Sie ein modernes Schweizer Design in Elfenbeinweiß, Kaffeebraun und einem Hauch Kobaltblau mit einem strengen Raster und viel Weißraum.\n\nIm Zentrum befindet sich ein Bild von handgebrühtem Kaffee. Fügen Sie kein Logo, keinen QR-Code, kein Wasserzeichen und keinen zusätzlichen Text ein.",
+        "es": "Crea un póster vertical de 1024 × 1536 con el texto “城市咖啡节”.\n\nSolo pueden aparecer los siguientes elementos: “城市咖啡节”“一杯咖啡，遇见一座城”\n“2026.10.18”“滨江创意中心”.\n\nUtiliza un diseño suizo moderno, en blanco marfil, marrón café y un toque de azul cobalto, con una cuadrícula estricta y amplio espacio en blanco.\n\nEl centro presenta un elemento visual de café de goteo manual. No incluyas logotipo, código QR, marca de agua ni texto adicional.",
+        "pt-BR": "Crie um pôster vertical “城市咖啡节” de 1024×1536.\n\nSomente os seguintes elementos podem aparecer: “城市咖啡节”“一杯咖啡，遇见一座城”\n“2026.10.18”“滨江创意中心”.\n\nUse um design suíço moderno, com branco marfim, marrom café e um toque de azul cobalto, com uma grade rígida e amplo espaço em branco.\n\nO centro apresenta um elemento visual de uma xícara de café coado. Não inclua logotipo, código QR, marca d'água ou texto adicional."
       },
       {
         "en": "Change the color scheme only to black, silver-gray, and fluorescent orange.\nKeep the original copy, spelling, typographic hierarchy, element placement, dimensions, coffee subject, and composition unchanged.",
-        "zh": "只把配色改成黑色、银灰色和荧光橙。\n保持原文案、拼写、字体层级、元素位置、尺寸、咖啡主体和构图不变。"
+        "zh-CN": "只把配色改成黑色、银灰色和荧光橙。\n保持原文案、拼写、字体层级、元素位置、尺寸、咖啡主体和构图不变。",
+        "zh-TW": "只把配色改成黑色、銀灰色和螢光橘。\n保持原案例、拼字、字體層級、元素位置、尺寸、咖啡主體和構圖不變。",
+        "ja": "配色をブラック、シルバーグレー、蛍光オレンジに変更してください。\n\n元のテキスト、スペル、フォント階層、要素の位置、サイズ、コーヒーのテーマ、構成は変更しないでください。",
+        "ko": "색상 구성을 검정, 은회색, 형광 오렌지로 변경하세요.\n\n원본 텍스트, 철자, 글꼴 계층 구조, 요소 위치, 크기, 커피 테마 및 구성을 그대로 유지하세요.",
+        "fr": "Modifiez simplement la palette de couleurs en noir, gris argenté et orange fluo.\n\nConservez le texte, l’orthographe, la hiérarchie des polices, la position des éléments, la taille, le thème du café et la composition d’origine.",
+        "de": "Ändern Sie einfach das Farbschema in Schwarz, Silbergrau und Neonorange.\n\nBehalten Sie den Originaltext, die Rechtschreibung, die Schrifthierarchie, die Position der Elemente, die Größe, das Kaffeemotiv und die Komposition bei.",
+        "es": "Simplemente cambia la combinación de colores a negro, gris plata y naranja fluorescente.\n\nMantén el texto original, la ortografía, la jerarquía de fuentes, la posición de los elementos, el tamaño, el tema del café y la composición sin cambios.",
+        "pt-BR": "Basta alterar o esquema de cores para preto, cinza prateado e laranja fluorescente.\n\nMantenha o texto original, a ortografia, a hierarquia de fontes, a posição dos elementos, o tamanho, o tema do café e a composição inalterados."
       },
       {
         "en": "Enlarge “城市咖啡节” by approximately 20% and slightly increase the letter spacing.\nKeep all other text, colors, positioning, the coffee subject, background, and composition unchanged.",
-        "zh": "只将“城市咖啡节”放大约20%，略微增加字间距。\n保持其他文字、颜色、位置、咖啡主体、背景和构图不变。"
+        "zh-CN": "只将“城市咖啡节”放大约20%，略微增加字间距。\n保持其他文字、颜色、位置、咖啡主体、背景和构图不变。",
+        "zh-TW": "只將“城市咖啡节”放約20%，稍微增加字間距。\n保持其他文字、顏色、位置、咖啡主體、背景和構圖不變。",
+        "ja": "“城市咖啡节”のサイズを約20%拡大し、文字間隔をわずかに広げてください。\n\n\nその他のテキスト、色、位置、コーヒーのテーマ、背景、構図はすべて変更しないでください。",
+        "ko": "“城市咖啡节”의 크기를 약 20% 확대하고 자간을 약간 넓히세요.\n\n다른 모든 텍스트, 색상, 위치, 커피 테마, 배경 및 구성을 변경하지 마십시오.",
+        "fr": "Augmentez simplement la taille de “城市咖啡节” d’environ 20 % et augmentez légèrement l’espacement des lettres.\n\nConservez le texte, les couleurs, les positions, le thème du café, l'arrière-plan et la composition inchangés.",
+        "de": "Vergrößern Sie die Zeichenkette “城市咖啡节” um ca. 20 % und den Buchstabenabstand leicht.\n\nAlle anderen Texte, Farben, Positionen, das Kaffeethema, der Hintergrund und die Komposition bleiben unverändert.",
+        "es": "Simplemente aumenta el tamaño de “城市咖啡节” aproximadamente un 20 % y aumenta ligeramente el espaciado entre letras.\n\nMantenga sin cambios el resto del texto, colores, posiciones, tema de café, fondo y composición.",
+        "pt-BR": "Basta aumentar o tamanho de “城市咖啡节” em aproximadamente 20% e aumentar ligeiramente o espaçamento entre as letras.\n\nMantenha todo o restante do texto, cores, posições, tema do café, fundo e composição inalterados."
       },
       {
         "en": "Replace “2026.10.18” with “2026.10.25” only.\nThe new date must be accurate and appear only once; do not alter any other content.",
-        "zh": "只把“2026.10.18”替换为“2026.10.25”。\n新日期必须准确且只出现一次，不得改变任何其他内容。"
+        "zh-CN": "只把“2026.10.18”替换为“2026.10.25”。\n新日期必须准确且只出现一次，不得改变任何其他内容。",
+        "zh-TW": "只把“2026.10.18”換成“2026.10.25”。\n新日期必須準確且只出現一次，不得改變任何其他內容。",
+        "ja": "“2026.10.18”を“2026.10.25”に置き換えてください。\n\n新しい日付は正確で、一度だけ表示される必要があります。その他の内容は変更しないでください。",
+        "ko": "“2026.10.18”를 “2026.10.25”로만 교체하십시오.\n\n새 날짜는 정확해야 하며 한 번만 표시되어야 합니다. 다른 내용은 변경할 수 없습니다.",
+        "fr": "Remplacez simplement “2026.10.18” par “2026.10.25”.\n\nLa nouvelle date doit être exacte et n'apparaître qu'une seule fois ; aucun autre contenu ne doit être modifié.",
+        "de": "Ersetzen Sie einfach “2026.10.18” durch “2026.10.25”.\n\nDas neue Datum muss korrekt sein und darf nur einmal vorkommen; alle anderen Inhalte dürfen nicht geändert werden.",
+        "es": "Simplemente reemplace “2026.10.18” por “2026.10.25”.\n\nLa nueva fecha debe ser precisa y aparecer solo una vez; no se puede modificar ningún otro contenido.",
+        "pt-BR": "Simplesmente substitua “2026.10.18” por “2026.10.25”.\n\nA nova data deve ser precisa e aparecer apenas uma vez; nenhum outro conteúdo pode ser alterado."
       },
       {
         "en": "Remove only the steam above the dripper and naturally restore the area underneath.\nRetain all text, coffee equipment, background, shadows, grid lines, colors, and composition.",
-        "zh": "只删除滤杯上方的蒸汽，自然修复原区域。\n保留全部文字、咖啡器具、背景、阴影、网格、颜色和构图。"
+        "zh-CN": "只删除滤杯上方的蒸汽，自然修复原区域。\n保留全部文字、咖啡器具、背景、阴影、网格、颜色和构图。",
+        "zh-TW": "只刪除濾杯上方的蒸汽，自然修復原區域。\n保留全部文字、咖啡器具、背景、陰影、網格、顏色和構圖。",
+        "ja": "フィルターカップ上部の蒸気のみを除去し、元の領域を自然に復元してください。\n\nすべてのテキスト、コーヒー器具、背景、影、グリッド、色、構図を保持してください。",
+        "ko": "필터 컵 위의 김만 제거하고 원래 영역을 자연스럽게 복원하십시오.\n\n모든 텍스트, 커피 장비, 배경, 그림자, 격자, 색상 및 구성을 유지하십시오.",
+        "fr": "Supprimez uniquement la vapeur au-dessus de la tasse à filtre, afin de rétablir la zone d'origine.\n\nConservez le texte, le matériel de café, l'arrière-plan, les ombres, la grille, les couleurs et la composition.",
+        "de": "Entfernen Sie lediglich den Dampf über der Filtertasse, um den ursprünglichen Bereich wiederherzustellen.\n\nBehalten Sie alle Texte, Kaffeezubehörteile, den Hintergrund, Schatten, Raster, Farben und die Komposition bei.",
+        "es": "Elimine únicamente el vapor sobre la taza de filtro, restaurando de forma natural el área original.\n\nConserve todo el texto, el equipo de café, el fondo, las sombras, las cuadrículas, los colores y la composición.",
+        "pt-BR": "Remova apenas o vapor acima do filtro, restaurando naturalmente a área original.\n\nPreservar todo o texto, equipamentos de café, fundo, sombras, grades, cores e composição."
       }
     ],
     "preserved_literals": [
@@ -65,21 +112,49 @@
   "inputs": [
     {
       "en": "Use the previous round’s image as the reference for each subsequent edit.",
-      "zh": "使用上一轮的图像作为后续每次编辑的参考。"
+      "zh-CN": "使用上一轮的图像作为后续每次编辑的参考。",
+      "zh-TW": "使用上一輪的影像作為後續每次編輯的參考。",
+      "ja": "前のラウンドの画像を、以降の編集の基準として使用します。",
+      "ko": "이전 단계의 이미지를 다음 단계의 편집에 대한 참조 이미지로 사용합니다.",
+      "fr": "Utilisez l'image de l'étape précédente comme référence pour chaque modification.",
+      "de": "Verwende das Bild der vorherigen Runde als Referenz für jede weitere Bearbeitung.",
+      "es": "Usa la imagen de la ronda anterior como referencia para cada edición posterior.",
+      "pt-BR": "Use a imagem da etapa anterior como referência para cada edição subsequente."
     }
   ],
   "notes": [
     {
       "en": "A distinct illustrated test in the creator’s GPT Image 2.5 article. Shared article engagement is not assigned to individual tests.",
-      "zh": "作者在 GPT Image 2.5 文章中进行了单独的插图测试。共享文章的互动量不分配给单个测试。"
+      "zh-CN": "作者在 GPT Image 2.5 文章中进行了单独的插图测试。共享文章的互动量不分配给单个测试。",
+      "zh-TW": "作者在 GPT Image 2.5 文章中進行了單獨的插圖測試。分享文章的互動量不分配給單一測試。",
+      "ja": "作成者の記事GPT Image 2.5に掲載されている、図解付きのテストです。記事へのエンゲージメントは、個々のテストには割り当てられていません。",
+      "ko": "제작자의 GPT Image 2.5 문서에 별도의 그림 테스트가 포함되어 있습니다. 문서 공유 참여도는 개별 테스트에 할당되지 않습니다.",
+      "fr": "Un test illustré distinct est présenté dans l'article GPT Image 2.5 du créateur. L'engagement lié à l'article partagé n'est pas attribué aux tests individuels.",
+      "de": "Ein separater illustrierter Test im Artikel GPT Image 2.5 des Erstellers. Die Interaktionen im Artikel werden nicht einzelnen Tests zugeordnet.",
+      "es": "Prueba ilustrada específica en el artículo GPT Image 2.5 del creador. La participación en el artículo compartido no se asigna a pruebas individuales.",
+      "pt-BR": "Um teste ilustrado distinto no artigo GPT Image 2.5 do criador. O engajamento compartilhado do artigo não é atribuído a testes individuais."
     },
     {
       "en": "Any scores or observations in the source are the author’s reports, not independent tests by this repository.",
-      "zh": "源文件中的任何分数或观察结果均为作者的报告，并非本仓库的独立测试。"
+      "zh-CN": "源文件中的任何分数或观察结果均为作者的报告，并非本仓库的独立测试。",
+      "zh-TW": "來源文件中的任何分數或觀察結果均為作者的報告，並非本倉庫的獨立測試。",
+      "ja": "ソースに記載されているスコアや観察結果は、このリポジトリによる独立したテストではなく、著者の報告です。",
+      "ko": "원본의 점수 또는 관찰 내용은 작성자의 보고서이며, 본 저장소에서 수행한 독립적인 테스트 결과가 아닙니다.",
+      "fr": "Les scores et observations figurant dans la source sont des rapports de l'auteur et non des tests indépendants réalisés par ce dépôt.",
+      "de": "Alle Ergebnisse und Beobachtungen in der Quelle sind Berichte des Autors und keine unabhängigen Tests dieses Repositorys.",
+      "es": "Las puntuaciones u observaciones en la fuente son informes del autor, no pruebas independientes realizadas por este repositorio.",
+      "pt-BR": "Quaisquer pontuações ou observações na fonte são relatórios do autor, não testes independentes deste repositório."
     },
     {
       "en": "The author reports that the palette change also desaturated the photographed subject. The recipe does not guarantee pixel-identical preservation outside each target.",
-      "zh": "作者报告说，调色板的更改也导致拍摄对象的饱和度降低。此方法无法保证在每个目标之外都能保持像素级的一致性。"
+      "zh-CN": "作者报告说，调色板的更改也导致拍摄对象的饱和度降低。此方法无法保证在每个目标之外都能保持像素级的一致性。",
+      "zh-TW": "作者報告說，調色板的更改也導致拍攝對象的飽和度降低。此方法無法保證在每個目標之外都能保持像素級的一致性。",
+      "ja": "作者によると、色調変更によって被写体の彩度も低下したとのことです。この手法では、各ターゲット領域外のピクセル単位の完全性を保証するものではありません。",
+      "ko": "작성자는 색상 팔레트 변경 시 촬영된 피사체의 채도가 낮아지는 현상이 발생한다고 보고했습니다. 이 방법은 각 대상 영역 외에서는 픽셀 단위까지 동일하게 유지된다는 보장이 없습니다.",
+      "fr": "L'auteur signale que le changement de palette a également désaturé le sujet photographié. La méthode ne garantit pas une reproduction à l'identique en dehors de chaque étape.",
+      "de": "Der Autor berichtet, dass die Änderung der Farbpalette auch die Farbsättigung des fotografierten Motivs verringert hat. Die Anleitung garantiert keine pixelgenaue Farbwiedergabe außerhalb der jeweiligen Zielbereiche.",
+      "es": "El autor informa que el cambio de paleta también desaturó el sujeto fotografiado. La receta no garantiza la conservación idéntica de los píxeles fuera de cada objetivo.",
+      "pt-BR": "O autor relata que a alteração da paleta de cores também dessaturou o objeto fotografado. A receita não garante a preservação da identidade de pixels fora de cada alvo."
     }
   ],
   "source": {
@@ -119,153 +194,32 @@
     "status": "third-party-terms",
     "note": "Third-party prompts and media retain their creators’ rights; external previews are linked, not relicensed."
   },
-  "localizations": {
-    "zh-TW": {
-      "title": "五輪咖啡節海報編輯",
-      "summary": "製作一張海報，並分輪更改其調色板、標題大小、日期和蒸汽效果。",
-      "steps": [
-        "創作一張1024×1536直版“城市咖啡节”海報。\n只能出現：“城市咖啡节”“一杯咖啡，遇见一座城”\n“2026.10.18”“滨江创意中心”。\n採用現代瑞士設計、象牙白、咖啡棕和少量鈷藍，嚴格網格和充足留白。\n中央為一組手沖咖啡視覺。不要Logo、二維碼、浮水印或額外文字。",
-        "只把配色改成黑色、銀灰色和螢光橘。\n保持原案例、拼字、字體層級、元素位置、尺寸、咖啡主體和構圖不變。",
-        "只將“城市咖啡节”放約20%，稍微增加字間距。\n保持其他文字、顏色、位置、咖啡主體、背景和構圖不變。",
-        "只把“2026.10.18”換成“2026.10.25”。\n新日期必須準確且只出現一次，不得改變任何其他內容。",
-        "只刪除濾杯上方的蒸汽，自然修復原區域。\n保留全部文字、咖啡器具、背景、陰影、網格、顏色和構圖。"
-      ],
-      "inputs": [
-        "使用上一輪的影像作為後續每次編輯的參考。"
-      ],
-      "notes": [
-        "作者在 GPT Image 2.5 文章中進行了單獨的插圖測試。分享文章的互動量不分配給單一測試。",
-        "來源文件中的任何分數或觀察結果均為作者的報告，並非本倉庫的獨立測試。",
-        "作者報告說，調色板的更改也導致拍攝對象的飽和度降低。此方法無法保證在每個目標之外都能保持像素級的一致性。"
-      ],
-      "source_digest": "fb1e948a3b5d96c83c72501d55373ac3bba4715dbe59ae5e918aa754fc437d2a",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ja": {
-      "title": "コーヒーフェスティバルポスター編集（5ラウンド）",
-      "summary": "ポスターを作成し、色調、タイトルサイズ、日付、蒸気量をそれぞれ別のラウンドで変更します。",
-      "steps": [
-        "縦長の“城市咖啡节”ポスター（1024×1536ピクセル）を作成してください。\n\n表示できる要素は以下のとおりです：“城市咖啡节”“一杯咖啡，遇见一座城”\n“2026.10.18”“滨江创意中心”\n\nモダンなスイスデザインを基調とし、アイボリーホワイト、コーヒーブラウン、そしてコバルトブルーをアクセントカラーとして使用してください。グリッドを厳密に設定し、十分な余白を設けてください。\n\n中央にはハンドドリップコーヒーのビジュアル要素を配置してください。ロゴ、QRコード、透かし、その他のテキストは含めないでください。",
-        "配色をブラック、シルバーグレー、蛍光オレンジに変更してください。\n\n元のテキスト、スペル、フォント階層、要素の位置、サイズ、コーヒーのテーマ、構成は変更しないでください。",
-        "“城市咖啡节”のサイズを約20%拡大し、文字間隔をわずかに広げてください。\n\n\nその他のテキスト、色、位置、コーヒーのテーマ、背景、構図はすべて変更しないでください。",
-        "“2026.10.18”を“2026.10.25”に置き換えてください。\n\n新しい日付は正確で、一度だけ表示される必要があります。その他の内容は変更しないでください。",
-        "フィルターカップ上部の蒸気のみを除去し、元の領域を自然に復元してください。\n\nすべてのテキスト、コーヒー器具、背景、影、グリッド、色、構図を保持してください。"
-      ],
-      "inputs": [
-        "前のラウンドの画像を、以降の編集の基準として使用します。"
-      ],
-      "notes": [
-        "作成者の記事GPT Image 2.5に掲載されている、図解付きのテストです。記事へのエンゲージメントは、個々のテストには割り当てられていません。",
-        "ソースに記載されているスコアや観察結果は、このリポジトリによる独立したテストではなく、著者の報告です。",
-        "作者によると、色調変更によって被写体の彩度も低下したとのことです。この手法では、各ターゲット領域外のピクセル単位の完全性を保証するものではありません。"
-      ],
-      "source_digest": "fb1e948a3b5d96c83c72501d55373ac3bba4715dbe59ae5e918aa754fc437d2a",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ko": {
-      "title": "5단계 커피 축제 포스터 편집",
-      "summary": "포스터 제작 후, 각 단계별로 색상 팔레트, 제목 크기, 날짜, 스팀 효과를 변경합니다.",
-      "steps": [
-        "1024×1536 크기의 세로형 “城市咖啡节” 포스터를 제작하세요.\n\n다음 요소만 표시되어야 합니다: “城市咖啡节”“一杯咖啡，遇见一座城”\n“2026.10.18”“滨江创意中心”\n\n모던한 스위스 디자인을 사용하고, 아이보리 화이트, 커피 브라운, 코발트 블루 색상을 약간씩 조합하여 엄격한 그리드와 충분한 여백을 활용하세요.\n\n중앙에는 핸드드립 커피 이미지를 배치하세요. 로고, QR 코드, 워터마크, 추가 텍스트는 포함하지 마세요.",
-        "색상 구성을 검정, 은회색, 형광 오렌지로 변경하세요.\n\n원본 텍스트, 철자, 글꼴 계층 구조, 요소 위치, 크기, 커피 테마 및 구성을 그대로 유지하세요.",
-        "“城市咖啡节”의 크기를 약 20% 확대하고 자간을 약간 넓히세요.\n\n다른 모든 텍스트, 색상, 위치, 커피 테마, 배경 및 구성을 변경하지 마십시오.",
-        "“2026.10.18”를 “2026.10.25”로만 교체하십시오.\n\n새 날짜는 정확해야 하며 한 번만 표시되어야 합니다. 다른 내용은 변경할 수 없습니다.",
-        "필터 컵 위의 김만 제거하고 원래 영역을 자연스럽게 복원하십시오.\n\n모든 텍스트, 커피 장비, 배경, 그림자, 격자, 색상 및 구성을 유지하십시오."
-      ],
-      "inputs": [
-        "이전 단계의 이미지를 다음 단계의 편집에 대한 참조 이미지로 사용합니다."
-      ],
-      "notes": [
-        "제작자의 GPT Image 2.5 문서에 별도의 그림 테스트가 포함되어 있습니다. 문서 공유 참여도는 개별 테스트에 할당되지 않습니다.",
-        "원본의 점수 또는 관찰 내용은 작성자의 보고서이며, 본 저장소에서 수행한 독립적인 테스트 결과가 아닙니다.",
-        "작성자는 색상 팔레트 변경 시 촬영된 피사체의 채도가 낮아지는 현상이 발생한다고 보고했습니다. 이 방법은 각 대상 영역 외에서는 픽셀 단위까지 동일하게 유지된다는 보장이 없습니다."
-      ],
-      "source_digest": "fb1e948a3b5d96c83c72501d55373ac3bba4715dbe59ae5e918aa754fc437d2a",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "fr": {
-      "title": "Modification d'une affiche pour un festival du café (cinq étapes)",
-      "summary": "Créez une affiche et modifiez sa palette de couleurs, l'échelle du titre, la date et l'effet vapeur lors d'étapes distinctes.",
-      "steps": [
-        "Créez une affiche verticale “城市咖啡节” de 1024 × 1536 pixels.\n\nSeuls les éléments suivants peuvent apparaître : “城市咖啡节”“一杯咖啡，遇见一座城”\n“2026.10.18”“滨江创意中心”.\n\nUtilisez un design suisse moderne, blanc ivoire, brun café et une touche de bleu cobalt, avec une grille stricte et de larges espaces blancs.\n\nLe centre présente un élément visuel représentant un café filtre. N’incluez pas de logo, de code QR, de filigrane ni de texte supplémentaire.",
-        "Modifiez simplement la palette de couleurs en noir, gris argenté et orange fluo.\n\nConservez le texte, l’orthographe, la hiérarchie des polices, la position des éléments, la taille, le thème du café et la composition d’origine.",
-        "Augmentez simplement la taille de “城市咖啡节” d’environ 20 % et augmentez légèrement l’espacement des lettres.\n\nConservez le texte, les couleurs, les positions, le thème du café, l'arrière-plan et la composition inchangés.",
-        "Remplacez simplement “2026.10.18” par “2026.10.25”.\n\nLa nouvelle date doit être exacte et n'apparaître qu'une seule fois ; aucun autre contenu ne doit être modifié.",
-        "Supprimez uniquement la vapeur au-dessus de la tasse à filtre, afin de rétablir la zone d'origine.\n\nConservez le texte, le matériel de café, l'arrière-plan, les ombres, la grille, les couleurs et la composition."
-      ],
-      "inputs": [
-        "Utilisez l'image de l'étape précédente comme référence pour chaque modification."
-      ],
-      "notes": [
-        "Un test illustré distinct est présenté dans l'article GPT Image 2.5 du créateur. L'engagement lié à l'article partagé n'est pas attribué aux tests individuels.",
-        "Les scores et observations figurant dans la source sont des rapports de l'auteur et non des tests indépendants réalisés par ce dépôt.",
-        "L'auteur signale que le changement de palette a également désaturé le sujet photographié. La méthode ne garantit pas une reproduction à l'identique en dehors de chaque étape."
-      ],
-      "source_digest": "fb1e948a3b5d96c83c72501d55373ac3bba4715dbe59ae5e918aa754fc437d2a",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "de": {
-      "title": "Fünf Runden: Posterbearbeitung für ein Kaffeefestival",
-      "summary": "Erstelle ein Poster und ändere in separaten Runden Farbpalette, Titelgröße, Datum und Dampf.",
-      "steps": [
-        "Erstellen Sie ein vertikales Poster (1024 × 1536 Pixel) mit der Zeichenkette “城市咖啡节”.\n\nNur die folgenden Elemente dürfen angezeigt werden: “城市咖啡节”“一杯咖啡，遇见一座城”\n“2026.10.18”“滨江创意中心”.\n\nVerwenden Sie ein modernes Schweizer Design in Elfenbeinweiß, Kaffeebraun und einem Hauch Kobaltblau mit einem strengen Raster und viel Weißraum.\n\nIm Zentrum befindet sich ein Bild von handgebrühtem Kaffee. Fügen Sie kein Logo, keinen QR-Code, kein Wasserzeichen und keinen zusätzlichen Text ein.",
-        "Ändern Sie einfach das Farbschema in Schwarz, Silbergrau und Neonorange.\n\nBehalten Sie den Originaltext, die Rechtschreibung, die Schrifthierarchie, die Position der Elemente, die Größe, das Kaffeemotiv und die Komposition bei.",
-        "Vergrößern Sie die Zeichenkette “城市咖啡节” um ca. 20 % und den Buchstabenabstand leicht.\n\nAlle anderen Texte, Farben, Positionen, das Kaffeethema, der Hintergrund und die Komposition bleiben unverändert.",
-        "Ersetzen Sie einfach “2026.10.18” durch “2026.10.25”.\n\nDas neue Datum muss korrekt sein und darf nur einmal vorkommen; alle anderen Inhalte dürfen nicht geändert werden.",
-        "Entfernen Sie lediglich den Dampf über der Filtertasse, um den ursprünglichen Bereich wiederherzustellen.\n\nBehalten Sie alle Texte, Kaffeezubehörteile, den Hintergrund, Schatten, Raster, Farben und die Komposition bei."
-      ],
-      "inputs": [
-        "Verwende das Bild der vorherigen Runde als Referenz für jede weitere Bearbeitung."
-      ],
-      "notes": [
-        "Ein separater illustrierter Test im Artikel GPT Image 2.5 des Erstellers. Die Interaktionen im Artikel werden nicht einzelnen Tests zugeordnet.",
-        "Alle Ergebnisse und Beobachtungen in der Quelle sind Berichte des Autors und keine unabhängigen Tests dieses Repositorys.",
-        "Der Autor berichtet, dass die Änderung der Farbpalette auch die Farbsättigung des fotografierten Motivs verringert hat. Die Anleitung garantiert keine pixelgenaue Farbwiedergabe außerhalb der jeweiligen Zielbereiche."
-      ],
-      "source_digest": "fb1e948a3b5d96c83c72501d55373ac3bba4715dbe59ae5e918aa754fc437d2a",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "es": {
-      "title": "Edición de póster para festival de café en cinco rondas",
-      "summary": "Crea un póster y cambia su paleta de colores, escala del título, fecha y efecto de vapor en rondas separadas.",
-      "steps": [
-        "Crea un póster vertical de 1024 × 1536 con el texto “城市咖啡节”.\n\nSolo pueden aparecer los siguientes elementos: “城市咖啡节”“一杯咖啡，遇见一座城”\n“2026.10.18”“滨江创意中心”.\n\nUtiliza un diseño suizo moderno, en blanco marfil, marrón café y un toque de azul cobalto, con una cuadrícula estricta y amplio espacio en blanco.\n\nEl centro presenta un elemento visual de café de goteo manual. No incluyas logotipo, código QR, marca de agua ni texto adicional.",
-        "Simplemente cambia la combinación de colores a negro, gris plata y naranja fluorescente.\n\nMantén el texto original, la ortografía, la jerarquía de fuentes, la posición de los elementos, el tamaño, el tema del café y la composición sin cambios.",
-        "Simplemente aumenta el tamaño de “城市咖啡节” aproximadamente un 20 % y aumenta ligeramente el espaciado entre letras.\n\nMantenga sin cambios el resto del texto, colores, posiciones, tema de café, fondo y composición.",
-        "Simplemente reemplace “2026.10.18” por “2026.10.25”.\n\nLa nueva fecha debe ser precisa y aparecer solo una vez; no se puede modificar ningún otro contenido.",
-        "Elimine únicamente el vapor sobre la taza de filtro, restaurando de forma natural el área original.\n\nConserve todo el texto, el equipo de café, el fondo, las sombras, las cuadrículas, los colores y la composición."
-      ],
-      "inputs": [
-        "Usa la imagen de la ronda anterior como referencia para cada edición posterior."
-      ],
-      "notes": [
-        "Prueba ilustrada específica en el artículo GPT Image 2.5 del creador. La participación en el artículo compartido no se asigna a pruebas individuales.",
-        "Las puntuaciones u observaciones en la fuente son informes del autor, no pruebas independientes realizadas por este repositorio.",
-        "El autor informa que el cambio de paleta también desaturó el sujeto fotografiado. La receta no garantiza la conservación idéntica de los píxeles fuera de cada objetivo."
-      ],
-      "source_digest": "fb1e948a3b5d96c83c72501d55373ac3bba4715dbe59ae5e918aa754fc437d2a",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "pt-BR": {
-      "title": "Edição de pôster de festival de café em cinco etapas",
-      "summary": "Crie um pôster e altere sua paleta de cores, tamanho do título, data e vapor em etapas separadas.",
-      "steps": [
-        "Crie um pôster vertical “城市咖啡节” de 1024×1536.\n\nSomente os seguintes elementos podem aparecer: “城市咖啡节”“一杯咖啡，遇见一座城”\n“2026.10.18”“滨江创意中心”.\n\nUse um design suíço moderno, com branco marfim, marrom café e um toque de azul cobalto, com uma grade rígida e amplo espaço em branco.\n\nO centro apresenta um elemento visual de uma xícara de café coado. Não inclua logotipo, código QR, marca d'água ou texto adicional.",
-        "Basta alterar o esquema de cores para preto, cinza prateado e laranja fluorescente.\n\nMantenha o texto original, a ortografia, a hierarquia de fontes, a posição dos elementos, o tamanho, o tema do café e a composição inalterados.",
-        "Basta aumentar o tamanho de “城市咖啡节” em aproximadamente 20% e aumentar ligeiramente o espaçamento entre as letras.\n\nMantenha todo o restante do texto, cores, posições, tema do café, fundo e composição inalterados.",
-        "Simplesmente substitua “2026.10.18” por “2026.10.25”.\n\nA nova data deve ser precisa e aparecer apenas uma vez; nenhum outro conteúdo pode ser alterado.",
-        "Remova apenas o vapor acima do filtro, restaurando naturalmente a área original.\n\nPreservar todo o texto, equipamentos de café, fundo, sombras, grades, cores e composição."
-      ],
-      "inputs": [
-        "Use a imagem da etapa anterior como referência para cada edição subsequente."
-      ],
-      "notes": [
-        "Um teste ilustrado distinto no artigo GPT Image 2.5 do criador. O engajamento compartilhado do artigo não é atribuído a testes individuais.",
-        "Quaisquer pontuações ou observações na fonte são relatórios do autor, não testes independentes deste repositório.",
-        "O autor relata que a alteração da paleta de cores também dessaturou o objeto fotografado. A receita não garante a preservação da identidade de pixels fora de cada alvo."
-      ],
-      "source_digest": "fb1e948a3b5d96c83c72501d55373ac3bba4715dbe59ae5e918aa754fc437d2a",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+  "translation_meta": {
+    "source_digest": "6ea6ccd896bd2aae93e3ff8ba69189eb027f36cdc4ee40046ada0e251694701f",
+    "text_digests": {
+      "zh-CN": "67fba2757a7c367995fc42afc3af8913293fcf68099f9b71c466a85d19403919",
+      "zh-TW": "4d3b791ceed81b85bac29bebbd885319e67beffbfeab4f0529917f6a3bb67d29",
+      "ja": "cfd00c98a9d28b79f5cb3e3f20ea32d7ba1dbd8d7db396bc33a0666a541650eb",
+      "ko": "610900f212e67b9e525a0c0f10ba06c645bc6c5a64df6a52d7cd0067270b89e5",
+      "fr": "555fdba39c833f735f251b10e1c3dbf214e6808419280b726815340d45621c2e",
+      "de": "89321fe343fc69958a414febb86d88eb1f1609a39fd25c9170df364574202394",
+      "es": "966d3926b986e6bd2effb00cb042e21e208ed6a0efa5ffb50c2749df26c1b0ed",
+      "pt-BR": "675d969e09361a9de9d10750ba6c548300f5e0a664b2d31414aa0f949ebefba1"
     }
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:12:37.859Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 4,
+      "result": 2,
+      "usefulness": 4,
+      "clarity": 4,
+      "distinctiveness": 4
+    },
+    "rationale": "A useful sequence of isolated design changes, with source-reported collateral desaturation retained as a limit rather than hidden."
   }
 }

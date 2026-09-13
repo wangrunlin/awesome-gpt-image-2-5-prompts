@@ -1,13 +1,26 @@
 {
-  "schema_version": 1,
   "id": "autumn-market-count-constraints",
   "title": {
     "en": "Autumn market poster with object-count constraints",
-    "zh": "严格限定主体数量的秋日市集海报"
+    "zh-CN": "严格限定主体数量的秋日市集海报",
+    "zh-TW": "秋季市集海報，包含物件數量限制",
+    "ja": "オブジェクト数制限付き秋市ポスター",
+    "ko": "객체 개수 제한이 있는 가을 시장 포스터",
+    "fr": "Affiche de marché d'automne avec contraintes sur le nombre d'objets",
+    "de": "Herbstmarktplakat mit Objektanzahlbeschränkungen",
+    "es": "Cartel de mercado de otoño con restricciones de número de objetos",
+    "pt-BR": "Cartaz de mercado de outono com restrições de contagem de objetos"
   },
   "summary": {
     "en": "Test exact Chinese copy and a strict three-object composition across repeated generations.",
-    "zh": "测试完全相同的中文文本，并严格按照三物体构图进行多次迭代。"
+    "zh-CN": "测试完全相同的中文文本，并严格按照三物体构图进行多次迭代。",
+    "zh-TW": "測試完全相同的中文文本，並嚴格按照三物體構圖進行多次迭代。",
+    "ja": "中国語の正確なコピーと、複数世代にわたる厳密な3オブジェクト構成をテストします。",
+    "ko": "반복적인 세대에 걸쳐 정확한 중국어 원문과 엄격한 3개 객체 구성을 테스트합니다.",
+    "fr": "Test d'une copie conforme du texte chinois et d'une composition stricte à trois objets sur plusieurs générations.",
+    "de": "Test mit exaktem chinesischem Text und strikter Drei-Objekt-Komposition über mehrere Generationen hinweg.",
+    "es": "Prueba de copia exacta en chino y una composición estricta de tres objetos en generaciones repetidas.",
+    "pt-BR": "Teste de cópia exata em chinês e composição estrita de três objetos em gerações repetidas."
   },
   "category": "design",
   "tags": [
@@ -15,7 +28,6 @@
     "generate"
   ],
   "mode": "generate",
-  "featured": true,
   "model": {
     "family": "GPT Image 2.5",
     "variant": null,
@@ -31,7 +43,14 @@
     "steps": [
       {
         "en": "Create a portrait-oriented “秋日社区市集” poster featuring only:\n“秋日社区市集”“新鲜抵达，邻里相见”\n“2026.10.12”“上午10点—下午5点”.\nThe central composition must strictly feature three main subjects: a pumpkin, a canvas tote bag, and a leafy green vegetable.\nCream background; color palette of rust orange, forest green, and dark brown.\nDo not add any other text, figures, logos, watermarks, produce, or decorative elements.\nArrange the four results vertically using four numbered modules, each containing a simple icon.\nCream-white background, dark coffee-brown text, and subtle orange accents.\nAll text must be clearly legible; do not add any other text, branding, logos, or watermarks.",
-        "zh": "创建一张竖版“秋日社区市集”海报，只能出现：\n“秋日社区市集”“新鲜抵达，邻里相见”\n“2026.10.12”“上午10点—下午5点”。\n中央严格只有三个主体：一个南瓜、一个帆布购物袋和一棵叶菜。\n奶油色背景，铁锈橙、森林绿和深棕配色。\n不要添加其他文字、人物、Logo、水印、农产品或装饰对象。\n四张结果，用四个编号模块自上而下排列，每个模块包含一个简洁图标。\n奶油白背景，深咖啡色文字，少量橙色强调。\n所有文字必须清晰可读，不得添加其他文字、品牌、Logo或水印。"
+        "zh-CN": "创建一张竖版“秋日社区市集”海报，只能出现：\n“秋日社区市集”“新鲜抵达，邻里相见”\n“2026.10.12”“上午10点—下午5点”。\n中央严格只有三个主体：一个南瓜、一个帆布购物袋和一棵叶菜。\n奶油色背景，铁锈橙、森林绿和深棕配色。\n不要添加其他文字、人物、Logo、水印、农产品或装饰对象。\n四张结果，用四个编号模块自上而下排列，每个模块包含一个简洁图标。\n奶油白背景，深咖啡色文字，少量橙色强调。\n所有文字必须清晰可读，不得添加其他文字、品牌、Logo或水印。",
+        "zh-TW": "創作一張直版“秋日社区市集”海報，只能出現：\n“秋日社区市集”“新鲜抵达，邻里相见”\n“2026.10.12”“上午10点—下午5点”。\n中央嚴格只有三個主體：一個南瓜、一個帆布購物袋和一棵葉菜。\n奶油色背景，鐵鏽橙、森林綠和深棕色配色。\n不要添加其他文字、人物、Logo、浮水印、農產品或裝飾物件。\n四張結果，用四個編號模組自上而下排列，每個模組包含一個簡潔圖示。\n奶油白背景，深咖啡色文字，少量橙色強調。\n所有文字必須清晰可讀，不得添加其他文字、品牌、Logo或浮水印。",
+        "ja": "縦長のポスター“秋日社区市集”を作成してください。以下の要素のみを含めてください。\n\n“秋日社区市集”“新鲜抵达，邻里相见”\n\n“2026.10.12”“上午10点—下午5点”\n\n中央には、カボチャ、キャンバス地のショッピングバッグ、葉野菜の3つの要素のみを配置してください。\n\n背景はクリーム色で、錆びたオレンジ、フォレストグリーン、ダークブラウンの配色を使用してください。\n\nその他のテキスト、人物、ロゴ、透かし、農産物、装飾品は一切追加しないでください。\n\n4つの結果を、上から下へ番号付きの4つのモジュールに配置してください。各モジュールにはシンプルなアイコンを配置してください。\n\n背景はクリームホワイトで、ダークブラウンのテキストと少量のオレンジのアクセントを使用してください。\n\nすべてのテキストは判読可能でなければなりません。その他のテキスト、ブランド、ロゴ、透かしは一切使用しないでください。",
+        "ko": "다음 요소만 포함하는 세로형 “秋日社区市集” 포스터를 제작하세요.\n\n“秋日社区市集”“新鲜抵达，邻里相见”\n\n“2026.10.12”“上午10点—下午5点”\n\n중앙에는 호박, 캔버스 쇼핑백, 잎채소 세 가지 주요 요소만 반드시 포함되어야 합니다.\n\n크림색 배경에 녹슨 오렌지색, 숲 녹색, 진한 갈색의 색상 조합을 사용하세요.\n\n다른 텍스트, 인물, 로고, 워터마크, 농산물 또는 장식물을 추가하지 마세요.\n\n결과물은 위에서 아래로 번호가 매겨진 네 개의 모듈로 구성되며, 각 모듈에는 간단한 아이콘이 포함됩니다.\n\n크림색 바탕에 진한 갈색 텍스트와 약간의 오렌지색 포인트가 있습니다.\n\n모든 텍스트는 읽기 쉬워야 하며, 다른 텍스트, 브랜드, 로고 또는 워터마크는 허용되지 않습니다.",
+        "fr": "Créez une affiche verticale “秋日社区市集” contenant uniquement :\n\n“秋日社区市集”“新鲜抵达，邻里相见”\n\n“2026.10.12”“上午10点—下午5点”.\n\nLe centre doit impérativement contenir trois éléments principaux : une citrouille, un sac en toile et un légume-feuille.\n\nFond crème avec des touches de orange rouille, de vert forêt et de marron foncé.\n\nN’ajoutez aucun autre texte, personnage, logo, filigrane, produit ou objet décoratif.\n\nQuatre résultats, disposés en quatre modules numérotés de haut en bas, chaque module contenant une icône simple.\n\nFond blanc crème avec texte marron foncé et quelques touches d’orange.\n\nTout le texte doit être lisible ; aucun autre texte, marque, logo ou filigrane n’est autorisé.",
+        "de": "Erstellen Sie ein vertikales Poster (“秋日社区市集”), das ausschließlich Folgendes enthält:\n\n“秋日社区市集”“新鲜抵达，邻里相见”\n\n“2026.10.12”“上午10点—下午5点”.\n\nDer Mittelpunkt darf nur drei Hauptelemente enthalten: einen Kürbis, eine Stofftasche und Blattgemüse.\n\nCremefarbener Hintergrund mit rostorange, waldgrünen und dunkelbraunen Farbtönen.\n\nFügen Sie keine weiteren Texte, Personen, Logos, Wasserzeichen, Abbildungen von Lebensmitteln oder Dekorationsobjekte hinzu.\n\nVier Ergebnisse, angeordnet in vier nummerierten Modulen von oben nach unten. Jedes Modul enthält ein einfaches Symbol.\n\nCremeweißer Hintergrund mit dunkelbraunem Text und wenigen orangen Akzenten.\n\nDer gesamte Text muss gut lesbar sein; weitere Texte, Marken, Logos oder Wasserzeichen sind nicht erlaubt.",
+        "es": "Crea un póster vertical “秋日社区市集” que contenga únicamente:\n\n“秋日社区市集”“新鲜抵达，邻里相见”\n\n“2026.10.12”“上午10点—下午5点”.\n\nEl centro debe contener estrictamente solo tres elementos: una calabaza, una bolsa de tela y una verdura de hoja verde.\n\nFondo crema con una combinación de colores naranja óxido, verde bosque y marrón oscuro.\n\nNo añadas ningún otro texto, personas, logotipos, marcas de agua, productos ni objetos decorativos.\n\nCuatro resultados, organizados en cuatro módulos numerados de arriba abajo, cada módulo con un icono sencillo.\n\nFondo blanco crema con texto marrón oscuro y pequeños detalles en naranja.\n\nTodo el texto debe ser legible; no se permite ningún otro texto, marca, logotipo ni marca de agua.",
+        "pt-BR": "Crie um pôster vertical “秋日社区市集” contendo apenas:\n\n“秋日社区市集”“新鲜抵达，邻里相见”\n\n“2026.10.12”“上午10点—下午5点”.\n\nO centro deve conter estritamente apenas três elementos principais: uma abóbora, uma sacola de compras de lona e um vegetal folhoso.\n\nFundo creme com esquema de cores em laranja ferrugem, verde floresta e marrom escuro.\n\nNão adicione nenhum outro texto, pessoas, logotipos, marcas d'água, produtos agrícolas ou objetos decorativos.\n\nQuatro resultados, organizados em quatro módulos numerados de cima para baixo, cada módulo contendo um ícone simples.\n\nFundo branco creme com texto em marrom escuro e uma pequena quantidade de detalhes em laranja.\n\nTodo o texto deve ser legível; nenhum outro texto, marca, logotipo ou marca d'água é permitido."
       }
     ],
     "preserved_literals": [
@@ -45,19 +64,47 @@
   "notes": [
     {
       "en": "A distinct illustrated test in the creator’s GPT Image 2.5 article. Shared article engagement is not assigned to individual tests.",
-      "zh": "作者在 GPT Image 2.5 文章中进行了单独的插图测试。共享文章的互动量不分配给单个测试。"
+      "zh-CN": "作者在 GPT Image 2.5 文章中进行了单独的插图测试。共享文章的互动量不分配给单个测试。",
+      "zh-TW": "作者在 GPT Image 2.5 文章中進行了單獨的插圖測試。分享文章的互動量不分配給單一測試。",
+      "ja": "作成者の記事GPT Image 2.5に掲載されている、図解付きのテストです。記事へのエンゲージメントは、個々のテストには割り当てられていません。",
+      "ko": "제작자의 GPT Image 2.5 문서에 별도의 그림 테스트가 포함되어 있습니다. 문서 공유 참여도는 개별 테스트에 할당되지 않습니다.",
+      "fr": "Un test illustré distinct est présenté dans l'article GPT Image 2.5 du créateur. L'engagement lié à l'article partagé n'est pas attribué aux tests individuels.",
+      "de": "Ein separater illustrierter Test im Artikel GPT Image 2.5 des Erstellers. Die Interaktionen im Artikel werden nicht einzelnen Tests zugeordnet.",
+      "es": "Prueba ilustrada específica en el artículo GPT Image 2.5 del creador. La participación en el artículo compartido no se asigna a pruebas individuales.",
+      "pt-BR": "Um teste ilustrado distinto no artigo GPT Image 2.5 do criador. O engajamento compartilhado do artigo não é atribuído a testes individuais."
     },
     {
       "en": "Any scores or observations in the source are the author’s reports, not independent tests by this repository.",
-      "zh": "源文件中的任何分数或观察结果均为作者的报告，并非本仓库的独立测试。"
+      "zh-CN": "源文件中的任何分数或观察结果均为作者的报告，并非本仓库的独立测试。",
+      "zh-TW": "來源文件中的任何分數或觀察結果均為作者的報告，並非本倉庫的獨立測試。",
+      "ja": "ソースに記載されているスコアや観察結果は、このリポジトリによる独立したテストではなく、著者の報告です。",
+      "ko": "원본의 점수 또는 관찰 내용은 작성자의 보고서이며, 본 저장소에서 수행한 독립적인 테스트 결과가 아닙니다.",
+      "fr": "Les scores et observations figurant dans la source sont des rapports de l'auteur et non des tests indépendants réalisés par ce dépôt.",
+      "de": "Alle Ergebnisse und Beobachtungen in der Quelle sind Berichte des Autors und keine unabhängigen Tests dieses Repositorys.",
+      "es": "Las puntuaciones u observaciones en la fuente son informes del autor, no pruebas independientes realizadas por este repositorio.",
+      "pt-BR": "Quaisquer pontuações ou observações na fonte são relatórios do autor, não testes independentes deste repositório."
     },
     {
       "en": "The source reports inconsistent negative-constraint adherence: two of four results added decorative objects. The preview is one of the author’s results, not evidence of guaranteed compliance.",
-      "zh": "源文件报告了对负面约束的执行情况不一致：四个结果中有两个添加了装饰性物体。预览图是作者的结果之一，并非保证完全符合约束的证据。"
+      "zh-CN": "源文件报告了对负面约束的执行情况不一致：四个结果中有两个添加了装饰性物体。预览图是作者的结果之一，并非保证完全符合约束的证据。",
+      "zh-TW": "來源文件報告了對負面約束的執行情況不一致：四個結果中有兩個添加了裝飾性物體。預覽是作者的結果之一，並非保證完全符合約束的證據。",
+      "ja": "ソースでは、ネガティブ制約の遵守状況に一貫性がないと報告されています。4つの結果のうち2つで装飾オブジェクトが追加されています。プレビューは著者の結果の1つであり、遵守を保証するものではありません。",
+      "ko": "원본 보고서에서 부정 제약 조건 준수가 일관되지 않은 것으로 나타났습니다. 4개 결과 중 2개에서 장식 객체가 추가되었습니다. 미리보기는 작성자의 결과 중 하나이며, 준수가 보장된다는 증거는 아닙니다.",
+      "fr": "La source signale un respect incohérent des contraintes négatives : deux des quatre résultats ont ajouté des objets décoratifs. L'aperçu correspond à l'un des résultats de l'auteur et ne constitue pas une preuve de conformité garantie.",
+      "de": "Die Quelle berichtet über inkonsistente Einhaltung der Negativbeschränkungen: Zwei von vier Ergebnissen fügten dekorative Objekte hinzu. Die Vorschau ist eines der Ergebnisse des Autors und kein Beleg für garantierte Einhaltung.",
+      "es": "La fuente informa de una adhesión inconsistente a la restricción negativa: dos de los cuatro resultados añadieron objetos decorativos. La vista previa es uno de los resultados del autor, no una prueba de cumplimiento garantizado.",
+      "pt-BR": "A fonte relata aderência inconsistente à restrição negativa: dois dos quatro resultados adicionaram objetos decorativos. A pré-visualização é um dos resultados do autor, não evidência de conformidade garantida."
     },
     {
       "en": "The original includes additional layout instructions after the main poster prompt; those words are retained rather than silently cleaned up.",
-      "zh": "原始文件在主要海报提示之后包含额外的布局说明；这些文字将被保留，而不是被默默地删除。"
+      "zh-CN": "原始文件在主要海报提示之后包含额外的布局说明；这些文字将被保留，而不是被默默地删除。",
+      "zh-TW": "原始文件在主要海報提示之後包含額外的佈局說明；這些文字將被保留，而不是被默默地刪除。",
+      "ja": "オリジナルには、ポスターのメインプロンプトの後にレイアウトに関する追加の指示が含まれています。これらの記述は、黙って削除されることなく保持されています。",
+      "ko": "원본에는 주요 포스터 지침 이후에 추가 레이아웃 지침이 포함되어 있습니다. 해당 문구는 삭제되지 않고 그대로 유지됩니다.",
+      "fr": "L'original contient des instructions de mise en page supplémentaires après l'invite principale de l'affiche ; ces instructions sont conservées au lieu d'être supprimées silencieusement.",
+      "de": "Das Original enthält zusätzliche Layoutanweisungen nach der Hauptanweisung für das Plakat; diese Anweisungen wurden beibehalten und nicht stillschweigend entfernt.",
+      "es": "El original incluye instrucciones de diseño adicionales después de la indicación principal del cartel; estas palabras se conservan en lugar de eliminarse silenciosamente.",
+      "pt-BR": "O original inclui instruções de layout adicionais após a instrução principal do cartaz; essas palavras são mantidas em vez de serem removidas silenciosamente."
     }
   ],
   "source": {
@@ -97,118 +144,32 @@
     "status": "third-party-terms",
     "note": "Third-party prompts and media retain their creators’ rights; external previews are linked, not relicensed."
   },
-  "localizations": {
-    "zh-TW": {
-      "title": "秋季市集海報，包含物件數量限制",
-      "summary": "測試完全相同的中文文本，並嚴格按照三物體構圖進行多次迭代。",
-      "steps": [
-        "創作一張直版“秋日社区市集”海報，只能出現：\n“秋日社区市集”“新鲜抵达，邻里相见”\n“2026.10.12”“上午10点—下午5点”。\n中央嚴格只有三個主體：一個南瓜、一個帆布購物袋和一棵葉菜。\n奶油色背景，鐵鏽橙、森林綠和深棕色配色。\n不要添加其他文字、人物、Logo、浮水印、農產品或裝飾物件。\n四張結果，用四個編號模組自上而下排列，每個模組包含一個簡潔圖示。\n奶油白背景，深咖啡色文字，少量橙色強調。\n所有文字必須清晰可讀，不得添加其他文字、品牌、Logo或浮水印。"
-      ],
-      "inputs": [],
-      "notes": [
-        "作者在 GPT Image 2.5 文章中進行了單獨的插圖測試。分享文章的互動量不分配給單一測試。",
-        "來源文件中的任何分數或觀察結果均為作者的報告，並非本倉庫的獨立測試。",
-        "來源文件報告了對負面約束的執行情況不一致：四個結果中有兩個添加了裝飾性物體。預覽是作者的結果之一，並非保證完全符合約束的證據。",
-        "原始文件在主要海報提示之後包含額外的佈局說明；這些文字將被保留，而不是被默默地刪除。"
-      ],
-      "source_digest": "e61e2f9c26ec387a1268ff4a4f6184e8085e49eb32a1e05de87412ad86368da7",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ja": {
-      "title": "オブジェクト数制限付き秋市ポスター",
-      "summary": "中国語の正確なコピーと、複数世代にわたる厳密な3オブジェクト構成をテストします。",
-      "steps": [
-        "縦長のポスター“秋日社区市集”を作成してください。以下の要素のみを含めてください。\n\n“秋日社区市集”“新鲜抵达，邻里相见”\n\n“2026.10.12”“上午10点—下午5点”\n\n中央には、カボチャ、キャンバス地のショッピングバッグ、葉野菜の3つの要素のみを配置してください。\n\n背景はクリーム色で、錆びたオレンジ、フォレストグリーン、ダークブラウンの配色を使用してください。\n\nその他のテキスト、人物、ロゴ、透かし、農産物、装飾品は一切追加しないでください。\n\n4つの結果を、上から下へ番号付きの4つのモジュールに配置してください。各モジュールにはシンプルなアイコンを配置してください。\n\n背景はクリームホワイトで、ダークブラウンのテキストと少量のオレンジのアクセントを使用してください。\n\nすべてのテキストは判読可能でなければなりません。その他のテキスト、ブランド、ロゴ、透かしは一切使用しないでください。"
-      ],
-      "inputs": [],
-      "notes": [
-        "作成者の記事GPT Image 2.5に掲載されている、図解付きのテストです。記事へのエンゲージメントは、個々のテストには割り当てられていません。",
-        "ソースに記載されているスコアや観察結果は、このリポジトリによる独立したテストではなく、著者の報告です。",
-        "ソースでは、ネガティブ制約の遵守状況に一貫性がないと報告されています。4つの結果のうち2つで装飾オブジェクトが追加されています。プレビューは著者の結果の1つであり、遵守を保証するものではありません。",
-        "オリジナルには、ポスターのメインプロンプトの後にレイアウトに関する追加の指示が含まれています。これらの記述は、黙って削除されることなく保持されています。"
-      ],
-      "source_digest": "e61e2f9c26ec387a1268ff4a4f6184e8085e49eb32a1e05de87412ad86368da7",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ko": {
-      "title": "객체 개수 제한이 있는 가을 시장 포스터",
-      "summary": "반복적인 세대에 걸쳐 정확한 중국어 원문과 엄격한 3개 객체 구성을 테스트합니다.",
-      "steps": [
-        "다음 요소만 포함하는 세로형 “秋日社区市集” 포스터를 제작하세요.\n\n“秋日社区市集”“新鲜抵达，邻里相见”\n\n“2026.10.12”“上午10点—下午5点”\n\n중앙에는 호박, 캔버스 쇼핑백, 잎채소 세 가지 주요 요소만 반드시 포함되어야 합니다.\n\n크림색 배경에 녹슨 오렌지색, 숲 녹색, 진한 갈색의 색상 조합을 사용하세요.\n\n다른 텍스트, 인물, 로고, 워터마크, 농산물 또는 장식물을 추가하지 마세요.\n\n결과물은 위에서 아래로 번호가 매겨진 네 개의 모듈로 구성되며, 각 모듈에는 간단한 아이콘이 포함됩니다.\n\n크림색 바탕에 진한 갈색 텍스트와 약간의 오렌지색 포인트가 있습니다.\n\n모든 텍스트는 읽기 쉬워야 하며, 다른 텍스트, 브랜드, 로고 또는 워터마크는 허용되지 않습니다."
-      ],
-      "inputs": [],
-      "notes": [
-        "제작자의 GPT Image 2.5 문서에 별도의 그림 테스트가 포함되어 있습니다. 문서 공유 참여도는 개별 테스트에 할당되지 않습니다.",
-        "원본의 점수 또는 관찰 내용은 작성자의 보고서이며, 본 저장소에서 수행한 독립적인 테스트 결과가 아닙니다.",
-        "원본 보고서에서 부정 제약 조건 준수가 일관되지 않은 것으로 나타났습니다. 4개 결과 중 2개에서 장식 객체가 추가되었습니다. 미리보기는 작성자의 결과 중 하나이며, 준수가 보장된다는 증거는 아닙니다.",
-        "원본에는 주요 포스터 지침 이후에 추가 레이아웃 지침이 포함되어 있습니다. 해당 문구는 삭제되지 않고 그대로 유지됩니다."
-      ],
-      "source_digest": "e61e2f9c26ec387a1268ff4a4f6184e8085e49eb32a1e05de87412ad86368da7",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "fr": {
-      "title": "Affiche de marché d'automne avec contraintes sur le nombre d'objets",
-      "summary": "Test d'une copie conforme du texte chinois et d'une composition stricte à trois objets sur plusieurs générations.",
-      "steps": [
-        "Créez une affiche verticale “秋日社区市集” contenant uniquement :\n\n“秋日社区市集”“新鲜抵达，邻里相见”\n\n“2026.10.12”“上午10点—下午5点”.\n\nLe centre doit impérativement contenir trois éléments principaux : une citrouille, un sac en toile et un légume-feuille.\n\nFond crème avec des touches de orange rouille, de vert forêt et de marron foncé.\n\nN’ajoutez aucun autre texte, personnage, logo, filigrane, produit ou objet décoratif.\n\nQuatre résultats, disposés en quatre modules numérotés de haut en bas, chaque module contenant une icône simple.\n\nFond blanc crème avec texte marron foncé et quelques touches d’orange.\n\nTout le texte doit être lisible ; aucun autre texte, marque, logo ou filigrane n’est autorisé."
-      ],
-      "inputs": [],
-      "notes": [
-        "Un test illustré distinct est présenté dans l'article GPT Image 2.5 du créateur. L'engagement lié à l'article partagé n'est pas attribué aux tests individuels.",
-        "Les scores et observations figurant dans la source sont des rapports de l'auteur et non des tests indépendants réalisés par ce dépôt.",
-        "La source signale un respect incohérent des contraintes négatives : deux des quatre résultats ont ajouté des objets décoratifs. L'aperçu correspond à l'un des résultats de l'auteur et ne constitue pas une preuve de conformité garantie.",
-        "L'original contient des instructions de mise en page supplémentaires après l'invite principale de l'affiche ; ces instructions sont conservées au lieu d'être supprimées silencieusement."
-      ],
-      "source_digest": "e61e2f9c26ec387a1268ff4a4f6184e8085e49eb32a1e05de87412ad86368da7",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "de": {
-      "title": "Herbstmarktplakat mit Objektanzahlbeschränkungen",
-      "summary": "Test mit exaktem chinesischem Text und strikter Drei-Objekt-Komposition über mehrere Generationen hinweg.",
-      "steps": [
-        "Erstellen Sie ein vertikales Poster (“秋日社区市集”), das ausschließlich Folgendes enthält:\n\n“秋日社区市集”“新鲜抵达，邻里相见”\n\n“2026.10.12”“上午10点—下午5点”.\n\nDer Mittelpunkt darf nur drei Hauptelemente enthalten: einen Kürbis, eine Stofftasche und Blattgemüse.\n\nCremefarbener Hintergrund mit rostorange, waldgrünen und dunkelbraunen Farbtönen.\n\nFügen Sie keine weiteren Texte, Personen, Logos, Wasserzeichen, Abbildungen von Lebensmitteln oder Dekorationsobjekte hinzu.\n\nVier Ergebnisse, angeordnet in vier nummerierten Modulen von oben nach unten. Jedes Modul enthält ein einfaches Symbol.\n\nCremeweißer Hintergrund mit dunkelbraunem Text und wenigen orangen Akzenten.\n\nDer gesamte Text muss gut lesbar sein; weitere Texte, Marken, Logos oder Wasserzeichen sind nicht erlaubt."
-      ],
-      "inputs": [],
-      "notes": [
-        "Ein separater illustrierter Test im Artikel GPT Image 2.5 des Erstellers. Die Interaktionen im Artikel werden nicht einzelnen Tests zugeordnet.",
-        "Alle Ergebnisse und Beobachtungen in der Quelle sind Berichte des Autors und keine unabhängigen Tests dieses Repositorys.",
-        "Die Quelle berichtet über inkonsistente Einhaltung der Negativbeschränkungen: Zwei von vier Ergebnissen fügten dekorative Objekte hinzu. Die Vorschau ist eines der Ergebnisse des Autors und kein Beleg für garantierte Einhaltung.",
-        "Das Original enthält zusätzliche Layoutanweisungen nach der Hauptanweisung für das Plakat; diese Anweisungen wurden beibehalten und nicht stillschweigend entfernt."
-      ],
-      "source_digest": "e61e2f9c26ec387a1268ff4a4f6184e8085e49eb32a1e05de87412ad86368da7",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "es": {
-      "title": "Cartel de mercado de otoño con restricciones de número de objetos",
-      "summary": "Prueba de copia exacta en chino y una composición estricta de tres objetos en generaciones repetidas.",
-      "steps": [
-        "Crea un póster vertical “秋日社区市集” que contenga únicamente:\n\n“秋日社区市集”“新鲜抵达，邻里相见”\n\n“2026.10.12”“上午10点—下午5点”.\n\nEl centro debe contener estrictamente solo tres elementos: una calabaza, una bolsa de tela y una verdura de hoja verde.\n\nFondo crema con una combinación de colores naranja óxido, verde bosque y marrón oscuro.\n\nNo añadas ningún otro texto, personas, logotipos, marcas de agua, productos ni objetos decorativos.\n\nCuatro resultados, organizados en cuatro módulos numerados de arriba abajo, cada módulo con un icono sencillo.\n\nFondo blanco crema con texto marrón oscuro y pequeños detalles en naranja.\n\nTodo el texto debe ser legible; no se permite ningún otro texto, marca, logotipo ni marca de agua."
-      ],
-      "inputs": [],
-      "notes": [
-        "Prueba ilustrada específica en el artículo GPT Image 2.5 del creador. La participación en el artículo compartido no se asigna a pruebas individuales.",
-        "Las puntuaciones u observaciones en la fuente son informes del autor, no pruebas independientes realizadas por este repositorio.",
-        "La fuente informa de una adhesión inconsistente a la restricción negativa: dos de los cuatro resultados añadieron objetos decorativos. La vista previa es uno de los resultados del autor, no una prueba de cumplimiento garantizado.",
-        "El original incluye instrucciones de diseño adicionales después de la indicación principal del cartel; estas palabras se conservan en lugar de eliminarse silenciosamente."
-      ],
-      "source_digest": "e61e2f9c26ec387a1268ff4a4f6184e8085e49eb32a1e05de87412ad86368da7",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "pt-BR": {
-      "title": "Cartaz de mercado de outono com restrições de contagem de objetos",
-      "summary": "Teste de cópia exata em chinês e composição estrita de três objetos em gerações repetidas.",
-      "steps": [
-        "Crie um pôster vertical “秋日社区市集” contendo apenas:\n\n“秋日社区市集”“新鲜抵达，邻里相见”\n\n“2026.10.12”“上午10点—下午5点”.\n\nO centro deve conter estritamente apenas três elementos principais: uma abóbora, uma sacola de compras de lona e um vegetal folhoso.\n\nFundo creme com esquema de cores em laranja ferrugem, verde floresta e marrom escuro.\n\nNão adicione nenhum outro texto, pessoas, logotipos, marcas d'água, produtos agrícolas ou objetos decorativos.\n\nQuatro resultados, organizados em quatro módulos numerados de cima para baixo, cada módulo contendo um ícone simples.\n\nFundo branco creme com texto em marrom escuro e uma pequena quantidade de detalhes em laranja.\n\nTodo o texto deve ser legível; nenhum outro texto, marca, logotipo ou marca d'água é permitido."
-      ],
-      "inputs": [],
-      "notes": [
-        "Um teste ilustrado distinto no artigo GPT Image 2.5 do criador. O engajamento compartilhado do artigo não é atribuído a testes individuais.",
-        "Quaisquer pontuações ou observações na fonte são relatórios do autor, não testes independentes deste repositório.",
-        "A fonte relata aderência inconsistente à restrição negativa: dois dos quatro resultados adicionaram objetos decorativos. A pré-visualização é um dos resultados do autor, não evidência de conformidade garantida.",
-        "O original inclui instruções de layout adicionais após a instrução principal do cartaz; essas palavras são mantidas em vez de serem removidas silenciosamente."
-      ],
-      "source_digest": "e61e2f9c26ec387a1268ff4a4f6184e8085e49eb32a1e05de87412ad86368da7",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+  "translation_meta": {
+    "source_digest": "42159e7b7036746352f39e8fcd601a3f0870b390c4d97016a9ae1cc10805f04c",
+    "text_digests": {
+      "zh-CN": "75538ea22b08d9c7745a3142795ae642d23582cd44f709282833a7d01fbd98d7",
+      "zh-TW": "c404a04f36e476d30ce85ae92a8813799db987ce93d74fa22f28fb35512c6d45",
+      "ja": "a553cb37de6c7dc47b057d2b05144380cddc217fa9c5d3f594ae45dd0a2eabe6",
+      "ko": "e1337dc1f3462789765207cbbdfc5360a67645482e0014bb724a990797b205b1",
+      "fr": "1f43d1821d68bb65bbf9a76fbbc373153cedab742adb533463ebbd440be12b57",
+      "de": "32f80f4070e8f15b6990efb23633be8ca28a63735c48cf988db2c99c34a0c41d",
+      "es": "7e36ae7b7af4f86bc38a2e1425434eb49acd1adc84362daf4347dfd692361f1c",
+      "pt-BR": "a1da3ba26b8203a0bd8b89c0ed42a0add8412efeb12e52ead12c13bc0eef4fb0"
     }
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:12:37.846Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": true,
+    "ratings": {
+      "reuse": 3,
+      "result": 2,
+      "usefulness": 4,
+      "clarity": 2,
+      "distinctiveness": 3
+    },
+    "rationale": "A readable poster tests exact copy and object counts, but the source mixes in unrelated four-module instructions and reports added decorations."
   }
 }

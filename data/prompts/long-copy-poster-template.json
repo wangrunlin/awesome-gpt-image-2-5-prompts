@@ -1,13 +1,26 @@
 {
-  "schema_version": 1,
   "id": "long-copy-poster-template",
   "title": {
     "en": "Long-copy poster template reuse",
-    "zh": "海报模板替换长文案"
+    "zh-CN": "海报模板替换长文案",
+    "zh-TW": "長文案海報範本重用",
+    "ja": "長文ポスターテンプレートの再利用",
+    "ko": "장문 포스터 템플릿 재사용",
+    "fr": "Réutilisation d'un modèle d'affiche longue",
+    "de": "Wiederverwendung einer Vorlage für ein Langplakat.",
+    "es": "Reutilización de la plantilla de póster de texto largo.",
+    "pt-BR": "Reutilização de modelo de pôster longo"
   },
   "summary": {
     "en": "Replace a coffee poster’s four text blocks while retaining its existing visual hierarchy.",
-    "zh": "在保留现有视觉层次结构的前提下，替换咖啡海报中的四个文本块。"
+    "zh-CN": "在保留现有视觉层次结构的前提下，替换咖啡海报中的四个文本块。",
+    "zh-TW": "在保留現有視覺層次結構的前提下，替換咖啡海報中的四個文字區塊。",
+    "ja": "コーヒーポスターの4つのテキストブロックを、既存の視覚的階層構造を維持したまま置き換えます。",
+    "ko": "기존 시각적 계층 구조를 유지하면서 커피 포스터의 텍스트 블록 4개를 교체합니다.",
+    "fr": "Remplacement des quatre blocs de texte d'une affiche de festival du café tout en conservant sa hiérarchie visuelle existante.",
+    "de": "Ersetzen Sie die vier Textblöcke eines Kaffeeplakats unter Beibehaltung der bestehenden visuellen Hierarchie.",
+    "es": "Reemplazar los cuatro bloques de texto de un póster de café, conservando su jerarquía visual original.",
+    "pt-BR": "Substituir os quatro blocos de texto de um pôster de café, mantendo sua hierarquia visual existente."
   },
   "category": "design",
   "tags": [
@@ -15,7 +28,6 @@
     "edit"
   ],
   "mode": "edit",
-  "featured": true,
   "model": {
     "family": "GPT Image 2.5",
     "variant": null,
@@ -31,7 +43,14 @@
     "steps": [
       {
         "en": "未来设计大会\n让创意成为下一种生产力\n2026.11.06\n深圳·海上世界文化艺术中心",
-        "zh": "未来设计大会\n让创意成为下一种生产力\n2026.11.06\n深圳·海上世界文化艺术中心"
+        "zh-CN": "未来设计大会\n让创意成为下一种生产力\n2026.11.06\n深圳·海上世界文化艺术中心",
+        "zh-TW": "未来设计大会\n让创意成为下一种生产力\n2026.11.06\n深圳·海上世界文化艺术中心",
+        "ja": "未来设计大会\n让创意成为下一种生产力\n2026.11.06\n深圳·海上世界文化艺术中心",
+        "ko": "未来设计大会\n让创意成为下一种生产力\n2026.11.06\n深圳·海上世界文化艺术中心",
+        "fr": "未来设计大会\n让创意成为下一种生产力\n2026.11.06\n深圳·海上世界文化艺术中心",
+        "de": "未来设计大会\n让创意成为下一种生产力\n2026.11.06\n深圳·海上世界文化艺术中心",
+        "es": "未来设计大会\n让创意成为下一种生产力\n2026.11.06\n深圳·海上世界文化艺术中心",
+        "pt-BR": "未来设计大会\n让创意成为下一种生产力\n2026.11.06\n深圳·海上世界文化艺术中心"
       }
     ],
     "preserved_literals": [
@@ -44,25 +63,60 @@
   "inputs": [
     {
       "en": "The existing coffee festival poster shown as the template.",
-      "zh": "以现有的咖啡节海报作为模板。"
+      "zh-CN": "以现有的咖啡节海报作为模板。",
+      "zh-TW": "以現有的咖啡節海報作為範本。",
+      "ja": "テンプレートとして表示されている既存のコーヒーフェスティバルポスター。",
+      "ko": "템플릿으로 기존 커피 축제 포스터가 표시됩니다.",
+      "fr": "L'affiche existante du festival du café est présentée comme modèle.",
+      "de": "Das bestehende Kaffeefestivalplakat dient als Vorlage.",
+      "es": "El póster del festival de café existente se muestra como plantilla.",
+      "pt-BR": "O pôster existente do festival de café é mostrado como modelo."
     },
     {
       "en": "Apply the four replacement text lines to the corresponding title, subtitle, date, and venue fields.",
-      "zh": "将四行替换文本应用于相应的标题、副标题、日期和地点字段。"
+      "zh-CN": "将四行替换文本应用于相应的标题、副标题、日期和地点字段。",
+      "zh-TW": "將四行替換文字套用至對應的標題、副標題、日期和地點欄位。",
+      "ja": "置き換えた4行のテキストを、対応するタイトル、サブタイトル、日付、会場の各フィールドに適用します。",
+      "ko": "교체할 텍스트 4줄을 해당 제목, 부제목, 날짜 및 장소 필드에 적용합니다.",
+      "fr": "Appliquer les quatre lignes de texte de remplacement aux champs titre, sous-titre, date et lieu correspondants.",
+      "de": "Wenden Sie die vier Ersatztextzeilen auf die entsprechenden Felder für Titel, Untertitel, Datum und Veranstaltungsort an.",
+      "es": "Aplicar las cuatro líneas de texto de reemplazo a los campos correspondientes de título, subtítulo, fecha y lugar.",
+      "pt-BR": "Aplicar as quatro linhas de texto de substituição aos campos correspondentes de título, subtítulo, data e local."
     }
   ],
   "notes": [
     {
       "en": "A distinct illustrated test in the creator’s GPT Image 2.5 article. Shared article engagement is not assigned to individual tests.",
-      "zh": "作者在 GPT Image 2.5 文章中进行了单独的插图测试。共享文章的互动量不分配给单个测试。"
+      "zh-CN": "作者在 GPT Image 2.5 文章中进行了单独的插图测试。共享文章的互动量不分配给单个测试。",
+      "zh-TW": "作者在 GPT Image 2.5 文章中進行了單獨的插圖測試。分享文章的互動量不分配給單一測試。",
+      "ja": "作成者の記事GPT Image 2.5に掲載されている、図解付きのテストです。記事へのエンゲージメントは、個々のテストには割り当てられていません。",
+      "ko": "제작자의 GPT Image 2.5 문서에 별도의 그림 테스트가 포함되어 있습니다. 문서 공유 참여도는 개별 테스트에 할당되지 않습니다.",
+      "fr": "Un test illustré distinct est présenté dans l'article GPT Image 2.5 du créateur. L'engagement lié à l'article partagé n'est pas attribué aux tests individuels.",
+      "de": "Ein separater illustrierter Test im Artikel GPT Image 2.5 des Erstellers. Die Interaktionen im Artikel werden nicht einzelnen Tests zugeordnet.",
+      "es": "Prueba ilustrada específica en el artículo GPT Image 2.5 del creador. La participación en el artículo compartido no se asigna a pruebas individuales.",
+      "pt-BR": "Um teste ilustrado distinto no artigo GPT Image 2.5 do criador. O engajamento compartilhado do artigo não é atribuído a testes individuais."
     },
     {
       "en": "Any scores or observations in the source are the author’s reports, not independent tests by this repository.",
-      "zh": "源文件中的任何分数或观察结果均为作者的报告，并非本仓库的独立测试。"
+      "zh-CN": "源文件中的任何分数或观察结果均为作者的报告，并非本仓库的独立测试。",
+      "zh-TW": "來源文件中的任何分數或觀察結果均為作者的報告，並非本倉庫的獨立測試。",
+      "ja": "ソースに記載されているスコアや観察結果は、このリポジトリによる独立したテストではなく、著者の報告です。",
+      "ko": "원본의 점수 또는 관찰 내용은 작성자의 보고서이며, 본 저장소에서 수행한 독립적인 테스트 결과가 아닙니다.",
+      "fr": "Les scores et observations figurant dans la source sont des rapports de l'auteur et non des tests indépendants réalisés par ce dépôt.",
+      "de": "Alle Ergebnisse und Beobachtungen in der Quelle sind Berichte des Autors und keine unabhängigen Tests dieses Repositorys.",
+      "es": "Las puntuaciones u observaciones en la fuente son informes del autor, no pruebas independientes realizadas por este repositorio.",
+      "pt-BR": "Quaisquer pontuações ou observações na fonte são relatórios do autor, não testes independentes deste repositório."
     },
     {
       "en": "The source supplies four replacement lines in an existing editing context. The input notes explain that context; no additional command is invented as original wording.",
-      "zh": "源文件在现有的编辑上下文中提供了四行替换文本。输入注释解释了该上下文；无需额外编写原创指令。"
+      "zh-CN": "源文件在现有的编辑上下文中提供了四行替换文本。输入注释解释了该上下文；无需额外编写原创指令。",
+      "zh-TW": "原始檔在現有的編輯上下文中提供了四行替換文字。輸入註釋解釋了該上下文；無需額外編寫原創指令。",
+      "ja": "ソースは、既存の編集コンテキストで4行の置き換えテキストを提供します。入力メモにそのコンテキストが説明されています。オリジナルの文言として、追加のコマンドは作成されていません。",
+      "ko": "원본은 기존 편집 컨텍스트에서 교체할 텍스트 4줄을 제공합니다. 입력 노트는 해당 컨텍스트를 설명하며, 새로운 명령어를 새로 만들지 않습니다.",
+      "fr": "La source fournit quatre lignes de remplacement dans un contexte d'édition existant. Les notes d'entrée expliquent ce contexte ; aucune commande supplémentaire n'est inventée comme formulation originale.",
+      "de": "Die Quelle liefert vier Ersatzzeilen in einem bestehenden Bearbeitungskontext. Die Eingabehinweise erläutern diesen Kontext. Es wird kein zusätzlicher Befehl als Originalformulierung erfunden.",
+      "es": "La fuente proporciona cuatro líneas de reemplazo en un contexto de edición existente. Las notas de entrada explican dicho contexto; no se ha creado ningún comando adicional como texto original.",
+      "pt-BR": "O código-fonte fornece quatro linhas de substituição em um contexto de edição existente. As notas de entrada explicam esse contexto; nenhum comando adicional é criado como redação original."
     }
   ],
   "source": {
@@ -102,132 +156,32 @@
     "status": "third-party-terms",
     "note": "Third-party prompts and media retain their creators’ rights; external previews are linked, not relicensed."
   },
-  "localizations": {
-    "zh-TW": {
-      "title": "長文案海報範本重用",
-      "summary": "在保留現有視覺層次結構的前提下，替換咖啡海報中的四個文字區塊。",
-      "steps": [
-        "未来设计大会\n让创意成为下一种生产力\n2026.11.06\n深圳·海上世界文化艺术中心"
-      ],
-      "inputs": [
-        "以現有的咖啡節海報作為範本。",
-        "將四行替換文字套用至對應的標題、副標題、日期和地點欄位。"
-      ],
-      "notes": [
-        "作者在 GPT Image 2.5 文章中進行了單獨的插圖測試。分享文章的互動量不分配給單一測試。",
-        "來源文件中的任何分數或觀察結果均為作者的報告，並非本倉庫的獨立測試。",
-        "原始檔在現有的編輯上下文中提供了四行替換文字。輸入註釋解釋了該上下文；無需額外編寫原創指令。"
-      ],
-      "source_digest": "29559ef2df4c4b5227ee3fd278482486434d07b7a0df0df7d0a4d1d662c01763",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ja": {
-      "title": "長文ポスターテンプレートの再利用",
-      "summary": "コーヒーポスターの4つのテキストブロックを、既存の視覚的階層構造を維持したまま置き換えます。",
-      "steps": [
-        "未来设计大会\n让创意成为下一种生产力\n2026.11.06\n深圳·海上世界文化艺术中心"
-      ],
-      "inputs": [
-        "テンプレートとして表示されている既存のコーヒーフェスティバルポスター。",
-        "置き換えた4行のテキストを、対応するタイトル、サブタイトル、日付、会場の各フィールドに適用します。"
-      ],
-      "notes": [
-        "作成者の記事GPT Image 2.5に掲載されている、図解付きのテストです。記事へのエンゲージメントは、個々のテストには割り当てられていません。",
-        "ソースに記載されているスコアや観察結果は、このリポジトリによる独立したテストではなく、著者の報告です。",
-        "ソースは、既存の編集コンテキストで4行の置き換えテキストを提供します。入力メモにそのコンテキストが説明されています。オリジナルの文言として、追加のコマンドは作成されていません。"
-      ],
-      "source_digest": "29559ef2df4c4b5227ee3fd278482486434d07b7a0df0df7d0a4d1d662c01763",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ko": {
-      "title": "장문 포스터 템플릿 재사용",
-      "summary": "기존 시각적 계층 구조를 유지하면서 커피 포스터의 텍스트 블록 4개를 교체합니다.",
-      "steps": [
-        "未来设计大会\n让创意成为下一种生产力\n2026.11.06\n深圳·海上世界文化艺术中心"
-      ],
-      "inputs": [
-        "템플릿으로 기존 커피 축제 포스터가 표시됩니다.",
-        "교체할 텍스트 4줄을 해당 제목, 부제목, 날짜 및 장소 필드에 적용합니다."
-      ],
-      "notes": [
-        "제작자의 GPT Image 2.5 문서에 별도의 그림 테스트가 포함되어 있습니다. 문서 공유 참여도는 개별 테스트에 할당되지 않습니다.",
-        "원본의 점수 또는 관찰 내용은 작성자의 보고서이며, 본 저장소에서 수행한 독립적인 테스트 결과가 아닙니다.",
-        "원본은 기존 편집 컨텍스트에서 교체할 텍스트 4줄을 제공합니다. 입력 노트는 해당 컨텍스트를 설명하며, 새로운 명령어를 새로 만들지 않습니다."
-      ],
-      "source_digest": "29559ef2df4c4b5227ee3fd278482486434d07b7a0df0df7d0a4d1d662c01763",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "fr": {
-      "title": "Réutilisation d'un modèle d'affiche longue",
-      "summary": "Remplacement des quatre blocs de texte d'une affiche de festival du café tout en conservant sa hiérarchie visuelle existante.",
-      "steps": [
-        "未来设计大会\n让创意成为下一种生产力\n2026.11.06\n深圳·海上世界文化艺术中心"
-      ],
-      "inputs": [
-        "L'affiche existante du festival du café est présentée comme modèle.",
-        "Appliquer les quatre lignes de texte de remplacement aux champs titre, sous-titre, date et lieu correspondants."
-      ],
-      "notes": [
-        "Un test illustré distinct est présenté dans l'article GPT Image 2.5 du créateur. L'engagement lié à l'article partagé n'est pas attribué aux tests individuels.",
-        "Les scores et observations figurant dans la source sont des rapports de l'auteur et non des tests indépendants réalisés par ce dépôt.",
-        "La source fournit quatre lignes de remplacement dans un contexte d'édition existant. Les notes d'entrée expliquent ce contexte ; aucune commande supplémentaire n'est inventée comme formulation originale."
-      ],
-      "source_digest": "29559ef2df4c4b5227ee3fd278482486434d07b7a0df0df7d0a4d1d662c01763",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "de": {
-      "title": "Wiederverwendung einer Vorlage für ein Langplakat.",
-      "summary": "Ersetzen Sie die vier Textblöcke eines Kaffeeplakats unter Beibehaltung der bestehenden visuellen Hierarchie.",
-      "steps": [
-        "未来设计大会\n让创意成为下一种生产力\n2026.11.06\n深圳·海上世界文化艺术中心"
-      ],
-      "inputs": [
-        "Das bestehende Kaffeefestivalplakat dient als Vorlage.",
-        "Wenden Sie die vier Ersatztextzeilen auf die entsprechenden Felder für Titel, Untertitel, Datum und Veranstaltungsort an."
-      ],
-      "notes": [
-        "Ein separater illustrierter Test im Artikel GPT Image 2.5 des Erstellers. Die Interaktionen im Artikel werden nicht einzelnen Tests zugeordnet.",
-        "Alle Ergebnisse und Beobachtungen in der Quelle sind Berichte des Autors und keine unabhängigen Tests dieses Repositorys.",
-        "Die Quelle liefert vier Ersatzzeilen in einem bestehenden Bearbeitungskontext. Die Eingabehinweise erläutern diesen Kontext. Es wird kein zusätzlicher Befehl als Originalformulierung erfunden."
-      ],
-      "source_digest": "29559ef2df4c4b5227ee3fd278482486434d07b7a0df0df7d0a4d1d662c01763",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "es": {
-      "title": "Reutilización de la plantilla de póster de texto largo.",
-      "summary": "Reemplazar los cuatro bloques de texto de un póster de café, conservando su jerarquía visual original.",
-      "steps": [
-        "未来设计大会\n让创意成为下一种生产力\n2026.11.06\n深圳·海上世界文化艺术中心"
-      ],
-      "inputs": [
-        "El póster del festival de café existente se muestra como plantilla.",
-        "Aplicar las cuatro líneas de texto de reemplazo a los campos correspondientes de título, subtítulo, fecha y lugar."
-      ],
-      "notes": [
-        "Prueba ilustrada específica en el artículo GPT Image 2.5 del creador. La participación en el artículo compartido no se asigna a pruebas individuales.",
-        "Las puntuaciones u observaciones en la fuente son informes del autor, no pruebas independientes realizadas por este repositorio.",
-        "La fuente proporciona cuatro líneas de reemplazo en un contexto de edición existente. Las notas de entrada explican dicho contexto; no se ha creado ningún comando adicional como texto original."
-      ],
-      "source_digest": "29559ef2df4c4b5227ee3fd278482486434d07b7a0df0df7d0a4d1d662c01763",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "pt-BR": {
-      "title": "Reutilização de modelo de pôster longo",
-      "summary": "Substituir os quatro blocos de texto de um pôster de café, mantendo sua hierarquia visual existente.",
-      "steps": [
-        "未来设计大会\n让创意成为下一种生产力\n2026.11.06\n深圳·海上世界文化艺术中心"
-      ],
-      "inputs": [
-        "O pôster existente do festival de café é mostrado como modelo.",
-        "Aplicar as quatro linhas de texto de substituição aos campos correspondentes de título, subtítulo, data e local."
-      ],
-      "notes": [
-        "Um teste ilustrado distinto no artigo GPT Image 2.5 do criador. O engajamento compartilhado do artigo não é atribuído a testes individuais.",
-        "Quaisquer pontuações ou observações na fonte são relatórios do autor, não testes independentes deste repositório.",
-        "O código-fonte fornece quatro linhas de substituição em um contexto de edição existente. As notas de entrada explicam esse contexto; nenhum comando adicional é criado como redação original."
-      ],
-      "source_digest": "29559ef2df4c4b5227ee3fd278482486434d07b7a0df0df7d0a4d1d662c01763",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+  "translation_meta": {
+    "source_digest": "8e60d0cdeb0347565a827ab06a32cd170226f487d9ec36f9fe221af288aeba97",
+    "text_digests": {
+      "zh-CN": "b40835eee6352b8694a6865bc708d8a921e4ef3e714ada599ba907692bfc76ee",
+      "zh-TW": "ac9ab471f0e4678cfb57a1248af64c60cbea5358e365064a05c9020649834645",
+      "ja": "fbe8687710af22f60667e0f5b793299723d1cfd4fe07e6cf1266dc51566c03d9",
+      "ko": "b7a3df51bc0761c6e8d6accbbcab7b00b6c22d2454259a644750464b174335fc",
+      "fr": "f49959d21b397173735f782fc7d839f7751114c49839147819adb52023a0f8bd",
+      "de": "573f707659fd259e99a97222677eb04250b0c8306c7d539252111f19941a63cb",
+      "es": "2f19b9bcbe76cbfb80e9acd2133525367b42c784cbfaf62bc40d7406ef135875",
+      "pt-BR": "d40e5d08cdb00470c897686a19022e0046a4080a1244f315770264aae82ed89d"
     }
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:12:37.867Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 4,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 4,
+      "distinctiveness": 3
+    },
+    "rationale": "The poster reuses a recognizable coffee layout with replacement copy; the original text-only instruction depends on the supplied prior poster."
   }
 }

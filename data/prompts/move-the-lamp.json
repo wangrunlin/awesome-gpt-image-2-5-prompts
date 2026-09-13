@@ -1,13 +1,26 @@
 {
-  "schema_version": 1,
   "id": "move-the-lamp",
   "title": {
     "en": "Move a lamp in a room",
-    "zh": "移动室内台灯"
+    "zh-CN": "移动室内台灯",
+    "zh-TW": "移動房間中的一盞燈。",
+    "ja": "部屋にあるランプを移動させる",
+    "ko": "방 안의 램프 위치 이동하기",
+    "fr": "Déplacer une lampe dans une pièce",
+    "de": "Eine Lampe in einem Raum verschieben",
+    "es": "Mover una lámpara en una habitación",
+    "pt-BR": "Mover uma luminária em um ambiente"
   },
   "summary": {
     "en": "A short instruction for testing localized object movement and the surrounding light.",
-    "zh": "用一句话观察局部物体移动及周围光线的变化。"
+    "zh-CN": "用一句话观察局部物体移动及周围光线的变化。",
+    "zh-TW": "測試局部物體移動和周圍光線的簡短說明。",
+    "ja": "特定のオブジェクトの移動と周囲の光の変化をテストするための短い指示。",
+    "ko": "특정 사물의 위치 이동과 주변 조명 변화를 테스트하기 위한 간단한 지침입니다.",
+    "fr": "Une instruction courte pour tester le déplacement localisé d'un objet et son impact sur la lumière environnante.",
+    "de": "Eine kurze Anweisung zum Testen der lokalen Objektverschiebung und des umgebenden Lichts.",
+    "es": "Una instrucción breve para probar el movimiento localizado de un objeto y la iluminación circundante.",
+    "pt-BR": "Uma instrução breve para testar o movimento localizado de um objeto e a iluminação ao redor."
   },
   "category": "editing",
   "tags": [
@@ -16,7 +29,6 @@
     "local-edit"
   ],
   "mode": "edit",
-  "featured": false,
   "model": {
     "family": "GPT Image 2.5",
     "variant": null,
@@ -28,7 +40,14 @@
     "steps": [
       {
         "en": "Move the lamp to the right",
-        "zh": "把台灯移到右边"
+        "zh-CN": "把台灯移到右边",
+        "zh-TW": "將燈向右移動。",
+        "ja": "ランプを右に移動させる",
+        "ko": "램프를 오른쪽으로 이동",
+        "fr": "Déplacer la lampe vers la droite",
+        "de": "Die Lampe nach rechts verschieben",
+        "es": "Mover la lámpara hacia la derecha",
+        "pt-BR": "Mover a luminária para a direita"
       }
     ],
     "original_language": "en",
@@ -39,13 +58,27 @@
   "inputs": [
     {
       "en": "A room image containing a lamp.",
-      "zh": "一张包含台灯的室内图片。"
+      "zh-CN": "一张包含台灯的室内图片。",
+      "zh-TW": "包含一盞燈的房間圖像。",
+      "ja": "ランプが写っている部屋の画像。",
+      "ko": "램프가 포함된 방 이미지.",
+      "fr": "Une image de pièce contenant une lampe.",
+      "de": "Ein Bild eines Raums, der eine Lampe enthält.",
+      "es": "Una imagen de una habitación que contiene una lámpara.",
+      "pt-BR": "Uma imagem de um ambiente contendo uma luminária."
     }
   ],
   "notes": [
     {
       "en": "Inspect the old lamp position, cast shadows, and nearby objects after editing.",
-      "zh": "编辑后检查台灯原位置、投影和附近物体。"
+      "zh-CN": "编辑后检查台灯原位置、投影和附近物体。",
+      "zh-TW": "編輯後檢查原有燈具位置、陰影和周圍物體。",
+      "ja": "編集後、ランプの元の位置、落ちる影、および周囲のオブジェクトの状態を確認する。",
+      "ko": "편집 후 램프의 이전 위치, 드리워진 그림자, 주변 사물을 확인하세요.",
+      "fr": "Examiner l'ancienne position de la lampe, les ombres projetées et les objets environnants après la modification.",
+      "de": "Überprüfe nach der Bearbeitung die ursprüngliche Position der Lampe, die Schattenwürfe und die umliegenden Objekte.",
+      "es": "Inspeccionar la posición original de la lámpara, las sombras proyectadas y los objetos cercanos tras la edición.",
+      "pt-BR": "Inspecione a posição anterior da luminária, as sombras projetadas e os objetos próximos após a edição."
     }
   ],
   "source": {
@@ -84,111 +117,32 @@
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
   },
-  "localizations": {
-    "zh-TW": {
-      "title": "移動房間中的一盞燈。",
-      "summary": "測試局部物體移動和周圍光線的簡短說明。",
-      "steps": [
-        "將燈向右移動。"
-      ],
-      "inputs": [
-        "包含一盞燈的房間圖像。"
-      ],
-      "notes": [
-        "編輯後檢查原有燈具位置、陰影和周圍物體。"
-      ],
-      "source_digest": "63b1071c8a5a90bbbfdb9e4bbfd41ce19bcfa676d9e3f5e3ec42086f36832be3",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ja": {
-      "title": "部屋にあるランプを移動させる",
-      "summary": "特定のオブジェクトの移動と周囲の光の変化をテストするための短い指示。",
-      "steps": [
-        "ランプを右に移動させる"
-      ],
-      "inputs": [
-        "ランプが写っている部屋の画像。"
-      ],
-      "notes": [
-        "編集後、ランプの元の位置、落ちる影、および周囲のオブジェクトの状態を確認する。"
-      ],
-      "source_digest": "63b1071c8a5a90bbbfdb9e4bbfd41ce19bcfa676d9e3f5e3ec42086f36832be3",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ko": {
-      "title": "방 안의 램프 위치 이동하기",
-      "summary": "특정 사물의 위치 이동과 주변 조명 변화를 테스트하기 위한 간단한 지침입니다.",
-      "steps": [
-        "램프를 오른쪽으로 이동"
-      ],
-      "inputs": [
-        "램프가 포함된 방 이미지."
-      ],
-      "notes": [
-        "편집 후 램프의 이전 위치, 드리워진 그림자, 주변 사물을 확인하세요."
-      ],
-      "source_digest": "63b1071c8a5a90bbbfdb9e4bbfd41ce19bcfa676d9e3f5e3ec42086f36832be3",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "fr": {
-      "title": "Déplacer une lampe dans une pièce",
-      "summary": "Une instruction courte pour tester le déplacement localisé d'un objet et son impact sur la lumière environnante.",
-      "steps": [
-        "Déplacer la lampe vers la droite"
-      ],
-      "inputs": [
-        "Une image de pièce contenant une lampe."
-      ],
-      "notes": [
-        "Examiner l'ancienne position de la lampe, les ombres projetées et les objets environnants après la modification."
-      ],
-      "source_digest": "63b1071c8a5a90bbbfdb9e4bbfd41ce19bcfa676d9e3f5e3ec42086f36832be3",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "de": {
-      "title": "Eine Lampe in einem Raum verschieben",
-      "summary": "Eine kurze Anweisung zum Testen der lokalen Objektverschiebung und des umgebenden Lichts.",
-      "steps": [
-        "Die Lampe nach rechts verschieben"
-      ],
-      "inputs": [
-        "Ein Bild eines Raums, der eine Lampe enthält."
-      ],
-      "notes": [
-        "Überprüfe nach der Bearbeitung die ursprüngliche Position der Lampe, die Schattenwürfe und die umliegenden Objekte."
-      ],
-      "source_digest": "63b1071c8a5a90bbbfdb9e4bbfd41ce19bcfa676d9e3f5e3ec42086f36832be3",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "es": {
-      "title": "Mover una lámpara en una habitación",
-      "summary": "Una instrucción breve para probar el movimiento localizado de un objeto y la iluminación circundante.",
-      "steps": [
-        "Mover la lámpara hacia la derecha"
-      ],
-      "inputs": [
-        "Una imagen de una habitación que contiene una lámpara."
-      ],
-      "notes": [
-        "Inspeccionar la posición original de la lámpara, las sombras proyectadas y los objetos cercanos tras la edición."
-      ],
-      "source_digest": "63b1071c8a5a90bbbfdb9e4bbfd41ce19bcfa676d9e3f5e3ec42086f36832be3",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "pt-BR": {
-      "title": "Mover uma luminária em um ambiente",
-      "summary": "Uma instrução breve para testar o movimento localizado de um objeto e a iluminação ao redor.",
-      "steps": [
-        "Mover a luminária para a direita"
-      ],
-      "inputs": [
-        "Uma imagem de um ambiente contendo uma luminária."
-      ],
-      "notes": [
-        "Inspecione a posição anterior da luminária, as sombras projetadas e os objetos próximos após a edição."
-      ],
-      "source_digest": "63b1071c8a5a90bbbfdb9e4bbfd41ce19bcfa676d9e3f5e3ec42086f36832be3",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+  "translation_meta": {
+    "source_digest": "dfb89c0175a9b781eef1cd5d6ce25cd2d6949bc204667961df30cc9081f526bc",
+    "text_digests": {
+      "zh-CN": "578cd46c348ba3fe892487f7c99f9c6b551b41c6b290ffc4c67af7bb9ce40d05",
+      "zh-TW": "479662238478389e1b315b4d0afcbea4a0c6a4689ffcc60a31eb148c4b43a9d9",
+      "ja": "9a439354853a6e0b6757e83195a279827c4c5ec4088a4a95db1f4009a142978d",
+      "ko": "9c8bc0d9d3d4fa3f8b05eec7e6c0051a47f341454f455ec6aed847aa661c7c5c",
+      "fr": "cc4f077b44348db72a5fb4dd0da1074b0360b8e48d78ae57a3e8570643021122",
+      "de": "ea719b0e8a401c5f0947ab24a8aae0afd662a41953f2f0b4780117538b0f4b23",
+      "es": "9ae901f31a0a616da7f47f176759eef7fcef76e80254a855cc21621f2f51eaea",
+      "pt-BR": "9d9885dc927ba62ea4d94045e832019eb54fa20dbada2d8e24506299466b2633"
     }
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:12:37.869Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 3,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 4,
+      "distinctiveness": 2
+    },
+    "rationale": "The before/after room view provides context for a concise local edit; the input photograph is essential despite the short wording."
   }
 }

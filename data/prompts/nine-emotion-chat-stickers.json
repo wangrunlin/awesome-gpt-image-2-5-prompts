@@ -1,13 +1,26 @@
 {
-  "schema_version": 1,
   "id": "nine-emotion-chat-stickers",
   "title": {
     "en": "Nine expressive chat stickers",
-    "zh": "九种情绪聊天表情包"
+    "zh-CN": "九种情绪聊天表情包",
+    "zh-TW": "九張表情豐富的聊天貼紙",
+    "ja": "9種類の表情豊かなチャットスタンプ",
+    "ko": "9가지 표정의 채팅 스티커",
+    "fr": "Neuf stickers de conversation expressifs",
+    "de": "Neun ausdrucksstarke Chat-Sticker",
+    "es": "Nueve stickers expresivos para chat",
+    "pt-BR": "Nove adesivos expressivos para bate-papo"
   },
   "summary": {
     "en": "Create a consistent 3×3 sheet of nine distinct reactions from one character reference.",
-    "zh": "根据同一人物参考，制作一张包含九种不同表情的3×3尺寸贴纸。"
+    "zh-CN": "根据同一人物参考，制作一张包含九种不同表情的3×3尺寸贴纸。",
+    "zh-TW": "根據同一人物參考，製作一張包含九種不同表情的3×3尺寸貼紙。",
+    "ja": "1つの人物の参考画像から、9種類の異なる反応を3×3のシートにまとめる。",
+    "ko": "하나의 캐릭터 참고 이미지를 사용하여 9가지의 서로 다른 표정을 담은 3x3 크기의 일관된 시트를 제작합니다.",
+    "fr": "Créer une planche 3×3 cohérente de neuf réactions distinctes à partir d'un personnage de référence.",
+    "de": "Ein einheitliches 3×3-Blatt mit neun verschiedenen Reaktionen basierend auf einer Referenzfigur erstellen.",
+    "es": "Crea una hoja de 3x3 con nueve reacciones distintas a partir de una imagen de referencia de un personaje.",
+    "pt-BR": "Crie uma folha consistente de 3x3 com nove reações distintas a partir de uma referência de personagem."
   },
   "category": "characters",
   "tags": [
@@ -15,7 +28,6 @@
     "edit"
   ],
   "mode": "edit",
-  "featured": true,
   "model": {
     "family": "GPT Image 2.5",
     "variant": null,
@@ -31,24 +43,52 @@
     "steps": [
       {
         "en": "Please transform the main person, animal, or cartoon character from the uploaded image into a custom set of chat stickers.\n\nFirst, extract the subject's most distinctive features, then convert them into a unified, simple, vivid, and slightly exaggerated hand-drawn sticker style. Preserve facial feature proportions, hairstyle or fur, distinctive patterns, clothing, and the primary color scheme; do not transform the subject into a generic, nondescript character.\n\nGenerate a neatly arranged 3×3 grid image. The character in all nine cells must be the same, maintaining consistency in appearance and art style.\n\nDepict the following expressions and poses, proceeding from left to right and top to bottom:\nLaughing heartily, looking completely puzzled, speechless/dumbfounded;\nSuddenly shocked, aggrieved/on the verge of tears, secretly smug/pleased;\nExhausted/sleepy, pouting/angry, expressing affection.\n\nEach cell must feature a distinct expression and pose that remains recognizable even when scaled down. Actions should suit the subject's physical anatomy; do not force a realistic human body onto an animal.\n\nLeave white space around each sticker; do not let them touch each other. Do not draw dividing lines or add text. Use a pure white background and a 1:1 square aspect ratio.",
-        "zh": "请将我上传图片中的主要人物、动物或卡通角色，转化成一套专属聊天表情包。\n\n先提取这个主体最有辨识度的特征，再统一转化为简洁、生动、略带夸张的手绘贴纸风格。保留五官关系、发型或毛发、标志性花纹、服装和主要配色，不要变成普通的通用角色。\n\n生成一张排列整齐的 3×3 九宫格图片。九个格子里的角色必须是同一个，外形和画风保持一致。\n\n从左到右、从上到下，依次表现：\n开心大笑、满脸疑惑、彻底无语；\n突然震惊、委屈想哭、偷偷得意；\n困得不行、气鼓鼓、表达喜欢。\n\n每格都要有明显不同的表情和姿态，缩小后也能看懂。动作应适合主体自身的身体结构，不要给动物强行接上写实的人类身体。\n\n每枚贴纸周围留白，彼此不要接触，不画分隔线，不添加文字。纯白背景，1:1 方形。"
+        "zh-CN": "请将我上传图片中的主要人物、动物或卡通角色，转化成一套专属聊天表情包。\n\n先提取这个主体最有辨识度的特征，再统一转化为简洁、生动、略带夸张的手绘贴纸风格。保留五官关系、发型或毛发、标志性花纹、服装和主要配色，不要变成普通的通用角色。\n\n生成一张排列整齐的 3×3 九宫格图片。九个格子里的角色必须是同一个，外形和画风保持一致。\n\n从左到右、从上到下，依次表现：\n开心大笑、满脸疑惑、彻底无语；\n突然震惊、委屈想哭、偷偷得意；\n困得不行、气鼓鼓、表达喜欢。\n\n每格都要有明显不同的表情和姿态，缩小后也能看懂。动作应适合主体自身的身体结构，不要给动物强行接上写实的人类身体。\n\n每枚贴纸周围留白，彼此不要接触，不画分隔线，不添加文字。纯白背景，1:1 方形。",
+        "zh-TW": "請將我上傳圖片中的主要人物、動物或卡通角色，轉換成一套專屬聊天表情包。\n\n先提取這個主體最有辨識度的特徵，再統一轉化為簡潔、生動、略帶誇張的手繪貼紙風格。保留五官關係、髮型或毛髮、標誌性花紋、服裝和主要配色，不要變成普通的通用角色。\n\n產生一張排列整齊的 3×3 九宮格圖片。九個格子裡的角色必須是同一個，外形和畫風保持一致。\n\n由左至右、由上至下，依序表現：\n開心大笑、滿臉疑惑、徹底無言；\n突然震驚、委屈想哭、偷偷得意；\n困得不行、氣鼓鼓、表達喜歡。\n\n每格都要有明顯不同的表情和姿態，縮小後也能看懂。動作應適合主體自身的身體結構，不要給動物強行接上寫實的人類身體。\n\n每枚貼紙周圍留白，彼此不要接觸，不畫分隔線，不添加文字。純白背景，1:1 方形。",
+        "ja": "アップロードされた画像に写っている主要なキャラクター、動物、または漫画のキャラクターを、専用のチャット絵文字セットに変換してください。\n\nまず、被写体の最も特徴的な部分を抽出し、それらをシンプルで生き生きとした、やや誇張された手描き風のスタンプスタイルに統一的に変換してください。顔の特徴、髪型、特徴的な模様、服装、メインカラーはそのまま残し、一般的なキャラクターにならないようにしてください。\n\n整然と配置された3×3のグリッド画像を作成してください。9つのグリッドすべてに同じキャラクターを配置し、一貫した外観とスタイルを維持してください。\n\n左から右、上から下の順に、以下の表情を表現してください：楽しそうな笑い、困惑、言葉を失う；突然の驚き、泣きそう、密かに得意げ；ひどく眠そう、ふくれっ面、好意を表す。\n\n各スタンプは、縮小しても判読可能な、明確な表情と姿勢を持つようにしてください。ポーズは被写体の体型に合ったものにしてください。動物に無理やりリアルな人間の体型を当てはめるのは避けてください。\n\n各ステッカーの周囲には余白を設け、ステッカー同士が接触しないようにしてください。区切り線や文字は入れないでください。背景は純白、サイズは1:1の正方形を使用してください。",
+        "ko": "업로드된 이미지의 주요 캐릭터, 동물 또는 만화 캐릭터를 전용 채팅 이모티콘 세트로 변환해 주세요.\n\n먼저, 대상의 가장 특징적인 부분을 추출한 후, 이를 단순하고 생동감 넘치며 약간 과장된 손글씨 스티커 스타일로 통일감 있게 변환해 주세요. 얼굴 특징, 헤어스타일, 특유의 패턴, 의상, 주요 색상 등을 유지하고, 일반적인 캐릭터처럼 보이지 않도록 주의해 주세요.\n\n깔끔하게 배열된 3x3 격자 이미지를 생성해 주세요. 9개의 격자 안의 캐릭터는 모두 동일해야 하며, 일관된 모양과 스타일을 유지해야 합니다.\n\n왼쪽에서 오른쪽, 위에서 아래로 다음과 같은 감정을 표현해 주세요: 행복한 웃음, 완전히 당황함, 말문이 막힘, 갑작스러운 놀라움, 울고 싶은 마음, 은근히 우쭐해함, 매우 졸림, 삐짐, 호감 표현.\n\n각 스티커는 뚜렷한 표정과 자세를 가져야 하며, 축소했을 때도 알아볼 수 있어야 합니다. 포즈는 피사체의 신체 구조에 맞게 해야 하며, 사람의 사실적인 신체 형태를 동물에 억지로 적용해서는 안 됩니다.\n\n각 스티커 주변에 여백을 두어 서로 닿지 않도록 하고, 구분선을 그리거나 텍스트를 추가하지 마십시오. 배경은 순백색으로 하고, 크기는 1:1 정사각형이어야 합니다.",
+        "fr": "Veuillez convertir les personnages principaux, animaux ou personnages de dessins animés des images importées en une série d'émoticônes exclusives pour le chat.\n\nIdéalement, extrayez les caractéristiques les plus reconnaissables du sujet, puis convertissez-les uniformément en un style d'autocollant dessiné à la main, simple, expressif et légèrement exagéré. Conservez les traits du visage, les coiffures, les motifs caractéristiques, les vêtements et les couleurs principales ; évitez de les transformer en personnages génériques.\n\nGénérez une image en grille 3x3 bien agencée. Les personnages de chacune des neuf cases doivent être identiques, pour une apparence et un style cohérents.\n\nDe gauche à droite et de haut en bas, représentez : rire joyeux, confusion totale, mutisme ; choc soudain, envie de pleurer, satisfaction secrète ; sommeil extrême, moue, appréciation.\n\nChaque autocollant doit avoir une expression et une posture distinctes, tout en restant lisible même réduit. La pose doit être adaptée à la morphologie du sujet ; évitez de donner à un animal une apparence humaine réaliste.\n\nLaissez un espace blanc autour de chaque autocollant, en veillant à ce qu'ils ne se touchent pas, et n'ajoutez ni lignes de séparation ni texte. Utilisez un fond blanc pur et un format carré (1:1).",
+        "de": "Bitte wandeln Sie die Hauptfiguren, Tiere oder Comicfiguren der hochgeladenen Bilder in exklusive Chat-Emoticons um.\n\nExtrahieren Sie zunächst die markantesten Merkmale des Motivs und wandeln Sie diese anschließend einheitlich in einen einfachen, lebendigen und leicht überzeichneten, handgezeichneten Sticker-Stil um. Behalten Sie Gesichtszüge, Frisuren, charakteristische Muster, Kleidung und die Hauptfarben bei; vermeiden Sie generische Charaktere.\n\nErstellen Sie ein übersichtliches 3x3-Rasterbild. Die Charaktere in jedem der neun Rasterfelder müssen identisch sein, um ein einheitliches Erscheinungsbild zu gewährleisten.\n\nVon links nach rechts und von oben nach unten: Fröhliches Lachen, völlige Verwirrung, Sprachlosigkeit; plötzlicher Schock, Tränen in den Augen, heimliche Selbstgefälligkeit; extreme Müdigkeit, Schmollen, Zuneigung.\n\nJeder Sticker sollte einen individuellen Ausdruck und eine eigene Haltung haben und auch in kleiner Größe gut lesbar sein. Die Pose sollte der Körperstruktur des Motivs entsprechen; vermeiden Sie es, einen realistischen menschlichen Körper auf ein Tier zu übertragen.\n\nLassen Sie um jeden Aufkleber herum ausreichend Platz, sodass sie sich nicht berühren. Zeichnen Sie keine Trennlinien und fügen Sie keinen Text hinzu. Verwenden Sie einen reinweißen Hintergrund und ein quadratisches Format im Seitenverhältnis 1:1.",
+        "es": "Convierta los personajes principales, animales o personajes de dibujos animados de las imágenes subidas en un conjunto de emoticonos exclusivos para chat.\n\nPrimero, extraiga las características más reconocibles del sujeto y luego conviértalas uniformemente en un estilo de sticker dibujado a mano, sencillo, vívido y ligeramente exagerado. Conserve los rasgos faciales, peinados o cabello, patrones característicos, ropa y paleta de colores principal; evite convertirlos en personajes genéricos.\n\nGenere una imagen de cuadrícula 3x3 bien organizada. Los personajes en cada una de las nueve cuadrículas deben ser los mismos, manteniendo una apariencia y un estilo consistentes.\n\nDe izquierda a derecha y de arriba abajo, represente: risa alegre, confusión total, silencio; sorpresa repentina, ganas de llorar, satisfacción disimulada; mucho sueño, puchero, expresión de agrado.\n\nCada sticker debe tener una expresión y postura distintivas, y debe ser legible incluso al reducir su tamaño. La pose debe ser acorde a la estructura corporal del sujeto; evite forzar un cuerpo humano realista sobre un animal.\n\nDeje espacio en blanco alrededor de cada pegatina, asegurándose de que no se toquen entre sí, y no dibuje líneas divisorias ni añada texto. Utilice un fondo blanco puro y una forma cuadrada 1:1.",
+        "pt-BR": "Converta os personagens principais, animais ou personagens de desenho animado nas imagens enviadas em um conjunto de emoticons exclusivos para bate-papo.\n\nPrimeiro, extraia as características mais reconhecíveis do sujeito e, em seguida, converta-as uniformemente em um estilo de adesivo desenhado à mão, simples, vívido e ligeiramente exagerado. Mantenha as características faciais, penteados ou cabelos, padrões característicos, roupas e esquemas de cores principais; evite transformá-los em personagens genéricos.\n\nGere uma imagem em grade 3x3 organizada. Os personagens em cada uma das nove grades devem ser os mesmos, mantendo uma aparência e um estilo consistentes.\n\nDa esquerda para a direita e de cima para baixo, represente: riso feliz, confusão total, sem palavras; choque repentino, vontade de chorar, satisfação secreta; muito sono, beicinho, expressando apreço.\n\nCada adesivo deve ter uma expressão e postura distintas, permanecendo legível mesmo quando reduzido. A pose deve ser adequada à estrutura corporal do sujeito; evite forçar um corpo humano realista em um animal.\n\nDeixe espaço em branco ao redor de cada adesivo, garantindo que eles não se toquem, e não desenhe linhas divisórias nem adicione texto. Use um fundo branco puro e um formato quadrado na proporção 1:1."
       }
     ]
   },
   "inputs": [
     {
       "en": "A person, animal, or illustrated character reference image.",
-      "zh": "人物、动物或插图人物参考图像。"
+      "zh-CN": "人物、动物或插图人物参考图像。",
+      "zh-TW": "人物、動物或插圖人物參考圖像。",
+      "ja": "人物、動物、またはイラストのキャラクターの参考画像",
+      "ko": "사람, 동물 또는 일러스트 캐릭터 참고 이미지",
+      "fr": "Image de référence d'une personne, d'un animal ou d'un personnage illustré.",
+      "de": "Referenzbild einer Person, eines Tieres oder einer illustrierten Figur.",
+      "es": "Imagen de referencia de una persona, animal o personaje ilustrado.",
+      "pt-BR": "Uma imagem de referência de pessoa, animal ou personagem ilustrado."
     }
   ],
   "notes": [
     {
       "en": "This is a distinct illustrated recipe within the creator’s GPT Image 2.5 tutorial. The article’s shared engagement is not assigned to individual recipes.",
-      "zh": "这是作者 GPT Image 2.5 教程中的一个独立图解教程。文章的共享互动并未分配给单个食谱。"
+      "zh-CN": "这是作者 GPT Image 2.5 教程中的一个独立图解教程。文章的共享互动并未分配给单条案例。",
+      "zh-TW": "這是作者 GPT Image 2.5 教學中的獨立圖解教學。文章的共享互動並未分配給單一案例。",
+      "ja": "これは、作成者のGPT Image 2.5チュートリアルに含まれる、独立した図解付きレシピです。記事の共有エンゲージメントは、個々のレシピには割り当てられていません。",
+      "ko": "이것은 제작자의 GPT Image 2.5 튜토리얼에 포함된 별도의 그림 설명 레시피입니다. 이 문서의 공유 참여도는 개별 레시피에 할당되지 않습니다.",
+      "fr": "Il s'agit d'une méthode illustrée spécifique au tutoriel GPT Image 2.5 de son créateur. L'engagement partagé de l'article n'est pas attribué à des recettes individuelles.",
+      "de": "Dies ist eine detaillierte, bebilderte Anleitung aus dem Tutorial GPT Image 2.5 des Erstellers. Die geteilte Interaktion im Artikel wird nicht einzelnen Rezepten zugeordnet.",
+      "es": "Esta es una receta ilustrada específica dentro del tutorial GPT Image 2.5 del creador. La participación compartida del artículo no se asigna a recetas individuales.",
+      "pt-BR": "Esta é uma receita ilustrada distinta dentro do tutorial GPT Image 2.5 do criador. O engajamento compartilhado do artigo não é atribuído a receitas individuais."
     },
     {
       "en": "The preview is a result shown by the author; required references must be supplied by the reader. The repository has not independently tested this workflow.",
-      "zh": "预览是作者展示的结果；读者必须提供所需的参考资料。该存储库尚未独立测试此工作流程。"
+      "zh-CN": "预览是作者展示的结果；读者必须提供所需的参考资料。本仓库尚未独立测试此工作流程。",
+      "zh-TW": "預覽是作者展示的結果；讀者必須提供所需的參考資料。該存儲庫尚未獨立測試此工作流程。",
+      "ja": "プレビューは著者が表示した結果です。必要な参照情報は読者が提供する必要があります。リポジトリはこのワークフローを独自にテストしていません。",
+      "ko": "미리보기는 작성자가 보여주는 결과이며, 필요한 참조는 독자가 제공해야 합니다. 이 저장소는 해당 워크플로를 독립적으로 테스트하지 않았습니다.",
+      "fr": "L'aperçu est un résultat affiché par l'auteur ; les références requises doivent être fournies par le lecteur. Ce processus n'a pas été testé indépendamment par le dépôt.",
+      "de": "Die Vorschau zeigt ein vom Autor dargestelltes Ergebnis; die benötigten Referenzen müssen vom Leser bereitgestellt werden. Das Repository hat diesen Workflow nicht unabhängig getestet.",
+      "es": "La vista previa es un resultado mostrado por el autor; el lector debe proporcionar las referencias necesarias. El repositorio no ha probado este flujo de trabajo de forma independiente.",
+      "pt-BR": "A pré-visualização é um resultado mostrado pelo autor; as referências necessárias devem ser fornecidas pelo leitor. O repositório não testou este fluxo de trabalho de forma independente."
     }
   ],
   "source": {
@@ -88,118 +128,32 @@
     "status": "third-party-terms",
     "note": "Third-party prompts and media retain their creators’ rights; external previews are linked, not relicensed."
   },
-  "localizations": {
-    "zh-TW": {
-      "title": "九張表情豐富的聊天貼紙",
-      "summary": "根據同一人物參考，製作一張包含九種不同表情的3×3尺寸貼紙。",
-      "steps": [
-        "請將我上傳圖片中的主要人物、動物或卡通角色，轉換成一套專屬聊天表情包。\n\n先提取這個主體最有辨識度的特徵，再統一轉化為簡潔、生動、略帶誇張的手繪貼紙風格。保留五官關係、髮型或毛髮、標誌性花紋、服裝和主要配色，不要變成普通的通用角色。\n\n產生一張排列整齊的 3×3 九宮格圖片。九個格子裡的角色必須是同一個，外形和畫風保持一致。\n\n由左至右、由上至下，依序表現：\n開心大笑、滿臉疑惑、徹底無言；\n突然震驚、委屈想哭、偷偷得意；\n困得不行、氣鼓鼓、表達喜歡。\n\n每格都要有明顯不同的表情和姿態，縮小後也能看懂。動作應適合主體自身的身體結構，不要給動物強行接上寫實的人類身體。\n\n每枚貼紙周圍留白，彼此不要接觸，不畫分隔線，不添加文字。純白背景，1:1 方形。"
-      ],
-      "inputs": [
-        "人物、動物或插圖人物參考圖像。"
-      ],
-      "notes": [
-        "這是作者 GPT Image 2.5 教學中的獨立圖解教學。文章的共享互動並未分配給單一食譜。",
-        "預覽是作者展示的結果；讀者必須提供所需的參考資料。該存儲庫尚未獨立測試此工作流程。"
-      ],
-      "source_digest": "2af77ac81121c147434da85ba93db9d3bc73d09ea3cca966934f620cf4ffb38d",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ja": {
-      "title": "9種類の表情豊かなチャットスタンプ",
-      "summary": "1つの人物の参考画像から、9種類の異なる反応を3×3のシートにまとめる。",
-      "steps": [
-        "アップロードされた画像に写っている主要なキャラクター、動物、または漫画のキャラクターを、専用のチャット絵文字セットに変換してください。\n\nまず、被写体の最も特徴的な部分を抽出し、それらをシンプルで生き生きとした、やや誇張された手描き風のスタンプスタイルに統一的に変換してください。顔の特徴、髪型、特徴的な模様、服装、メインカラーはそのまま残し、一般的なキャラクターにならないようにしてください。\n\n整然と配置された3×3のグリッド画像を作成してください。9つのグリッドすべてに同じキャラクターを配置し、一貫した外観とスタイルを維持してください。\n\n左から右、上から下の順に、以下の表情を表現してください：楽しそうな笑い、困惑、言葉を失う；突然の驚き、泣きそう、密かに得意げ；ひどく眠そう、ふくれっ面、好意を表す。\n\n各スタンプは、縮小しても判読可能な、明確な表情と姿勢を持つようにしてください。ポーズは被写体の体型に合ったものにしてください。動物に無理やりリアルな人間の体型を当てはめるのは避けてください。\n\n各ステッカーの周囲には余白を設け、ステッカー同士が接触しないようにしてください。区切り線や文字は入れないでください。背景は純白、サイズは1:1の正方形を使用してください。"
-      ],
-      "inputs": [
-        "人物、動物、またはイラストのキャラクターの参考画像"
-      ],
-      "notes": [
-        "これは、作成者のGPT Image 2.5チュートリアルに含まれる、独立した図解付きレシピです。記事の共有エンゲージメントは、個々のレシピには割り当てられていません。",
-        "プレビューは著者が表示した結果です。必要な参照情報は読者が提供する必要があります。リポジトリはこのワークフローを独自にテストしていません。"
-      ],
-      "source_digest": "2af77ac81121c147434da85ba93db9d3bc73d09ea3cca966934f620cf4ffb38d",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ko": {
-      "title": "9가지 표정의 채팅 스티커",
-      "summary": "하나의 캐릭터 참고 이미지를 사용하여 9가지의 서로 다른 표정을 담은 3x3 크기의 일관된 시트를 제작합니다.",
-      "steps": [
-        "업로드된 이미지의 주요 캐릭터, 동물 또는 만화 캐릭터를 전용 채팅 이모티콘 세트로 변환해 주세요.\n\n먼저, 대상의 가장 특징적인 부분을 추출한 후, 이를 단순하고 생동감 넘치며 약간 과장된 손글씨 스티커 스타일로 통일감 있게 변환해 주세요. 얼굴 특징, 헤어스타일, 특유의 패턴, 의상, 주요 색상 등을 유지하고, 일반적인 캐릭터처럼 보이지 않도록 주의해 주세요.\n\n깔끔하게 배열된 3x3 격자 이미지를 생성해 주세요. 9개의 격자 안의 캐릭터는 모두 동일해야 하며, 일관된 모양과 스타일을 유지해야 합니다.\n\n왼쪽에서 오른쪽, 위에서 아래로 다음과 같은 감정을 표현해 주세요: 행복한 웃음, 완전히 당황함, 말문이 막힘, 갑작스러운 놀라움, 울고 싶은 마음, 은근히 우쭐해함, 매우 졸림, 삐짐, 호감 표현.\n\n각 스티커는 뚜렷한 표정과 자세를 가져야 하며, 축소했을 때도 알아볼 수 있어야 합니다. 포즈는 피사체의 신체 구조에 맞게 해야 하며, 사람의 사실적인 신체 형태를 동물에 억지로 적용해서는 안 됩니다.\n\n각 스티커 주변에 여백을 두어 서로 닿지 않도록 하고, 구분선을 그리거나 텍스트를 추가하지 마십시오. 배경은 순백색으로 하고, 크기는 1:1 정사각형이어야 합니다."
-      ],
-      "inputs": [
-        "사람, 동물 또는 일러스트 캐릭터 참고 이미지"
-      ],
-      "notes": [
-        "이것은 제작자의 GPT Image 2.5 튜토리얼에 포함된 별도의 그림 설명 레시피입니다. 이 문서의 공유 참여도는 개별 레시피에 할당되지 않습니다.",
-        "미리보기는 작성자가 보여주는 결과이며, 필요한 참조는 독자가 제공해야 합니다. 이 저장소는 해당 워크플로를 독립적으로 테스트하지 않았습니다."
-      ],
-      "source_digest": "2af77ac81121c147434da85ba93db9d3bc73d09ea3cca966934f620cf4ffb38d",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "fr": {
-      "title": "Neuf stickers de conversation expressifs",
-      "summary": "Créer une planche 3×3 cohérente de neuf réactions distinctes à partir d'un personnage de référence.",
-      "steps": [
-        "Veuillez convertir les personnages principaux, animaux ou personnages de dessins animés des images importées en une série d'émoticônes exclusives pour le chat.\n\nIdéalement, extrayez les caractéristiques les plus reconnaissables du sujet, puis convertissez-les uniformément en un style d'autocollant dessiné à la main, simple, expressif et légèrement exagéré. Conservez les traits du visage, les coiffures, les motifs caractéristiques, les vêtements et les couleurs principales ; évitez de les transformer en personnages génériques.\n\nGénérez une image en grille 3x3 bien agencée. Les personnages de chacune des neuf cases doivent être identiques, pour une apparence et un style cohérents.\n\nDe gauche à droite et de haut en bas, représentez : rire joyeux, confusion totale, mutisme ; choc soudain, envie de pleurer, satisfaction secrète ; sommeil extrême, moue, appréciation.\n\nChaque autocollant doit avoir une expression et une posture distinctes, tout en restant lisible même réduit. La pose doit être adaptée à la morphologie du sujet ; évitez de donner à un animal une apparence humaine réaliste.\n\nLaissez un espace blanc autour de chaque autocollant, en veillant à ce qu'ils ne se touchent pas, et n'ajoutez ni lignes de séparation ni texte. Utilisez un fond blanc pur et un format carré (1:1)."
-      ],
-      "inputs": [
-        "Image de référence d'une personne, d'un animal ou d'un personnage illustré."
-      ],
-      "notes": [
-        "Il s'agit d'une méthode illustrée spécifique au tutoriel GPT Image 2.5 de son créateur. L'engagement partagé de l'article n'est pas attribué à des recettes individuelles.",
-        "L'aperçu est un résultat affiché par l'auteur ; les références requises doivent être fournies par le lecteur. Ce processus n'a pas été testé indépendamment par le dépôt."
-      ],
-      "source_digest": "2af77ac81121c147434da85ba93db9d3bc73d09ea3cca966934f620cf4ffb38d",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "de": {
-      "title": "Neun ausdrucksstarke Chat-Sticker",
-      "summary": "Ein einheitliches 3×3-Blatt mit neun verschiedenen Reaktionen basierend auf einer Referenzfigur erstellen.",
-      "steps": [
-        "Bitte wandeln Sie die Hauptfiguren, Tiere oder Comicfiguren der hochgeladenen Bilder in exklusive Chat-Emoticons um.\n\nExtrahieren Sie zunächst die markantesten Merkmale des Motivs und wandeln Sie diese anschließend einheitlich in einen einfachen, lebendigen und leicht überzeichneten, handgezeichneten Sticker-Stil um. Behalten Sie Gesichtszüge, Frisuren, charakteristische Muster, Kleidung und die Hauptfarben bei; vermeiden Sie generische Charaktere.\n\nErstellen Sie ein übersichtliches 3x3-Rasterbild. Die Charaktere in jedem der neun Rasterfelder müssen identisch sein, um ein einheitliches Erscheinungsbild zu gewährleisten.\n\nVon links nach rechts und von oben nach unten: Fröhliches Lachen, völlige Verwirrung, Sprachlosigkeit; plötzlicher Schock, Tränen in den Augen, heimliche Selbstgefälligkeit; extreme Müdigkeit, Schmollen, Zuneigung.\n\nJeder Sticker sollte einen individuellen Ausdruck und eine eigene Haltung haben und auch in kleiner Größe gut lesbar sein. Die Pose sollte der Körperstruktur des Motivs entsprechen; vermeiden Sie es, einen realistischen menschlichen Körper auf ein Tier zu übertragen.\n\nLassen Sie um jeden Aufkleber herum ausreichend Platz, sodass sie sich nicht berühren. Zeichnen Sie keine Trennlinien und fügen Sie keinen Text hinzu. Verwenden Sie einen reinweißen Hintergrund und ein quadratisches Format im Seitenverhältnis 1:1."
-      ],
-      "inputs": [
-        "Referenzbild einer Person, eines Tieres oder einer illustrierten Figur."
-      ],
-      "notes": [
-        "Dies ist eine detaillierte, bebilderte Anleitung aus dem Tutorial GPT Image 2.5 des Erstellers. Die geteilte Interaktion im Artikel wird nicht einzelnen Rezepten zugeordnet.",
-        "Die Vorschau zeigt ein vom Autor dargestelltes Ergebnis; die benötigten Referenzen müssen vom Leser bereitgestellt werden. Das Repository hat diesen Workflow nicht unabhängig getestet."
-      ],
-      "source_digest": "2af77ac81121c147434da85ba93db9d3bc73d09ea3cca966934f620cf4ffb38d",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "es": {
-      "title": "Nueve stickers expresivos para chat",
-      "summary": "Crea una hoja de 3x3 con nueve reacciones distintas a partir de una imagen de referencia de un personaje.",
-      "steps": [
-        "Convierta los personajes principales, animales o personajes de dibujos animados de las imágenes subidas en un conjunto de emoticonos exclusivos para chat.\n\nPrimero, extraiga las características más reconocibles del sujeto y luego conviértalas uniformemente en un estilo de sticker dibujado a mano, sencillo, vívido y ligeramente exagerado. Conserve los rasgos faciales, peinados o cabello, patrones característicos, ropa y paleta de colores principal; evite convertirlos en personajes genéricos.\n\nGenere una imagen de cuadrícula 3x3 bien organizada. Los personajes en cada una de las nueve cuadrículas deben ser los mismos, manteniendo una apariencia y un estilo consistentes.\n\nDe izquierda a derecha y de arriba abajo, represente: risa alegre, confusión total, silencio; sorpresa repentina, ganas de llorar, satisfacción disimulada; mucho sueño, puchero, expresión de agrado.\n\nCada sticker debe tener una expresión y postura distintivas, y debe ser legible incluso al reducir su tamaño. La pose debe ser acorde a la estructura corporal del sujeto; evite forzar un cuerpo humano realista sobre un animal.\n\nDeje espacio en blanco alrededor de cada pegatina, asegurándose de que no se toquen entre sí, y no dibuje líneas divisorias ni añada texto. Utilice un fondo blanco puro y una forma cuadrada 1:1."
-      ],
-      "inputs": [
-        "Imagen de referencia de una persona, animal o personaje ilustrado."
-      ],
-      "notes": [
-        "Esta es una receta ilustrada específica dentro del tutorial GPT Image 2.5 del creador. La participación compartida del artículo no se asigna a recetas individuales.",
-        "La vista previa es un resultado mostrado por el autor; el lector debe proporcionar las referencias necesarias. El repositorio no ha probado este flujo de trabajo de forma independiente."
-      ],
-      "source_digest": "2af77ac81121c147434da85ba93db9d3bc73d09ea3cca966934f620cf4ffb38d",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "pt-BR": {
-      "title": "Nove adesivos expressivos para bate-papo",
-      "summary": "Crie uma folha consistente de 3x3 com nove reações distintas a partir de uma referência de personagem.",
-      "steps": [
-        "Converta os personagens principais, animais ou personagens de desenho animado nas imagens enviadas em um conjunto de emoticons exclusivos para bate-papo.\n\nPrimeiro, extraia as características mais reconhecíveis do sujeito e, em seguida, converta-as uniformemente em um estilo de adesivo desenhado à mão, simples, vívido e ligeiramente exagerado. Mantenha as características faciais, penteados ou cabelos, padrões característicos, roupas e esquemas de cores principais; evite transformá-los em personagens genéricos.\n\nGere uma imagem em grade 3x3 organizada. Os personagens em cada uma das nove grades devem ser os mesmos, mantendo uma aparência e um estilo consistentes.\n\nDa esquerda para a direita e de cima para baixo, represente: riso feliz, confusão total, sem palavras; choque repentino, vontade de chorar, satisfação secreta; muito sono, beicinho, expressando apreço.\n\nCada adesivo deve ter uma expressão e postura distintas, permanecendo legível mesmo quando reduzido. A pose deve ser adequada à estrutura corporal do sujeito; evite forçar um corpo humano realista em um animal.\n\nDeixe espaço em branco ao redor de cada adesivo, garantindo que eles não se toquem, e não desenhe linhas divisórias nem adicione texto. Use um fundo branco puro e um formato quadrado na proporção 1:1."
-      ],
-      "inputs": [
-        "Uma imagem de referência de pessoa, animal ou personagem ilustrado."
-      ],
-      "notes": [
-        "Esta é uma receita ilustrada distinta dentro do tutorial GPT Image 2.5 do criador. O engajamento compartilhado do artigo não é atribuído a receitas individuais.",
-        "A pré-visualização é um resultado mostrado pelo autor; as referências necessárias devem ser fornecidas pelo leitor. O repositório não testou este fluxo de trabalho de forma independente."
-      ],
-      "source_digest": "2af77ac81121c147434da85ba93db9d3bc73d09ea3cca966934f620cf4ffb38d",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+  "translation_meta": {
+    "source_digest": "0666849f2c17b44cb0f61849db0061ffb96851701a14be1f41d8fdf9c6939202",
+    "text_digests": {
+      "zh-CN": "53127f009c50191ef67976cf92d907c047f601bda37f3bcbf524430af38e28c2",
+      "zh-TW": "70d0b5935733664b5830e883252281a1a3d6f165dac8ac38ced3a799dafc95d3",
+      "ja": "62fd5e0b0c4aaeef8009fa2b6d3b09695d19ff62f6536ba35a7822decc085ded",
+      "ko": "f5095346bba7b4a9b4ab6793a2a93e1089ac0ad2d2e562e6658dd9874f3d34f0",
+      "fr": "514ecd913dbe0eedf049b1e9d2ea6e8aa37427eaaa8cf9714d8251930cba7a3a",
+      "de": "ab1d60d23f8a0d75ad5a2d1b142848dcd8e6c29b1d3c13116c2cd85b862a1987",
+      "es": "6e4bf88139314ae0405aba10005d49fa74125547c1e0e1c9b8c083953c03668f",
+      "pt-BR": "db3217bde116aae7cd781fff337eb14d583b33f67074e6f15996c6cee469d3e4"
     }
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:12:37.870Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 4,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 4,
+      "distinctiveness": 3
+    },
+    "rationale": "A clear three-by-three expression sheet with a stable subject provides a useful messaging asset recipe; per-cell identity still needs checking."
   }
 }

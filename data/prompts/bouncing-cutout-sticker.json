@@ -1,13 +1,26 @@
 {
-  "schema_version": 1,
   "id": "bouncing-cutout-sticker",
   "title": {
     "en": "Bouncing cutout sticker GIF",
-    "zh": "弹跳贴纸 GIF"
+    "zh-CN": "弹跳贴纸 GIF",
+    "zh-TW": "彈跳摳圖貼紙 GIF",
+    "ja": "跳ねる切り抜きステッカーGIF",
+    "ko": "튀는 스티커 GIF 애니메이션",
+    "fr": "GIF d'autocollant détouré en mouvement",
+    "de": "GIF mit hüpfendem Sticker",
+    "es": "GIF de pegatina recortada con efecto de rebote",
+    "pt-BR": "GIF de adesivo recortado saltitante"
   },
   "summary": {
     "en": "Turn a subject into one transparent sticker, then animate that same cutout with Python.",
-    "zh": "将一个对象转换为一个透明贴纸，然后使用 Python 为该抠图制作动画。"
+    "zh-CN": "将一个对象转换为一个透明贴纸，然后使用 Python 为该抠图制作动画。",
+    "zh-TW": "將物件轉換為透明貼紙，然後使用 Python 為該摳圖製作動畫。",
+    "ja": "被写体を透明なステッカーに変換し、Pythonでその切り抜きをアニメーション化します。",
+    "ko": "피사체를 투명 스티커로 변환한 후, 파이썬을 사용하여 해당 스티커를 애니메이션화합니다.",
+    "fr": "Transformez un sujet en un autocollant transparent, puis animez ce détourage avec Python.",
+    "de": "Wandle ein Motiv in einen transparenten Sticker um und animiere diesen anschließend mit Python.",
+    "es": "Convierte un sujeto en una pegatina transparente y luego anima ese mismo recorte con Python.",
+    "pt-BR": "Transforme um objeto em um adesivo transparente e, em seguida, anime esse mesmo recorte com Python."
   },
   "category": "characters",
   "tags": [
@@ -15,7 +28,6 @@
     "workflow"
   ],
   "mode": "workflow",
-  "featured": true,
   "model": {
     "family": "GPT Image 2.5",
     "variant": null,
@@ -32,36 +44,96 @@
     "steps": [
       {
         "en": "Please convert the uploaded image into a standalone sticker suitable for creating an animated sticker.\n\nAutomatically identify the main subject of the image:\nFor people, preserve recognizable facial features, hairstyles, clothing, and expressions;\nFor animals, preserve breed characteristics, fur color, patterns, and expressions;\nFor objects, preserve unique outlines, structures, and primary color schemes;\nIf the image is primarily a scene, design the entire scene as a sticker with a clean outline.\n\nAdopt a slightly 3D cartoon sticker style with clear outlines, full forms, and a touch of humor. Do not replace different subjects with a uniform face, and do not force limbs onto objects that do not naturally have them.\n\nInclude a clean white die-cut border around the sticker. Center the subject and leave sufficient space around it; do not crop the subject.\n\nGenerate only a single sticker; do not create a grid, add text, or show the sticker applied to other objects.\n\nUse a 1:1 square canvas and output a PNG with a true alpha transparency background; do not render the transparency checkerboard pattern into the image itself.",
-        "zh": "请将我上传的图片转化为一枚适合制作动态表情的独立贴纸。\n\n自动识别图片中最主要的主体：\n人物保留可辨认的五官、发型、服装和神态；\n动物保留品种外形、毛色、花纹和表情；\n物品保留独特轮廓、结构和主要配色；\n如果图片主要是一处场景，则将整个场景设计成一枚轮廓简洁的场景贴纸。\n\n采用轻微立体的卡通贴纸风格，轮廓清晰，造型饱满，有一点幽默感。不要把不同主体统一改成同一张脸，不要给原本没有四肢的物品强行添加四肢。\n\n贴纸外围有一圈干净的白色模切边。主体居中，四周保留足够空间，不裁切主体。\n\n只生成一枚贴纸，不要九宫格，不要附加文字，不要展示贴纸贴在其他物品上的效果。\n\n1:1 方形画布，输出带真实 Alpha 透明背景的 PNG，不能将透明棋盘格画进图片。"
+        "zh-CN": "请将我上传的图片转化为一枚适合制作动态表情的独立贴纸。\n\n自动识别图片中最主要的主体：\n人物保留可辨认的五官、发型、服装和神态；\n动物保留品种外形、毛色、花纹和表情；\n物品保留独特轮廓、结构和主要配色；\n如果图片主要是一处场景，则将整个场景设计成一枚轮廓简洁的场景贴纸。\n\n采用轻微立体的卡通贴纸风格，轮廓清晰，造型饱满，有一点幽默感。不要把不同主体统一改成同一张脸，不要给原本没有四肢的物品强行添加四肢。\n\n贴纸外围有一圈干净的白色模切边。主体居中，四周保留足够空间，不裁切主体。\n\n只生成一枚贴纸，不要九宫格，不要附加文字，不要展示贴纸贴在其他物品上的效果。\n\n1:1 方形画布，输出带真实 Alpha 透明背景的 PNG，不能将透明棋盘格画进图片。",
+        "zh-TW": "請將我上傳的圖片轉換成適合製作動態表情的獨立貼紙。\n\n自動辨識圖片中最主要的主體：\n人物保留可辨識的五官、髮型、服裝和神態；\n動物保留品種外形、毛色、花紋和表情；\n物品保留獨特輪廓、結構和主要配色；\n如果圖片主要是一個場景，則將整個場景設計成一枚輪廓簡潔的場景貼紙。\n\n採用輕微立體的卡通貼紙風格，輪廓清晰，造型飽滿，有點幽默感。不要把不同主體統一改成同一張臉，不要強迫原本沒有四肢的物品加上四肢。\n\n貼紙外圍有一圈乾淨的白色模切邊。主體居中，四周保留足夠空間，不裁切主體。\n\n只生成一張貼紙，不要九宮格，不要附加文字，不要展示貼紙貼在其他物品上的效果。\n\n1:1 方形畫布，輸出帶有真實 Alpha 透明背景的 PNG，不能將透明棋盤格畫進圖片。",
+        "ja": "アップロードした画像を、アニメーション絵文字の作成に適したスタンドアロンのステッカーに変換してください。\n\n画像内の最も重要な被写体を自動的に識別してください。人物の場合は、認識可能な顔の特徴、髪型、服装、表情を保持してください。動物の場合は、種類、形状、毛色、模様、表情を保持してください。物体の場合は、固有の輪郭、構造、主要な配色を保持してください。画像が主に風景を描いている場合は、風景全体をシンプルな風景ステッカーとしてデザインしてください。\n\n\n輪郭がはっきりしていて、立体感のある形状で、ユーモアを少し加えた、やや立体感のある漫画風ステッカーを作成してください。異なる被写体を同じ顔に統一的に変更したり、元々手足のないオブジェクトに無理やり手足を追加したりしないでください。\n\nステッカーの周囲には、きれいな白い型抜きエッジがあります。メインの被写体は中央に配置され、周囲に十分なスペースがあります。メインの被写体は切り抜かないでください。\n\nステッカーは1枚のみ作成し、3x3グリッド、テキストの追加、他のオブジェクトへのステッカーの効果の表示は行わないでください。\n\n1:1の正方形キャンバスを使用し、真のアルファ透明背景を持つPNG形式で出力してください。画像に透明な市松模様を描画しないでください。",
+        "ko": "제가 업로드한 이미지를 애니메이션 이모티콘 제작에 적합한 독립형 스티커로 변환해 주십시오.\n\n이미지에서 가장 중요한 대상을 자동으로 식별하십시오. 사람의 경우, 얼굴 특징, 헤어스타일, 옷차림 및 표정을 유지하고, 동물의 경우, 품종, 형태, 털 색깔, 무늬 및 표정을 유지하며, 사물의 경우, 고유한 윤곽선, 구조 및 주요 색상을 유지합니다. 이미지가 주로 장면을 묘사하는 경우, 전체 장면을 간단한 장면 스티커로 디자인하십시오.\n\n윤곽선이 뚜렷하고 형태가 풍부하며 약간의 유머가 가미된 ​​약간 입체적인 카툰 스티커 스타일을 사용하세요. 모든 피사체를 동일한 얼굴로 바꾸거나, 원래 팔다리가 없는 피사체에 억지로 팔다리를 추가하지 마세요.\n\n스티커 테두리는 깔끔한 흰색 다이컷 처리되어 있어야 합니다. 주요 피사체는 충분한 여백을 두고 중앙에 배치해야 하며, 잘리지 않도록 하세요.\n\n스티커는 하나만 생성하고, 3x3 그리드, 텍스트 추가, 다른 개체에 스티커 효과를 표시하지 마세요.\n\n1:1 정사각형 캔버스를 사용하고, 알파 채널이 완전히 투명한 배경을 가진 PNG 파일로 출력하세요. 이미지에 투명한 바둑판 무늬를 그리지 마세요.",
+        "fr": "Veuillez convertir l'image que j'ai téléchargée en un autocollant autonome adapté à la création d'émoticônes animées.\n\nIdentifiez automatiquement le sujet principal de l'image : pour les personnes, conservez les traits du visage, la coiffure, les vêtements et l'expression ; pour les animaux, conservez la race, la forme, la couleur du pelage, les motifs et l'expression ; pour les objets, conservez les contours, la structure et les couleurs principales ; si l'image représente principalement une scène, transformez-la en un autocollant simple.\n\nUtilisez un style d'autocollant légèrement 3D de type dessin animé, avec des contours nets, des formes complètes et une touche d'humour. Évitez de modifier uniformément le visage de différents sujets et n'ajoutez pas de membres à des objets qui n'en avaient pas à l'origine.\n\nL'autocollant possède un bord blanc découpé net. Le sujet principal est centré et suffisamment espacé ; il n'est pas rogné.\n\nGénérez un seul autocollant, sans grille 3x3, sans texte ajouté et sans afficher l'effet de l'autocollant sur d'autres objets.\n\nUtilisez un canevas carré 1:1 et exportez un PNG avec un fond transparent (canal alpha). N'intégrez pas de motifs à damier transparents dans l'image.",
+        "de": "Bitte wandeln Sie das hochgeladene Bild in einen eigenständigen Sticker um, der sich zur Erstellung animierter Emoticons eignet.\n\nErkennen Sie automatisch das wichtigste Motiv im Bild: Bei Personen: Behalten Sie erkennbare Gesichtszüge, Frisur, Kleidung und Mimik bei; bei Tieren: Behalten Sie Rasse, Form, Fellfarbe, Muster und Mimik bei; bei Objekten: Behalten Sie die Konturen, die Struktur und die Hauptfarbgebung bei; falls das Bild hauptsächlich eine Szene darstellt, gestalten Sie die gesamte Szene als einfachen Szenensticker.\n\nVerwenden Sie einen leicht dreidimensionalen Cartoon-Sticker-Stil mit klaren Konturen, vollen Formen und einer Prise Humor. Vermeiden Sie es, verschiedene Objekte einheitlich mit demselben Gesicht zu versehen oder Objekten, die ursprünglich keine Gliedmaßen hatten, diese hinzuzufügen.\n\nDer Sticker hat einen sauberen, weißen Rand. Das Hauptmotiv ist zentriert und hat ausreichend Freiraum; es ist nicht beschnitten.\n\nErstellen Sie nur einen Sticker, kein 3x3-Raster, keinen zusätzlichen Text und keine Anzeige des Sticker-Effekts auf andere Objekte.\n\nVerwenden Sie eine quadratische Leinwand im Seitenverhältnis 1:1 und geben Sie eine PNG-Datei mit echtem Alpha-Transparenz-Hintergrund aus. Zeichnen Sie keine transparenten Schachbrettmuster in das Bild.",
+        "es": "Convierta la imagen que subí en una pegatina independiente apta para crear emoticonos animados.\n\nIdentifique automáticamente el elemento más importante de la imagen: En el caso de personas, conserve los rasgos faciales reconocibles, el peinado, la ropa y la expresión; en el caso de animales, conserve la raza, la forma, el color del pelaje, los patrones y la expresión; en el caso de objetos, conserve los contornos únicos, la estructura y la paleta de colores principal; si la imagen representa principalmente una escena, diseñe la escena completa como una pegatina de escena simple.\n\nUtilice un estilo de pegatina ligeramente tridimensional con contornos definidos, formas completas y un toque de humor. No modifique uniformemente diferentes sujetos para que tengan el mismo rostro, ni añada extremidades a objetos que originalmente no las tenían.\n\nLa pegatina tiene un borde blanco troquelado limpio alrededor de su perímetro. El sujeto principal está centrado, con suficiente espacio a su alrededor; no se recorta.\n\nGenere solo una pegatina, sin cuadrícula de 3x3, sin texto añadido y sin mostrar el efecto de la pegatina en otros objetos.\n\nUtilice un lienzo cuadrado 1:1 y genere un archivo PNG con fondo transparente alfa. No dibuje patrones de tablero de ajedrez transparentes en la imagen.",
+        "pt-BR": "Converta a imagem que enviei em um adesivo independente adequado para a criação de emoticons animados.\n\nIdentifique automaticamente o assunto mais importante na imagem: Para pessoas, mantenha as características faciais reconhecíveis, penteado, roupas e expressão; para animais, mantenha a raça, formato, cor da pelagem, padrões e expressão; para objetos, mantenha os contornos únicos, a estrutura e os principais esquemas de cores; se a imagem retratar principalmente uma cena, crie um adesivo simples da cena inteira.\n\nUse um estilo de adesivo de desenho animado levemente 3D com contornos nítidos, formas completas e um toque de humor. Não altere uniformemente o rosto de diferentes elementos e não adicione membros à força a objetos que originalmente não os possuíam.\n\nO adesivo tem uma borda branca recortada ao redor de seu perímetro. O elemento principal está centralizado, com espaço suficiente ao seu redor; o elemento principal não está cortado.\n\nGere apenas um adesivo, sem grade 3x3, sem texto adicional e sem exibir o efeito do adesivo em outros objetos.\n\nUse uma tela quadrada 1:1 e gere um PNG com fundo transparente alfa verdadeiro. Não desenhe padrões quadriculados transparentes na imagem."
       },
       {
         "en": "Please read the previous sticker image and use Python to create a functional, looping GIF from it.\n\nFirst, check if the image has a true transparent background; if there is an opaque background, separate the subject from the background so the background does not move along with the subject.\n\nOn a fixed solid white canvas, animate the subject performing a light, bouncy movement:\nPause briefly, wind up slightly by moving downward, spring upward, squash slightly upon landing, and then return to the original shape.\n\nUse only the original sticker asset; create the animation by adjusting position, slight rotation, and minor scaling. Do not redraw the character frame-by-frame, and do not alter facial features, patterns, colors, or clothing.\n\nEnsure the movement range is moderate and transitions are smooth; keep the subject fully within the canvas at all times and ensure a natural loop transition. Keep the background static—no flickering or trailing artifacts.\n\nOutput a 512×512 pixel, approximately 2-second, infinitely looping GIF file. Verify that the file contains multiple frames before providing the final product; do not simply return code or a static preview. If the current environment cannot execute the code or export the file, please explicitly state so.",
-        "zh": "请读取上一张贴纸图片，用 Python 将它制作成一个真正可以播放的循环 GIF。\n\n先检查图片是否具有真实透明背景；如有不透明背景，先将主体与背景分离，不要让背景跟着主体一起移动。\n\n在固定的纯白画布上，让主体完成一段轻快的弹跳：\n静止片刻，向下轻轻蓄力，向上弹起，落下时轻微压扁，再恢复原样。\n\n只使用同一张贴纸素材，通过位置、轻微旋转和小幅缩放制作动画。不要逐帧重画角色，不要改变五官、花纹、配色和服装。\n\n动作幅度适中，过渡顺滑，主体始终完整地留在画布内，循环衔接自然。背景保持静止，不闪烁、不留残影。\n\n输出 512×512 像素、约 2 秒、无限循环的 GIF 文件。实际检查文件包含多帧，再提供成品，不要只返回代码或静态预览。\n\n如果当前环境无法运行代码或导出文件，请明确说明。"
+        "zh-CN": "请读取上一张贴纸图片，用 Python 将它制作成一个真正可以播放的循环 GIF。\n\n先检查图片是否具有真实透明背景；如有不透明背景，先将主体与背景分离，不要让背景跟着主体一起移动。\n\n在固定的纯白画布上，让主体完成一段轻快的弹跳：\n静止片刻，向下轻轻蓄力，向上弹起，落下时轻微压扁，再恢复原样。\n\n只使用同一张贴纸素材，通过位置、轻微旋转和小幅缩放制作动画。不要逐帧重画角色，不要改变五官、花纹、配色和服装。\n\n动作幅度适中，过渡顺滑，主体始终完整地留在画布内，循环衔接自然。背景保持静止，不闪烁、不留残影。\n\n输出 512×512 像素、约 2 秒、无限循环的 GIF 文件。实际检查文件包含多帧，再提供成品，不要只返回代码或静态预览。\n\n如果当前环境无法运行代码或导出文件，请明确说明。",
+        "zh-TW": "請讀取上一張貼紙圖片，用 Python 將它製作成一個真正可以播放的循環 GIF。\n\n先檢查圖片是否有真實透明背景；如有不透明背景，先將主體與背景分離，不要讓背景跟著主體一起移動。\n\n在固定的純白畫布上，讓主體完成一段輕快的彈跳：\n靜止片刻，向下輕輕蓄力，向上彈起，落下時輕微壓扁，再恢復原樣。\n\n只使用同一張貼紙素材，透過位置、輕微旋轉和小幅縮放製作動畫。不要逐幀重畫角色，不要改變五官、花紋、配色和服裝。\n\n動作幅度適中，過渡順滑，主體總是完整地留在畫布內，循環銜接自然。背景保持靜止，不閃爍、不留殘影。\n\n輸出 512×512 像素、約 2 秒、無限循環的 GIF 檔案。實際檢查文件包含多幀，再提供成品，不要只回傳程式碼或靜態預覽。\n\n如果當前環境無法運行程式碼或匯出文件，請明確說明。",
+        "ja": "前のステッカー画像を参照し、Pythonを使用して再生可能なループGIFを作成してください。\n\nまず、画像に真の透明背景があるかどうかを確認してください。不透明な背景がある場合は、背景が被写体と一緒に動かないように、被写体と背景を分離してください。\n\n\n固定された純白のキャンバス上で、被写体が軽く素早く跳ねるアニメーションを作成してください。少しの間静止し、ゆっくりと下方向に勢いをつけ、上方向に跳ね上がり、着地時に少し平らになり、元の形に戻ります。\n\n同じステッカー画像のみを使用し、位置、わずかな回転、およびわずかな拡大縮小によってアニメーションを作成してください。キャラクターをフレームごとに描き直したり、顔の特徴、模様、配色、服装を変更したりしないでください。\n\n動きは適度な振幅で、滑らかな遷移となるようにしてください。被写体は常にキャンバス内に収まり、ループは自然に流れるようにしてください。背景は静止したままで、ちらつきや残像は発生しないようにしてください。\n\n512×512ピクセル、約2秒間の無限ループGIFファイルを出力してください。最終成果物を提出する前に、ファイルに複数のフレームが含まれていることを必ず確認してください。コードや静止画のプレビューのみを返さないでください。\n\nコードまたはファイルが現在の環境で実行できない場合は、その旨を明記してください。",
+        "ko": "위의 스티커 이미지를 참고하여 Python을 사용하여 재생 가능한 반복 GIF를 생성하세요.\n\n먼저 이미지의 배경이 완전히 투명한지 확인하세요. 불투명한 배경인 경우, 배경이 피사체와 함께 움직이지 않도록 피사체와 배경을 분리하세요.\n\n고정된 순백색 캔버스 위에 피사체를 놓고 가볍고 빠르게 튕기는 애니메이션을 제작하세요. 잠시 멈췄다가 부드럽게 아래쪽으로 추진력을 모아 다시 위로 튕겨 오르고, 착지 시 살짝 납작해졌다가 원래 형태로 돌아오는 동작을 표현합니다.\n\n애니메이션은 동일한 스티커 이미지만 사용하여 위치 조정, 약간의 회전, 미세한 크기 조절을 통해 구현하세요. 캐릭터를 프레임별로 다시 그리거나 얼굴 특징, 패턴, 색상, 의상을 변경하지 마세요.\n\n움직임의 크기는 적당하고 전환은 부드러워야 하며, 피사체는 애니메이션 내내 캔버스 안에 완전히 포함되어야 합니다. 또한, 루프는 자연스럽게 이어져야 합니다. 배경은 깜빡임이나 잔상 없이 정적인 상태를 유지해야 합니다.\n\n출력 파일은 512x512 픽셀 크기, 약 2초 길이의 무한 반복 GIF 파일이어야 합니다. 최종 결과물을 제출하기 전에 파일에 여러 프레임이 포함되어 있는지 확인해 주세요. 코드나 정적인 미리보기 이미지만 제출하지 마세요.\n\n현재 환경에서 코드나 파일을 실행할 수 없는 경우, 그 이유를 명확하게 명시해 주세요.",
+        "fr": "Veuillez vous référer à l'image d'autocollant précédente et utiliser Python pour créer un GIF animé en boucle.\n\nVérifiez d'abord si l'image possède un fond transparent. Si le fond est opaque, séparez le sujet du fond pour éviter que ce dernier ne bouge avec le sujet.\n\nSur un fond blanc uni et fixe, faites effectuer au sujet un léger rebond rapide : une brève pause, une impulsion vers le bas, un rebond vers le haut, un léger aplatissement à l’atterrissage, puis un retour à sa forme initiale.\n\nUtilisez uniquement la même image autocollante et créez l’animation par le biais de la position, d’une légère rotation et d’un léger redimensionnement. Ne redessinez pas le personnage image par image et ne modifiez ni ses traits du visage, ni les motifs, ni les couleurs, ni ses vêtements.\n\nLe mouvement doit être d’amplitude modérée, avec des transitions fluides, en veillant à ce que le sujet reste entièrement à l’intérieur du fond et que la boucle soit naturelle. L’arrière-plan doit rester statique, sans scintillement ni rémanence.\n\nGénérez un fichier GIF de 512 × 512 pixels, d’une durée d’environ 2 secondes et en boucle infinie. Veuillez vérifier que le fichier contient bien plusieurs images avant de fournir le produit final ; ne fournissez pas simplement du code ou un aperçu statique.\n\nSi le code ou le fichier ne peut pas être exécuté dans votre environnement actuel, veuillez l’indiquer clairement.",
+        "de": "Bitte lesen Sie das vorherige Stickerbild und erstellen Sie mit Python ein abspielbares, sich wiederholendes GIF.\n\nPrüfen Sie zunächst, ob das Bild einen echten transparenten Hintergrund hat. Falls der Hintergrund undurchsichtig ist, trennen Sie das Motiv vom Hintergrund, um zu verhindern, dass sich der Hintergrund mit dem Motiv bewegt.\n\nAuf einer festen, reinweißen Leinwand soll das Motiv eine leichte, schnelle Bewegung ausführen: kurz innehalten, sanft nach unten abprallen, nach oben springen, beim Aufprall leicht abflachen und dann in seine ursprüngliche Form zurückkehren.\n\nVerwenden Sie ausschließlich dasselbe Stickerbild und erstellen Sie die Animation durch Position, leichte Drehung und geringfügige Skalierung. Zeichnen Sie die Figur nicht Bild für Bild neu und verändern Sie weder Gesichtszüge, Muster, Farbschemata noch Kleidung.\n\nDie Bewegung sollte eine moderate Amplitude mit sanften Übergängen aufweisen. Achten Sie darauf, dass sich das Motiv während der gesamten Animation vollständig innerhalb der Leinwand befindet und die Schleife natürlich abläuft. Der Hintergrund sollte statisch bleiben, ohne Flimmern oder Nachbilder.\n\nErstellen Sie eine 512×512 Pixel große, ca. 2 Sekunden lange, endlos wiederholende GIF-Datei. Bitte überprüfen Sie vor der Abgabe des Endprodukts, ob die Datei mehrere Einzelbilder enthält; senden Sie nicht einfach Code oder eine statische Vorschau zurück.\n\nFalls der Code oder die Datei in Ihrer aktuellen Umgebung nicht ausgeführt werden kann, geben Sie dies bitte deutlich an.",
+        "es": "Lea la imagen de la pegatina anterior y utilice Python para crear un GIF en bucle reproducible.\n\nPrimero, compruebe si la imagen tiene un fondo transparente; si tiene un fondo opaco, separe el sujeto del fondo para evitar que este se mueva con el sujeto.\n\nSobre un lienzo blanco fijo, el sujeto debe realizar un rebote ligero y rápido: pausa breve, toma impulso suavemente hacia abajo, rebota hacia arriba, se aplana ligeramente al aterrizar y luego regresa a su forma original.\n\nUtiliza únicamente la misma imagen de pegatina, creando la animación mediante la posición, una ligera rotación y un escalado mínimo. No redibujes el personaje fotograma a fotograma ni modifiques sus rasgos faciales, patrones, esquemas de color o vestimenta.\n\nEl movimiento debe tener una amplitud moderada, con transiciones suaves, asegurando que el sujeto permanezca completamente dentro del lienzo en todo momento, y el bucle debe fluir con naturalidad. El fondo debe permanecer estático, sin parpadeos ni imágenes residuales.\n\nGenera un archivo GIF de 512 × 512 píxeles, de aproximadamente 2 segundos de duración y con bucle infinito. Asegúrate de que el archivo contenga varios fotogramas antes de entregar el producto final; no entregues solo el código ni una vista previa estática.\n\nSi el código o el archivo no se pueden ejecutar en tu entorno actual, indícalo claramente.",
+        "pt-BR": "Leia a imagem do adesivo anterior e use Python para criar um GIF em loop reproduzível.\n\nPrimeiro, verifique se a imagem tem um fundo transparente verdadeiro; se tiver um fundo opaco, separe o elemento do fundo para evitar que o fundo se mova com o elemento.\n\nEm uma tela branca e fixa, faça o personagem realizar um salto leve e rápido: pause brevemente, ganhe impulso suavemente para baixo, salte para cima, achate-se ligeiramente ao aterrissar e retorne à sua forma original.\n\nUse apenas a mesma imagem de adesivo, criando a animação através da posição, rotação leve e pequenos ajustes de escala. Não redesenhe o personagem quadro a quadro e não altere características faciais, padrões, esquemas de cores ou roupas.\n\nO movimento deve ter amplitude moderada, com transições suaves, garantindo que o personagem permaneça completamente dentro da tela durante toda a animação, e o loop deve fluir naturalmente. O fundo deve permanecer estático, sem cintilação ou imagens residuais.\n\nGere um arquivo GIF de 512×512 pixels, com aproximadamente 2 segundos de duração e em loop infinito. Verifique se o arquivo contém vários quadros antes de enviar o produto final; não envie apenas o código ou uma pré-visualização estática.\n\nCaso o código ou o arquivo não possam ser executados em seu ambiente atual, informe isso claramente."
       }
     ]
   },
   "inputs": [
     {
       "en": "A reference image containing the subject.",
-      "zh": "包含对象的参考图像。"
+      "zh-CN": "包含对象的参考图像。",
+      "zh-TW": "包含物件的參考影像。",
+      "ja": "被写体を含む基準画像。",
+      "ko": "피사체가 포함된 참조 이미지.",
+      "fr": "Une image de référence contenant le sujet.",
+      "de": "Ein Referenzbild mit dem Motiv.",
+      "es": "Una imagen de referencia que contiene el sujeto.",
+      "pt-BR": "Uma imagem de referência contendo o objeto."
     },
     {
       "en": "A chat environment that can generate images and run Python to export a GIF.",
-      "zh": "一个可以生成图像并运行 Python 以导出 GIF 的聊天环境。"
+      "zh-CN": "一个可以生成图像并运行 Python 以导出 GIF 的聊天环境。",
+      "zh-TW": "一個可以產生映像並運行 Python 以匯出 GIF 的聊天環境。",
+      "ja": "画像を生成し、Pythonを実行してGIFをエクスポートできるチャット環境。",
+      "ko": "이미지를 생성하고 파이썬을 실행하여 GIF를 내보낼 수 있는 채팅 환경.",
+      "fr": "Un environnement de chat permettant de générer des images et d'exécuter du code Python pour exporter un GIF.",
+      "de": "Eine Chat-Umgebung, die Bilder generieren und Python ausführen kann, um ein GIF zu exportieren.",
+      "es": "Un entorno de chat que puede generar imágenes y ejecutar Python para exportar un GIF.",
+      "pt-BR": "Um ambiente de bate-papo que possa gerar imagens e executar Python para exportar um GIF."
     }
   ],
   "notes": [
     {
       "en": "This is a distinct illustrated recipe within the creator’s GPT Image 2.5 tutorial. The article’s shared engagement is not assigned to individual recipes.",
-      "zh": "这是作者 GPT Image 2.5 教程中的一个独立图解教程。文章的共享互动并未分配给单个食谱。"
+      "zh-CN": "这是作者 GPT Image 2.5 教程中的一个独立图解教程。文章的共享互动并未分配给单条案例。",
+      "zh-TW": "這是作者 GPT Image 2.5 教學中的獨立圖解教學。文章的共享互動並未分配給單一案例。",
+      "ja": "これは、作成者のGPT Image 2.5チュートリアルに含まれる、独立した図解付きレシピです。記事の共有エンゲージメントは、個々のレシピには割り当てられていません。",
+      "ko": "이것은 제작자의 GPT Image 2.5 튜토리얼에 포함된 별도의 그림 설명 레시피입니다. 이 문서의 공유 참여도는 개별 레시피에 할당되지 않습니다.",
+      "fr": "Il s'agit d'une méthode illustrée spécifique au tutoriel GPT Image 2.5 de son créateur. L'engagement partagé de l'article n'est pas attribué à des recettes individuelles.",
+      "de": "Dies ist eine detaillierte, bebilderte Anleitung aus dem Tutorial GPT Image 2.5 des Erstellers. Die geteilte Interaktion im Artikel wird nicht einzelnen Rezepten zugeordnet.",
+      "es": "Esta es una receta ilustrada específica dentro del tutorial GPT Image 2.5 del creador. La participación compartida del artículo no se asigna a recetas individuales.",
+      "pt-BR": "Esta é uma receita ilustrada distinta dentro do tutorial GPT Image 2.5 do criador. O engajamento compartilhado do artigo não é atribuído a receitas individuais."
     },
     {
       "en": "The preview is a result shown by the author; required references must be supplied by the reader. The repository has not independently tested this workflow.",
-      "zh": "预览是作者展示的结果；读者必须提供所需的参考资料。该存储库尚未独立测试此工作流程。"
+      "zh-CN": "预览是作者展示的结果；读者必须提供所需的参考资料。本仓库尚未独立测试此工作流程。",
+      "zh-TW": "預覽是作者展示的結果；讀者必須提供所需的參考資料。該存儲庫尚未獨立測試此工作流程。",
+      "ja": "プレビューは著者が表示した結果です。必要な参照情報は読者が提供する必要があります。リポジトリはこのワークフローを独自にテストしていません。",
+      "ko": "미리보기는 작성자가 보여주는 결과이며, 필요한 참조는 독자가 제공해야 합니다. 이 저장소는 해당 워크플로를 독립적으로 테스트하지 않았습니다.",
+      "fr": "L'aperçu est un résultat affiché par l'auteur ; les références requises doivent être fournies par le lecteur. Ce processus n'a pas été testé indépendamment par le dépôt.",
+      "de": "Die Vorschau zeigt ein vom Autor dargestelltes Ergebnis; die benötigten Referenzen müssen vom Leser bereitgestellt werden. Das Repository hat diesen Workflow nicht unabhängig getestet.",
+      "es": "La vista previa es un resultado mostrado por el autor; el lector debe proporcionar las referencias necesarias. El repositorio no ha probado este flujo de trabajo de forma independiente.",
+      "pt-BR": "A pré-visualização é um resultado mostrado pelo autor; as referências necessárias devem ser fornecidas pelo leitor. O repositório não testou este fluxo de trabalho de forma independente."
     },
     {
       "en": "Image generation and Python file processing are separate steps. GIF export requires a tool that can execute code; it is not an image-only output.",
-      "zh": "图像生成和 Python 文件处理是两个独立的步骤。GIF 导出需要能够执行代码的工具；它并非纯图像输出。"
+      "zh-CN": "图像生成和 Python 文件处理是两个独立的步骤。GIF 导出需要能够执行代码的工具；它并非纯图像输出。",
+      "zh-TW": "影像生成和 Python 檔案處理是兩個獨立的步驟。 GIF 導出需要能夠執行程式碼的工具；它並非純影像輸出。",
+      "ja": "画像生成とPythonファイル処理は別々のステップです。GIFエクスポートにはコードを実行できるツールが必要です。画像のみの出力ではありません。",
+      "ko": "이미지 생성과 Python 파일 처리는 별개의 단계입니다. GIF 내보내기에는 코드를 실행할 수 있는 도구가 필요하며, 이미지 단독 출력이 아닙니다.",
+      "fr": "La génération d'images et le traitement des fichiers Python sont des étapes distinctes. L'exportation au format GIF nécessite un outil capable d'exécuter du code ; il ne s'agit pas d'une simple sortie image.",
+      "de": "Bildgenerierung und Python-Dateiverarbeitung sind separate Schritte. Für den GIF-Export wird ein Tool benötigt, das Code ausführen kann; es handelt sich nicht um eine reine Bildausgabe.",
+      "es": "La generación de imágenes y el procesamiento de archivos Python son pasos separados. La exportación a GIF requiere una herramienta que pueda ejecutar código; no es una salida solo de imagen.",
+      "pt-BR": "A geração de imagens e o processamento de arquivos Python são etapas separadas. A exportação em GIF requer uma ferramenta que possa executar código; não se trata de uma saída apenas de imagem."
+    },
+    {
+      "en": "Approve the transparent cutout first, then adjust bounce height and duration in Python. Keep its canvas and pivot fixed so the exported GIF does not jitter.",
+      "zh-CN": "先确认透明抠图，再在 Python 中调整弹跳高度与时长。固定画布和运动中心，避免导出的 GIF 抖动。",
+      "zh-TW": "先確認透明去背圖，再在 Python 中調整彈跳高度與時長。固定畫布和運動中心，避免匯出的 GIF 抖動。",
+      "ja": "まず透明な切り抜きを確認し、次にPythonで跳ねる高さと長さを調整してください。キャンバスと支点を固定し、GIFの揺れを防いでください。",
+      "ko": "먼저 투명 누끼를 확인한 후 Python에서 튀는 높이와 시간을 조정하세요. 캔버스와 기준점을 고정하여 내보낸 GIF가 흔들리지 않게 하세요.",
+      "fr": "Validez d’abord le détourage transparent, puis réglez hauteur et durée du rebond dans Python. Fixez canevas et pivot pour éviter les saccades du GIF.",
+      "de": "Prüfe zuerst den transparenten Ausschnitt, passe dann Sprunghöhe und Dauer in Python an. Fixiere Leinwand und Drehpunkt, damit das GIF nicht zittert.",
+      "es": "Aprueba primero el recorte transparente y después ajusta altura y duración del rebote en Python. Fija lienzo y pivote para evitar vibraciones en el GIF.",
+      "pt-BR": "Confira primeiro o recorte transparente e depois ajuste altura e duração do salto em Python. Fixe tela e pivô para evitar tremores no GIF."
     }
   ],
   "source": {
@@ -101,139 +173,32 @@
     "status": "third-party-terms",
     "note": "Third-party prompts and media retain their creators’ rights; external previews are linked, not relicensed."
   },
-  "localizations": {
-    "zh-TW": {
-      "title": "彈跳摳圖貼紙 GIF",
-      "summary": "將物件轉換為透明貼紙，然後使用 Python 為該摳圖製作動畫。",
-      "steps": [
-        "請將我上傳的圖片轉換成適合製作動態表情的獨立貼紙。\n\n自動辨識圖片中最主要的主體：\n人物保留可辨識的五官、髮型、服裝和神態；\n動物保留品種外形、毛色、花紋和表情；\n物品保留獨特輪廓、結構和主要配色；\n如果圖片主要是一個場景，則將整個場景設計成一枚輪廓簡潔的場景貼紙。\n\n採用輕微立體的卡通貼紙風格，輪廓清晰，造型飽滿，有點幽默感。不要把不同主體統一改成同一張臉，不要強迫原本沒有四肢的物品加上四肢。\n\n貼紙外圍有一圈乾淨的白色模切邊。主體居中，四周保留足夠空間，不裁切主體。\n\n只生成一張貼紙，不要九宮格，不要附加文字，不要展示貼紙貼在其他物品上的效果。\n\n1:1 方形畫布，輸出帶有真實 Alpha 透明背景的 PNG，不能將透明棋盤格畫進圖片。",
-        "請讀取上一張貼紙圖片，用 Python 將它製作成一個真正可以播放的循環 GIF。\n\n先檢查圖片是否有真實透明背景；如有不透明背景，先將主體與背景分離，不要讓背景跟著主體一起移動。\n\n在固定的純白畫布上，讓主體完成一段輕快的彈跳：\n靜止片刻，向下輕輕蓄力，向上彈起，落下時輕微壓扁，再恢復原樣。\n\n只使用同一張貼紙素材，透過位置、輕微旋轉和小幅縮放製作動畫。不要逐幀重畫角色，不要改變五官、花紋、配色和服裝。\n\n動作幅度適中，過渡順滑，主體總是完整地留在畫布內，循環銜接自然。背景保持靜止，不閃爍、不留殘影。\n\n輸出 512×512 像素、約 2 秒、無限循環的 GIF 檔案。實際檢查文件包含多幀，再提供成品，不要只回傳程式碼或靜態預覽。\n\n如果當前環境無法運行程式碼或匯出文件，請明確說明。"
-      ],
-      "inputs": [
-        "包含物件的參考影像。",
-        "一個可以產生映像並運行 Python 以匯出 GIF 的聊天環境。"
-      ],
-      "notes": [
-        "這是作者 GPT Image 2.5 教學中的獨立圖解教學。文章的共享互動並未分配給單一食譜。",
-        "預覽是作者展示的結果；讀者必須提供所需的參考資料。該存儲庫尚未獨立測試此工作流程。",
-        "影像生成和 Python 檔案處理是兩個獨立的步驟。 GIF 導出需要能夠執行程式碼的工具；它並非純影像輸出。"
-      ],
-      "source_digest": "7809096b6c562665f2b46b6fd49d083ad3b183b752df50d3a4a13838c286163e",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ja": {
-      "title": "跳ねる切り抜きステッカーGIF",
-      "summary": "被写体を透明なステッカーに変換し、Pythonでその切り抜きをアニメーション化します。",
-      "steps": [
-        "アップロードした画像を、アニメーション絵文字の作成に適したスタンドアロンのステッカーに変換してください。\n\n画像内の最も重要な被写体を自動的に識別してください。人物の場合は、認識可能な顔の特徴、髪型、服装、表情を保持してください。動物の場合は、種類、形状、毛色、模様、表情を保持してください。物体の場合は、固有の輪郭、構造、主要な配色を保持してください。画像が主に風景を描いている場合は、風景全体をシンプルな風景ステッカーとしてデザインしてください。\n\n\n輪郭がはっきりしていて、立体感のある形状で、ユーモアを少し加えた、やや立体感のある漫画風ステッカーを作成してください。異なる被写体を同じ顔に統一的に変更したり、元々手足のないオブジェクトに無理やり手足を追加したりしないでください。\n\nステッカーの周囲には、きれいな白い型抜きエッジがあります。メインの被写体は中央に配置され、周囲に十分なスペースがあります。メインの被写体は切り抜かないでください。\n\nステッカーは1枚のみ作成し、3x3グリッド、テキストの追加、他のオブジェクトへのステッカーの効果の表示は行わないでください。\n\n1:1の正方形キャンバスを使用し、真のアルファ透明背景を持つPNG形式で出力してください。画像に透明な市松模様を描画しないでください。",
-        "前のステッカー画像を参照し、Pythonを使用して再生可能なループGIFを作成してください。\n\nまず、画像に真の透明背景があるかどうかを確認してください。不透明な背景がある場合は、背景が被写体と一緒に動かないように、被写体と背景を分離してください。\n\n\n固定された純白のキャンバス上で、被写体が軽く素早く跳ねるアニメーションを作成してください。少しの間静止し、ゆっくりと下方向に勢いをつけ、上方向に跳ね上がり、着地時に少し平らになり、元の形に戻ります。\n\n同じステッカー画像のみを使用し、位置、わずかな回転、およびわずかな拡大縮小によってアニメーションを作成してください。キャラクターをフレームごとに描き直したり、顔の特徴、模様、配色、服装を変更したりしないでください。\n\n動きは適度な振幅で、滑らかな遷移となるようにしてください。被写体は常にキャンバス内に収まり、ループは自然に流れるようにしてください。背景は静止したままで、ちらつきや残像は発生しないようにしてください。\n\n512×512ピクセル、約2秒間の無限ループGIFファイルを出力してください。最終成果物を提出する前に、ファイルに複数のフレームが含まれていることを必ず確認してください。コードや静止画のプレビューのみを返さないでください。\n\nコードまたはファイルが現在の環境で実行できない場合は、その旨を明記してください。"
-      ],
-      "inputs": [
-        "被写体を含む基準画像。",
-        "画像を生成し、Pythonを実行してGIFをエクスポートできるチャット環境。"
-      ],
-      "notes": [
-        "これは、作成者のGPT Image 2.5チュートリアルに含まれる、独立した図解付きレシピです。記事の共有エンゲージメントは、個々のレシピには割り当てられていません。",
-        "プレビューは著者が表示した結果です。必要な参照情報は読者が提供する必要があります。リポジトリはこのワークフローを独自にテストしていません。",
-        "画像生成とPythonファイル処理は別々のステップです。GIFエクスポートにはコードを実行できるツールが必要です。画像のみの出力ではありません。"
-      ],
-      "source_digest": "7809096b6c562665f2b46b6fd49d083ad3b183b752df50d3a4a13838c286163e",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ko": {
-      "title": "튀는 스티커 GIF 애니메이션",
-      "summary": "피사체를 투명 스티커로 변환한 후, 파이썬을 사용하여 해당 스티커를 애니메이션화합니다.",
-      "steps": [
-        "제가 업로드한 이미지를 애니메이션 이모티콘 제작에 적합한 독립형 스티커로 변환해 주십시오.\n\n이미지에서 가장 중요한 대상을 자동으로 식별하십시오. 사람의 경우, 얼굴 특징, 헤어스타일, 옷차림 및 표정을 유지하고, 동물의 경우, 품종, 형태, 털 색깔, 무늬 및 표정을 유지하며, 사물의 경우, 고유한 윤곽선, 구조 및 주요 색상을 유지합니다. 이미지가 주로 장면을 묘사하는 경우, 전체 장면을 간단한 장면 스티커로 디자인하십시오.\n\n윤곽선이 뚜렷하고 형태가 풍부하며 약간의 유머가 가미된 ​​약간 입체적인 카툰 스티커 스타일을 사용하세요. 모든 피사체를 동일한 얼굴로 바꾸거나, 원래 팔다리가 없는 피사체에 억지로 팔다리를 추가하지 마세요.\n\n스티커 테두리는 깔끔한 흰색 다이컷 처리되어 있어야 합니다. 주요 피사체는 충분한 여백을 두고 중앙에 배치해야 하며, 잘리지 않도록 하세요.\n\n스티커는 하나만 생성하고, 3x3 그리드, 텍스트 추가, 다른 개체에 스티커 효과를 표시하지 마세요.\n\n1:1 정사각형 캔버스를 사용하고, 알파 채널이 완전히 투명한 배경을 가진 PNG 파일로 출력하세요. 이미지에 투명한 바둑판 무늬를 그리지 마세요.",
-        "위의 스티커 이미지를 참고하여 Python을 사용하여 재생 가능한 반복 GIF를 생성하세요.\n\n먼저 이미지의 배경이 완전히 투명한지 확인하세요. 불투명한 배경인 경우, 배경이 피사체와 함께 움직이지 않도록 피사체와 배경을 분리하세요.\n\n고정된 순백색 캔버스 위에 피사체를 놓고 가볍고 빠르게 튕기는 애니메이션을 제작하세요. 잠시 멈췄다가 부드럽게 아래쪽으로 추진력을 모아 다시 위로 튕겨 오르고, 착지 시 살짝 납작해졌다가 원래 형태로 돌아오는 동작을 표현합니다.\n\n애니메이션은 동일한 스티커 이미지만 사용하여 위치 조정, 약간의 회전, 미세한 크기 조절을 통해 구현하세요. 캐릭터를 프레임별로 다시 그리거나 얼굴 특징, 패턴, 색상, 의상을 변경하지 마세요.\n\n움직임의 크기는 적당하고 전환은 부드러워야 하며, 피사체는 애니메이션 내내 캔버스 안에 완전히 포함되어야 합니다. 또한, 루프는 자연스럽게 이어져야 합니다. 배경은 깜빡임이나 잔상 없이 정적인 상태를 유지해야 합니다.\n\n출력 파일은 512x512 픽셀 크기, 약 2초 길이의 무한 반복 GIF 파일이어야 합니다. 최종 결과물을 제출하기 전에 파일에 여러 프레임이 포함되어 있는지 확인해 주세요. 코드나 정적인 미리보기 이미지만 제출하지 마세요.\n\n현재 환경에서 코드나 파일을 실행할 수 없는 경우, 그 이유를 명확하게 명시해 주세요."
-      ],
-      "inputs": [
-        "피사체가 포함된 참조 이미지.",
-        "이미지를 생성하고 파이썬을 실행하여 GIF를 내보낼 수 있는 채팅 환경."
-      ],
-      "notes": [
-        "이것은 제작자의 GPT Image 2.5 튜토리얼에 포함된 별도의 그림 설명 레시피입니다. 이 문서의 공유 참여도는 개별 레시피에 할당되지 않습니다.",
-        "미리보기는 작성자가 보여주는 결과이며, 필요한 참조는 독자가 제공해야 합니다. 이 저장소는 해당 워크플로를 독립적으로 테스트하지 않았습니다.",
-        "이미지 생성과 Python 파일 처리는 별개의 단계입니다. GIF 내보내기에는 코드를 실행할 수 있는 도구가 필요하며, 이미지 단독 출력이 아닙니다."
-      ],
-      "source_digest": "7809096b6c562665f2b46b6fd49d083ad3b183b752df50d3a4a13838c286163e",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "fr": {
-      "title": "GIF d'autocollant détouré en mouvement",
-      "summary": "Transformez un sujet en un autocollant transparent, puis animez ce détourage avec Python.",
-      "steps": [
-        "Veuillez convertir l'image que j'ai téléchargée en un autocollant autonome adapté à la création d'émoticônes animées.\n\nIdentifiez automatiquement le sujet principal de l'image : pour les personnes, conservez les traits du visage, la coiffure, les vêtements et l'expression ; pour les animaux, conservez la race, la forme, la couleur du pelage, les motifs et l'expression ; pour les objets, conservez les contours, la structure et les couleurs principales ; si l'image représente principalement une scène, transformez-la en un autocollant simple.\n\nUtilisez un style d'autocollant légèrement 3D de type dessin animé, avec des contours nets, des formes complètes et une touche d'humour. Évitez de modifier uniformément le visage de différents sujets et n'ajoutez pas de membres à des objets qui n'en avaient pas à l'origine.\n\nL'autocollant possède un bord blanc découpé net. Le sujet principal est centré et suffisamment espacé ; il n'est pas rogné.\n\nGénérez un seul autocollant, sans grille 3x3, sans texte ajouté et sans afficher l'effet de l'autocollant sur d'autres objets.\n\nUtilisez un canevas carré 1:1 et exportez un PNG avec un fond transparent (canal alpha). N'intégrez pas de motifs à damier transparents dans l'image.",
-        "Veuillez vous référer à l'image d'autocollant précédente et utiliser Python pour créer un GIF animé en boucle.\n\nVérifiez d'abord si l'image possède un fond transparent. Si le fond est opaque, séparez le sujet du fond pour éviter que ce dernier ne bouge avec le sujet.\n\nSur un fond blanc uni et fixe, faites effectuer au sujet un léger rebond rapide : une brève pause, une impulsion vers le bas, un rebond vers le haut, un léger aplatissement à l’atterrissage, puis un retour à sa forme initiale.\n\nUtilisez uniquement la même image autocollante et créez l’animation par le biais de la position, d’une légère rotation et d’un léger redimensionnement. Ne redessinez pas le personnage image par image et ne modifiez ni ses traits du visage, ni les motifs, ni les couleurs, ni ses vêtements.\n\nLe mouvement doit être d’amplitude modérée, avec des transitions fluides, en veillant à ce que le sujet reste entièrement à l’intérieur du fond et que la boucle soit naturelle. L’arrière-plan doit rester statique, sans scintillement ni rémanence.\n\nGénérez un fichier GIF de 512 × 512 pixels, d’une durée d’environ 2 secondes et en boucle infinie. Veuillez vérifier que le fichier contient bien plusieurs images avant de fournir le produit final ; ne fournissez pas simplement du code ou un aperçu statique.\n\nSi le code ou le fichier ne peut pas être exécuté dans votre environnement actuel, veuillez l’indiquer clairement."
-      ],
-      "inputs": [
-        "Une image de référence contenant le sujet.",
-        "Un environnement de chat permettant de générer des images et d'exécuter du code Python pour exporter un GIF."
-      ],
-      "notes": [
-        "Il s'agit d'une méthode illustrée spécifique au tutoriel GPT Image 2.5 de son créateur. L'engagement partagé de l'article n'est pas attribué à des recettes individuelles.",
-        "L'aperçu est un résultat affiché par l'auteur ; les références requises doivent être fournies par le lecteur. Ce processus n'a pas été testé indépendamment par le dépôt.",
-        "La génération d'images et le traitement des fichiers Python sont des étapes distinctes. L'exportation au format GIF nécessite un outil capable d'exécuter du code ; il ne s'agit pas d'une simple sortie image."
-      ],
-      "source_digest": "7809096b6c562665f2b46b6fd49d083ad3b183b752df50d3a4a13838c286163e",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "de": {
-      "title": "GIF mit hüpfendem Sticker",
-      "summary": "Wandle ein Motiv in einen transparenten Sticker um und animiere diesen anschließend mit Python.",
-      "steps": [
-        "Bitte wandeln Sie das hochgeladene Bild in einen eigenständigen Sticker um, der sich zur Erstellung animierter Emoticons eignet.\n\nErkennen Sie automatisch das wichtigste Motiv im Bild: Bei Personen: Behalten Sie erkennbare Gesichtszüge, Frisur, Kleidung und Mimik bei; bei Tieren: Behalten Sie Rasse, Form, Fellfarbe, Muster und Mimik bei; bei Objekten: Behalten Sie die Konturen, die Struktur und die Hauptfarbgebung bei; falls das Bild hauptsächlich eine Szene darstellt, gestalten Sie die gesamte Szene als einfachen Szenensticker.\n\nVerwenden Sie einen leicht dreidimensionalen Cartoon-Sticker-Stil mit klaren Konturen, vollen Formen und einer Prise Humor. Vermeiden Sie es, verschiedene Objekte einheitlich mit demselben Gesicht zu versehen oder Objekten, die ursprünglich keine Gliedmaßen hatten, diese hinzuzufügen.\n\nDer Sticker hat einen sauberen, weißen Rand. Das Hauptmotiv ist zentriert und hat ausreichend Freiraum; es ist nicht beschnitten.\n\nErstellen Sie nur einen Sticker, kein 3x3-Raster, keinen zusätzlichen Text und keine Anzeige des Sticker-Effekts auf andere Objekte.\n\nVerwenden Sie eine quadratische Leinwand im Seitenverhältnis 1:1 und geben Sie eine PNG-Datei mit echtem Alpha-Transparenz-Hintergrund aus. Zeichnen Sie keine transparenten Schachbrettmuster in das Bild.",
-        "Bitte lesen Sie das vorherige Stickerbild und erstellen Sie mit Python ein abspielbares, sich wiederholendes GIF.\n\nPrüfen Sie zunächst, ob das Bild einen echten transparenten Hintergrund hat. Falls der Hintergrund undurchsichtig ist, trennen Sie das Motiv vom Hintergrund, um zu verhindern, dass sich der Hintergrund mit dem Motiv bewegt.\n\nAuf einer festen, reinweißen Leinwand soll das Motiv eine leichte, schnelle Bewegung ausführen: kurz innehalten, sanft nach unten abprallen, nach oben springen, beim Aufprall leicht abflachen und dann in seine ursprüngliche Form zurückkehren.\n\nVerwenden Sie ausschließlich dasselbe Stickerbild und erstellen Sie die Animation durch Position, leichte Drehung und geringfügige Skalierung. Zeichnen Sie die Figur nicht Bild für Bild neu und verändern Sie weder Gesichtszüge, Muster, Farbschemata noch Kleidung.\n\nDie Bewegung sollte eine moderate Amplitude mit sanften Übergängen aufweisen. Achten Sie darauf, dass sich das Motiv während der gesamten Animation vollständig innerhalb der Leinwand befindet und die Schleife natürlich abläuft. Der Hintergrund sollte statisch bleiben, ohne Flimmern oder Nachbilder.\n\nErstellen Sie eine 512×512 Pixel große, ca. 2 Sekunden lange, endlos wiederholende GIF-Datei. Bitte überprüfen Sie vor der Abgabe des Endprodukts, ob die Datei mehrere Einzelbilder enthält; senden Sie nicht einfach Code oder eine statische Vorschau zurück.\n\nFalls der Code oder die Datei in Ihrer aktuellen Umgebung nicht ausgeführt werden kann, geben Sie dies bitte deutlich an."
-      ],
-      "inputs": [
-        "Ein Referenzbild mit dem Motiv.",
-        "Eine Chat-Umgebung, die Bilder generieren und Python ausführen kann, um ein GIF zu exportieren."
-      ],
-      "notes": [
-        "Dies ist eine detaillierte, bebilderte Anleitung aus dem Tutorial GPT Image 2.5 des Erstellers. Die geteilte Interaktion im Artikel wird nicht einzelnen Rezepten zugeordnet.",
-        "Die Vorschau zeigt ein vom Autor dargestelltes Ergebnis; die benötigten Referenzen müssen vom Leser bereitgestellt werden. Das Repository hat diesen Workflow nicht unabhängig getestet.",
-        "Bildgenerierung und Python-Dateiverarbeitung sind separate Schritte. Für den GIF-Export wird ein Tool benötigt, das Code ausführen kann; es handelt sich nicht um eine reine Bildausgabe."
-      ],
-      "source_digest": "7809096b6c562665f2b46b6fd49d083ad3b183b752df50d3a4a13838c286163e",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "es": {
-      "title": "GIF de pegatina recortada con efecto de rebote",
-      "summary": "Convierte un sujeto en una pegatina transparente y luego anima ese mismo recorte con Python.",
-      "steps": [
-        "Convierta la imagen que subí en una pegatina independiente apta para crear emoticonos animados.\n\nIdentifique automáticamente el elemento más importante de la imagen: En el caso de personas, conserve los rasgos faciales reconocibles, el peinado, la ropa y la expresión; en el caso de animales, conserve la raza, la forma, el color del pelaje, los patrones y la expresión; en el caso de objetos, conserve los contornos únicos, la estructura y la paleta de colores principal; si la imagen representa principalmente una escena, diseñe la escena completa como una pegatina de escena simple.\n\nUtilice un estilo de pegatina ligeramente tridimensional con contornos definidos, formas completas y un toque de humor. No modifique uniformemente diferentes sujetos para que tengan el mismo rostro, ni añada extremidades a objetos que originalmente no las tenían.\n\nLa pegatina tiene un borde blanco troquelado limpio alrededor de su perímetro. El sujeto principal está centrado, con suficiente espacio a su alrededor; no se recorta.\n\nGenere solo una pegatina, sin cuadrícula de 3x3, sin texto añadido y sin mostrar el efecto de la pegatina en otros objetos.\n\nUtilice un lienzo cuadrado 1:1 y genere un archivo PNG con fondo transparente alfa. No dibuje patrones de tablero de ajedrez transparentes en la imagen.",
-        "Lea la imagen de la pegatina anterior y utilice Python para crear un GIF en bucle reproducible.\n\nPrimero, compruebe si la imagen tiene un fondo transparente; si tiene un fondo opaco, separe el sujeto del fondo para evitar que este se mueva con el sujeto.\n\nSobre un lienzo blanco fijo, el sujeto debe realizar un rebote ligero y rápido: pausa breve, toma impulso suavemente hacia abajo, rebota hacia arriba, se aplana ligeramente al aterrizar y luego regresa a su forma original.\n\nUtiliza únicamente la misma imagen de pegatina, creando la animación mediante la posición, una ligera rotación y un escalado mínimo. No redibujes el personaje fotograma a fotograma ni modifiques sus rasgos faciales, patrones, esquemas de color o vestimenta.\n\nEl movimiento debe tener una amplitud moderada, con transiciones suaves, asegurando que el sujeto permanezca completamente dentro del lienzo en todo momento, y el bucle debe fluir con naturalidad. El fondo debe permanecer estático, sin parpadeos ni imágenes residuales.\n\nGenera un archivo GIF de 512 × 512 píxeles, de aproximadamente 2 segundos de duración y con bucle infinito. Asegúrate de que el archivo contenga varios fotogramas antes de entregar el producto final; no entregues solo el código ni una vista previa estática.\n\nSi el código o el archivo no se pueden ejecutar en tu entorno actual, indícalo claramente."
-      ],
-      "inputs": [
-        "Una imagen de referencia que contiene el sujeto.",
-        "Un entorno de chat que puede generar imágenes y ejecutar Python para exportar un GIF."
-      ],
-      "notes": [
-        "Esta es una receta ilustrada específica dentro del tutorial GPT Image 2.5 del creador. La participación compartida del artículo no se asigna a recetas individuales.",
-        "La vista previa es un resultado mostrado por el autor; el lector debe proporcionar las referencias necesarias. El repositorio no ha probado este flujo de trabajo de forma independiente.",
-        "La generación de imágenes y el procesamiento de archivos Python son pasos separados. La exportación a GIF requiere una herramienta que pueda ejecutar código; no es una salida solo de imagen."
-      ],
-      "source_digest": "7809096b6c562665f2b46b6fd49d083ad3b183b752df50d3a4a13838c286163e",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "pt-BR": {
-      "title": "GIF de adesivo recortado saltitante",
-      "summary": "Transforme um objeto em um adesivo transparente e, em seguida, anime esse mesmo recorte com Python.",
-      "steps": [
-        "Converta a imagem que enviei em um adesivo independente adequado para a criação de emoticons animados.\n\nIdentifique automaticamente o assunto mais importante na imagem: Para pessoas, mantenha as características faciais reconhecíveis, penteado, roupas e expressão; para animais, mantenha a raça, formato, cor da pelagem, padrões e expressão; para objetos, mantenha os contornos únicos, a estrutura e os principais esquemas de cores; se a imagem retratar principalmente uma cena, crie um adesivo simples da cena inteira.\n\nUse um estilo de adesivo de desenho animado levemente 3D com contornos nítidos, formas completas e um toque de humor. Não altere uniformemente o rosto de diferentes elementos e não adicione membros à força a objetos que originalmente não os possuíam.\n\nO adesivo tem uma borda branca recortada ao redor de seu perímetro. O elemento principal está centralizado, com espaço suficiente ao seu redor; o elemento principal não está cortado.\n\nGere apenas um adesivo, sem grade 3x3, sem texto adicional e sem exibir o efeito do adesivo em outros objetos.\n\nUse uma tela quadrada 1:1 e gere um PNG com fundo transparente alfa verdadeiro. Não desenhe padrões quadriculados transparentes na imagem.",
-        "Leia a imagem do adesivo anterior e use Python para criar um GIF em loop reproduzível.\n\nPrimeiro, verifique se a imagem tem um fundo transparente verdadeiro; se tiver um fundo opaco, separe o elemento do fundo para evitar que o fundo se mova com o elemento.\n\nEm uma tela branca e fixa, faça o personagem realizar um salto leve e rápido: pause brevemente, ganhe impulso suavemente para baixo, salte para cima, achate-se ligeiramente ao aterrissar e retorne à sua forma original.\n\nUse apenas a mesma imagem de adesivo, criando a animação através da posição, rotação leve e pequenos ajustes de escala. Não redesenhe o personagem quadro a quadro e não altere características faciais, padrões, esquemas de cores ou roupas.\n\nO movimento deve ter amplitude moderada, com transições suaves, garantindo que o personagem permaneça completamente dentro da tela durante toda a animação, e o loop deve fluir naturalmente. O fundo deve permanecer estático, sem cintilação ou imagens residuais.\n\nGere um arquivo GIF de 512×512 pixels, com aproximadamente 2 segundos de duração e em loop infinito. Verifique se o arquivo contém vários quadros antes de enviar o produto final; não envie apenas o código ou uma pré-visualização estática.\n\nCaso o código ou o arquivo não possam ser executados em seu ambiente atual, informe isso claramente."
-      ],
-      "inputs": [
-        "Uma imagem de referência contendo o objeto.",
-        "Um ambiente de bate-papo que possa gerar imagens e executar Python para exportar um GIF."
-      ],
-      "notes": [
-        "Esta é uma receita ilustrada distinta dentro do tutorial GPT Image 2.5 do criador. O engajamento compartilhado do artigo não é atribuído a receitas individuais.",
-        "A pré-visualização é um resultado mostrado pelo autor; as referências necessárias devem ser fornecidas pelo leitor. O repositório não testou este fluxo de trabalho de forma independente.",
-        "A geração de imagens e o processamento de arquivos Python são etapas separadas. A exportação em GIF requer uma ferramenta que possa executar código; não se trata de uma saída apenas de imagem."
-      ],
-      "source_digest": "7809096b6c562665f2b46b6fd49d083ad3b183b752df50d3a4a13838c286163e",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+  "translation_meta": {
+    "source_digest": "cbd3eb362e7ec6c244dd3aa49a8c688550386286f78cf6afa9ea8ae55f2b69ea",
+    "text_digests": {
+      "zh-CN": "2fc556e2d939b4c665e711569a596e1a9681a211641163c9b718a6f9b397e496",
+      "zh-TW": "3e8f389f932b83a3b4be815fdce165cb637e1471f386779af13cec476d50094f",
+      "ja": "47722ff87a6ccb57f55db57c62a8b9ac405308ccb4cee053818bfebc387038cd",
+      "ko": "124a5b04cbf272547a9ba7ec1a51ff4dbe466f539c006d5ba168f26adfc3ac31",
+      "fr": "e7056d1af52e9c8a6daedddd3104f3cc128ba8104359024cd79354430d3341f9",
+      "de": "5ca8387d4879ef6df2366cafa0ab1c758e847905d12803e74bdd5679148fd642",
+      "es": "d59473abe89f8aa362e4e9654fca67b2acdb8fcbabec7327958652bf54df83ff",
+      "pt-BR": "1ce8d55ca6a0ab635f3fc53c23b1610d9685ba2f804ec7d6e81cff525430f4b5"
     }
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:12:37.852Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 4,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 4,
+      "distinctiveness": 3
+    },
+    "rationale": "The single sticker and subsequent Python transform animation are explicitly separated, with canvas, duration and inability-to-export behavior documented. The still does not verify motion."
   }
 }

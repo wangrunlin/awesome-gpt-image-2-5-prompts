@@ -1,13 +1,26 @@
 {
-  "schema_version": 1,
   "id": "chinese-coffee-brewing-infographic",
   "title": {
     "en": "Chinese coffee brewing infographic",
-    "zh": "家庭咖啡冲煮中文信息图"
+    "zh-CN": "家庭咖啡冲煮中文信息图",
+    "zh-TW": "中式咖啡沖泡步驟圖",
+    "ja": "中国式コーヒーの淹れ方インフォグラフィック",
+    "ko": "중국식 커피 추출 인포그래픽",
+    "fr": "Infographie sur la préparation du café chinois",
+    "de": "Infografik zur chinesischen Kaffeezubereitung",
+    "es": "Infografía sobre la preparación del café chino",
+    "pt-BR": "Infográfico de preparo de café chinês"
   },
   "summary": {
     "en": "Render four precisely worded brewing steps as a clear illustrated vertical guide.",
-    "zh": "将四个精确的冲泡步骤绘制成清晰的竖版图解。"
+    "zh-CN": "将四个精确的冲泡步骤绘制成清晰的竖版图解。",
+    "zh-TW": "將四個精確的沖泡步驟繪製成清晰的垂直圖解。",
+    "ja": "4つの淹れ方ステップを、分かりやすいイラスト付きの縦型ガイドとしてレンダリングしてください。",
+    "ko": "정확하게 설명된 네 단계의 추출 과정을 그림으로 표현한 세로형 가이드를 제작하세요.",
+    "fr": "Créez un guide vertical illustré clair décrivant précisément les quatre étapes de préparation.",
+    "de": "Vier präzise formulierte Brühschritte als übersichtliche, illustrierte Anleitung darstellen.",
+    "es": "Representa cuatro pasos de preparación con precisión en una guía vertical ilustrada y clara.",
+    "pt-BR": "Renderize quatro etapas de preparo de café descritas com precisão em um guia vertical ilustrado e claro."
   },
   "category": "design",
   "tags": [
@@ -15,7 +28,6 @@
     "generate"
   ],
   "mode": "generate",
-  "featured": true,
   "model": {
     "family": "GPT Image 2.5",
     "variant": null,
@@ -31,7 +43,14 @@
     "steps": [
       {
         "en": "Create a vertical Chinese infographic. The title must be accurately displayed as:\n“家庭咖啡冲煮指南”. The content should only contain the following four steps:\n“1. 称取咖啡豆”\n“2. 均匀研磨”\n“3. 分段注水”\n“4. 等待萃取完成”. Arrange these in four numbered modules from top to bottom, each containing a simple icon.\n\nCreamy white background, dark brown text, with a small amount of orange for emphasis.\n\nAll text must be clearly legible; no other text, brands, logos, or watermarks may be added.",
-        "zh": "制作一张竖版中文信息图，标题必须准确显示为：\n“家庭咖啡冲煮指南”\n内容只有以下四个步骤：\n“1. 称取咖啡豆”\n“2. 均匀研磨”\n“3. 分段注水”\n“4. 等待萃取完成”\n用四个编号模块自上而下排列，每个模块包含一个简洁图标。\n奶油白背景，深咖啡色文字，少量橙色强调。\n所有文字必须清晰可读，不得添加其他文字、品牌、Logo或水印。"
+        "zh-CN": "制作一张竖版中文信息图，标题必须准确显示为：\n“家庭咖啡冲煮指南”\n内容只有以下四个步骤：\n“1. 称取咖啡豆”\n“2. 均匀研磨”\n“3. 分段注水”\n“4. 等待萃取完成”\n用四个编号模块自上而下排列，每个模块包含一个简洁图标。\n奶油白背景，深咖啡色文字，少量橙色强调。\n所有文字必须清晰可读，不得添加其他文字、品牌、Logo或水印。",
+        "zh-TW": "製作一張垂直版中文資訊圖，標題必須準確顯示為：\n“家庭咖啡冲煮指南”\n內容只有以下四個步驟：\n“1. 称取咖啡豆”\n“2. 均匀研磨”\n“3. 分段注水”\n“4. 等待萃取完成”\n用四個編號模組自上而下排列，每個模組包含一個簡潔圖示。\n奶油白背景，深咖啡色文字，少量橙色強調。\n所有文字必須清晰可讀，不得添加其他文字、品牌、Logo或浮水印。",
+        "ja": "縦長の中国語インフォグラフィックを作成してください。タイトルは正確に「“家庭咖啡冲煮指南”」と表示する必要があります。コンテンツは以下の4つのステップのみで構成されます。\n“1. 称取咖啡豆”\n“2. 均匀研磨”\n“3. 分段注水”\n“4. 等待萃取完成”。これらを上から下へ4つの番号付きモジュールに配置し、各モジュールにはシンプルなアイコンを含めてください。\n\n\nクリームホワイトの背景にダークブラウンの文字、オレンジのアクセントは最小限に抑えてください。\n\nすべての文字は明瞭に判読できる必要があります。その他の文字、ブランドロゴ、透かしなどは一切追加しないでください。",
+        "ko": "세로 방향의 중국어 인포그래픽을 제작하십시오. 제목은 다음과 같이 정확하게 표시되어야 합니다.\n“家庭咖啡冲煮指南”. 내용은 다음 네 단계로만 구성되어야 합니다.\n“1. 称取咖啡豆”\n“2. 均匀研磨”\n“3. 分段注水”\n“4. 等待萃取完成”. 이 네 단계를 위에서 아래로 번호가 매겨진 네 개의 모듈로 배열하고, 각 모듈에는 간단한 아이콘을 포함하십시오.\n\n크림색 바탕에 짙은 갈색 글씨, 최소한의 오렌지색 강조.\n\n모든 글씨는 명확하게 읽을 수 있어야 하며, 다른 텍스트, 브랜드, 로고 또는 워터마크를 추가할 수 없습니다.",
+        "fr": "Créez une infographie en chinois au format portrait. Le titre doit s'afficher correctement :\n\n“家庭咖啡冲煮指南”. Le contenu doit se composer uniquement des quatre étapes suivantes :\n\n“1. 称取咖啡豆”\n\n“2. 均匀研磨”\n\n“3. 分段注水”\n“4. 等待萃取完成”. Organisez-les en quatre modules numérotés de haut en bas, chacun contenant une icône simple.\n\nFond blanc crème, texte brun foncé, avec une légère touche d'orange.\n\nTout le texte doit être parfaitement lisible ; aucun autre texte, marque, logo ou filigrane ne doit être ajouté.",
+        "de": "Erstellen Sie eine chinesische Infografik im Hochformat. Der Titel muss korrekt wie folgt angezeigt werden:\n“家庭咖啡冲煮指南”. Der Inhalt sollte ausschließlich aus den folgenden vier Schritten bestehen:\n“1. 称取咖啡豆”\n“2. 均匀研磨”\n“3. 分段注水”\n“4. 等待萃取完成”. Ordnen Sie diese in vier nummerierten Modulen von oben nach unten an, wobei jedes Modul ein einfaches Symbol enthält.\n\nCremeweißer Hintergrund, dunkelbraune Schrift mit dezenter orangefarbener Hervorhebung.\n\nDer gesamte Text muss gut lesbar sein; es dürfen keine weiteren Texte, Marken, Logos oder Wasserzeichen hinzugefügt werden.",
+        "es": "Crea una infografía china en formato vertical. El título debe mostrarse correctamente como:\n“家庭咖啡冲煮指南”. El contenido debe constar únicamente de los siguientes cuatro pasos:\n“1. 称取咖啡豆”\n“2. 均匀研磨”\n“3. 分段注水”\n“4. 等待萃取完成”. Organízalos en cuatro módulos numerados de arriba abajo, cada uno con un icono sencillo.\n\nFondo blanco cremoso, texto marrón oscuro con un mínimo énfasis en naranja.\n\nTodo el texto debe ser claramente legible; no se permite añadir ningún otro texto, marca, logotipo ni marca de agua.",
+        "pt-BR": "Crie um infográfico em chinês com orientação retrato. O título deve ser exibido corretamente como:\n“家庭咖啡冲煮指南”. O conteúdo deve consistir apenas nas quatro etapas a seguir:\n“1. 称取咖啡豆”\n“2. 均匀研磨”\n“3. 分段注水”\n“4. 等待萃取完成”. Organize-as em quatro módulos numerados de cima para baixo, cada um contendo um ícone simples.\n\nFundo branco cremoso, texto marrom escuro com discretos detalhes em laranja.\n\nTodo o texto deve ser claramente legível; nenhum outro texto, marca, logotipo ou marca d'água pode ser adicionado."
       }
     ],
     "preserved_literals": [
@@ -46,11 +65,25 @@
   "notes": [
     {
       "en": "A distinct illustrated test in the creator’s GPT Image 2.5 article. Shared article engagement is not assigned to individual tests.",
-      "zh": "作者在 GPT Image 2.5 文章中进行了单独的插图测试。共享文章的互动量不分配给单个测试。"
+      "zh-CN": "作者在 GPT Image 2.5 文章中进行了单独的插图测试。共享文章的互动量不分配给单个测试。",
+      "zh-TW": "作者在 GPT Image 2.5 文章中進行了單獨的插圖測試。分享文章的互動量不分配給單一測試。",
+      "ja": "作成者の記事GPT Image 2.5に掲載されている、図解付きのテストです。記事へのエンゲージメントは、個々のテストには割り当てられていません。",
+      "ko": "제작자의 GPT Image 2.5 문서에 별도의 그림 테스트가 포함되어 있습니다. 문서 공유 참여도는 개별 테스트에 할당되지 않습니다.",
+      "fr": "Un test illustré distinct est présenté dans l'article GPT Image 2.5 du créateur. L'engagement lié à l'article partagé n'est pas attribué aux tests individuels.",
+      "de": "Ein separater illustrierter Test im Artikel GPT Image 2.5 des Erstellers. Die Interaktionen im Artikel werden nicht einzelnen Tests zugeordnet.",
+      "es": "Prueba ilustrada específica en el artículo GPT Image 2.5 del creador. La participación en el artículo compartido no se asigna a pruebas individuales.",
+      "pt-BR": "Um teste ilustrado distinto no artigo GPT Image 2.5 do criador. O engajamento compartilhado do artigo não é atribuído a testes individuais."
     },
     {
       "en": "Any scores or observations in the source are the author’s reports, not independent tests by this repository.",
-      "zh": "源文件中的任何分数或观察结果均为作者的报告，并非本仓库的独立测试。"
+      "zh-CN": "源文件中的任何分数或观察结果均为作者的报告，并非本仓库的独立测试。",
+      "zh-TW": "來源文件中的任何分數或觀察結果均為作者的報告，並非本倉庫的獨立測試。",
+      "ja": "ソースに記載されているスコアや観察結果は、このリポジトリによる独立したテストではなく、著者の報告です。",
+      "ko": "원본의 점수 또는 관찰 내용은 작성자의 보고서이며, 본 저장소에서 수행한 독립적인 테스트 결과가 아닙니다.",
+      "fr": "Les scores et observations figurant dans la source sont des rapports de l'auteur et non des tests indépendants réalisés par ce dépôt.",
+      "de": "Alle Ergebnisse und Beobachtungen in der Quelle sind Berichte des Autors und keine unabhängigen Tests dieses Repositorys.",
+      "es": "Las puntuaciones u observaciones en la fuente son informes del autor, no pruebas independientes realizadas por este repositorio.",
+      "pt-BR": "Quaisquer pontuações ou observações na fonte são relatórios do autor, não testes independentes deste repositório."
     }
   ],
   "source": {
@@ -90,104 +123,32 @@
     "status": "third-party-terms",
     "note": "Third-party prompts and media retain their creators’ rights; external previews are linked, not relicensed."
   },
-  "localizations": {
-    "zh-TW": {
-      "title": "中式咖啡沖泡步驟圖",
-      "summary": "將四個精確的沖泡步驟繪製成清晰的垂直圖解。",
-      "steps": [
-        "製作一張垂直版中文資訊圖，標題必須準確顯示為：\n“家庭咖啡冲煮指南”\n內容只有以下四個步驟：\n“1. 称取咖啡豆”\n“2. 均匀研磨”\n“3. 分段注水”\n“4. 等待萃取完成”\n用四個編號模組自上而下排列，每個模組包含一個簡潔圖示。\n奶油白背景，深咖啡色文字，少量橙色強調。\n所有文字必須清晰可讀，不得添加其他文字、品牌、Logo或浮水印。"
-      ],
-      "inputs": [],
-      "notes": [
-        "作者在 GPT Image 2.5 文章中進行了單獨的插圖測試。分享文章的互動量不分配給單一測試。",
-        "來源文件中的任何分數或觀察結果均為作者的報告，並非本倉庫的獨立測試。"
-      ],
-      "source_digest": "664b19bbfca21ac963140331c9e6fda4f84ddd153d5aaf2ae2eb11d36a9121c6",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ja": {
-      "title": "中国式コーヒーの淹れ方インフォグラフィック",
-      "summary": "4つの淹れ方ステップを、分かりやすいイラスト付きの縦型ガイドとしてレンダリングしてください。",
-      "steps": [
-        "縦長の中国語インフォグラフィックを作成してください。タイトルは正確に「“家庭咖啡冲煮指南”」と表示する必要があります。コンテンツは以下の4つのステップのみで構成されます。\n“1. 称取咖啡豆”\n“2. 均匀研磨”\n“3. 分段注水”\n“4. 等待萃取完成”。これらを上から下へ4つの番号付きモジュールに配置し、各モジュールにはシンプルなアイコンを含めてください。\n\n\nクリームホワイトの背景にダークブラウンの文字、オレンジのアクセントは最小限に抑えてください。\n\nすべての文字は明瞭に判読できる必要があります。その他の文字、ブランドロゴ、透かしなどは一切追加しないでください。"
-      ],
-      "inputs": [],
-      "notes": [
-        "作成者の記事GPT Image 2.5に掲載されている、図解付きのテストです。記事へのエンゲージメントは、個々のテストには割り当てられていません。",
-        "ソースに記載されているスコアや観察結果は、このリポジトリによる独立したテストではなく、著者の報告です。"
-      ],
-      "source_digest": "664b19bbfca21ac963140331c9e6fda4f84ddd153d5aaf2ae2eb11d36a9121c6",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ko": {
-      "title": "중국식 커피 추출 인포그래픽",
-      "summary": "정확하게 설명된 네 단계의 추출 과정을 그림으로 표현한 세로형 가이드를 제작하세요.",
-      "steps": [
-        "세로 방향의 중국어 인포그래픽을 제작하십시오. 제목은 다음과 같이 정확하게 표시되어야 합니다.\n“家庭咖啡冲煮指南”. 내용은 다음 네 단계로만 구성되어야 합니다.\n“1. 称取咖啡豆”\n“2. 均匀研磨”\n“3. 分段注水”\n“4. 等待萃取完成”. 이 네 단계를 위에서 아래로 번호가 매겨진 네 개의 모듈로 배열하고, 각 모듈에는 간단한 아이콘을 포함하십시오.\n\n크림색 바탕에 짙은 갈색 글씨, 최소한의 오렌지색 강조.\n\n모든 글씨는 명확하게 읽을 수 있어야 하며, 다른 텍스트, 브랜드, 로고 또는 워터마크를 추가할 수 없습니다."
-      ],
-      "inputs": [],
-      "notes": [
-        "제작자의 GPT Image 2.5 문서에 별도의 그림 테스트가 포함되어 있습니다. 문서 공유 참여도는 개별 테스트에 할당되지 않습니다.",
-        "원본의 점수 또는 관찰 내용은 작성자의 보고서이며, 본 저장소에서 수행한 독립적인 테스트 결과가 아닙니다."
-      ],
-      "source_digest": "664b19bbfca21ac963140331c9e6fda4f84ddd153d5aaf2ae2eb11d36a9121c6",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "fr": {
-      "title": "Infographie sur la préparation du café chinois",
-      "summary": "Créez un guide vertical illustré clair décrivant précisément les quatre étapes de préparation.",
-      "steps": [
-        "Créez une infographie en chinois au format portrait. Le titre doit s'afficher correctement :\n\n“家庭咖啡冲煮指南”. Le contenu doit se composer uniquement des quatre étapes suivantes :\n\n“1. 称取咖啡豆”\n\n“2. 均匀研磨”\n\n“3. 分段注水”\n“4. 等待萃取完成”. Organisez-les en quatre modules numérotés de haut en bas, chacun contenant une icône simple.\n\nFond blanc crème, texte brun foncé, avec une légère touche d'orange.\n\nTout le texte doit être parfaitement lisible ; aucun autre texte, marque, logo ou filigrane ne doit être ajouté."
-      ],
-      "inputs": [],
-      "notes": [
-        "Un test illustré distinct est présenté dans l'article GPT Image 2.5 du créateur. L'engagement lié à l'article partagé n'est pas attribué aux tests individuels.",
-        "Les scores et observations figurant dans la source sont des rapports de l'auteur et non des tests indépendants réalisés par ce dépôt."
-      ],
-      "source_digest": "664b19bbfca21ac963140331c9e6fda4f84ddd153d5aaf2ae2eb11d36a9121c6",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "de": {
-      "title": "Infografik zur chinesischen Kaffeezubereitung",
-      "summary": "Vier präzise formulierte Brühschritte als übersichtliche, illustrierte Anleitung darstellen.",
-      "steps": [
-        "Erstellen Sie eine chinesische Infografik im Hochformat. Der Titel muss korrekt wie folgt angezeigt werden:\n“家庭咖啡冲煮指南”. Der Inhalt sollte ausschließlich aus den folgenden vier Schritten bestehen:\n“1. 称取咖啡豆”\n“2. 均匀研磨”\n“3. 分段注水”\n“4. 等待萃取完成”. Ordnen Sie diese in vier nummerierten Modulen von oben nach unten an, wobei jedes Modul ein einfaches Symbol enthält.\n\nCremeweißer Hintergrund, dunkelbraune Schrift mit dezenter orangefarbener Hervorhebung.\n\nDer gesamte Text muss gut lesbar sein; es dürfen keine weiteren Texte, Marken, Logos oder Wasserzeichen hinzugefügt werden."
-      ],
-      "inputs": [],
-      "notes": [
-        "Ein separater illustrierter Test im Artikel GPT Image 2.5 des Erstellers. Die Interaktionen im Artikel werden nicht einzelnen Tests zugeordnet.",
-        "Alle Ergebnisse und Beobachtungen in der Quelle sind Berichte des Autors und keine unabhängigen Tests dieses Repositorys."
-      ],
-      "source_digest": "664b19bbfca21ac963140331c9e6fda4f84ddd153d5aaf2ae2eb11d36a9121c6",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "es": {
-      "title": "Infografía sobre la preparación del café chino",
-      "summary": "Representa cuatro pasos de preparación con precisión en una guía vertical ilustrada y clara.",
-      "steps": [
-        "Crea una infografía china en formato vertical. El título debe mostrarse correctamente como:\n“家庭咖啡冲煮指南”. El contenido debe constar únicamente de los siguientes cuatro pasos:\n“1. 称取咖啡豆”\n“2. 均匀研磨”\n“3. 分段注水”\n“4. 等待萃取完成”. Organízalos en cuatro módulos numerados de arriba abajo, cada uno con un icono sencillo.\n\nFondo blanco cremoso, texto marrón oscuro con un mínimo énfasis en naranja.\n\nTodo el texto debe ser claramente legible; no se permite añadir ningún otro texto, marca, logotipo ni marca de agua."
-      ],
-      "inputs": [],
-      "notes": [
-        "Prueba ilustrada específica en el artículo GPT Image 2.5 del creador. La participación en el artículo compartido no se asigna a pruebas individuales.",
-        "Las puntuaciones u observaciones en la fuente son informes del autor, no pruebas independientes realizadas por este repositorio."
-      ],
-      "source_digest": "664b19bbfca21ac963140331c9e6fda4f84ddd153d5aaf2ae2eb11d36a9121c6",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "pt-BR": {
-      "title": "Infográfico de preparo de café chinês",
-      "summary": "Renderize quatro etapas de preparo de café descritas com precisão em um guia vertical ilustrado e claro.",
-      "steps": [
-        "Crie um infográfico em chinês com orientação retrato. O título deve ser exibido corretamente como:\n“家庭咖啡冲煮指南”. O conteúdo deve consistir apenas nas quatro etapas a seguir:\n“1. 称取咖啡豆”\n“2. 均匀研磨”\n“3. 分段注水”\n“4. 等待萃取完成”. Organize-as em quatro módulos numerados de cima para baixo, cada um contendo um ícone simples.\n\nFundo branco cremoso, texto marrom escuro com discretos detalhes em laranja.\n\nTodo o texto deve ser claramente legível; nenhum outro texto, marca, logotipo ou marca d'água pode ser adicionado."
-      ],
-      "inputs": [],
-      "notes": [
-        "Um teste ilustrado distinto no artigo GPT Image 2.5 do criador. O engajamento compartilhado do artigo não é atribuído a testes individuais.",
-        "Quaisquer pontuações ou observações na fonte são relatórios do autor, não testes independentes deste repositório."
-      ],
-      "source_digest": "664b19bbfca21ac963140331c9e6fda4f84ddd153d5aaf2ae2eb11d36a9121c6",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+  "translation_meta": {
+    "source_digest": "5445cd3f893e4ddb4402687dd91d2891012daadb7c1b297b6539f96bed15cf34",
+    "text_digests": {
+      "zh-CN": "08a8f68993eba9d706802be02a59dfd8b0fa607e3814df657074d8bac4ac55a1",
+      "zh-TW": "8b316f36a4ad4884e28a4b19e9bf9a705dd0d5513d5ed5de21b197521a8ab523",
+      "ja": "759075657cd4505254d19e5ca77eb4acb9fafa20fc28a9a441f3a4926509f648",
+      "ko": "60d103e2bfccbd7f91a7c11c028238d24403f95f94875ca0e784ebeb6503404e",
+      "fr": "156b4b68de292bda0295aa6c200b23d353b1a38c57ccc07d71e6e082cd12c1d0",
+      "de": "366407778f0f9d1c6ff0674c4d08c31b481b4b9f8013b60b52cb1a0e5007007c",
+      "es": "4a0a6ab262e6308f2dc92d1259bc0d075953f136d25065899a884369e69786ba",
+      "pt-BR": "87f9b9d1e4146114b921a6b2b706c7e59fd88bae28edc9831112439b324470e2"
     }
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:12:37.857Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 4,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 4,
+      "distinctiveness": 3
+    },
+    "rationale": "Four numbered brewing modules and a clear text hierarchy are visible; the full requested Chinese copy is preserved for exact-text checking."
   }
 }

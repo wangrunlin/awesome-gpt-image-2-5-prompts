@@ -1,0 +1,165 @@
+{
+  "id": "infographic-layout-translation",
+  "title": {
+    "en": "Translate an infographic without redesigning it",
+    "zh-CN": "信息图翻译并保留版式",
+    "zh-TW": "資訊圖翻譯並保留版式",
+    "ja": "レイアウトを保って図解を翻訳",
+    "ko": "레이아웃을 유지하는 인포그래픽 번역",
+    "fr": "Traduire une infographie sans la redessiner",
+    "de": "Infografik übersetzen, Layout erhalten",
+    "es": "Traducir una infografía conservando el diseño",
+    "pt-BR": "Traduzir um infográfico preservando o layout"
+  },
+  "summary": {
+    "en": "Localize diagram labels while keeping the original visual hierarchy.",
+    "zh-CN": "翻译图中标签，同时保留原有视觉层级。",
+    "zh-TW": "翻譯圖中標籤，同時保留原有視覺層級。",
+    "ja": "元の視覚的な階層を維持しながら図中のラベルを翻訳する。",
+    "ko": "원래 시각적 계층을 유지하면서 도표 라벨을 번역합니다.",
+    "fr": "Traduire les libellés en conservant la hiérarchie visuelle.",
+    "de": "Beschriftungen übersetzen und die visuelle Hierarchie erhalten.",
+    "es": "Traducir las etiquetas manteniendo la jerarquía visual original.",
+    "pt-BR": "Traduzir os rótulos mantendo a hierarquia visual original."
+  },
+  "category": "design",
+  "tags": [
+    "official-guide",
+    "infographic-layout-translation"
+  ],
+  "mode": "edit",
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": "sunburst",
+    "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout",
+    "evidence": "The OpenAI image prompting guide labels the linked result GPT Image 2.5 Sunburst. This repository did not generate it."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "Translate the text in the infographic to Spanish. Do not change any other aspect of the image.",
+        "zh-CN": "将信息图中的文字翻译成西班牙语。不要改变图片的任何其他方面。",
+        "zh-TW": "將資訊圖中的文字翻譯成西班牙語。不要改變圖片的任何其他方面。",
+        "ja": "図解内のテキストをスペイン語に翻訳してください。画像の他の部分は一切変更しないでください。",
+        "ko": "인포그래픽의 텍스트를 스페인어로 번역하세요. 이미지의 다른 부분은 전혀 바꾸지 마세요.",
+        "fr": "Traduisez le texte de l’infographie en espagnol. Ne modifiez aucun autre aspect de l’image.",
+        "de": "Übersetze den Text in der Infografik ins Spanische. Ändere keinen anderen Aspekt des Bildes.",
+        "es": "Traduce el texto de la infografía al español. No cambies ningún otro aspecto de la imagen.",
+        "pt-BR": "Traduza o texto do infográfico para o espanhol. Não altere nenhum outro aspecto da imagem."
+      }
+    ],
+    "original_language": "en",
+    "original_steps": [
+      "Translate the text in the infographic to Spanish. Do not change any other aspect of the image."
+    ]
+  },
+  "inputs": [
+    {
+      "en": "Upload the original infographic linked below.",
+      "zh-CN": "上传下方链接的原始信息图。",
+      "zh-TW": "上傳下方連結的原始資訊圖。",
+      "ja": "下記のリンクにある元の図解をアップロードしてください。",
+      "ko": "아래 링크의 원본 인포그래픽을 업로드하세요.",
+      "fr": "Téléversez l’infographie originale liée ci-dessous.",
+      "de": "Lade die unten verlinkte ursprüngliche Infografik hoch.",
+      "es": "Sube la infografía original enlazada abajo.",
+      "pt-BR": "Envie o infográfico original no link abaixo."
+    }
+  ],
+  "notes": [
+    {
+      "en": "Check every translated label and its alignment; image translation is not a technical fact check.",
+      "zh-CN": "逐一检查译文标签及其对齐；图像翻译不等于技术事实核查。",
+      "zh-TW": "逐一檢查譯文標籤及其對齊；影像翻譯不等於技術事實查核。",
+      "ja": "翻訳した各ラベルと配置を確認してください。画像の翻訳は技術的な事実確認ではありません。",
+      "ko": "번역된 라벨과 정렬을 하나씩 확인하세요. 이미지 번역은 기술적 사실 검증이 아닙니다.",
+      "fr": "Vérifiez chaque traduction et son alignement ; traduire une image ne vérifie pas son exactitude technique.",
+      "de": "Prüfe jede Übersetzung und ihre Ausrichtung; Bildübersetzung ersetzt keine technische Faktenprüfung.",
+      "es": "Revisa cada etiqueta traducida y su alineación; traducir una imagen no verifica su exactitud técnica.",
+      "pt-BR": "Confira cada rótulo traduzido e seu alinhamento; traduzir uma imagem não verifica sua precisão técnica."
+    },
+    {
+      "en": "Source settings: `size=\"1024x1536\"`, `quality=\"high\"`.",
+      "zh-CN": "来源参数：`size=\"1024x1536\"`, `quality=\"high\"`.",
+      "zh-TW": "來源參數：`size=\"1024x1536\"`, `quality=\"high\"`.",
+      "ja": "出典の設定：`size=\"1024x1536\"`, `quality=\"high\"`.",
+      "ko": "출처 설정: `size=\"1024x1536\"`, `quality=\"high\"`.",
+      "fr": "Paramètres de la source : `size=\"1024x1536\"`, `quality=\"high\"`.",
+      "de": "Einstellungen der Quelle: `size=\"1024x1536\"`, `quality=\"high\"`.",
+      "es": "Ajustes de la fuente: `size=\"1024x1536\"`, `quality=\"high\"`.",
+      "pt-BR": "Configurações da fonte: `size=\"1024x1536\"`, `quality=\"high\"`."
+    }
+  ],
+  "source": {
+    "platform": "documentation",
+    "author": "OpenAI",
+    "url": "https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout",
+    "prompt_url": "https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout",
+    "checked_at": "2026-09-13T16:20:44.575Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "post_language": "en"
+  },
+  "previews": [
+    {
+      "url": "https://developers.openai.com/images/platform/guides/image-prompting/infographic-coffee-machine-sp-gpt-image-2-5-sunburst.webp",
+      "kind": "source-result",
+      "credit": "OpenAI — official guide example",
+      "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout"
+    }
+  ],
+  "references": [
+    {
+      "url": "https://developers.openai.com/images/platform/guides/image-prompting/infographic-coffee-machine-gpt-image-2-5-sunburst.webp",
+      "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout",
+      "credit": "OpenAI — source input"
+    }
+  ],
+  "engagement": {
+    "likes": null,
+    "reposts": null,
+    "replies": null,
+    "bookmarks": null,
+    "views": null,
+    "observed_at": "2026-09-13T16:20:44.575Z",
+    "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#translate-while-preserving-layout",
+    "method": "Official documentation has no public social engagement counters."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and linked media remain subject to their source terms. Attribution does not grant a license to the source inputs or results."
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:20:44.575Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 4,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 4,
+      "distinctiveness": 3
+    },
+    "rationale": "Paired original and Spanish diagram make localization constraints inspectable. Major labels retain hierarchy; small technical text still requires proofreading."
+  },
+  "translation_meta": {
+    "source_digest": "41f212f4222fa7c32169532d4adc57130fa2362080a6b42122041a73ba8c733e",
+    "text_digests": {
+      "zh-CN": "38138a3f18d8a50b7e41717207c653f6f879262807d9a0077e8bf8d9dcbd161c",
+      "zh-TW": "cc6e08b9ec58a17c5969fb93cf8bb2ceabb41d220b46bf0b13cbada205c689df",
+      "ja": "4269d083154a4e25f274de518827baf7f65b1dac2306bf3139b08b9b0d434fdd",
+      "ko": "d312d585d03e00ef64c8e0b522339e0f1b9cd2a01479c7c85d033545c82adae7",
+      "fr": "50af54695785eaec7713120ebe06f2c1c331ede407d672fdffc76621aaa27d20",
+      "de": "8993f1cffd92579267158a7d8037ed53eb2e1fb5673c45695e24cd01bab62e48",
+      "es": "6bc80024e20445b3e9f695b69f6d6540477c642d99fb889a689dc1a3317e43c1",
+      "pt-BR": "2effdb1b3a2490ddd65b463ef2e9f62f34b253522d1423c23aa18bed679241f8"
+    }
+  }
+}

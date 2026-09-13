@@ -1,13 +1,26 @@
 {
-  "schema_version": 1,
   "id": "style-reference-product-ugc",
   "title": {
     "en": "Style-reference product UGC",
-    "zh": "参考风格的产品 UGC"
+    "zh-CN": "参考风格的产品 UGC",
+    "zh-TW": "風格參考產品使用者生成內容 (UGC)",
+    "ja": "スタイル参照を用いた製品UGC（ユーザー生成コンテンツ）",
+    "ko": "스타일 참조 기반의 제품 UGC(사용자 생성 콘텐츠)",
+    "fr": "Contenu généré par les utilisateurs (UGC) basé sur un style de référence pour un produit",
+    "de": "UGC mit Stilreferenz für ein Produkt",
+    "es": "Contenido generado por el usuario (UGC) de producto con referencia de estilo",
+    "pt-BR": "UGC de produto com referência de estilo"
   },
   "summary": {
     "en": "Extract a visual style from a reference, then use it to stage a person holding a product.",
-    "zh": "先从参考图提取视觉风格，再生成手持产品的人像。"
+    "zh-CN": "先从参考图提取视觉风格，再生成手持产品的人像。",
+    "zh-TW": "從參考中提取視覺風格，然後用它來設計人物手持產品的場景。",
+    "ja": "参照画像から視覚的なスタイルを抽出し、それを用いて、製品を手に持った人物の画像を生成する。",
+    "ko": "참조 이미지에서 시각적 스타일을 추출한 다음, 이를 활용하여 제품을 들고 있는 인물 이미지를 생성합니다.",
+    "fr": "Extraire un style visuel d'une image de référence, puis l'utiliser pour mettre en scène une personne tenant un produit.",
+    "de": "Einen visuellen Stil aus einer Referenz extrahieren und diesen nutzen, um eine Person mit dem Produkt in Szene zu setzen.",
+    "es": "Extraer un estilo visual de una referencia y utilizarlo para componer una imagen de una persona sosteniendo un producto.",
+    "pt-BR": "Extraia um estilo visual de uma referência e use-o para compor uma cena com uma pessoa segurando um produto."
   },
   "category": "products",
   "tags": [
@@ -17,7 +30,6 @@
     "style"
   ],
   "mode": "workflow",
-  "featured": true,
   "model": {
     "family": "GPT Image 2.5",
     "variant": null,
@@ -29,11 +41,25 @@
     "steps": [
       {
         "en": "Describe the reference photo as a reusable JSON style recipe: lighting, camera angle, palette, background, and photographic texture. Keep product and person identity out of the style fields.",
-        "zh": "把参考照片概括为可复用的 JSON 风格配方：光线、机位、配色、背景和摄影质感。风格字段不包含产品或人物身份。"
+        "zh-CN": "把参考照片概括为可复用的 JSON 风格配方：光线、机位、配色、背景和摄影质感。风格字段不包含产品或人物身份。",
+        "zh-TW": "將參考照片描述為可重複使用的 JSON 樣式配方：包括光線、拍攝角度、調色板、背景和照片紋理。樣式欄位中請勿包含產品和人物身分資訊。",
+        "ja": "参照写真を、再利用可能なJSON形式の「スタイルレシピ」（照明、カメラアングル、色調、背景、写真の質感など）として記述する。その際、製品や人物の具体的な特徴（アイデンティティ）はスタイル定義の項目に含めないようにする。",
+        "ko": "참조 사진의 스타일(조명, 카메라 앵글, 색상 팔레트, 배경, 사진 질감 등)을 재사용 가능한 JSON 형식의 '스타일 레시피'로 정의합니다. 이때 제품이나 인물의 고유한 특징은 스타일 항목에 포함하지 않습니다.",
+        "fr": "Décrire la photo de référence sous forme de « recette de style » réutilisable au format JSON : éclairage, angle de prise de vue, palette de couleurs, arrière-plan et texture photographique. Exclure l'identité du produit et de la personne des champs relatifs au style.",
+        "de": "Das Referenzfoto als wiederverwendbares JSON-Stilrezept beschreiben: Beleuchtung, Kamerawinkel, Farbpalette, Hintergrund und fotografische Textur. Produkt- und Personenidentität dabei aus den Stilfeldern heraushalten.",
+        "es": "Describir la foto de referencia como una receta de estilo en formato JSON reutilizable: iluminación, ángulo de cámara, paleta de colores, fondo y textura fotográfica. Excluir la identidad del producto y de la persona de los campos de estilo.",
+        "pt-BR": "Descreva a foto de referência como uma receita de estilo em JSON reutilizável: iluminação, ângulo da câmera, paleta de cores, fundo e textura fotográfica. Mantenha a identidade do produto e da pessoa fora dos campos de estilo."
       },
       {
         "en": "Using the style recipe and attached product photo, create a natural photograph of a person holding the product. Preserve the product shape and visible label.",
-        "zh": "使用风格配方和附件产品照片，生成一个人自然手持该产品的照片，保留产品形状和可见标签。"
+        "zh-CN": "使用风格配方和附件产品照片，生成一个人自然手持该产品的照片，保留产品形状和可见标签。",
+        "zh-TW": "使用風格配方和附帶的產品照片，拍攝一張人物手持產品的自然照片。保留產品形狀和可見標籤。",
+        "ja": "スタイルレシピと添付の製品写真を使用し、製品を手に持った人物の自然な写真を生成する。その際、製品の形状やラベルの表示は維持する。",
+        "ko": "스타일 레시피와 첨부된 제품 사진을 사용하여, 제품을 들고 있는 인물의 자연스러운 사진을 생성합니다. 제품의 형태와 라벨의 문구 등은 그대로 유지합니다.",
+        "fr": "À partir de la recette de style et de la photo du produit fournie, créer une photographie naturelle montrant une personne tenant le produit. Préserver la forme du produit ainsi que l'étiquette visible.",
+        "de": "Unter Verwendung des Stilrezepts und des beigefügten Produktfotos ein natürliches Foto einer Person erstellen, die das Produkt hält. Dabei die Produktform und das sichtbare Etikett beibehalten.",
+        "es": "Utilizando la receta de estilo y la foto del producto adjunta, crear una fotografía natural de una persona sosteniendo el producto. Conservar la forma del producto y la etiqueta visible.",
+        "pt-BR": "Usando a receita de estilo e a foto do produto em anexo, crie uma fotografia natural de uma pessoa segurando o produto. Preserve o formato do produto e o rótulo visível."
       }
     ],
     "original_language": null,
@@ -42,17 +68,38 @@
   "inputs": [
     {
       "en": "A style reference and a product photo; a text model for extracting the style recipe.",
-      "zh": "风格参考图与产品图；提取风格配方需要文本模型。"
+      "zh-CN": "风格参考图与产品图；提取风格配方需要文本模型。",
+      "zh-TW": "樣式參考和產品照片；用於提取樣式配方的文字模型。",
+      "ja": "スタイル参照画像と製品写真、およびスタイルレシピを抽出するためのテキストモデル。",
+      "ko": "스타일 참조 이미지와 제품 사진, 그리고 스타일 레시피를 추출하기 위한 텍스트 모델.",
+      "fr": "Une image de référence de style et une photo de produit ; un modèle textuel pour extraire la recette de style.",
+      "de": "Eine Stilreferenz und ein Produktfoto; ein Textmodell zur Extraktion des Stilrezepts.",
+      "es": "Una referencia de estilo y una foto del producto; un modelo de texto para extraer la receta de estilo.",
+      "pt-BR": "Uma referência de estilo e uma foto do produto; um modelo de texto para extrair a receita de estilo."
     }
   ],
   "notes": [
     {
       "en": "Editorial adaptation of the creator’s two-stage recipe. The source first analyzes the reference with GPT-6 Astra, then generates the image.",
-      "zh": "依据作者两阶段流程改写。原帖先使用 GPT-6 Astra 分析参考图，再生成图片。"
+      "zh-CN": "依据作者两阶段流程改写。原帖先使用 GPT-6 Astra 分析参考图，再生成图片。",
+      "zh-TW": "創作者的兩階段配方進行編輯改編。來源首先使用 GPT-6 Astra 分析參考，然後產生影像。",
+      "ja": "クリエイターによる2段階のレシピを編集・調整したもの。まず参照画像を「GPT-6 Astra」で解析し、その後に画像を生成する。",
+      "ko": "크리에이터의 2단계 레시피를 편집하여 구성한 내용입니다. 원본에서는 먼저 GPT-6 Astra로 참조 이미지를 분석한 다음 이미지를 생성합니다.",
+      "fr": "Adaptation éditoriale de la recette en deux étapes du créateur. Le processus analyse d'abord la référence avec GPT-6 Astra, puis génère l'image.",
+      "de": "Redaktionelle Aufbereitung des zweistufigen Rezepts des Creators. Die Quelle analysiert zunächst die Referenz mit GPT-6 Astra und generiert anschließend das Bild.",
+      "es": "Adaptación editorial de la receta de dos etapas del creador. El proceso original analiza primero la referencia con GPT-6 Astra y luego genera la imagen.",
+      "pt-BR": "Adaptação editorial da receita de duas etapas do criador. O processo original primeiro analisa a referência com o GPT-6 Astra e, em seguida, gera a imagem."
     },
     {
       "en": "Save the first approved character image as a reference for later variations. The source post displays a paid-partnership label.",
-      "zh": "将第一张满意的角色图保留为后续变体的参考图。原帖展示了付费合作标签。"
+      "zh-CN": "将第一张满意的角色图保留为后续变体的参考图。原帖展示了付费合作标签。",
+      "zh-TW": "將第一個已核准的角色影像儲存為參考，以便後續進行修改。來源貼文會顯示付費合作標籤。",
+      "ja": "承認された最初のキャラクター画像を、後のバリエーション作成時の参照用として保存する。元の投稿には「有料パートナーシップ」のラベルが表示されている。",
+      "ko": "최종 승인된 캐릭터 이미지를 저장하여 향후 다양한 변형 이미지 제작 시 참조 자료로 활용합니다. 원본 게시물에는 유료 파트너십 표시가 포함되어 있습니다.",
+      "fr": "Enregistrer la première image de personnage validée comme référence pour des variantes ultérieures. La publication d'origine porte une mention indiquant un partenariat rémunéré.",
+      "de": "Das erste freigegebene Charakterbild als Referenz für spätere Variationen speichern. Der ursprüngliche Beitrag ist als bezahlte Partnerschaft gekennzeichnet.",
+      "es": "Guardar la primera imagen aprobada del personaje como referencia para futuras variaciones. La publicación original muestra una etiqueta de colaboración pagada.",
+      "pt-BR": "Salve a primeira imagem aprovada do personagem como referência para variações futuras. A publicação original exibe um marcador de parceria paga."
     }
   ],
   "source": {
@@ -91,125 +138,32 @@
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
   },
-  "localizations": {
-    "zh-TW": {
-      "title": "風格參考產品使用者生成內容 (UGC)",
-      "summary": "從參考中提取視覺風格，然後用它來設計人物手持產品的場景。",
-      "steps": [
-        "將參考照片描述為可重複使用的 JSON 樣式配方：包括光線、拍攝角度、調色板、背景和照片紋理。樣式欄位中請勿包含產品和人物身分資訊。",
-        "使用風格配方和附帶的產品照片，拍攝一張人物手持產品的自然照片。保留產品形狀和可見標籤。"
-      ],
-      "inputs": [
-        "樣式參考和產品照片；用於提取樣式配方的文字模型。"
-      ],
-      "notes": [
-        "創作者的兩階段配方進行編輯改編。來源首先使用 GPT-6 Astra 分析參考，然後產生影像。",
-        "將第一個已核准的角色影像儲存為參考，以便後續進行修改。來源貼文會顯示付費合作標籤。"
-      ],
-      "source_digest": "b3787b50e0270439f4157af3600d887584638bdf0e1442db25b60310c28ce29a",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ja": {
-      "title": "スタイル参照を用いた製品UGC（ユーザー生成コンテンツ）",
-      "summary": "参照画像から視覚的なスタイルを抽出し、それを用いて、製品を手に持った人物の画像を生成する。",
-      "steps": [
-        "参照写真を、再利用可能なJSON形式の「スタイルレシピ」（照明、カメラアングル、色調、背景、写真の質感など）として記述する。その際、製品や人物の具体的な特徴（アイデンティティ）はスタイル定義の項目に含めないようにする。",
-        "スタイルレシピと添付の製品写真を使用し、製品を手に持った人物の自然な写真を生成する。その際、製品の形状やラベルの表示は維持する。"
-      ],
-      "inputs": [
-        "スタイル参照画像と製品写真、およびスタイルレシピを抽出するためのテキストモデル。"
-      ],
-      "notes": [
-        "クリエイターによる2段階のレシピを編集・調整したもの。まず参照画像を「GPT-6 Astra」で解析し、その後に画像を生成する。",
-        "承認された最初のキャラクター画像を、後のバリエーション作成時の参照用として保存する。元の投稿には「有料パートナーシップ」のラベルが表示されている。"
-      ],
-      "source_digest": "b3787b50e0270439f4157af3600d887584638bdf0e1442db25b60310c28ce29a",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ko": {
-      "title": "스타일 참조 기반의 제품 UGC(사용자 생성 콘텐츠)",
-      "summary": "참조 이미지에서 시각적 스타일을 추출한 다음, 이를 활용하여 제품을 들고 있는 인물 이미지를 생성합니다.",
-      "steps": [
-        "참조 사진의 스타일(조명, 카메라 앵글, 색상 팔레트, 배경, 사진 질감 등)을 재사용 가능한 JSON 형식의 '스타일 레시피'로 정의합니다. 이때 제품이나 인물의 고유한 특징은 스타일 항목에 포함하지 않습니다.",
-        "스타일 레시피와 첨부된 제품 사진을 사용하여, 제품을 들고 있는 인물의 자연스러운 사진을 생성합니다. 제품의 형태와 라벨의 문구 등은 그대로 유지합니다."
-      ],
-      "inputs": [
-        "스타일 참조 이미지와 제품 사진, 그리고 스타일 레시피를 추출하기 위한 텍스트 모델."
-      ],
-      "notes": [
-        "크리에이터의 2단계 레시피를 편집하여 구성한 내용입니다. 원본에서는 먼저 GPT-6 Astra로 참조 이미지를 분석한 다음 이미지를 생성합니다.",
-        "최종 승인된 캐릭터 이미지를 저장하여 향후 다양한 변형 이미지 제작 시 참조 자료로 활용합니다. 원본 게시물에는 유료 파트너십 표시가 포함되어 있습니다."
-      ],
-      "source_digest": "b3787b50e0270439f4157af3600d887584638bdf0e1442db25b60310c28ce29a",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "fr": {
-      "title": "Contenu généré par les utilisateurs (UGC) basé sur un style de référence pour un produit",
-      "summary": "Extraire un style visuel d'une image de référence, puis l'utiliser pour mettre en scène une personne tenant un produit.",
-      "steps": [
-        "Décrire la photo de référence sous forme de « recette de style » réutilisable au format JSON : éclairage, angle de prise de vue, palette de couleurs, arrière-plan et texture photographique. Exclure l'identité du produit et de la personne des champs relatifs au style.",
-        "À partir de la recette de style et de la photo du produit fournie, créer une photographie naturelle montrant une personne tenant le produit. Préserver la forme du produit ainsi que l'étiquette visible."
-      ],
-      "inputs": [
-        "Une image de référence de style et une photo de produit ; un modèle textuel pour extraire la recette de style."
-      ],
-      "notes": [
-        "Adaptation éditoriale de la recette en deux étapes du créateur. Le processus analyse d'abord la référence avec GPT-6 Astra, puis génère l'image.",
-        "Enregistrer la première image de personnage validée comme référence pour des variantes ultérieures. La publication d'origine porte une mention indiquant un partenariat rémunéré."
-      ],
-      "source_digest": "b3787b50e0270439f4157af3600d887584638bdf0e1442db25b60310c28ce29a",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "de": {
-      "title": "UGC mit Stilreferenz für ein Produkt",
-      "summary": "Einen visuellen Stil aus einer Referenz extrahieren und diesen nutzen, um eine Person mit dem Produkt in Szene zu setzen.",
-      "steps": [
-        "Das Referenzfoto als wiederverwendbares JSON-Stilrezept beschreiben: Beleuchtung, Kamerawinkel, Farbpalette, Hintergrund und fotografische Textur. Produkt- und Personenidentität dabei aus den Stilfeldern heraushalten.",
-        "Unter Verwendung des Stilrezepts und des beigefügten Produktfotos ein natürliches Foto einer Person erstellen, die das Produkt hält. Dabei die Produktform und das sichtbare Etikett beibehalten."
-      ],
-      "inputs": [
-        "Eine Stilreferenz und ein Produktfoto; ein Textmodell zur Extraktion des Stilrezepts."
-      ],
-      "notes": [
-        "Redaktionelle Aufbereitung des zweistufigen Rezepts des Creators. Die Quelle analysiert zunächst die Referenz mit GPT-6 Astra und generiert anschließend das Bild.",
-        "Das erste freigegebene Charakterbild als Referenz für spätere Variationen speichern. Der ursprüngliche Beitrag ist als bezahlte Partnerschaft gekennzeichnet."
-      ],
-      "source_digest": "b3787b50e0270439f4157af3600d887584638bdf0e1442db25b60310c28ce29a",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "es": {
-      "title": "Contenido generado por el usuario (UGC) de producto con referencia de estilo",
-      "summary": "Extraer un estilo visual de una referencia y utilizarlo para componer una imagen de una persona sosteniendo un producto.",
-      "steps": [
-        "Describir la foto de referencia como una receta de estilo en formato JSON reutilizable: iluminación, ángulo de cámara, paleta de colores, fondo y textura fotográfica. Excluir la identidad del producto y de la persona de los campos de estilo.",
-        "Utilizando la receta de estilo y la foto del producto adjunta, crear una fotografía natural de una persona sosteniendo el producto. Conservar la forma del producto y la etiqueta visible."
-      ],
-      "inputs": [
-        "Una referencia de estilo y una foto del producto; un modelo de texto para extraer la receta de estilo."
-      ],
-      "notes": [
-        "Adaptación editorial de la receta de dos etapas del creador. El proceso original analiza primero la referencia con GPT-6 Astra y luego genera la imagen.",
-        "Guardar la primera imagen aprobada del personaje como referencia para futuras variaciones. La publicación original muestra una etiqueta de colaboración pagada."
-      ],
-      "source_digest": "b3787b50e0270439f4157af3600d887584638bdf0e1442db25b60310c28ce29a",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "pt-BR": {
-      "title": "UGC de produto com referência de estilo",
-      "summary": "Extraia um estilo visual de uma referência e use-o para compor uma cena com uma pessoa segurando um produto.",
-      "steps": [
-        "Descreva a foto de referência como uma receita de estilo em JSON reutilizável: iluminação, ângulo da câmera, paleta de cores, fundo e textura fotográfica. Mantenha a identidade do produto e da pessoa fora dos campos de estilo.",
-        "Usando a receita de estilo e a foto do produto em anexo, crie uma fotografia natural de uma pessoa segurando o produto. Preserve o formato do produto e o rótulo visível."
-      ],
-      "inputs": [
-        "Uma referência de estilo e uma foto do produto; um modelo de texto para extrair a receita de estilo."
-      ],
-      "notes": [
-        "Adaptação editorial da receita de duas etapas do criador. O processo original primeiro analisa a referência com o GPT-6 Astra e, em seguida, gera a imagem.",
-        "Salve a primeira imagem aprovada do personagem como referência para variações futuras. A publicação original exibe um marcador de parceria paga."
-      ],
-      "source_digest": "b3787b50e0270439f4157af3600d887584638bdf0e1442db25b60310c28ce29a",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+  "translation_meta": {
+    "source_digest": "d45ac6ebf6d6d1e7b68221445d5af73da6532bd783e3cc43ca30b86b1df7af40",
+    "text_digests": {
+      "zh-CN": "c097228001d066d8992f42602b2a3dbc727ebc3fd09e06171ed0a153008732b4",
+      "zh-TW": "652ee5bb6b25530ff17fadfa9f4281ede500a9d36c110749bd236fcd6717ed1a",
+      "ja": "b6560320fe30b72422352eb4a4b8e5facb4eab436136fc53f0f467f2b5cba9f4",
+      "ko": "d2be89b40191c5a83419e98dd70e6739ef0cbc3ef31af3c59ae61b365c4653cf",
+      "fr": "7bf9a5b53a95a4dcff84867490eb19bedbad661383f14428a3c5836738322973",
+      "de": "9805bf72bd11c79c38032eed7ccb68880e696708ac23d624a50c39b9b9e3c6f1",
+      "es": "d4fefbe467c091c72ad501ee841d6bb1b66bb28b48faaf9e92703ad88fd89b80",
+      "pt-BR": "ade35a9ce746d5a80a5c813933a43ee88ef7bd46a694ff0696860e874d0c5ff6"
     }
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:12:37.881Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 3,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 3,
+      "distinctiveness": 4
+    },
+    "rationale": "The style-extraction stage and product generation are explicitly separated, with paid-partnership disclosure and the required analysis model retained."
   }
 }

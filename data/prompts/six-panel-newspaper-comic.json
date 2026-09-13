@@ -1,13 +1,26 @@
 {
-  "schema_version": 1,
   "id": "six-panel-newspaper-comic",
   "title": {
     "en": "Six-panel newspaper comic",
-    "zh": "六格报纸漫画"
+    "zh-CN": "六格报纸漫画",
+    "zh-TW": "六格報紙漫畫",
+    "ja": "6コマの新聞漫画",
+    "ko": "6컷 신문 만화",
+    "fr": "Bande dessinée de presse en six cases",
+    "de": "Zeitungs-Comic mit sechs Panels",
+    "es": "Historieta de prensa de seis viñetas",
+    "pt-BR": "Tira de jornal em quadrinhos com seis quadros"
   },
   "summary": {
     "en": "Explore a fixed six-panel layout with recurring characters and a silent panel.",
-    "zh": "探索固定六格布局、重复角色与无对白分镜。"
+    "zh-CN": "探索固定六格布局、重复角色与无对白分镜。",
+    "zh-TW": "探索固定的六格佈局，其中包含重複出現的角色和一個無聲格。",
+    "ja": "おなじみのキャラクターとセリフのないコマを含む、固定された6コマのレイアウトを試します。",
+    "ko": "고정된 6컷 레이아웃 안에서 반복 등장하는 캐릭터와 대사가 없는 컷을 활용해 보세요.",
+    "fr": "Explorer une mise en page fixe à six cases avec des personnages récurrents et une case muette.",
+    "de": "Experimentieren Sie mit einem festen Layout aus sechs Panels, wiederkehrenden Charakteren und einem Panel ohne Text.",
+    "es": "Explora una disposición fija de seis viñetas con personajes recurrentes y una viñeta muda.",
+    "pt-BR": "Explore um layout fixo de seis quadros com personagens recorrentes e um quadro mudo (sem falas)."
   },
   "category": "design",
   "tags": [
@@ -17,7 +30,6 @@
     "print-design"
   ],
   "mode": "generate",
-  "featured": false,
   "model": {
     "family": "GPT Image 2.5",
     "variant": "sunburst",
@@ -30,7 +42,14 @@
     "steps": [
       {
         "en": "a 1960s Sunday newspaper comic strip on yellowed newsprint, six panels in two rows of three. A park ranger and a bear with a notched ear, the same campsite in every panel, dialogue specified word for word, one sound effect, and one panel with no dialogue at all.",
-        "zh": "在泛黄新闻纸上绘制一幅 1960 年代周日报纸连环漫画，六格分成两行，每行三格。主角是公园管理员和一只耳朵有缺口的熊，每格都是同一个露营地；对白逐字指定，包含一个音效，并有一格完全没有对白。"
+        "zh-CN": "在泛黄新闻纸上绘制一幅 1960 年代周日报纸连环漫画，六格分成两行，每行三格。主角是公园管理员和一只耳朵有缺口的熊，每格都是同一个露营地；对白逐字指定，包含一个音效，并有一格完全没有对白。",
+        "zh-TW": "一份 20 世紀 60 年代的周日報紙連環漫畫，印在泛黃的新聞紙上，共六格，分為兩行，每行三格。內容包括一位公園管理員和一隻耳朵缺了一角的熊，每個格子都描繪了同一個露營地，對話逐字逐句地指定，一個音效，以及一個完全沒有對話的格子。",
+        "ja": "黄ばんだ新聞紙に印刷された1960年代の日曜版コミックストリップ。2段×3列の6コマ構成。公園のレンジャーと耳に切れ込みのあるクマが登場し、すべてのコマで同じキャンプ場が描かれています。セリフは一言一句指定され、効果音は1つ、セリフが全くないコマも1つ含まれます。",
+        "ko": "누렇게 변색된 신문 용지에 인쇄된 1960년대 일요 신문 만화로, 3컷씩 2줄로 구성된 6컷 만화입니다. 공원 관리인과 귀 한쪽이 잘린 곰이 등장하며, 모든 컷의 배경은 동일한 캠핑장입니다. 대사는 한 글자도 빠짐없이 지정되어 있고, 효과음 하나와 대사가 전혀 없는 컷이 하나 포함됩니다.",
+        "fr": "Une bande dessinée dominicale des années 1960 sur papier journal jauni, composée de six cases réparties sur deux rangées de trois. Un garde forestier et un ours à l'oreille entaillée, le même campement dans chaque case, des dialogues indiqués mot pour mot, une onomatopée et une case sans aucun dialogue.",
+        "de": "Ein Zeitungs-Comicstrip für die Sonntagsausgabe im Stil der 1960er Jahre auf vergilbtem Zeitungspapier; sechs Panels, angeordnet in zwei Reihen zu je drei Bildern. Zu sehen sind ein Parkranger und ein Bär mit einem eingerissenen Ohr; der Schauplatz (ein Campingplatz) bleibt in allen Panels gleich. Der Dialog ist wortwörtlich vorgegeben, dazu gibt es einen Soundeffekt und ein Panel ganz ohne Text.",
+        "es": "Una tira cómica dominical de los años 60 impresa en papel prensa amarillento, con seis viñetas distribuidas en dos filas de tres. Aparecen un guardabosques y un oso con una muesca en la oreja; el escenario es el mismo campamento en todas las viñetas; se especifica el diálogo palabra por palabra, se incluye un efecto de sonido y hay una viñeta sin ningún diálogo.",
+        "pt-BR": "uma tira de jornal de domingo dos anos 1960 em papel-jornal amarelado, com seis quadros dispostos em duas fileiras de três. Um guarda-florestal e um urso com uma orelha marcada (com um corte), o mesmo acampamento em todos os quadros, diálogos especificados palavra por palavra, um efeito sonoro e um quadro sem nenhum diálogo."
       }
     ],
     "original_steps": [
@@ -41,15 +60,36 @@
   "notes": [
     {
       "en": "The creator’s parent thread identifies GPT Image 2.5 Sunburst and says GPT Image 2 is on the left and 2.5 on the right. This preview links the second source image. This is a creator claim, not a maintainer test.",
-      "zh": "作者在线程首帖中标明 GPT Image 2.5 Sunburst，并说明左侧为 GPT Image 2、右侧为 2.5。此处预览链接第二张原帖图片。这是作者声明，不是维护者复测。"
+      "zh-CN": "作者在线程首帖中标明 GPT Image 2.5 Sunburst，并说明左侧为 GPT Image 2、右侧为 2.5。此处预览链接第二张原帖图片。这是作者声明，不是维护者复测。",
+      "zh-TW": "創作者的父主題貼文中標識了 GPT Image 2.5 Sunburst，並指出 GPT 圖像 2 在左側，2.5 在右側。此預覽連結到第二個來源圖像。這是創建者的聲明，而非維護者的測試。",
+      "ja": "作成者の親スレッドでは、GPT Image 2.5 Sunburstが特定され、GPT Image 2が左側、2.5が右側にあるとされています。このプレビューは、2番目のソース画像へのリンクです。これは作成者による主張であり、メンテナーによるテストではありません。",
+      "ko": "제작자의 원본 스레드에서는 GPT Image 2.5 Sunburst를 언급하며 왼쪽은 GPT Image 2, 오른쪽은 2.5 버전이라고 밝히고 있습니다. 이 미리보기는 두 번째 원본 이미지를 참조합니다. 이는 제작자의 주장이며, 관리자의 테스트 결과가 아닙니다.",
+      "fr": "Le fil de discussion parent du créateur identifie GPT Image 2.5 Sunburst et indique que l'image GPT 2 est à gauche et 2,5 à droite. Cet aperçu relie la deuxième image source. Il s'agit d'une réclamation du créateur, pas d'un test du responsable.",
+      "de": "Der ursprüngliche Beitrag des Erstellers verweist auf „GPT Image 2.5 Sunburst“ und gibt an, dass sich „GPT Image 2“ auf der linken und „2.5“ auf der rechten Seite befindet. Diese Vorschau verlinkt das zweite Quellbild. Dies ist eine Behauptung des Erstellers, kein Test durch die Betreuer.",
+      "es": "El hilo original del creador identifica la imagen GPT Image 2.5 Sunburst y señala que la imagen GPT 2 está a la izquierda y la 2.5 a la derecha. Esta vista previa enlaza con la segunda imagen de referencia. Se trata de una afirmación del creador, no de una prueba realizada por el responsable del mantenimiento.",
+      "pt-BR": "A discussão original do criador identifica o GPT Image 2.5 Sunburst e indica que a Imagem GPT 2 está à esquerda e a 2.5, à direita. Esta prévia vincula a segunda imagem de referência. Trata-se de uma afirmação do criador, não de um teste realizado pelo responsável pela manutenção."
     },
     {
       "en": "The English block preserves the published brief, excluding its “Prompt N:” label. Engagement belongs to this individual reply, not the entire comparison thread.",
-      "zh": "英文块保留已发布的提示词，去掉“Prompt N:”编号标签。互动量属于这条独立回复，不是整个对比线程。"
+      "zh-CN": "英文块保留已发布的提示词，去掉“Prompt N:”编号标签。互动量属于这条独立回复，不是整个对比线程。",
+      "zh-TW": "英文文字區塊保留了已發布的簡報，但不包括其「提示 N:」標籤。互動屬於此回复，而非整個比較主題帖。",
+      "ja": "英語のブロックは、「Prompt N:」ラベルを除き、公開された概要を保持しています。エンゲージメントは、比較スレッド全体ではなく、この個別の返信に帰属します。",
+      "ko": "영어 텍스트 블록은 'Prompt N:'이라는 라벨을 제외하고 공개된 의뢰 내용을 그대로 유지합니다. 반응(engagement)은 전체 비교 스레드가 아닌 이 개별 답변에 대한 것입니다.",
+      "fr": "Le bloc anglais conserve le mémoire publié, à l'exclusion de son étiquette « Prompt N : ». L'engagement appartient à cette réponse individuelle, et non à l'ensemble du fil de comparaison.",
+      "de": "Der englische Textblock gibt die ursprüngliche Aufgabenstellung wieder, jedoch ohne die Bezeichnung „Prompt N:“. Interaktionen beziehen sich auf diese einzelne Antwort, nicht auf den gesamten Vergleichs-Thread.",
+      "es": "El bloque en inglés conserva la descripción original publicada, excluyendo la etiqueta \"Prompt N:\". La interacción corresponde a esta respuesta individual, no a todo el hilo comparativo.",
+      "pt-BR": "O bloco em inglês preserva a descrição original do pedido, excluindo o rótulo \"Prompt N:\". O engajamento refere-se a esta resposta específica, e não a toda a discussão comparativa."
     },
     {
       "en": "The published brief asks for word-for-word dialogue but supplies no actual dialogue. Add your own dialogue separately when adapting it; this catalog does not invent missing source text.",
-      "zh": "公开提示词要求逐字对白，却没有提供具体对白。改编时请另外写明自己的对白；本目录不补造缺失的原文。"
+      "zh-CN": "公开提示词要求逐字对白，却没有提供具体对白。改编时请另外写明自己的对白；本目录不补造缺失的原文。",
+      "zh-TW": "已發布的簡報要求逐字逐句地提供對話，但沒有提供實際的對話內容。改編時請單獨加入自己的對話；本目錄不負責虛構缺少的原文。",
+      "ja": "公開された指示（ブリーフ）ではセリフの一言一句が求められていますが、実際のセリフは提供されていません。翻案する際は、独自のセリフを別途追加してください。このカタログでは、欠落している元のテキストを創作することはありません。",
+      "ko": "공개된 과제 설명(브리프)에는 대사를 그대로 사용하라고 명시되어 있으나 실제 대사 내용은 제공되지 않습니다. 이를 작업할 때는 대사를 직접 추가해야 합니다. 이 카탈로그는 누락된 원본 텍스트를 임의로 생성하지 않습니다.",
+      "fr": "Le brief publié exige des dialogues mot pour mot mais ne fournit pas les dialogues eux-mêmes. Ajoutez vos propres dialogues lors de l'adaptation ; ce catalogue n'invente pas le texte source manquant.",
+      "de": "Die veröffentlichte Aufgabenstellung verlangt einen wortwörtlichen Dialog, liefert aber keinen konkreten Text dazu. Fügen Sie bei der Umsetzung Ihren eigenen Dialog hinzu; dieser Katalog ergänzt keine fehlenden Quelltexte.",
+      "es": "Las instrucciones publicadas solicitan un diálogo palabra por palabra, pero no proporcionan el texto real. Añade tu propio diálogo por separado al realizar la adaptación; este catálogo no inventa el texto original que falta.",
+      "pt-BR": "O briefing publicado solicita diálogos palavra por palavra, mas não fornece o texto real do diálogo. Adicione seu próprio diálogo separadamente ao fazer a adaptação; este catálogo não inventa textos de origem ausentes."
     }
   ],
   "source": {
@@ -88,111 +128,32 @@
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
   },
-  "localizations": {
-    "zh-TW": {
-      "title": "六格報紙漫畫",
-      "summary": "探索固定的六格佈局，其中包含重複出現的角色和一個無聲格。",
-      "steps": [
-        "一份 20 世紀 60 年代的周日報紙連環漫畫，印在泛黃的新聞紙上，共六格，分為兩行，每行三格。內容包括一位公園管理員和一隻耳朵缺了一角的熊，每個格子都描繪了同一個露營地，對話逐字逐句地指定，一個音效，以及一個完全沒有對話的格子。"
-      ],
-      "inputs": [],
-      "notes": [
-        "創作者的父主題貼文中標識了 GPT Image 2.5 Sunburst，並指出 GPT 圖像 2 在左側，2.5 在右側。此預覽連結到第二個來源圖像。這是創建者的聲明，而非維護者的測試。",
-        "英文文字區塊保留了已發布的簡報，但不包括其「提示 N:」標籤。互動屬於此回复，而非整個比較主題帖。",
-        "已發布的簡報要求逐字逐句地提供對話，但沒有提供實際的對話內容。改編時請單獨加入自己的對話；本目錄不負責虛構缺少的原文。"
-      ],
-      "source_digest": "e61f4260f02e9a0e747b537de982aed59f57f87aad7c0f3f8795526125449602",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ja": {
-      "title": "6コマの新聞漫画",
-      "summary": "おなじみのキャラクターとセリフのないコマを含む、固定された6コマのレイアウトを試します。",
-      "steps": [
-        "黄ばんだ新聞紙に印刷された1960年代の日曜版コミックストリップ。2段×3列の6コマ構成。公園のレンジャーと耳に切れ込みのあるクマが登場し、すべてのコマで同じキャンプ場が描かれています。セリフは一言一句指定され、効果音は1つ、セリフが全くないコマも1つ含まれます。"
-      ],
-      "inputs": [],
-      "notes": [
-        "作成者の親スレッドでは、GPT Image 2.5 Sunburstが特定され、GPT Image 2が左側、2.5が右側にあるとされています。このプレビューは、2番目のソース画像へのリンクです。これは作成者による主張であり、メンテナーによるテストではありません。",
-        "英語のブロックは、「Prompt N:」ラベルを除き、公開された概要を保持しています。エンゲージメントは、比較スレッド全体ではなく、この個別の返信に帰属します。",
-        "公開された指示（ブリーフ）ではセリフの一言一句が求められていますが、実際のセリフは提供されていません。翻案する際は、独自のセリフを別途追加してください。このカタログでは、欠落している元のテキストを創作することはありません。"
-      ],
-      "source_digest": "e61f4260f02e9a0e747b537de982aed59f57f87aad7c0f3f8795526125449602",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ko": {
-      "title": "6컷 신문 만화",
-      "summary": "고정된 6컷 레이아웃 안에서 반복 등장하는 캐릭터와 대사가 없는 컷을 활용해 보세요.",
-      "steps": [
-        "누렇게 변색된 신문 용지에 인쇄된 1960년대 일요 신문 만화로, 3컷씩 2줄로 구성된 6컷 만화입니다. 공원 관리인과 귀 한쪽이 잘린 곰이 등장하며, 모든 컷의 배경은 동일한 캠핑장입니다. 대사는 한 글자도 빠짐없이 지정되어 있고, 효과음 하나와 대사가 전혀 없는 컷이 하나 포함됩니다."
-      ],
-      "inputs": [],
-      "notes": [
-        "제작자의 원본 스레드에서는 GPT Image 2.5 Sunburst를 언급하며 왼쪽은 GPT Image 2, 오른쪽은 2.5 버전이라고 밝히고 있습니다. 이 미리보기는 두 번째 원본 이미지를 참조합니다. 이는 제작자의 주장이며, 관리자의 테스트 결과가 아닙니다.",
-        "영어 텍스트 블록은 'Prompt N:'이라는 라벨을 제외하고 공개된 의뢰 내용을 그대로 유지합니다. 반응(engagement)은 전체 비교 스레드가 아닌 이 개별 답변에 대한 것입니다.",
-        "공개된 과제 설명(브리프)에는 대사를 그대로 사용하라고 명시되어 있으나 실제 대사 내용은 제공되지 않습니다. 이를 작업할 때는 대사를 직접 추가해야 합니다. 이 카탈로그는 누락된 원본 텍스트를 임의로 생성하지 않습니다."
-      ],
-      "source_digest": "e61f4260f02e9a0e747b537de982aed59f57f87aad7c0f3f8795526125449602",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "fr": {
-      "title": "Bande dessinée de presse en six cases",
-      "summary": "Explorer une mise en page fixe à six cases avec des personnages récurrents et une case muette.",
-      "steps": [
-        "Une bande dessinée dominicale des années 1960 sur papier journal jauni, composée de six cases réparties sur deux rangées de trois. Un garde forestier et un ours à l'oreille entaillée, le même campement dans chaque case, des dialogues indiqués mot pour mot, une onomatopée et une case sans aucun dialogue."
-      ],
-      "inputs": [],
-      "notes": [
-        "Le fil de discussion parent du créateur identifie GPT Image 2.5 Sunburst et indique que l'image GPT 2 est à gauche et 2,5 à droite. Cet aperçu relie la deuxième image source. Il s'agit d'une réclamation du créateur, pas d'un test du responsable.",
-        "Le bloc anglais conserve le mémoire publié, à l'exclusion de son étiquette « Prompt N : ». L'engagement appartient à cette réponse individuelle, et non à l'ensemble du fil de comparaison.",
-        "Le brief publié exige des dialogues mot pour mot mais ne fournit pas les dialogues eux-mêmes. Ajoutez vos propres dialogues lors de l'adaptation ; ce catalogue n'invente pas le texte source manquant."
-      ],
-      "source_digest": "e61f4260f02e9a0e747b537de982aed59f57f87aad7c0f3f8795526125449602",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "de": {
-      "title": "Zeitungs-Comic mit sechs Panels",
-      "summary": "Experimentieren Sie mit einem festen Layout aus sechs Panels, wiederkehrenden Charakteren und einem Panel ohne Text.",
-      "steps": [
-        "Ein Zeitungs-Comicstrip für die Sonntagsausgabe im Stil der 1960er Jahre auf vergilbtem Zeitungspapier; sechs Panels, angeordnet in zwei Reihen zu je drei Bildern. Zu sehen sind ein Parkranger und ein Bär mit einem eingerissenen Ohr; der Schauplatz (ein Campingplatz) bleibt in allen Panels gleich. Der Dialog ist wortwörtlich vorgegeben, dazu gibt es einen Soundeffekt und ein Panel ganz ohne Text."
-      ],
-      "inputs": [],
-      "notes": [
-        "Der ursprüngliche Beitrag des Erstellers verweist auf „GPT Image 2.5 Sunburst“ und gibt an, dass sich „GPT Image 2“ auf der linken und „2.5“ auf der rechten Seite befindet. Diese Vorschau verlinkt das zweite Quellbild. Dies ist eine Behauptung des Erstellers, kein Test durch die Betreuer.",
-        "Der englische Textblock gibt die ursprüngliche Aufgabenstellung wieder, jedoch ohne die Bezeichnung „Prompt N:“. Interaktionen beziehen sich auf diese einzelne Antwort, nicht auf den gesamten Vergleichs-Thread.",
-        "Die veröffentlichte Aufgabenstellung verlangt einen wortwörtlichen Dialog, liefert aber keinen konkreten Text dazu. Fügen Sie bei der Umsetzung Ihren eigenen Dialog hinzu; dieser Katalog ergänzt keine fehlenden Quelltexte."
-      ],
-      "source_digest": "e61f4260f02e9a0e747b537de982aed59f57f87aad7c0f3f8795526125449602",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "es": {
-      "title": "Historieta de prensa de seis viñetas",
-      "summary": "Explora una disposición fija de seis viñetas con personajes recurrentes y una viñeta muda.",
-      "steps": [
-        "Una tira cómica dominical de los años 60 impresa en papel prensa amarillento, con seis viñetas distribuidas en dos filas de tres. Aparecen un guardabosques y un oso con una muesca en la oreja; el escenario es el mismo campamento en todas las viñetas; se especifica el diálogo palabra por palabra, se incluye un efecto de sonido y hay una viñeta sin ningún diálogo."
-      ],
-      "inputs": [],
-      "notes": [
-        "El hilo original del creador identifica la imagen GPT Image 2.5 Sunburst y señala que la imagen GPT 2 está a la izquierda y la 2.5 a la derecha. Esta vista previa enlaza con la segunda imagen de referencia. Se trata de una afirmación del creador, no de una prueba realizada por el responsable del mantenimiento.",
-        "El bloque en inglés conserva la descripción original publicada, excluyendo la etiqueta \"Prompt N:\". La interacción corresponde a esta respuesta individual, no a todo el hilo comparativo.",
-        "Las instrucciones publicadas solicitan un diálogo palabra por palabra, pero no proporcionan el texto real. Añade tu propio diálogo por separado al realizar la adaptación; este catálogo no inventa el texto original que falta."
-      ],
-      "source_digest": "e61f4260f02e9a0e747b537de982aed59f57f87aad7c0f3f8795526125449602",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "pt-BR": {
-      "title": "Tira de jornal em quadrinhos com seis quadros",
-      "summary": "Explore um layout fixo de seis quadros com personagens recorrentes e um quadro mudo (sem falas).",
-      "steps": [
-        "uma tira de jornal de domingo dos anos 1960 em papel-jornal amarelado, com seis quadros dispostos em duas fileiras de três. Um guarda-florestal e um urso com uma orelha marcada (com um corte), o mesmo acampamento em todos os quadros, diálogos especificados palavra por palavra, um efeito sonoro e um quadro sem nenhum diálogo."
-      ],
-      "inputs": [],
-      "notes": [
-        "A discussão original do criador identifica o GPT Image 2.5 Sunburst e indica que a Imagem GPT 2 está à esquerda e a 2.5, à direita. Esta prévia vincula a segunda imagem de referência. Trata-se de uma afirmação do criador, não de um teste realizado pelo responsável pela manutenção.",
-        "O bloco em inglês preserva a descrição original do pedido, excluindo o rótulo \"Prompt N:\". O engajamento refere-se a esta resposta específica, e não a toda a discussão comparativa.",
-        "O briefing publicado solicita diálogos palavra por palavra, mas não fornece o texto real do diálogo. Adicione seu próprio diálogo separadamente ao fazer a adaptação; este catálogo não inventa textos de origem ausentes."
-      ],
-      "source_digest": "e61f4260f02e9a0e747b537de982aed59f57f87aad7c0f3f8795526125449602",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+  "translation_meta": {
+    "source_digest": "20a7ac94270170436caddb78ac0417adcfc0b56b9dba7476bd0b5d4fbcae2e21",
+    "text_digests": {
+      "zh-CN": "fcbae4c9131cd15bf6a6cf4a54e9008e8ef277eccae28185e0e782230b6b9362",
+      "zh-TW": "81c5c21cfdac2b55b058e109fb290663630a039cea46970b86dffed39cd7a5f9",
+      "ja": "167aded1acee339da02df2b32adce497766f6fa3818266dd8c79ef879613eea3",
+      "ko": "03fee1f9fa92aab08f7c0dda3ccd206ea6f17e0fd554881a3e3f2050a26ea396",
+      "fr": "59e7b19cd16868db84fc4e25beebdb0313fbb0fbcd54cff7e77f94080e7f6c94",
+      "de": "fb99e994779492c7c768c38cadbe208f78ca2af1a51d7bb9f5b4567b3333d9f9",
+      "es": "a1a53f8536eb39c5c70ee00c80ab6ae23072bfb658436f30a2da1d37a27c4820",
+      "pt-BR": "fac5e38bb2c5f695d5f271f163b3ad9f0527c4b5c076b7509f3cebb7143a47a4"
     }
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:12:37.880Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": true,
+    "ratings": {
+      "reuse": 2,
+      "result": 3,
+      "usefulness": 3,
+      "clarity": 2,
+      "distinctiveness": 3
+    },
+    "rationale": "The six-panel structure is visible, but the instruction requests word-for-word dialogue without supplying it. Kept as a layout lesson with that missing input disclosed."
   }
 }

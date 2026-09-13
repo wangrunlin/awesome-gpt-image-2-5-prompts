@@ -1,13 +1,26 @@
 {
-  "schema_version": 1,
   "id": "espresso-service-manual",
   "title": {
     "en": "Espresso machine service-manual diagram",
-    "zh": "咖啡机维修手册剖面图"
+    "zh-CN": "咖啡机维修手册剖面图",
+    "zh-TW": "義式咖啡機維修手冊圖解",
+    "ja": "エスプレッソマシンのサービスマニュアル用図面",
+    "ko": "에스프레소 머신 정비 매뉴얼 도해",
+    "fr": "Schéma technique pour manuel d'entretien de machine à expresso",
+    "de": "Diagramm aus einem Servicehandbuch für eine Espressomaschine",
+    "es": "Diagrama de manual de servicio de una máquina de café espresso",
+    "pt-BR": "Diagrama de manual de serviço de máquina de café expresso"
   },
   "summary": {
     "en": "Combine a cutaway illustration, numbered labels, a legend, and an exact title block.",
-    "zh": "将剖面插画、编号标注、图例与指定标题组合在一页中。"
+    "zh-CN": "将剖面插画、编号标注、图例与指定标题组合在一页中。",
+    "zh-TW": "結合剖面圖、編號標籤、圖例和精確的標題列。",
+    "ja": "カットアウェイ（断面）イラスト、番号付きラベル、凡例、および正確なタイトルブロックを組み合わせる。",
+    "ko": "단면도(cutaway illustration), 번호가 매겨진 라벨, 범례, 그리고 정확한 제목란(title block)을 결합하십시오.",
+    "fr": "Combinez une vue en coupe, des repères numérotés, une légende et un cartouche précis.",
+    "de": "Kombinieren Sie eine Schnittdarstellung, nummerierte Beschriftungen, eine Legende und ein präzises Schriftfeld.",
+    "es": "Combine una ilustración en corte (sección), etiquetas numeradas, una leyenda y un cuadro de rotulación preciso.",
+    "pt-BR": "Combine uma ilustração em corte, rótulos numerados, uma legenda e um bloco de título preciso."
   },
   "category": "design",
   "tags": [
@@ -17,7 +30,6 @@
     "print-design"
   ],
   "mode": "generate",
-  "featured": true,
   "model": {
     "family": "GPT Image 2.5",
     "variant": "sunburst",
@@ -30,7 +42,14 @@
     "steps": [
       {
         "en": "a domestic espresso machine drawn in section, 1960s service manual style, fine black line work with flat spot colour on cream paper. Fourteen numbered leader lines, a key down the right listing all fourteen parts, a scale bar in centimetres, and a title block reading FIG. 3 SECTIONAL VIEW MODEL C2.",
-        "zh": "绘制一台家用意式咖啡机的剖面图，采用 1960 年代维修手册风格：奶油色纸张、精细黑色线条和平涂专色。包含十四条编号引线，右侧图例列出全部十四个部件，使用厘米比例尺，标题栏写上 FIG. 3 SECTIONAL VIEW MODEL C2。"
+        "zh-CN": "绘制一台家用意式咖啡机的剖面图，采用 1960 年代维修手册风格：奶油色纸张、精细黑色线条和平涂专色。包含十四条编号引线，右侧图例列出全部十四个部件，使用厘米比例尺，标题栏写上 FIG. 3 SECTIONAL VIEW MODEL C2。",
+        "zh-TW": "家用義式咖啡機剖面圖，20世紀60年代維修手冊風格，米色紙張上繪製精細的黑色線條，並輔以局部著色。十四條編號的引導線，右側的圖例列出了所有十四個部件，厘米比例尺，以及標題欄 FIG. 3 SECTIONAL VIEW MODEL C2。",
+        "ja": "家庭用エスプレッソマシンの断面図。1960年代のサービスマニュアル風のスタイルで、クリーム色の紙に黒の細い線画とフラットな特色（スポットカラー）を使用。14本の番号付き引き出し線、右側に全14部品を記載した凡例、センチメートル単位のスケールバー、「FIG. 3 SECTIONAL VIEW MODEL C2」と記されたタイトルブロックを配置する。",
+        "ko": "가정용 에스프레소 머신의 단면도. 1960년대 정비 매뉴얼 스타일로, 크림색 종이 위에 검은색 세밀한 선과 평면적인 별색(spot colour)을 사용함. 14개의 번호가 매겨진 지시선(leader lines), 우측에 14개 부품을 나열한 범례, 센티미터 단위의 스케일 바, 그리고 'FIG. 3 SECTIONAL VIEW MODEL C2'라고 적힌 제목란 포함.",
+        "fr": "Vue en coupe d'une machine à expresso domestique, style manuel d'entretien des années 1960, trait noir fin avec aplats de couleur sur papier crème. Quatorze lignes de repérage numérotées, une légende sur la droite énumérant les quatorze pièces, une échelle graphique en centimètres et un cartouche portant la mention FIG. 3 SECTIONAL VIEW MODEL C2.",
+        "de": "Schnittzeichnung einer Espressomaschine für den Hausgebrauch im Stil eines Servicehandbuchs der 1960er Jahre; feine schwarze Linienführung mit flächigen Sonderfarben auf cremefarbenem Papier. Vierzehn nummerierte Hinweislinien, eine Legende auf der rechten Seite mit der Auflistung aller vierzehn Teile, ein Maßstabsbalken in Zentimetern sowie ein Schriftfeld mit der Bezeichnung FIG. 3 SECTIONAL VIEW MODEL C2.",
+        "es": "Una máquina de café espresso doméstica representada en sección, estilo de manual de servicio de los años 60, trazo fino en negro con colores planos sobre papel color crema. Catorce líneas de referencia numeradas, una leyenda a la derecha que enumera las catorce piezas, una barra de escala en centímetros y un cuadro de rotulación con el texto FIG. 3 SECTIONAL VIEW MODEL C2.",
+        "pt-BR": "uma máquina de café expresso doméstica desenhada em corte, estilo de manual de serviço dos anos 1960, traços finos em preto com cor sólida (spot color) sobre papel creme. Quatorze linhas indicadoras numeradas, uma legenda à direita listando todas as quatorze peças, uma barra de escala em centímetros e um bloco de título com a inscrição FIG. 3 SECTIONAL VIEW MODEL C2."
       }
     ],
     "original_steps": [
@@ -41,15 +60,36 @@
   "notes": [
     {
       "en": "The creator’s parent thread identifies GPT Image 2.5 Sunburst and says GPT Image 2 is on the left and 2.5 on the right. This preview links the second source image. This is a creator claim, not a maintainer test.",
-      "zh": "作者在线程首帖中标明 GPT Image 2.5 Sunburst，并说明左侧为 GPT Image 2、右侧为 2.5。此处预览链接第二张原帖图片。这是作者声明，不是维护者复测。"
+      "zh-CN": "作者在线程首帖中标明 GPT Image 2.5 Sunburst，并说明左侧为 GPT Image 2、右侧为 2.5。此处预览链接第二张原帖图片。这是作者声明，不是维护者复测。",
+      "zh-TW": "創作者的父主題貼文中標識了 GPT Image 2.5 Sunburst，並指出 GPT 圖像 2 在左側，2.5 在右側。此預覽連結到第二個來源圖像。這是創建者的聲明，而非維護者的測試。",
+      "ja": "作成者の親スレッドでは、GPT Image 2.5 Sunburstが特定され、GPT Image 2が左側、2.5が右側にあるとされています。このプレビューは、2番目のソース画像へのリンクです。これは作成者による主張であり、メンテナーによるテストではありません。",
+      "ko": "제작자의 원본 스레드에서는 GPT Image 2.5 Sunburst를 언급하며 왼쪽은 GPT Image 2, 오른쪽은 2.5 버전이라고 밝히고 있습니다. 이 미리보기는 두 번째 원본 이미지를 참조합니다. 이는 제작자의 주장이며, 관리자의 테스트 결과가 아닙니다.",
+      "fr": "Le fil de discussion parent du créateur identifie GPT Image 2.5 Sunburst et indique que l'image GPT 2 est à gauche et 2,5 à droite. Cet aperçu relie la deuxième image source. Il s'agit d'une réclamation du créateur, pas d'un test du responsable.",
+      "de": "Der ursprüngliche Beitrag des Erstellers verweist auf „GPT Image 2.5 Sunburst“ und gibt an, dass sich „GPT Image 2“ auf der linken und „2.5“ auf der rechten Seite befindet. Diese Vorschau verlinkt das zweite Quellbild. Dies ist eine Behauptung des Erstellers, kein Test durch die Betreuer.",
+      "es": "El hilo original del creador identifica la imagen GPT Image 2.5 Sunburst y señala que la imagen GPT 2 está a la izquierda y la 2.5 a la derecha. Esta vista previa enlaza con la segunda imagen de referencia. Se trata de una afirmación del creador, no de una prueba realizada por el responsable del mantenimiento.",
+      "pt-BR": "A discussão original do criador identifica o GPT Image 2.5 Sunburst e indica que a Imagem GPT 2 está à esquerda e a 2.5, à direita. Esta prévia vincula a segunda imagem de referência. Trata-se de uma afirmação do criador, não de um teste realizado pelo responsável pela manutenção."
     },
     {
       "en": "The English block preserves the published brief, excluding its “Prompt N:” label. Engagement belongs to this individual reply, not the entire comparison thread.",
-      "zh": "英文块保留已发布的提示词，去掉“Prompt N:”编号标签。互动量属于这条独立回复，不是整个对比线程。"
+      "zh-CN": "英文块保留已发布的提示词，去掉“Prompt N:”编号标签。互动量属于这条独立回复，不是整个对比线程。",
+      "zh-TW": "英文文字區塊保留了已發布的簡報，但不包括其「提示 N:」標籤。互動屬於此回复，而非整個比較主題帖。",
+      "ja": "英語のブロックは、「Prompt N:」ラベルを除き、公開された概要を保持しています。エンゲージメントは、比較スレッド全体ではなく、この個別の返信に帰属します。",
+      "ko": "영어 텍스트 블록은 'Prompt N:'이라는 라벨을 제외하고 공개된 의뢰 내용을 그대로 유지합니다. 반응(engagement)은 전체 비교 스레드가 아닌 이 개별 답변에 대한 것입니다.",
+      "fr": "Le bloc anglais conserve le mémoire publié, à l'exclusion de son étiquette « Prompt N : ». L'engagement appartient à cette réponse individuelle, et non à l'ensemble du fil de comparaison.",
+      "de": "Der englische Textblock gibt die ursprüngliche Aufgabenstellung wieder, jedoch ohne die Bezeichnung „Prompt N:“. Interaktionen beziehen sich auf diese einzelne Antwort, nicht auf den gesamten Vergleichs-Thread.",
+      "es": "El bloque en inglés conserva la descripción original publicada, excluyendo la etiqueta \"Prompt N:\". La interacción corresponde a esta respuesta individual, no a todo el hilo comparativo.",
+      "pt-BR": "O bloco em inglês preserva a descrição original do pedido, excluindo o rótulo \"Prompt N:\". O engajamento refere-se a esta resposta específica, e não a toda a discussão comparativa."
     },
     {
       "en": "This is an illustration/layout exercise, not a verified repair diagram. The source does not list the fourteen part names; supply exact labels for a real documentation project.",
-      "zh": "这是插画与排版练习，不是已验证的维修图。原文没有列出十四个部件名称；用于真实文档时需补充准确标签。"
+      "zh-CN": "这是插画与排版练习，不是已验证的维修图。原文没有列出十四个部件名称；用于真实文档时需补充准确标签。",
+      "zh-TW": "這是一張插圖/版面練習圖，並非經過驗證的維修圖。原圖未列出十四個部件的名稱；請為實際的文件項目提供準確的標籤。",
+      "ja": "これはイラストおよびレイアウトの演習であり、検証済みの修理用図面ではありません。元データには14個の部品名が記載されていないため、実際のドキュメント作成プロジェクトでは正確なラベルを付与してください。",
+      "ko": "이것은 일러스트레이션 및 레이아웃 연습용 자료이며, 실제 검증된 수리용 도면이 아닙니다. 원본 소스에는 14개 부품의 명칭이 명시되어 있지 않으므로, 실제 문서화 프로젝트에서는 정확한 명칭을 기입해야 합니다.",
+      "fr": "Il s'agit d'un exercice d'illustration et de mise en page, et non d'un schéma de réparation certifié. La source ne liste pas les noms des quatorze pièces ; fournissez des libellés exacts pour un véritable projet de documentation.",
+      "de": "Dies ist eine Übung für Illustration und Layout, kein verifiziertes Reparaturdiagramm. Die Quelle nennt die Namen der vierzehn Teile nicht; für ein echtes Dokumentationsprojekt müssten präzise Bezeichnungen ergänzt werden.",
+      "es": "Este es un ejercicio de ilustración y composición, no un diagrama de reparación verificado. La fuente original no enumera los nombres de las catorce piezas; proporcione etiquetas exactas para un proyecto de documentación real.",
+      "pt-BR": "Este é um exercício de ilustração/layout, não um diagrama de reparo verificado. A fonte não lista os nomes das quatorze peças; forneça rótulos precisos para um projeto de documentação real."
     }
   ],
   "source": {
@@ -88,111 +128,32 @@
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
   },
-  "localizations": {
-    "zh-TW": {
-      "title": "義式咖啡機維修手冊圖解",
-      "summary": "結合剖面圖、編號標籤、圖例和精確的標題列。",
-      "steps": [
-        "家用義式咖啡機剖面圖，20世紀60年代維修手冊風格，米色紙張上繪製精細的黑色線條，並輔以局部著色。十四條編號的引導線，右側的圖例列出了所有十四個部件，厘米比例尺，以及標題欄 FIG. 3 SECTIONAL VIEW MODEL C2。"
-      ],
-      "inputs": [],
-      "notes": [
-        "創作者的父主題貼文中標識了 GPT Image 2.5 Sunburst，並指出 GPT 圖像 2 在左側，2.5 在右側。此預覽連結到第二個來源圖像。這是創建者的聲明，而非維護者的測試。",
-        "英文文字區塊保留了已發布的簡報，但不包括其「提示 N:」標籤。互動屬於此回复，而非整個比較主題帖。",
-        "這是一張插圖/版面練習圖，並非經過驗證的維修圖。原圖未列出十四個部件的名稱；請為實際的文件項目提供準確的標籤。"
-      ],
-      "source_digest": "f62a5b8fc0a07c319d37f4df11c0b6e938310a5202629318fa80aa573900fd97",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ja": {
-      "title": "エスプレッソマシンのサービスマニュアル用図面",
-      "summary": "カットアウェイ（断面）イラスト、番号付きラベル、凡例、および正確なタイトルブロックを組み合わせる。",
-      "steps": [
-        "家庭用エスプレッソマシンの断面図。1960年代のサービスマニュアル風のスタイルで、クリーム色の紙に黒の細い線画とフラットな特色（スポットカラー）を使用。14本の番号付き引き出し線、右側に全14部品を記載した凡例、センチメートル単位のスケールバー、「FIG. 3 SECTIONAL VIEW MODEL C2」と記されたタイトルブロックを配置する。"
-      ],
-      "inputs": [],
-      "notes": [
-        "作成者の親スレッドでは、GPT Image 2.5 Sunburstが特定され、GPT Image 2が左側、2.5が右側にあるとされています。このプレビューは、2番目のソース画像へのリンクです。これは作成者による主張であり、メンテナーによるテストではありません。",
-        "英語のブロックは、「Prompt N:」ラベルを除き、公開された概要を保持しています。エンゲージメントは、比較スレッド全体ではなく、この個別の返信に帰属します。",
-        "これはイラストおよびレイアウトの演習であり、検証済みの修理用図面ではありません。元データには14個の部品名が記載されていないため、実際のドキュメント作成プロジェクトでは正確なラベルを付与してください。"
-      ],
-      "source_digest": "f62a5b8fc0a07c319d37f4df11c0b6e938310a5202629318fa80aa573900fd97",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ko": {
-      "title": "에스프레소 머신 정비 매뉴얼 도해",
-      "summary": "단면도(cutaway illustration), 번호가 매겨진 라벨, 범례, 그리고 정확한 제목란(title block)을 결합하십시오.",
-      "steps": [
-        "가정용 에스프레소 머신의 단면도. 1960년대 정비 매뉴얼 스타일로, 크림색 종이 위에 검은색 세밀한 선과 평면적인 별색(spot colour)을 사용함. 14개의 번호가 매겨진 지시선(leader lines), 우측에 14개 부품을 나열한 범례, 센티미터 단위의 스케일 바, 그리고 'FIG. 3 SECTIONAL VIEW MODEL C2'라고 적힌 제목란 포함."
-      ],
-      "inputs": [],
-      "notes": [
-        "제작자의 원본 스레드에서는 GPT Image 2.5 Sunburst를 언급하며 왼쪽은 GPT Image 2, 오른쪽은 2.5 버전이라고 밝히고 있습니다. 이 미리보기는 두 번째 원본 이미지를 참조합니다. 이는 제작자의 주장이며, 관리자의 테스트 결과가 아닙니다.",
-        "영어 텍스트 블록은 'Prompt N:'이라는 라벨을 제외하고 공개된 의뢰 내용을 그대로 유지합니다. 반응(engagement)은 전체 비교 스레드가 아닌 이 개별 답변에 대한 것입니다.",
-        "이것은 일러스트레이션 및 레이아웃 연습용 자료이며, 실제 검증된 수리용 도면이 아닙니다. 원본 소스에는 14개 부품의 명칭이 명시되어 있지 않으므로, 실제 문서화 프로젝트에서는 정확한 명칭을 기입해야 합니다."
-      ],
-      "source_digest": "f62a5b8fc0a07c319d37f4df11c0b6e938310a5202629318fa80aa573900fd97",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "fr": {
-      "title": "Schéma technique pour manuel d'entretien de machine à expresso",
-      "summary": "Combinez une vue en coupe, des repères numérotés, une légende et un cartouche précis.",
-      "steps": [
-        "Vue en coupe d'une machine à expresso domestique, style manuel d'entretien des années 1960, trait noir fin avec aplats de couleur sur papier crème. Quatorze lignes de repérage numérotées, une légende sur la droite énumérant les quatorze pièces, une échelle graphique en centimètres et un cartouche portant la mention FIG. 3 SECTIONAL VIEW MODEL C2."
-      ],
-      "inputs": [],
-      "notes": [
-        "Le fil de discussion parent du créateur identifie GPT Image 2.5 Sunburst et indique que l'image GPT 2 est à gauche et 2,5 à droite. Cet aperçu relie la deuxième image source. Il s'agit d'une réclamation du créateur, pas d'un test du responsable.",
-        "Le bloc anglais conserve le mémoire publié, à l'exclusion de son étiquette « Prompt N : ». L'engagement appartient à cette réponse individuelle, et non à l'ensemble du fil de comparaison.",
-        "Il s'agit d'un exercice d'illustration et de mise en page, et non d'un schéma de réparation certifié. La source ne liste pas les noms des quatorze pièces ; fournissez des libellés exacts pour un véritable projet de documentation."
-      ],
-      "source_digest": "f62a5b8fc0a07c319d37f4df11c0b6e938310a5202629318fa80aa573900fd97",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "de": {
-      "title": "Diagramm aus einem Servicehandbuch für eine Espressomaschine",
-      "summary": "Kombinieren Sie eine Schnittdarstellung, nummerierte Beschriftungen, eine Legende und ein präzises Schriftfeld.",
-      "steps": [
-        "Schnittzeichnung einer Espressomaschine für den Hausgebrauch im Stil eines Servicehandbuchs der 1960er Jahre; feine schwarze Linienführung mit flächigen Sonderfarben auf cremefarbenem Papier. Vierzehn nummerierte Hinweislinien, eine Legende auf der rechten Seite mit der Auflistung aller vierzehn Teile, ein Maßstabsbalken in Zentimetern sowie ein Schriftfeld mit der Bezeichnung FIG. 3 SECTIONAL VIEW MODEL C2."
-      ],
-      "inputs": [],
-      "notes": [
-        "Der ursprüngliche Beitrag des Erstellers verweist auf „GPT Image 2.5 Sunburst“ und gibt an, dass sich „GPT Image 2“ auf der linken und „2.5“ auf der rechten Seite befindet. Diese Vorschau verlinkt das zweite Quellbild. Dies ist eine Behauptung des Erstellers, kein Test durch die Betreuer.",
-        "Der englische Textblock gibt die ursprüngliche Aufgabenstellung wieder, jedoch ohne die Bezeichnung „Prompt N:“. Interaktionen beziehen sich auf diese einzelne Antwort, nicht auf den gesamten Vergleichs-Thread.",
-        "Dies ist eine Übung für Illustration und Layout, kein verifiziertes Reparaturdiagramm. Die Quelle nennt die Namen der vierzehn Teile nicht; für ein echtes Dokumentationsprojekt müssten präzise Bezeichnungen ergänzt werden."
-      ],
-      "source_digest": "f62a5b8fc0a07c319d37f4df11c0b6e938310a5202629318fa80aa573900fd97",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "es": {
-      "title": "Diagrama de manual de servicio de una máquina de café espresso",
-      "summary": "Combine una ilustración en corte (sección), etiquetas numeradas, una leyenda y un cuadro de rotulación preciso.",
-      "steps": [
-        "Una máquina de café espresso doméstica representada en sección, estilo de manual de servicio de los años 60, trazo fino en negro con colores planos sobre papel color crema. Catorce líneas de referencia numeradas, una leyenda a la derecha que enumera las catorce piezas, una barra de escala en centímetros y un cuadro de rotulación con el texto FIG. 3 SECTIONAL VIEW MODEL C2."
-      ],
-      "inputs": [],
-      "notes": [
-        "El hilo original del creador identifica la imagen GPT Image 2.5 Sunburst y señala que la imagen GPT 2 está a la izquierda y la 2.5 a la derecha. Esta vista previa enlaza con la segunda imagen de referencia. Se trata de una afirmación del creador, no de una prueba realizada por el responsable del mantenimiento.",
-        "El bloque en inglés conserva la descripción original publicada, excluyendo la etiqueta \"Prompt N:\". La interacción corresponde a esta respuesta individual, no a todo el hilo comparativo.",
-        "Este es un ejercicio de ilustración y composición, no un diagrama de reparación verificado. La fuente original no enumera los nombres de las catorce piezas; proporcione etiquetas exactas para un proyecto de documentación real."
-      ],
-      "source_digest": "f62a5b8fc0a07c319d37f4df11c0b6e938310a5202629318fa80aa573900fd97",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "pt-BR": {
-      "title": "Diagrama de manual de serviço de máquina de café expresso",
-      "summary": "Combine uma ilustração em corte, rótulos numerados, uma legenda e um bloco de título preciso.",
-      "steps": [
-        "uma máquina de café expresso doméstica desenhada em corte, estilo de manual de serviço dos anos 1960, traços finos em preto com cor sólida (spot color) sobre papel creme. Quatorze linhas indicadoras numeradas, uma legenda à direita listando todas as quatorze peças, uma barra de escala em centímetros e um bloco de título com a inscrição FIG. 3 SECTIONAL VIEW MODEL C2."
-      ],
-      "inputs": [],
-      "notes": [
-        "A discussão original do criador identifica o GPT Image 2.5 Sunburst e indica que a Imagem GPT 2 está à esquerda e a 2.5, à direita. Esta prévia vincula a segunda imagem de referência. Trata-se de uma afirmação do criador, não de um teste realizado pelo responsável pela manutenção.",
-        "O bloco em inglês preserva a descrição original do pedido, excluindo o rótulo \"Prompt N:\". O engajamento refere-se a esta resposta específica, e não a toda a discussão comparativa.",
-        "Este é um exercício de ilustração/layout, não um diagrama de reparo verificado. A fonte não lista os nomes das quatorze peças; forneça rótulos precisos para um projeto de documentação real."
-      ],
-      "source_digest": "f62a5b8fc0a07c319d37f4df11c0b6e938310a5202629318fa80aa573900fd97",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+  "translation_meta": {
+    "source_digest": "28d11bae5284e3ef5a8dbb23873941e882e161436934a28fcb85bf26f6306987",
+    "text_digests": {
+      "zh-CN": "dc11c45e7f0f227576cf51f267667f840fc24aee0900dbcb9f7573c19de2ed48",
+      "zh-TW": "f0e988077810cb153c25724d4f11b86ccfdbc39276b47c3cf342ced1712c4785",
+      "ja": "2b12b6f89a9be234e5146dc77d2f1269848b2ac5f2b6945276f2c21151fe82aa",
+      "ko": "6e7d2b82996a857c05d4b0c0b877e7e37022089ebc79d5fa94d1134121c7fdc2",
+      "fr": "53dba368799555fa7ee064b7947a55ea4c06553ef5db8bc237f8beac762f62b1",
+      "de": "26f598e400904ae174b98adaaeb4360609884a7bef284d4fb3db718b2a066e9b",
+      "es": "678aa54ac93cd51e0ac94c809cb48766dc3abdc0fdaa82416d2f5ec1038bcda3",
+      "pt-BR": "a06f58f78745d7e5afe99b70bb3e9c4334d8fc76c5710ab212964b247ea2ecde"
     }
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:12:37.863Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 3,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 3,
+      "distinctiveness": 4
+    },
+    "rationale": "The cutaway layout is a useful numbered-diagram brief; missing part names and unverified technical accuracy prevent treating it as a service document."
   }
 }

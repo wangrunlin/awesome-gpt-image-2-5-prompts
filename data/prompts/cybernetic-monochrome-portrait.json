@@ -1,13 +1,26 @@
 {
-  "schema_version": 1,
   "id": "cybernetic-monochrome-portrait",
   "title": {
     "en": "Monochrome cybernetic portrait",
-    "zh": "黑白机械人像"
+    "zh-CN": "黑白机械人像",
+    "zh-TW": "單色賽博龐克肖像",
+    "ja": "モノクロのサイバネティックなポートレート",
+    "ko": "단색(모노크롬) 사이버네틱 초상화",
+    "fr": "Portrait cybernétique monochrome",
+    "de": "Monochromes kybernetisches Porträt",
+    "es": "Retrato cibernético monocromático",
+    "pt-BR": "Retrato cibernético monocromático"
   },
   "summary": {
     "en": "Build a high-contrast portrait around porcelain, cables, and dramatic studio lighting.",
-    "zh": "围绕瓷质面具、线缆与戏剧性棚灯构建高反差人像。"
+    "zh-CN": "围绕瓷质面具、线缆与戏剧性棚灯构建高反差人像。",
+    "zh-TW": "圍繞著瓷器、電纜和戲劇性的影棚燈光，創作一幅高對比度的肖像。",
+    "ja": "磁器、ケーブル、そしてドラマチックなスタジオ照明を要素として、コントラストの強いポートレートを構成します。",
+    "ko": "도자기 질감, 케이블, 그리고 드라마틱한 스튜디오 조명을 활용하여 대비가 강한 초상화를 구성한다.",
+    "fr": "Créer un portrait très contrasté jouant sur la porcelaine, les câbles et un éclairage de studio spectaculaire.",
+    "de": "Gestaltung eines kontrastreichen Porträts mit Elementen wie Porzellan, Kabeln und dramatischer Studiobeleuchtung.",
+    "es": "Crear un retrato de alto contraste basado en porcelana, cables e iluminación de estudio dramática.",
+    "pt-BR": "Crie um retrato de alto contraste utilizando porcelana, cabos e iluminação de estúdio dramática."
   },
   "category": "photography",
   "tags": [
@@ -17,7 +30,6 @@
     "texture"
   ],
   "mode": "generate",
-  "featured": false,
   "model": {
     "family": "GPT Image 2.5",
     "variant": null,
@@ -30,7 +42,14 @@
     "steps": [
       {
         "en": "Cybernetic horror portrait, gaunt humanoid figure with cracked porcelain-white skull-like mask, mismatched hollow eye sockets (one sunken void, one recessed metallic ring), jagged exposed teeth, surrounded by a chaotic tangle of thick black cables and industrial bobbin/coil attachments wired into the head, tattered dark fabric top, dramatic low-key lighting, deep black background, high contrast monochrome, horror photography, cinematic, hyperdetailed texture, 85mm lens, shallow depth.",
-        "zh": "机械恐怖人像：消瘦的人形角色戴着布满裂纹的瓷白色骷髅状面具，两个空洞眼窝不对称，一侧是凹陷空洞，另一侧是内嵌金属环；牙齿参差外露，头部连接着杂乱粗黑线缆和工业线轴／线圈组件，身着破旧深色布料上衣。戏剧性低调照明、深黑背景、高反差黑白效果、恐怖摄影、电影感、极细致纹理、85mm 镜头、浅景深。"
+        "zh-CN": "机械恐怖人像：消瘦的人形角色戴着布满裂纹的瓷白色骷髅状面具，两个空洞眼窝不对称，一侧是凹陷空洞，另一侧是内嵌金属环；牙齿参差外露，头部连接着杂乱粗黑线缆和工业线轴／线圈组件，身着破旧深色布料上衣。戏剧性低调照明、深黑背景、高反差黑白效果、恐怖摄影、电影感、极细致纹理、85mm 镜头、浅景深。",
+        "zh-TW": "賽博龐克恐怖肖像，一個面容憔悴的人形人物，戴著破裂的瓷白色骷髏狀面具，眼窩空洞不對稱（一個凹陷，一個內嵌金屬環），露出參差不齊的牙齒，周圍纏繞著雜亂無章的黑色粗電纜和連接到頭部的工業線圈/線軸附件，身穿破舊的深色布料上衣，戲劇性的低調燈光，深黑色背景，高對比度單色，恐怖攝影，電影感，超細節紋理，85mm鏡頭，淺景深。",
+        "ja": "サイバネティック・ホラー・ポートレート。ひび割れた磁器のような白い頭蓋骨風の仮面をつけた、痩せこけた人型。左右非対称の空洞の眼窩（片方は沈み込んだ闇、もう片方は奥まった金属のリング）、不揃いに剥き出しになった歯。頭部に接続された太い黒いケーブルや工業用ボビン／コイルの部品が混沌と絡み合い、周囲を取り巻いています。ボロボロの暗い色の布製トップスを着用。ドラマチックなローキー照明、漆黒の背景、高コントラストのモノクロ、ホラー写真、映画的、超詳細なテクスチャ、85mmレンズ、浅い被写界深度。",
+        "ko": "사이버네틱 호러 초상화. 갈라진 도자기처럼 하얗고 해골을 연상시키는 가면을 쓴 수척한 인간형 형상. 서로 다른 형태의 텅 빈 눈구멍(하나는 움푹 파인 검은 구멍, 다른 하나는 안으로 들어간 금속 링 형태)과 들쭉날쭉하게 드러난 이빨이 특징이다. 머리에는 굵고 검은 케이블과 산업용 보빈/코일 부품이 복잡하게 얽혀 연결되어 있으며, 낡고 어두운 색상의 천으로 된 상의를 입고 있다. 드라마틱한 로우키(low-key) 조명, 짙은 검은색 배경, 고대비 단색(모노크롬) 처리, 호러 사진 스타일, 영화적 연출, 초정밀 질감 묘사, 85mm 렌즈, 얕은 피사계 심도 적용.",
+        "fr": "Portrait d'horreur cybernétique : silhouette humanoïde émaciée portant un masque fissuré d'un blanc porcelaine évoquant un crâne ; orbites vides et dépareillées (l'une est un vide profond, l'autre un anneau métallique en retrait) ; dents saillantes et irrégulières ; entouré d'un enchevêtrement chaotique d'épais câbles noirs et de bobines industrielles reliées à la tête ; haut en tissu sombre et en lambeaux ; éclairage spectaculaire en « low-key » (clair-obscur marqué) ; fond noir profond ; monochrome à fort contraste ; photographie d'horreur ; rendu cinématographique ; texture hyper-détaillée ; objectif 85 mm ; faible profondeur de champ.",
+        "de": "Kybernetisches Horror-Porträt: eine hager-humanoide Gestalt mit einer rissigen, porzellanweißen und schädelartigen Maske; ungleiche, hohle Augenhöhlen (eine als tiefes, schwarzes Loch, die andere als zurückgesetzter Metallring); gezackte, freiliegende Zähne; umgeben von einem chaotischen Gewirr aus dicken schwarzen Kabeln und industriellen Spulenaufsätzen, die direkt mit dem Kopf verdrahtet sind; Oberteil aus zerfetztem, dunklem Stoff; dramatische Low-Key-Beleuchtung; tiefschwarzer Hintergrund; kontrastreiche Monochrom-Optik; Horror-Fotografie; filmischer Stil; hyperdetaillierte Textur; 85-mm-Objektiv; geringe Schärfentiefe.",
+        "es": "Retrato de terror cibernético: figura humanoide demacrada con una máscara agrietada de color blanco porcelana que recuerda a un cráneo; cuencas oculares huecas y desiguales (una es un vacío hundido, la otra un anillo metálico retraído); dientes expuestos e irregulares; rodeada por un enredo caótico de cables negros gruesos y accesorios industriales tipo bobina conectados a la cabeza; parte superior de tela oscura y desgarrada; iluminación dramática de clave baja (*low-key*); fondo negro profundo; monocromo de alto contraste; fotografía de terror; estilo cinematográfico; textura hiperdetallada; objetivo de 85 mm; profundidad de campo reducida.",
+        "pt-BR": "Retrato de terror cibernético; figura humanoide esquálida com uma máscara rachada, branca como porcelana e semelhante a um crânio; órbitas oculares vazias e assimétricas (uma cavidade profunda e escura, a outra com um anel metálico recuado); dentes expostos e irregulares; cercada por um emaranhado caótico de cabos pretos grossos e acessórios industriais de bobinas conectados à cabeça; vestindo uma peça de tecido escuro e esfarrapado; iluminação dramática de baixo contraste (*low-key*); fundo preto profundo; monocromático de alto contraste; fotografia de terror; estilo cinematográfico; textura hiperdetalhada; lente de 85mm; profundidade de campo rasa."
       }
     ],
     "original_steps": [
@@ -41,7 +60,14 @@
   "notes": [
     {
       "en": "The creator publishes the English prompt and three result images in the same post. This preview is the first source image.",
-      "zh": "作者在同一帖子中公开英文提示词和三张结果图。此处预览为第一张原图。"
+      "zh-CN": "作者在同一帖子中公开英文提示词和三张结果图。此处预览为第一张原图。",
+      "zh-TW": "創作者在同一篇貼文中發布了英文提示和三張結果圖片。此預覽圖為第一張來源圖。",
+      "ja": "作成者は、英語のプロンプトと3枚の生成画像を同じ投稿で公開しています。このプレビューは、そのうちの最初の元画像です。",
+      "ko": "제작자는 동일한 게시물에 영어 프롬프트와 세 장의 결과 이미지를 함께 공개했다. 이 미리보기 이미지는 첫 번째 원본 이미지이다.",
+      "fr": "Le créateur publie le prompt en anglais ainsi que trois images résultantes dans la même publication. Cet aperçu correspond à la première image source.",
+      "de": "Der Ersteller veröffentlicht den englischen Prompt sowie drei Ergebnisbilder in demselben Beitrag. Diese Vorschau zeigt das erste der Ergebnisbilder.",
+      "es": "El creador publica el *prompt* en inglés y tres imágenes resultantes en la misma publicación. Esta vista previa es la primera imagen de origen.",
+      "pt-BR": "O criador publica o *prompt* em inglês e três imagens resultantes na mesma postagem. Esta prévia é a primeira imagem de origem."
     }
   ],
   "source": {
@@ -80,97 +106,34 @@
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
   },
-  "localizations": {
-    "zh-TW": {
-      "title": "單色賽博龐克肖像",
-      "summary": "圍繞著瓷器、電纜和戲劇性的影棚燈光，創作一幅高對比度的肖像。",
-      "steps": [
-        "賽博龐克恐怖肖像，一個面容憔悴的人形人物，戴著破裂的瓷白色骷髏狀面具，眼窩空洞不對稱（一個凹陷，一個內嵌金屬環），露出參差不齊的牙齒，周圍纏繞著雜亂無章的黑色粗電纜和連接到頭部的工業線圈/線軸附件，身穿破舊的深色布料上衣，戲劇性的低調燈光，深黑色背景，高對比度單色，恐怖攝影，電影感，超細節紋理，85mm鏡頭，淺景深。"
-      ],
-      "inputs": [],
-      "notes": [
-        "創作者在同一篇貼文中發布了英文提示和三張結果圖片。此預覽圖為第一張來源圖。"
-      ],
-      "source_digest": "2ddf9315b273766ee570acab2a0377b6267e961ab2792415c5f7a6080e08d9b5",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ja": {
-      "title": "モノクロのサイバネティックなポートレート",
-      "summary": "磁器、ケーブル、そしてドラマチックなスタジオ照明を要素として、コントラストの強いポートレートを構成します。",
-      "steps": [
-        "サイバネティック・ホラー・ポートレート。ひび割れた磁器のような白い頭蓋骨風の仮面をつけた、痩せこけた人型。左右非対称の空洞の眼窩（片方は沈み込んだ闇、もう片方は奥まった金属のリング）、不揃いに剥き出しになった歯。頭部に接続された太い黒いケーブルや工業用ボビン／コイルの部品が混沌と絡み合い、周囲を取り巻いています。ボロボロの暗い色の布製トップスを着用。ドラマチックなローキー照明、漆黒の背景、高コントラストのモノクロ、ホラー写真、映画的、超詳細なテクスチャ、85mmレンズ、浅い被写界深度。"
-      ],
-      "inputs": [],
-      "notes": [
-        "作成者は、英語のプロンプトと3枚の生成画像を同じ投稿で公開しています。このプレビューは、そのうちの最初の元画像です。"
-      ],
-      "source_digest": "2ddf9315b273766ee570acab2a0377b6267e961ab2792415c5f7a6080e08d9b5",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ko": {
-      "title": "단색(모노크롬) 사이버네틱 초상화",
-      "summary": "도자기 질감, 케이블, 그리고 드라마틱한 스튜디오 조명을 활용하여 대비가 강한 초상화를 구성한다.",
-      "steps": [
-        "사이버네틱 호러 초상화. 갈라진 도자기처럼 하얗고 해골을 연상시키는 가면을 쓴 수척한 인간형 형상. 서로 다른 형태의 텅 빈 눈구멍(하나는 움푹 파인 검은 구멍, 다른 하나는 안으로 들어간 금속 링 형태)과 들쭉날쭉하게 드러난 이빨이 특징이다. 머리에는 굵고 검은 케이블과 산업용 보빈/코일 부품이 복잡하게 얽혀 연결되어 있으며, 낡고 어두운 색상의 천으로 된 상의를 입고 있다. 드라마틱한 로우키(low-key) 조명, 짙은 검은색 배경, 고대비 단색(모노크롬) 처리, 호러 사진 스타일, 영화적 연출, 초정밀 질감 묘사, 85mm 렌즈, 얕은 피사계 심도 적용."
-      ],
-      "inputs": [],
-      "notes": [
-        "제작자는 동일한 게시물에 영어 프롬프트와 세 장의 결과 이미지를 함께 공개했다. 이 미리보기 이미지는 첫 번째 원본 이미지이다."
-      ],
-      "source_digest": "2ddf9315b273766ee570acab2a0377b6267e961ab2792415c5f7a6080e08d9b5",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "fr": {
-      "title": "Portrait cybernétique monochrome",
-      "summary": "Créer un portrait très contrasté jouant sur la porcelaine, les câbles et un éclairage de studio spectaculaire.",
-      "steps": [
-        "Portrait d'horreur cybernétique : silhouette humanoïde émaciée portant un masque fissuré d'un blanc porcelaine évoquant un crâne ; orbites vides et dépareillées (l'une est un vide profond, l'autre un anneau métallique en retrait) ; dents saillantes et irrégulières ; entouré d'un enchevêtrement chaotique d'épais câbles noirs et de bobines industrielles reliées à la tête ; haut en tissu sombre et en lambeaux ; éclairage spectaculaire en « low-key » (clair-obscur marqué) ; fond noir profond ; monochrome à fort contraste ; photographie d'horreur ; rendu cinématographique ; texture hyper-détaillée ; objectif 85 mm ; faible profondeur de champ."
-      ],
-      "inputs": [],
-      "notes": [
-        "Le créateur publie le prompt en anglais ainsi que trois images résultantes dans la même publication. Cet aperçu correspond à la première image source."
-      ],
-      "source_digest": "2ddf9315b273766ee570acab2a0377b6267e961ab2792415c5f7a6080e08d9b5",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "de": {
-      "title": "Monochromes kybernetisches Porträt",
-      "summary": "Gestaltung eines kontrastreichen Porträts mit Elementen wie Porzellan, Kabeln und dramatischer Studiobeleuchtung.",
-      "steps": [
-        "Kybernetisches Horror-Porträt: eine hager-humanoide Gestalt mit einer rissigen, porzellanweißen und schädelartigen Maske; ungleiche, hohle Augenhöhlen (eine als tiefes, schwarzes Loch, die andere als zurückgesetzter Metallring); gezackte, freiliegende Zähne; umgeben von einem chaotischen Gewirr aus dicken schwarzen Kabeln und industriellen Spulenaufsätzen, die direkt mit dem Kopf verdrahtet sind; Oberteil aus zerfetztem, dunklem Stoff; dramatische Low-Key-Beleuchtung; tiefschwarzer Hintergrund; kontrastreiche Monochrom-Optik; Horror-Fotografie; filmischer Stil; hyperdetaillierte Textur; 85-mm-Objektiv; geringe Schärfentiefe."
-      ],
-      "inputs": [],
-      "notes": [
-        "Der Ersteller veröffentlicht den englischen Prompt sowie drei Ergebnisbilder in demselben Beitrag. Diese Vorschau zeigt das erste der Ergebnisbilder."
-      ],
-      "source_digest": "2ddf9315b273766ee570acab2a0377b6267e961ab2792415c5f7a6080e08d9b5",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "es": {
-      "title": "Retrato cibernético monocromático",
-      "summary": "Crear un retrato de alto contraste basado en porcelana, cables e iluminación de estudio dramática.",
-      "steps": [
-        "Retrato de terror cibernético: figura humanoide demacrada con una máscara agrietada de color blanco porcelana que recuerda a un cráneo; cuencas oculares huecas y desiguales (una es un vacío hundido, la otra un anillo metálico retraído); dientes expuestos e irregulares; rodeada por un enredo caótico de cables negros gruesos y accesorios industriales tipo bobina conectados a la cabeza; parte superior de tela oscura y desgarrada; iluminación dramática de clave baja (*low-key*); fondo negro profundo; monocromo de alto contraste; fotografía de terror; estilo cinematográfico; textura hiperdetallada; objetivo de 85 mm; profundidad de campo reducida."
-      ],
-      "inputs": [],
-      "notes": [
-        "El creador publica el *prompt* en inglés y tres imágenes resultantes en la misma publicación. Esta vista previa es la primera imagen de origen."
-      ],
-      "source_digest": "2ddf9315b273766ee570acab2a0377b6267e961ab2792415c5f7a6080e08d9b5",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "pt-BR": {
-      "title": "Retrato cibernético monocromático",
-      "summary": "Crie um retrato de alto contraste utilizando porcelana, cabos e iluminação de estúdio dramática.",
-      "steps": [
-        "Retrato de terror cibernético; figura humanoide esquálida com uma máscara rachada, branca como porcelana e semelhante a um crânio; órbitas oculares vazias e assimétricas (uma cavidade profunda e escura, a outra com um anel metálico recuado); dentes expostos e irregulares; cercada por um emaranhado caótico de cabos pretos grossos e acessórios industriais de bobinas conectados à cabeça; vestindo uma peça de tecido escuro e esfarrapado; iluminação dramática de baixo contraste (*low-key*); fundo preto profundo; monocromático de alto contraste; fotografia de terror; estilo cinematográfico; textura hiperdetalhada; lente de 85mm; profundidade de campo rasa."
-      ],
-      "inputs": [],
-      "notes": [
-        "O criador publica o *prompt* em inglês e três imagens resultantes na mesma postagem. Esta prévia é a primeira imagem de origem."
-      ],
-      "source_digest": "2ddf9315b273766ee570acab2a0377b6267e961ab2792415c5f7a6080e08d9b5",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+  "translation_meta": {
+    "source_digest": "afd00b015c9f549ca14f7cfbaedc39fedb091bbb20f030fcb0fe265f5ff34bb0",
+    "text_digests": {
+      "zh-CN": "7b05f68af4ffc5e8d4446bb0e61a85ac546d39875eec9a03f22a218fd2981671",
+      "zh-TW": "dcbaf69a186c16b4e31b5f9ceb5e2fd589de5f874b75b982409ea8307f6914e4",
+      "ja": "eb27163567fe913e121d9b7e8e53e30e55cd7eeff80945dece678cce3dcda345",
+      "ko": "754ad7f172e984da6e8bcd01bf98a0fe9f4d3e73a6bad88c4ef7c103a3ee1b4c",
+      "fr": "7ef4438a438c2629aefedf185d05dc9302cedeea1c48704f68241e1cd87f07be",
+      "de": "bdad0fec67c6656f19e315aa316af48d2c411a69bf0e3a10f1c5ad493678fc00",
+      "es": "c8207311daa645949642c45c26c55fe10883611865f37d9f3fa1c5a48c5b87c2",
+      "pt-BR": "2d1def5c591b5e7f873a5b6c3bddf0b52749d3338f421bfe627e14094b7305dd"
     }
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:12:37.862Z",
+    "decision": "publish",
+    "content_flags": [
+      "horror"
+    ],
+    "educational": false,
+    "ratings": {
+      "reuse": 3,
+      "result": 3,
+      "usefulness": 3,
+      "clarity": 4,
+      "distinctiveness": 3
+    },
+    "rationale": "A specific material and lighting vocabulary produces a legible cybernetic horror portrait; skull-like features warrant an explicit imagery warning."
   }
 }

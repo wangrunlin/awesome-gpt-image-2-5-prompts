@@ -1,13 +1,26 @@
 {
-  "schema_version": 1,
   "id": "village-notice-board",
   "title": {
     "en": "Village notice board with mixed typography",
-    "zh": "混合排版的乡村公告板"
+    "zh-CN": "混合排版的乡村公告板",
+    "zh-TW": "混合字體的鄉村公告板",
+    "ja": "様々な書体が混在する村の掲示板",
+    "ko": "다양한 타이포그래피가 혼합된 마을 게시판",
+    "fr": "Panneau d'affichage de village avec typographie variée",
+    "de": "Dörfliche Anschlagtafel mit gemischter Typografie",
+    "es": "Tablón de anuncios de pueblo con tipografía variada",
+    "pt-BR": "Quadro de avisos de vilarejo com tipografia variada"
   },
   "summary": {
     "en": "Arrange seven different notice-board elements while keeping their formats distinct.",
-    "zh": "排列七类公告板元素，并保持各自的排版形式。"
+    "zh-CN": "排列七类公告板元素，并保持各自的排版形式。",
+    "zh-TW": "在保持格式各異的情況下，排列七種不同的公告板元素。",
+    "ja": "それぞれの形式を区別しつつ、7つの異なる掲示板要素を配置します。",
+    "ko": "각 요소의 형식을 뚜렷하게 구분하면서 7가지 게시판 요소를 배치하세요.",
+    "fr": "Disposez sept éléments différents sur le panneau d'affichage tout en préservant la distinction de leurs formats respectifs.",
+    "de": "Ordnen Sie sieben verschiedene Elemente auf einer Anschlagtafel an und bewahren Sie dabei die Unterscheidbarkeit ihrer Formate.",
+    "es": "Organiza siete elementos diferentes para un tablón de anuncios, manteniendo sus formatos distintos.",
+    "pt-BR": "Organize sete elementos diferentes em um quadro de avisos, mantendo formatos distintos para cada um."
   },
   "category": "design",
   "tags": [
@@ -17,7 +30,6 @@
     "mixed-media"
   ],
   "mode": "generate",
-  "featured": false,
   "model": {
     "family": "GPT Image 2.5",
     "variant": "sunburst",
@@ -30,7 +42,14 @@
     "steps": [
       {
         "en": "a cork notice board outside a Welsh village post office, overcast light, seven pinned items. A choral society flyer, a lost cat poster on yellow paper, a handwritten piano card, a bus timetable with four times, a sheepdog photo, tear off tabs, and one blank white card.",
-        "zh": "威尔士乡村邮局外的一块软木公告板，阴天光线，上面钉着七项内容：合唱团传单、黄色纸张的寻猫启事、手写钢琴课程卡、列出四个时间的公交时刻表、牧羊犬照片、可撕下的小条，以及一张空白白色卡片。"
+        "zh-CN": "威尔士乡村邮局外的一块软木公告板，阴天光线，上面钉着七项内容：合唱团传单、黄色纸张的寻猫启事、手写钢琴课程卡、列出四个时间的公交时刻表、牧羊犬照片、可撕下的小条，以及一张空白白色卡片。",
+        "zh-TW": "威爾斯鄉村郵局外的一塊軟木公告板，陰天，上面釘著七件物品：一張合唱團傳單、一張黃色紙上的尋貓啟事、一張手寫的鋼琴卡片、一張包含四個班次的公交時刻表、一張牧羊犬照片、一些可撕取的標籤，以及一張空白的白卡。",
+        "ja": "ウェールズの村の郵便局の外にあるコルク製の掲示板。曇り空の光。7つの掲示物：合唱団のチラシ、黄色い紙の迷子猫のポスター、手書きのピアノ教室のカード、4つの時刻が記載されたバスの時刻表、牧羊犬の写真、切り取り式の連絡先タブ、そして何も書かれていない白いカード1枚。",
+        "ko": "웨일스 마을 우체국 밖의 코르크 게시판, 흐린 날씨의 조명, 핀으로 고정된 7가지 항목. 합창단 전단지, 노란 종이에 인쇄된 고양이 실종 전단, 손글씨로 쓴 피아노 교습 안내 카드, 4개 시간대가 표시된 버스 시간표, 양치기 개 사진, 하단에 뜯어갈 수 있는 연락처 탭, 그리고 빈 흰색 카드 한 장.",
+        "fr": "Un panneau d'affichage en liège à l'extérieur d'un bureau de poste dans un village gallois, sous un ciel couvert, avec sept éléments épinglés : un prospectus pour une chorale, une affiche pour un chat perdu sur papier jaune, une annonce manuscrite pour des cours de piano, un horaire de bus indiquant quatre passages, une photo de chien de berger, des languettes détachables et une carte blanche vierge.",
+        "de": "Eine Kork-Anschlagtafel vor einer walisischen Dorfpost, bewölktes Licht, sieben angeheftete Elemente: ein Flyer eines Gesangvereins, ein Suchplakat für eine Katze auf gelbem Papier, eine handgeschriebene Karte für Klavierunterricht, ein Busfahrplan mit vier Abfahrtszeiten, ein Foto eines Hütehundes, Abreißzettel und eine leere weiße Karte.",
+        "es": "Un tablón de anuncios de corcho frente a la oficina de correos de un pueblo galés, con luz tenue y siete elementos fijados con chinchetas. Un folleto de un coro, un cartel de gato perdido en papel amarillo, una tarjeta de piano escrita a mano, un horario de autobuses con cuatro horarios, una foto de un perro pastor, pestañas desprendibles y una tarjeta blanca en blanco.",
+        "pt-BR": "Um quadro de avisos de cortiça do lado de fora de uma agência dos correios em um vilarejo galês; luz de dia nublado; sete itens fixados: um folheto de um coral, um cartaz de gato perdido em papel amarelo, um cartão manuscrito sobre aulas de piano, um horário de ônibus com quatro horários, uma foto de um cão pastor, tiras destacáveis ​​para contato e um cartão branco em branco."
       }
     ],
     "original_steps": [
@@ -41,11 +60,25 @@
   "notes": [
     {
       "en": "The creator’s parent thread identifies GPT Image 2.5 Sunburst and says GPT Image 2 is on the left and 2.5 on the right. This preview links the second source image. This is a creator claim, not a maintainer test.",
-      "zh": "作者在线程首帖中标明 GPT Image 2.5 Sunburst，并说明左侧为 GPT Image 2、右侧为 2.5。此处预览链接第二张原帖图片。这是作者声明，不是维护者复测。"
+      "zh-CN": "作者在线程首帖中标明 GPT Image 2.5 Sunburst，并说明左侧为 GPT Image 2、右侧为 2.5。此处预览链接第二张原帖图片。这是作者声明，不是维护者复测。",
+      "zh-TW": "創作者的父主題貼文中標識了 GPT Image 2.5 Sunburst，並指出 GPT 圖像 2 在左側，2.5 在右側。此預覽連結到第二個來源圖像。這是創建者的聲明，而非維護者的測試。",
+      "ja": "作成者の親スレッドでは、GPT Image 2.5 Sunburstが特定され、GPT Image 2が左側、2.5が右側にあるとされています。このプレビューは、2番目のソース画像へのリンクです。これは作成者による主張であり、メンテナーによるテストではありません。",
+      "ko": "제작자의 원본 스레드에서는 GPT Image 2.5 Sunburst를 언급하며 왼쪽은 GPT Image 2, 오른쪽은 2.5 버전이라고 밝히고 있습니다. 이 미리보기는 두 번째 원본 이미지를 참조합니다. 이는 제작자의 주장이며, 관리자의 테스트 결과가 아닙니다.",
+      "fr": "Le fil de discussion parent du créateur identifie GPT Image 2.5 Sunburst et indique que l'image GPT 2 est à gauche et 2,5 à droite. Cet aperçu relie la deuxième image source. Il s'agit d'une réclamation du créateur, pas d'un test du responsable.",
+      "de": "Der ursprüngliche Beitrag des Erstellers verweist auf „GPT Image 2.5 Sunburst“ und gibt an, dass sich „GPT Image 2“ auf der linken und „2.5“ auf der rechten Seite befindet. Diese Vorschau verlinkt das zweite Quellbild. Dies ist eine Behauptung des Erstellers, kein Test durch die Betreuer.",
+      "es": "El hilo original del creador identifica la imagen GPT Image 2.5 Sunburst y señala que la imagen GPT 2 está a la izquierda y la 2.5 a la derecha. Esta vista previa enlaza con la segunda imagen de referencia. Se trata de una afirmación del creador, no de una prueba realizada por el responsable del mantenimiento.",
+      "pt-BR": "A discussão original do criador identifica o GPT Image 2.5 Sunburst e indica que a Imagem GPT 2 está à esquerda e a 2.5, à direita. Esta prévia vincula a segunda imagem de referência. Trata-se de uma afirmação do criador, não de um teste realizado pelo responsável pela manutenção."
     },
     {
       "en": "The English block preserves the published brief, excluding its “Prompt N:” label. Engagement belongs to this individual reply, not the entire comparison thread.",
-      "zh": "英文块保留已发布的提示词，去掉“Prompt N:”编号标签。互动量属于这条独立回复，不是整个对比线程。"
+      "zh-CN": "英文块保留已发布的提示词，去掉“Prompt N:”编号标签。互动量属于这条独立回复，不是整个对比线程。",
+      "zh-TW": "英文文字區塊保留了已發布的簡報，但不包括其「提示 N:」標籤。互動屬於此回复，而非整個比較主題帖。",
+      "ja": "英語のブロックは、「Prompt N:」ラベルを除き、公開された概要を保持しています。エンゲージメントは、比較スレッド全体ではなく、この個別の返信に帰属します。",
+      "ko": "영어 텍스트 블록은 'Prompt N:'이라는 라벨을 제외하고 공개된 의뢰 내용을 그대로 유지합니다. 반응(engagement)은 전체 비교 스레드가 아닌 이 개별 답변에 대한 것입니다.",
+      "fr": "Le bloc anglais conserve le mémoire publié, à l'exclusion de son étiquette « Prompt N : ». L'engagement appartient à cette réponse individuelle, et non à l'ensemble du fil de comparaison.",
+      "de": "Der englische Textblock gibt die ursprüngliche Aufgabenstellung wieder, jedoch ohne die Bezeichnung „Prompt N:“. Interaktionen beziehen sich auf diese einzelne Antwort, nicht auf den gesamten Vergleichs-Thread.",
+      "es": "El bloque en inglés conserva la descripción original publicada, excluyendo la etiqueta \"Prompt N:\". La interacción corresponde a esta respuesta individual, no a todo el hilo comparativo.",
+      "pt-BR": "O bloco em inglês preserva a descrição original do pedido, excluindo o rótulo \"Prompt N:\". O engajamento refere-se a esta resposta específica, e não a toda a discussão comparativa."
     }
   ],
   "source": {
@@ -84,104 +117,32 @@
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
   },
-  "localizations": {
-    "zh-TW": {
-      "title": "混合字體的鄉村公告板",
-      "summary": "在保持格式各異的情況下，排列七種不同的公告板元素。",
-      "steps": [
-        "威爾斯鄉村郵局外的一塊軟木公告板，陰天，上面釘著七件物品：一張合唱團傳單、一張黃色紙上的尋貓啟事、一張手寫的鋼琴卡片、一張包含四個班次的公交時刻表、一張牧羊犬照片、一些可撕取的標籤，以及一張空白的白卡。"
-      ],
-      "inputs": [],
-      "notes": [
-        "創作者的父主題貼文中標識了 GPT Image 2.5 Sunburst，並指出 GPT 圖像 2 在左側，2.5 在右側。此預覽連結到第二個來源圖像。這是創建者的聲明，而非維護者的測試。",
-        "英文文字區塊保留了已發布的簡報，但不包括其「提示 N:」標籤。互動屬於此回复，而非整個比較主題帖。"
-      ],
-      "source_digest": "434955af824f1786a5f9127817999794a720ed80609da4ea55710257e6df42ce",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ja": {
-      "title": "様々な書体が混在する村の掲示板",
-      "summary": "それぞれの形式を区別しつつ、7つの異なる掲示板要素を配置します。",
-      "steps": [
-        "ウェールズの村の郵便局の外にあるコルク製の掲示板。曇り空の光。7つの掲示物：合唱団のチラシ、黄色い紙の迷子猫のポスター、手書きのピアノ教室のカード、4つの時刻が記載されたバスの時刻表、牧羊犬の写真、切り取り式の連絡先タブ、そして何も書かれていない白いカード1枚。"
-      ],
-      "inputs": [],
-      "notes": [
-        "作成者の親スレッドでは、GPT Image 2.5 Sunburstが特定され、GPT Image 2が左側、2.5が右側にあるとされています。このプレビューは、2番目のソース画像へのリンクです。これは作成者による主張であり、メンテナーによるテストではありません。",
-        "英語のブロックは、「Prompt N:」ラベルを除き、公開された概要を保持しています。エンゲージメントは、比較スレッド全体ではなく、この個別の返信に帰属します。"
-      ],
-      "source_digest": "434955af824f1786a5f9127817999794a720ed80609da4ea55710257e6df42ce",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ko": {
-      "title": "다양한 타이포그래피가 혼합된 마을 게시판",
-      "summary": "각 요소의 형식을 뚜렷하게 구분하면서 7가지 게시판 요소를 배치하세요.",
-      "steps": [
-        "웨일스 마을 우체국 밖의 코르크 게시판, 흐린 날씨의 조명, 핀으로 고정된 7가지 항목. 합창단 전단지, 노란 종이에 인쇄된 고양이 실종 전단, 손글씨로 쓴 피아노 교습 안내 카드, 4개 시간대가 표시된 버스 시간표, 양치기 개 사진, 하단에 뜯어갈 수 있는 연락처 탭, 그리고 빈 흰색 카드 한 장."
-      ],
-      "inputs": [],
-      "notes": [
-        "제작자의 원본 스레드에서는 GPT Image 2.5 Sunburst를 언급하며 왼쪽은 GPT Image 2, 오른쪽은 2.5 버전이라고 밝히고 있습니다. 이 미리보기는 두 번째 원본 이미지를 참조합니다. 이는 제작자의 주장이며, 관리자의 테스트 결과가 아닙니다.",
-        "영어 텍스트 블록은 'Prompt N:'이라는 라벨을 제외하고 공개된 의뢰 내용을 그대로 유지합니다. 반응(engagement)은 전체 비교 스레드가 아닌 이 개별 답변에 대한 것입니다."
-      ],
-      "source_digest": "434955af824f1786a5f9127817999794a720ed80609da4ea55710257e6df42ce",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "fr": {
-      "title": "Panneau d'affichage de village avec typographie variée",
-      "summary": "Disposez sept éléments différents sur le panneau d'affichage tout en préservant la distinction de leurs formats respectifs.",
-      "steps": [
-        "Un panneau d'affichage en liège à l'extérieur d'un bureau de poste dans un village gallois, sous un ciel couvert, avec sept éléments épinglés : un prospectus pour une chorale, une affiche pour un chat perdu sur papier jaune, une annonce manuscrite pour des cours de piano, un horaire de bus indiquant quatre passages, une photo de chien de berger, des languettes détachables et une carte blanche vierge."
-      ],
-      "inputs": [],
-      "notes": [
-        "Le fil de discussion parent du créateur identifie GPT Image 2.5 Sunburst et indique que l'image GPT 2 est à gauche et 2,5 à droite. Cet aperçu relie la deuxième image source. Il s'agit d'une réclamation du créateur, pas d'un test du responsable.",
-        "Le bloc anglais conserve le mémoire publié, à l'exclusion de son étiquette « Prompt N : ». L'engagement appartient à cette réponse individuelle, et non à l'ensemble du fil de comparaison."
-      ],
-      "source_digest": "434955af824f1786a5f9127817999794a720ed80609da4ea55710257e6df42ce",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "de": {
-      "title": "Dörfliche Anschlagtafel mit gemischter Typografie",
-      "summary": "Ordnen Sie sieben verschiedene Elemente auf einer Anschlagtafel an und bewahren Sie dabei die Unterscheidbarkeit ihrer Formate.",
-      "steps": [
-        "Eine Kork-Anschlagtafel vor einer walisischen Dorfpost, bewölktes Licht, sieben angeheftete Elemente: ein Flyer eines Gesangvereins, ein Suchplakat für eine Katze auf gelbem Papier, eine handgeschriebene Karte für Klavierunterricht, ein Busfahrplan mit vier Abfahrtszeiten, ein Foto eines Hütehundes, Abreißzettel und eine leere weiße Karte."
-      ],
-      "inputs": [],
-      "notes": [
-        "Der ursprüngliche Beitrag des Erstellers verweist auf „GPT Image 2.5 Sunburst“ und gibt an, dass sich „GPT Image 2“ auf der linken und „2.5“ auf der rechten Seite befindet. Diese Vorschau verlinkt das zweite Quellbild. Dies ist eine Behauptung des Erstellers, kein Test durch die Betreuer.",
-        "Der englische Textblock gibt die ursprüngliche Aufgabenstellung wieder, jedoch ohne die Bezeichnung „Prompt N:“. Interaktionen beziehen sich auf diese einzelne Antwort, nicht auf den gesamten Vergleichs-Thread."
-      ],
-      "source_digest": "434955af824f1786a5f9127817999794a720ed80609da4ea55710257e6df42ce",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "es": {
-      "title": "Tablón de anuncios de pueblo con tipografía variada",
-      "summary": "Organiza siete elementos diferentes para un tablón de anuncios, manteniendo sus formatos distintos.",
-      "steps": [
-        "Un tablón de anuncios de corcho frente a la oficina de correos de un pueblo galés, con luz tenue y siete elementos fijados con chinchetas. Un folleto de un coro, un cartel de gato perdido en papel amarillo, una tarjeta de piano escrita a mano, un horario de autobuses con cuatro horarios, una foto de un perro pastor, pestañas desprendibles y una tarjeta blanca en blanco."
-      ],
-      "inputs": [],
-      "notes": [
-        "El hilo original del creador identifica la imagen GPT Image 2.5 Sunburst y señala que la imagen GPT 2 está a la izquierda y la 2.5 a la derecha. Esta vista previa enlaza con la segunda imagen de referencia. Se trata de una afirmación del creador, no de una prueba realizada por el responsable del mantenimiento.",
-        "El bloque en inglés conserva la descripción original publicada, excluyendo la etiqueta \"Prompt N:\". La interacción corresponde a esta respuesta individual, no a todo el hilo comparativo."
-      ],
-      "source_digest": "434955af824f1786a5f9127817999794a720ed80609da4ea55710257e6df42ce",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "pt-BR": {
-      "title": "Quadro de avisos de vilarejo com tipografia variada",
-      "summary": "Organize sete elementos diferentes em um quadro de avisos, mantendo formatos distintos para cada um.",
-      "steps": [
-        "Um quadro de avisos de cortiça do lado de fora de uma agência dos correios em um vilarejo galês; luz de dia nublado; sete itens fixados: um folheto de um coral, um cartaz de gato perdido em papel amarelo, um cartão manuscrito sobre aulas de piano, um horário de ônibus com quatro horários, uma foto de um cão pastor, tiras destacáveis ​​para contato e um cartão branco em branco."
-      ],
-      "inputs": [],
-      "notes": [
-        "A discussão original do criador identifica o GPT Image 2.5 Sunburst e indica que a Imagem GPT 2 está à esquerda e a 2.5, à direita. Esta prévia vincula a segunda imagem de referência. Trata-se de uma afirmação do criador, não de um teste realizado pelo responsável pela manutenção.",
-        "O bloco em inglês preserva a descrição original do pedido, excluindo o rótulo \"Prompt N:\". O engajamento refere-se a esta resposta específica, e não a toda a discussão comparativa."
-      ],
-      "source_digest": "434955af824f1786a5f9127817999794a720ed80609da4ea55710257e6df42ce",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+  "translation_meta": {
+    "source_digest": "aa4f84f99416d102729876949a7fc90a8045e6497838a81aba7ea25f497b4dcf",
+    "text_digests": {
+      "zh-CN": "0e068b1c9d4fac1d94288523fa87f28c1446ed67a3413d46e61638bb7dd90000",
+      "zh-TW": "de0bd1520a7c51f024395a634a6f0d31530c7d4673cae88af24aa82c98b8b105",
+      "ja": "9cc07e4f1a98a12538940452b4cadbe06314d49fcf48695863e59391d59a2068",
+      "ko": "e0a3a91e5868fd5709fee3c220470295618499ef3829277c531ac9bd5d5aae8d",
+      "fr": "51242c3f2034e8c1f5d65390515a164f4164111b1fb715fb9a86fb6b379d188c",
+      "de": "5707c042919fe7eb1b0f2344d6428ce7908449dcaf6ce242564fff4cd1698180",
+      "es": "837f4e45cdc0373ce7cf653a1ec732dbaac07e211cdcf17fa1d6bdedc80cefbc",
+      "pt-BR": "a7a1d31d6503e93896dc57af40f39fcff5acbe2f41c2810d7c151b5bb3c71121"
     }
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:12:37.883Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 3,
+      "result": 3,
+      "usefulness": 3,
+      "clarity": 3,
+      "distinctiveness": 4
+    },
+    "rationale": "The notice-board montage mixes text styles and object types in a recognizable scene, but source copy is partly unspecified."
   }
 }

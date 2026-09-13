@@ -12,7 +12,7 @@ creative work to its original source and explains how to reuse the workflow.
 - **Source checked**: a maintainer opened the primary source. This is not an
   independent model test or a license grant.
 - **Independently tested**: a dated test with model, parameters, owned or
-  authorized inputs, and output evidence is linked. No launch entry has this badge.
+  authorized inputs, and output evidence is linked. Source publication alone does not qualify.
 
 Social metrics are dated observations, not live rankings or quality guarantees.
 Missing counts are `null`, never inferred as zero. Source posts may be paid
@@ -49,3 +49,18 @@ Image 2.5 is the independent project brand at https://image-2-5.com.
 GPT Image 2.5 is the model family name. This project is not affiliated with or
 endorsed by OpenAI. Brand assets identify this project; their inclusion does
 not grant trademark rights or imply endorsement of forks.
+
+## Display and admission
+
+Non-explicit adult suggestive content may appear in collapsed exploration with
+a clear label; it cannot be featured. Fashion and swimwear are assessed in
+context, not automatically demoted. Disturbing imagery receives a horror label.
+Sexualized subjects whose adult age is unclear are held pending evidence.
+Pornography, sexualized minors and non-consensual intimate content are excluded.
+
+Quality and rights are separate decisions. A high score cannot override an
+admission failure. A held case has a stable explanation page but no image or
+recipe in the public gallery or active website import. Public source JSON may
+retain non-prohibited historical records for attribution and review; excluded
+material must not be introduced as a new case. Removal requests may require
+removing source data as well as display content.

@@ -1,0 +1,159 @@
+{
+  "id": "garden-photo-color-grading",
+  "title": {
+    "en": "Color-grade a garden photo while preserving its composition",
+    "zh-CN": "保持构图的庭园照片调色",
+    "zh-TW": "保留構圖的庭園照片調色",
+    "ja": "構図を保った庭園写真の色調補正",
+    "ko": "구도를 유지하는 정원 사진 색보정",
+    "fr": "Étalonner une photo de jardin en conservant sa composition",
+    "de": "Ein Gartenfoto bei gleicher Komposition farblich korrigieren",
+    "es": "Corregir el color de una foto de jardín conservando la composición",
+    "pt-BR": "Corrigir as cores de uma foto de jardim preservando a composição"
+  },
+  "summary": {
+    "en": "Control sky highlights, shadow detail and foliage color while preserving the photographed scene.",
+    "zh-CN": "控制天空高光、暗部细节与植被颜色，同时要求保留原始场景。",
+    "zh-TW": "控制天空高光、暗部細節與植被顏色，同時要求保留原始場景。",
+    "ja": "撮影したシーンを維持しながら、空のハイライト、影の詳細、葉の色を制御します。",
+    "ko": "촬영된 장면을 보존하면서 하늘 하이라이트, 그림자 디테일 및 나뭇잎 색상을 제어합니다.",
+    "fr": "Contrôlez les reflets du ciel, les détails des ombres et la couleur du feuillage tout en préservant la scène photographiée.",
+    "de": "Steuern Sie Himmelslichter, Schattendetails und Laubfarben und bewahren Sie gleichzeitig die fotografierte Szene.",
+    "es": "Controle las luces del cielo, los detalles de las sombras y el color del follaje mientras conserva la escena fotografiada.",
+    "pt-BR": "Controle os destaques do céu, os detalhes das sombras e a cor da folhagem, preservando a cena fotografada."
+  },
+  "category": "editing",
+  "tags": [
+    "edit",
+    "photography",
+    "reference-image",
+    "color-palette"
+  ],
+  "mode": "edit",
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/HoodyLiu/status/2099115784417251690",
+    "evidence": "The creator explicitly attributes this result to GPT Image 2.5 in the linked primary source. This is source attribution, not an independent model test."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "Please only perform professional color grading and light and shadow optimization on the original photos, strictly retain the original composition, scenery positions, cherry blossoms, trees, water reflections and screen proportions, and do not add, delete or change any objects. The overall style is adjusted to a high-end, restrained, and quiet Japanese film style, presenting the quiet atmosphere of a Japanese garden in early spring. Moderately brighten the dark details in the woods, waterfronts and ponds, and restore the layers of tree trunks, shrubs and water surfaces, but retain deep shadows and do not turn black areas into gray. Reduce the sky highlights and blue saturation, and adjust the sky to a transparent, calm gray-blue to avoid excessive brightness and HDR effects. Highlight the cherry blossoms in the center of the picture, making the flowers a natural pale pink-white color to add soft sunlight transparency and delicate layers. Do not turn it into pure white or fluorescent pink. The green plants are adjusted to low-saturated moss green, forest green and slight olive green, reducing the yellow-green and digital feel. The water surface maintains a deep blue-black color, enhancing the subtle reflections and layers of fallen cherry blossoms, making the reflection clear but not sharp. The overall design uses soft highlights, deep shadows, medium to strong contrast, and slightly increases the contrast between warm sunlight and cool shadows. Adding slight film fog, natural halo, fine 35mm film grain and soft sharpening, the color refers to Kodak Portra 400 and Japanese film photography, which is real, natural, subtle, airy and high-end. It is prohibited to change the composition, add cherry blossoms, clouds, buildings, people or lights, generate new branches, change the season, overexposure, dead black, HDR, over-sharpening, fluorescent green, brilliant blue sky, heavy filters, oil painting feeling, illustration feeling and AI redrawing feeling. The end result must be like a professional color correction of the original RAW photo, not a regenerated image.",
+        "zh-CN": "请仅对原照片进行专业调色和光影优化，严格保留原始构图、景物位置、樱花、树木、水面倒影及画面比例，不添加、删除或改变任何物体。整体调成高级、克制、安静的日系电影胶片风格，呈现早春日本庭园的清寂氛围。适度提亮树林、水岸和池塘中的暗部细节，恢复树干、灌木与水面层次，但保留幽深阴影，不要把黑色区域提成灰色。压低天空高光和蓝色饱和度，将天空调整为通透、沉静的灰蓝色，避免过度艳丽和HDR效果。突出画面中央樱花，使花朵呈自然的淡粉白色，增加柔和的阳光通透感和细腻层次，不要变成纯白或荧光粉。绿色植物调整为低饱和的苔藓绿、森林绿和轻微橄榄绿，减少黄绿色和数码感。水面维持深青黑色，增强细微反光和落樱的层次，让倒影清晰但不锐利。整体采用柔和高光、深邃阴影、中等偏强对比，略微增加暖色阳光与冷色阴影的冷暖对比。加入轻微胶片灰雾、自然光晕、细腻35mm胶片颗粒和柔和锐化，色彩参考 Kodak Portra 400 与日系电影摄影，真实、自然、含蓄、有空气感和高级感。禁止改变构图，禁止增加樱花、云朵、建筑、人物或灯光，禁止生成新的树枝，禁止改变季节，禁止过曝、死黑、HDR、过度锐化、荧光绿、艳蓝天空、浓重滤镜、油画感、插画感和AI重绘感。最终效果必须像对原始RAW照片进行专业调色，而不是重新生成一张图片。",
+        "zh-TW": "請僅對原始照片進行專業調色和光影優化，嚴格保留原始構圖、景物位置、櫻花、樹木、水面倒影及畫面比例，不添加、刪除或改變任何物體。整體調成高級、克制、安靜的日系電影膠卷風格，呈現早春日本庭園的清寂氛圍。適度提亮樹林、水岸和池塘中的暗部細節，恢復樹幹、灌木與水面層次，但保留幽深陰影，不要把黑色區域提成灰色。壓低天空高光和藍色飽和度，將天空調整為通透、沉靜的灰藍色，避免過度艷麗和HDR效果。突出畫面中央櫻花，使花朵呈現自然的淡粉白色，增加柔和的陽光通透感和細膩層次，不要變成純白或螢光粉。綠色植物調整為低飽和的苔蘚綠、森林綠和輕微橄欖綠，減少黃綠色和數位感。水面維持深青黑色，增強細微反光和落櫻的層次，讓倒影清晰但不銳利。整體採用柔和高光、深邃陰影、中等偏強對比，略微增加暖色陽光與冷色陰影的冷暖對比。加入輕微膠卷灰霧、自然光暈、細膩35mm膠卷顆粒和柔和銳化，色彩參考 Kodak Portra 400 與日系電影攝影，真實、自然、含蓄、有空氣感和高級感。禁止改變構圖，禁止增加櫻花、雲朵、建築、人物或燈光，禁止生成新的樹枝，禁止改變季節，禁止過曝、死黑、HDR、過度銳利化、螢光綠、艷藍天空、濃重濾鏡、油畫感、插畫感和AI重繪感。最終效果必須像對原始RAW照片進行專業調色，而不是重新生成一張圖片。",
+        "ja": "元の写真に対してプロによるカラー グレーディングと光と影の最適化のみを実行し、元の構図、風景の位置、桜、木、水の反射、画面の比率を厳密に保持し、オブジェクトを追加、削除、変更しないでください。全体のスタイルは高級感があり、控えめで静かな日本映画のスタイルに調整されており、早春の日本庭園の静かな雰囲気を表現しています。森、水辺、池の暗い部分を適度に明るくし、木の幹、低木、水面のレイヤーを復元しますが、深い影は保持し、黒い部分をグレーに変えません。空のハイライトと青の彩度を減らし、空を透明で落ち着いた灰青色に調整して、過剰な明るさと HDR 効果を避けます。写真の中央にある桜を強調表示し、花を自然な淡いピンクホワイト色にして、柔らかな日差しの透明感と繊細なレイヤーを追加します。真っ白や蛍光ピンクにしないでください。草木の緑は彩度の低いモスグリーン、フォレストグリーン、ほんのりオリーブグリーンに調整し、黄緑感やデジタル感を抑えています。水面は深い青黒色を保ち、散り桜の微妙な反射と層を強調し、鮮明ではありますが反射を強調します。全体的なデザインは、柔らかいハイライト、深い影、中程度から強いコントラストを使用し、暖かい日差しと冷たい影の間のコントラストをわずかに高めます。わずかなフィルムフォグ、自然なハロー、細かい 35mm フィルムグレイン、およびソフトシャープニングを加えたこの色は、Kodak Portra 400 と日本のフィルム写真を指しており、リアルで自然、繊細、風通しが良く、ハイエンドです。構図の変更、桜、雲、建物、人物、光の追加、枝の新規生成、季節の変更、白飛び、真っ黒、HDR、シャープかけ、蛍光緑、真っ青な空、重いフィルター、油絵感、イラスト感、AI描き直し感は禁止です。最終結果は、再生成された画像ではなく、元の RAW 写真のプロによる色補正のようなものでなければなりません。",
+        "ko": "원본 사진에 대해 전문적인 색상 그레이딩과 빛 및 그림자 최적화만 수행하고 원본 구성, 풍경 위치, 벚꽃, 나무, 물 반사 및 화면 비율을 엄격하게 유지하고 개체를 추가, 삭제 또는 변경하지 마십시오. 전체적인 스타일은 고급스럽고 절제되고 조용한 일본 영화 스타일로 조정되어 이른 봄 일본 정원의 조용한 분위기를 선사합니다. 숲, 물가, 연못의 어두운 디테일을 적당히 밝게 하고 나무 줄기, 관목 및 수면의 레이어를 복원하지만 깊은 그림자를 유지하고 검은색 영역을 회색으로 바꾸지 않습니다. 하늘 하이라이트와 파란색 채도를 줄이고 하늘을 투명하고 차분한 회색-파란색으로 조정하여 과도한 밝기와 HDR 효과를 방지합니다. 사진 중앙의 벚꽃을 강조하여 꽃을 자연스러운 옅은 핑크-화이트 색상으로 만들어 부드러운 햇빛의 투명도와 섬세한 레이어를 추가합니다. 순백색이나 형광핑크색으로 바꾸지 마세요. 녹색 식물은 채도가 낮은 모스 그린, 포레스트 그린, 약간의 올리브 그린으로 조정되어 황록색과 디지털 느낌을 줄입니다. 수면은 짙은 청흑색을 유지하여 은은한 반사와 떨어진 벚꽃의 겹을 더욱 돋보이게 하여 반사가 선명하지만 날카롭지 않게 만듭니다. 전체적인 디자인은 부드러운 하이라이트, 깊은 그림자, 중간에서 강한 대비를 사용하고 따뜻한 햇빛과 차가운 그림자 사이의 대비를 약간 높입니다. 약간의 필름 포그, 자연스러운 후광, 미세한 35mm 필름 그레인 및 부드러운 샤프닝을 추가한 이 색상은 Kodak Portra 400 및 일본 필름 사진을 참조하여 실제적이고 자연스러우며 은은하고 바람이 잘 통하는 고급스러운 느낌을 줍니다. 구도 변경, 벚꽃, 구름, 건물, 사람 또는 빛 추가, 새 가지 생성, 계절 변경, 노출 과다, 데드 블랙, HDR, 과선명, 형광 녹색, 눈부신 푸른 하늘, 무거운 필터, 유화 느낌, 일러스트레이션 느낌 및 AI 다시 그리기 느낌이 금지됩니다. 최종 결과는 재생성된 이미지가 아닌 원본 RAW 사진의 전문적인 색상 보정과 같아야 합니다.",
+        "fr": "Veuillez effectuer uniquement un étalonnage professionnel des couleurs et une optimisation de la lumière et des ombres sur les photos originales, conserver strictement la composition originale, la position des paysages, les fleurs de cerisier, les arbres, les reflets de l'eau et les proportions de l'écran, et ne pas ajouter, supprimer ou modifier des objets. Le style général est adapté à un style de film japonais haut de gamme, sobre et calme, présentant l'atmosphère calme d'un jardin japonais au début du printemps. Éclaircissez modérément les détails sombres des bois, des bords de mer et des étangs, et restaurez les couches de troncs d'arbres, d'arbustes et de surfaces d'eau, mais conservez les ombres profondes et ne transformez pas les zones noires en gris. Réduisez les hautes lumières du ciel et la saturation du bleu, et ajustez le ciel sur un gris-bleu transparent et calme pour éviter une luminosité excessive et des effets HDR. Mettez en valeur les fleurs de cerisier au centre de l'image, en leur donnant une couleur rose-blanc pâle naturelle pour ajouter une douce transparence au soleil et des couches délicates. Ne le transformez pas en blanc pur ou en rose fluo. Les plantes vertes sont ajustées au vert mousse peu saturé, au vert forêt et au vert olive léger, réduisant ainsi la sensation jaune-vert et numérique. La surface de l'eau conserve une couleur bleu-noir profond, rehaussant les reflets subtils et les couches de fleurs de cerisier tombées, rendant le reflet clair mais pas net. La conception globale utilise des reflets doux, des ombres profondes, un contraste moyen à fort et augmente légèrement le contraste entre la lumière chaude du soleil et les ombres froides. En ajoutant un léger brouillard de film, un halo naturel, un grain fin de film 35 mm et une netteté douce, la couleur fait référence au Kodak Portra 400 et à la photographie cinématographique japonaise, qui est réelle, naturelle, subtile, aérée et haut de gamme. Il est interdit de modifier la composition, d'ajouter des fleurs de cerisier, des nuages, des bâtiments, des personnes ou des lumières, de générer de nouvelles branches, de changer la saison, la surexposition, le noir mort, le HDR, la netteté excessive, le vert fluorescent, le ciel bleu brillant, les filtres lourds, la sensation de peinture à l'huile, la sensation d'illustration et la sensation de redessinage de l'IA. Le résultat final doit ressembler à une correction professionnelle des couleurs de la photo RAW originale, et non à une image régénérée.",
+        "de": "Bitte führen Sie professionelle Farbkorrekturen und Licht- und Schattenoptimierungen nur an den Originalfotos durch, behalten Sie strikt die Originalkomposition, Szenenpositionen, Kirschblüten, Bäume, Wasserreflexionen und Bildschirmproportionen bei und fügen Sie keine Objekte hinzu, löschen oder ändern Sie sie nicht. Der Gesamtstil ist an einen hochwertigen, zurückhaltenden und ruhigen japanischen Filmstil angepasst und präsentiert die ruhige Atmosphäre eines japanischen Gartens im frühen Frühling. Hellen Sie die dunklen Details in Wäldern, Uferpromenaden und Teichen mäßig auf und stellen Sie die Schichten von Baumstämmen, Sträuchern und Wasseroberflächen wieder her, behalten Sie jedoch tiefe Schatten bei und verwandeln Sie schwarze Bereiche nicht in Grau. Reduzieren Sie die Himmelslichter und die Blausättigung und stellen Sie den Himmel auf ein transparentes, ruhiges Graublau ein, um übermäßige Helligkeit und HDR-Effekte zu vermeiden. Heben Sie die Kirschblüten in der Mitte des Bildes hervor und verleihen Sie den Blumen eine natürliche blassrosa-weiße Farbe, um sanfte Sonnenlichttransparenz und zarte Schichten zu erzeugen. Verwandeln Sie es nicht in reines Weiß oder fluoreszierendes Rosa. Die Grünpflanzen sind auf schwach gesättigtes Moosgrün, Waldgrün und leichtes Olivgrün eingestellt, wodurch der gelbgrüne und digitale Eindruck reduziert wird. Die Wasseroberfläche behält eine tiefblauschwarze Farbe bei, wodurch die subtilen Reflexionen und Schichten gefallener Kirschblüten verstärkt werden und die Reflexion klar, aber nicht scharf wird. Das Gesamtdesign verwendet weiche Glanzlichter, tiefe Schatten, mittleren bis starken Kontrast und erhöht leicht den Kontrast zwischen warmem Sonnenlicht und kühlen Schatten. Mit leichtem Filmschleier, natürlichem Lichthof, feiner 35-mm-Filmkörnung und sanfter Schärfung verweist die Farbe auf Kodak Portra 400 und die japanische Filmfotografie, die echt, natürlich, subtil, luftig und hochwertig ist. Es ist verboten, die Komposition zu ändern, Kirschblüten, Wolken, Gebäude, Menschen oder Lichter hinzuzufügen, neue Zweige zu generieren, die Jahreszeit zu ändern, Überbelichtung, totes Schwarz, HDR, Überschärfung, fluoreszierendes Grün, strahlend blauer Himmel, starke Filter, Ölgemälde-Feeling, Illustrations-Feeling und KI-Neuzeichnungs-Feeling. Das Endergebnis muss wie eine professionelle Farbkorrektur des ursprünglichen RAW-Fotos sein, nicht wie ein regeneriertes Bild.",
+        "es": "Realice únicamente etalonaje profesional y optimización de luces y sombras en las fotografías originales, conserve estrictamente la composición original, las posiciones de los paisajes, las flores de cerezo, los árboles, los reflejos del agua y las proporciones de la pantalla, y no agregue, elimine ni cambie ningún objeto. El estilo general se ajusta al estilo de una película japonesa tranquila, sobria y de alta gama, presentando la atmósfera tranquila de un jardín japonés a principios de la primavera. Ilumina moderadamente los detalles oscuros en bosques, riberas y estanques, y restaura las capas de troncos de árboles, arbustos y superficies de agua, pero conserva sombras profundas y no convierte las áreas negras en grises. Reduzca las luces del cielo y la saturación azul, y ajuste el cielo a un azul grisáceo tranquilo y transparente para evitar un brillo excesivo y efectos HDR. Resalte las flores de cerezo en el centro de la imagen, haciendo que las flores tengan un color blanco rosado pálido natural para agregar una suave transparencia de la luz del sol y capas delicadas. No lo conviertas en blanco puro o rosa fluorescente. Las plantas verdes se ajustan a un verde musgo poco saturado, un verde bosque y un ligero verde oliva, lo que reduce la sensación digital y amarillo verdosa. La superficie del agua mantiene un color negro azulado profundo, realzando los reflejos sutiles y las capas de flores de cerezo caídas, haciendo que el reflejo sea claro pero no nítido. El diseño general utiliza luces suaves, sombras profundas, contraste medio a fuerte y aumenta ligeramente el contraste entre la cálida luz del sol y las sombras frías. Al agregar una ligera niebla de película, un halo natural, un grano fino de película de 35 mm y una nitidez suave, el color hace referencia a la Kodak Portra 400 y a la fotografía de películas japonesas, que es real, natural, sutil, aireada y de alta gama. Está prohibido cambiar la composición, agregar flores de cerezo, nubes, edificios, personas o luces, generar nuevas ramas, cambiar la estación, sobreexposición, negro intenso, HDR, sobreenfoque, verde fluorescente, cielo azul brillante, filtros pesados, sensación de pintura al óleo, sensación de ilustración y sensación de redibujado con IA. El resultado final debe ser como una corrección de color profesional de la foto RAW original, no una imagen regenerada.",
+        "pt-BR": "Execute apenas gradação de cores profissional e otimização de luz e sombra nas fotos originais, mantenha estritamente a composição original, posições do cenário, flores de cerejeira, árvores, reflexos de água e proporções da tela e não adicione, exclua ou altere quaisquer objetos. O estilo geral é ajustado a um estilo de filme japonês sofisticado, contido e silencioso, apresentando a atmosfera tranquila de um jardim japonês no início da primavera. Ilumine moderadamente os detalhes escuros nas matas, orlas e lagoas, e restaure as camadas de troncos de árvores, arbustos e superfícies de água, mas retenha sombras profundas e não transforme áreas pretas em cinza. Reduza os realces do céu e a saturação do azul e ajuste o céu para um azul acinzentado transparente e calmo para evitar brilho excessivo e efeitos HDR. Destaque as flores de cerejeira no centro da imagem, tornando as flores uma cor rosa-esbranquiçada natural para adicionar transparência suave à luz do sol e camadas delicadas. Não o transforme em branco puro ou rosa fluorescente. As plantas verdes são ajustadas para verde musgo com baixa saturação, verde floresta e verde oliva leve, reduzindo o verde-amarelo e a sensação digital. A superfície da água mantém uma cor azul-preta profunda, realçando os reflexos sutis e as camadas de flores de cerejeira caídas, tornando o reflexo claro, mas não nítido. O design geral usa realces suaves, sombras profundas, contraste médio a forte e aumenta ligeiramente o contraste entre a luz solar quente e as sombras frias. Adicionando leve névoa de filme, halo natural, grão fino de filme de 35 mm e nitidez suave, a cor refere-se ao Kodak Portra 400 e à fotografia de filme japonês, que é real, natural, sutil, arejado e sofisticado. É proibido alterar a composição, adicionar flores de cerejeira, nuvens, edifícios, pessoas ou luzes, gerar novos ramos, mudar a estação, superexposição, preto morto, HDR, nitidez excessiva, verde fluorescente, céu azul brilhante, filtros pesados, sensação de pintura a óleo, sensação de ilustração e sensação de redesenho de IA. O resultado final deve ser como uma correção de cores profissional da foto RAW original, não uma imagem regenerada."
+      }
+    ],
+    "original_language": "zh",
+    "original_steps": [
+      "请仅对原照片进行专业调色和光影优化，严格保留原始构图、景物位置、樱花、树木、水面倒影及画面比例，不添加、删除或改变任何物体。整体调成高级、克制、安静的日系电影胶片风格，呈现早春日本庭园的清寂氛围。适度提亮树林、水岸和池塘中的暗部细节，恢复树干、灌木与水面层次，但保留幽深阴影，不要把黑色区域提成灰色。压低天空高光和蓝色饱和度，将天空调整为通透、沉静的灰蓝色，避免过度艳丽和HDR效果。突出画面中央樱花，使花朵呈自然的淡粉白色，增加柔和的阳光通透感和细腻层次，不要变成纯白或荧光粉。绿色植物调整为低饱和的苔藓绿、森林绿和轻微橄榄绿，减少黄绿色和数码感。水面维持深青黑色，增强细微反光和落樱的层次，让倒影清晰但不锐利。整体采用柔和高光、深邃阴影、中等偏强对比，略微增加暖色阳光与冷色阴影的冷暖对比。加入轻微胶片灰雾、自然光晕、细腻35mm胶片颗粒和柔和锐化，色彩参考 Kodak Portra 400 与日系电影摄影，真实、自然、含蓄、有空气感和高级感。禁止改变构图，禁止增加樱花、云朵、建筑、人物或灯光，禁止生成新的树枝，禁止改变季节，禁止过曝、死黑、HDR、过度锐化、荧光绿、艳蓝天空、浓重滤镜、油画感、插画感和AI重绘感。最终效果必须像对原始RAW照片进行专业调色，而不是重新生成一张图片。"
+    ],
+    "preserved_literals": [
+      "Kodak Portra 400"
+    ]
+  },
+  "inputs": [
+    {
+      "en": "Upload the second source image below, or your own garden photograph.",
+      "zh-CN": "上传下面的第二张源图片，或者您自己的花园照片。",
+      "zh-TW": "上傳下面的第二張來源圖片，或您自己的花園照片。",
+      "ja": "以下の 2 番目のソース画像、またはご自身の庭の写真をアップロードしてください。",
+      "ko": "아래의 두 번째 소스 이미지나 정원 사진을 업로드하세요.",
+      "fr": "Téléchargez la deuxième image source ci-dessous ou votre propre photo de jardin.",
+      "de": "Laden Sie das zweite Quellbild unten oder Ihr eigenes Gartenfoto hoch.",
+      "es": "Sube la segunda imagen fuente a continuación, o tu propia fotografía de jardín.",
+      "pt-BR": "Faça upload da segunda imagem de origem abaixo ou da sua própria fotografia do jardim."
+    }
+  ],
+  "notes": [
+    {
+      "en": "The creator credits GPT6 Astra for writing the prompt and GPT Image 2.5 for the edit. Image 1 is the edited result; image 2 is the input. Inspect branches, reflections and objects for redraws. A RAW-style request does not produce an editable RAW file or guarantee pixel preservation.",
+      "zh-CN": "作者说明提示词由 GPT6 Astra 编写，图片由 GPT Image 2.5 编辑。原帖第一张为结果，第二张为输入。请核对树枝、倒影与物体是否被重绘。要求 RAW 照片调色质感，不等于输出可编辑的 RAW 文件，也不保证像素完全保留。",
+      "zh-TW": "作者說明提示詞由 GPT6 Astra 編寫，圖片由 GPT Image 2.5 編輯。原帖第一張為結果，第二張為輸入。請核對樹枝、倒影與物體是否被重繪。要求 RAW 照片調色質感，不等於輸出可編輯的 RAW 文件，也不保證像素完全保留。",
+      "ja": "作成者は、プロンプトの作成には GPT6 Astra が、編集には GPT Image 2.5 がクレジットされています。画像 1 は編集結果です。画像 2 が入力です。ブランチ、リフレクション、オブジェクトの再描画を検査します。 RAW スタイルのリクエストでは、編集可能な RAW ファイルが生成されず、ピクセルの保持も保証されません。",
+      "ko": "제작자는 프롬프트 작성에 대해 GPT6 Astra를, 편집에 대해 GPT 이미지 2.5를 인정했습니다. 이미지 1는 편집된 결과입니다. image 2가 입력입니다. 다시 그리는 가지, 반사 및 개체를 검사합니다. RAW 스타일 요청은 편집 가능한 RAW 파일을 생성하거나 픽셀 보존을 보장하지 않습니다.",
+      "fr": "Le créateur remercie GPT6 Astra pour la rédaction de l'invite et GPT Image 2.5 pour la modification. L'image 1 est le résultat modifié ; l'image 2 est l'entrée. Inspectez les branches, les reflets et les objets pour les redessiner. Une requête de style RAW ne produit pas de fichier RAW modifiable et ne garantit pas la préservation des pixels.",
+      "de": "Der Ersteller schreibt GPT6 Astra das Schreiben der Eingabeaufforderung und GPT Image 2.5 die Bearbeitung zu. Bild 1 ist das bearbeitete Ergebnis; Bild 2 ist die Eingabe. Untersuchen Sie Äste, Spiegelungen und Objekte auf Neuzeichnungen. Eine Anfrage im RAW-Stil erzeugt keine bearbeitbare RAW-Datei und garantiert keine Pixelerhaltung.",
+      "es": "El creador le da crédito a GPT6 Astra por escribir el mensaje y a GPT Image 2.5 por la edición. La imagen 1 es el resultado editado; La imagen 2 es la entrada. Inspeccione ramas, reflejos y objetos para volver a dibujar. Una solicitud de estilo RAW no produce un archivo RAW editable ni garantiza la conservación de píxeles.",
+      "pt-BR": "O criador dá crédito ao GPT6 Astra por escrever o prompt e à GPT Image 2.5 pela edição. A imagem 1 é o resultado editado; imagem 2 é a entrada. Inspecione ramificações, reflexos e objetos para redesenhar. Uma solicitação no estilo RAW não produz um arquivo RAW editável nem garante a preservação de pixels."
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "HoodyLiu",
+    "url": "https://x.com/HoodyLiu/status/2099115784417251690",
+    "prompt_url": "https://x.com/HoodyLiu/status/2099115784417251690",
+    "checked_at": "2026-09-13T17:54:27.409Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "post_language": "zh"
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HSGOUDQbYAAFxpB.jpg",
+      "kind": "source-result",
+      "credit": "HoodyLiu — source result",
+      "source_url": "https://x.com/HoodyLiu/status/2099115784417251690"
+    }
+  ],
+  "references": [
+    {
+      "url": "https://pbs.twimg.com/media/HSGOiw-a8AAd-1r.jpg",
+      "source_url": "https://x.com/HoodyLiu/status/2099115784417251690",
+      "credit": "HoodyLiu — source input"
+    }
+  ],
+  "engagement": {
+    "likes": 7,
+    "reposts": null,
+    "replies": 4,
+    "bookmarks": null,
+    "views": null,
+    "observed_at": "2026-09-13T17:30:11.651392+00:00",
+    "source_url": "https://x.com/HoodyLiu/status/2099115784417251690",
+    "method": "X public embed counters; only available exact integers are recorded. Missing counters remain null."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and linked media remain subject to their source terms. Attribution does not grant a license to source inputs or results."
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T17:54:27.409Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 4,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 4,
+      "distinctiveness": 3
+    },
+    "rationale": "Creator supplies input and result separately. Broad composition remains recognizable; sky and foliage grading can be compared, but branches and reflections still need pixel-level checking."
+  },
+  "translation_meta": {
+    "source_digest": "7ba54d043558261e48dc3ab316e8503ac67a5c0c49cdb7385862a4a3fe28280b",
+    "text_digests": {
+      "zh-CN": "648ae4fbde24252209aad0030b99d28e998f7fa114aae70b9fa342cd9cc99a06",
+      "zh-TW": "1e8080bc1c23b5d039fb92732a86ad281e55d9271ce2880429cdf75da0b6d152",
+      "ja": "ee41f6f57275213803376720000609831d6343c6848858255b7f9c0d73d7d3e9",
+      "ko": "b973b234b81d2af731490bc2dcf8a97da6ecaa123d01135b6c429196ac1daaa1",
+      "fr": "dc627926b064bd2c192749575615013086ab10d366e45ecdb37f32b79ba947c5",
+      "de": "447440ccb74971b0da39095674df1eafb917adfb318531ff3797f2cd47cfe8fd",
+      "es": "ed051159ac31e40e2a219ff758bccf6a048d035751a278222f394915f6d1a0e7",
+      "pt-BR": "625861c41e1c0dc208fd22524e4ab6272813ff9be8f7edef0b31573e4e0ebfc8"
+    }
+  }
+}

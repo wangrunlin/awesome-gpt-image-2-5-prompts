@@ -7,15 +7,15 @@
 
 실용적인 GPT Image 2.5 프롬프트, 출처가 있는 예시와 재사용 가능한 작업 흐름입니다. 이미지를 보고 전체 프롬프트를 복사하세요.
 
-**56 사례 · 9 언어** · [온라인 갤러리 보기](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=intro--ko) · 관리 주체: [Image 2.5](https://image-2-5.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=maintainer--ko)
+**70 사례 · 9 언어** · [온라인 갤러리 보기](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=intro--ko) · 관리 주체: [Image 2.5](https://image-2-5.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=maintainer--ko)
 
 ## 여기서 시작
 
+- [중국어 크리에이티브 회사 웹사이트 전체 시안](#case-chinese-agency-page-layout) — 구역별 높이 비율과 중국어 UI 문구를 지정하여 제작사 웹사이트 전체를 그립니다.
 - [고정 포스터의 제품 교체](#case-fixed-template-product-swap) — 레이아웃, 타이포그래피, 배경은 그대로 유지하면서 포스터의 주요 제품을 교체합니다.
-- [3가지 참고 자료를 활용한 제품 광고](#case-three-reference-product-ad) — 제품 아이덴티티, 조명, 레이아웃 참고 자료를 각각 별도로 작성하고 우선순위를 명확히 지정하십시오.
 - [튀는 스티커 GIF 애니메이션](#case-bouncing-cutout-sticker) — 피사체를 투명 스티커로 변환한 후, 파이썬을 사용하여 해당 스티커를 애니메이션화합니다.
-- [계곡 선화를 사실적으로 렌더링](#case-drawing-to-realistic-valley) — 선화를 재질과 조명으로 바꾸면서 배치와 원근을 유지합니다.
-- [조명을 맞추는 두 참조 이미지 합성](#case-reference-dog-composite) — 부분 합성 전에 대상이 있는 이미지, 배경 이미지와 배치 위치를 지정합니다.
+- [세 가지 편집을 통한 캠프장 스케치](#case-campsite-sketch-three-edits) — 레이아웃을 위해 스케치를 사용한 다음 일광과 의상을 각각 차례대로 변경합니다.
+- [구도를 유지하는 정원 사진 색보정](#case-garden-photo-color-grading) — 촬영된 장면을 보존하면서 하늘 하이라이트, 그림자 디테일 및 나뭇잎 색상을 제어합니다.
 
 인기도가 아닌 편집 품질 평가순입니다. 점수는 자료의 활용성과 보이는 예시를 평가하며 독립적인 모델 실험을 뜻하지 않습니다. 날짜가 있는 반응 수는 출처 패널에 남겨 둡니다.
 
@@ -49,9 +49,11 @@
 <a id="category-editing"></a>
 ### 편집 및 복원
 
+- [구도를 유지하는 정원 사진 색보정](#case-garden-photo-color-grading)
 - [조명을 맞추는 두 참조 이미지 합성](#case-reference-dog-composite)
 - [손에 든 물체 제거](#case-remove-flower-local-edit)
 - [방을 유지하며 의자 교체](#case-wooden-chair-room-edit)
+- [노트북 화면 내용만 교체하기](#case-laptop-screen-local-replacement)
 - [방 안의 램프 위치 이동하기](#case-move-the-lamp)
 - [저해상도 이미지 복원](#case-low-resolution-restoration)
 - [9단계의 연속 편집 과정을 거치는 로봇](#case-robot-sequential-edits)
@@ -62,12 +64,14 @@
 - [고정 포스터의 제품 교체](#case-fixed-template-product-swap)
 - [투명 제품 스튜디오 조명 조정](#case-transparent-product-relighting)
 - [두 계절에 걸친 광고판 수정](#case-billboard-seasonal-iteration)
+- [블리스 터 포장의 수집 가능한 비행기](#case-collectible-airplane-packaging)
 - [일관성 있는 다중 제품 스튜디오 배치](#case-multi-product-studio-lineup)
 - [제품을 들고 있는 사람](#case-person-holding-reference-product)
 - [참조 셔츠 가상 착용](#case-reference-shirt-try-on)
 - [6색 패션 캠페인](#case-six-color-fashion-campaign)
 - [투명 배경 제품 누끼](#case-transparent-product-cutout)
 - [형태(지오메트리)가 고정된 제품 렌더링](#case-geometry-locked-product-render)
+- [주석이 달린 패션 룩북](#case-annotated-fashion-lookbook)
 - [스타일 참조 기반의 제품 UGC(사용자 생성 콘텐츠)](#case-style-reference-product-ugc)
 - [복고풍 인포머셜(정보 전달형 광고) 스타일의 프레임](#case-retro-infomercial-frame)
 
@@ -80,15 +84,22 @@
 <a id="category-design"></a>
 ### 포스터 및 편집 디자인
 
+- [중국어 크리에이티브 회사 웹사이트 전체 시안](#case-chinese-agency-page-layout)
 - [3가지 참고 자료를 활용한 제품 광고](#case-three-reference-product-ad)
+- [깔끔한 알파 가장자리가 있는 베이커리 로고](#case-bakery-logo-transparent)
 - [중국식 커피 추출 인포그래픽](#case-chinese-coffee-brewing-infographic)
+- [라벨이 붙은 세포 호흡 유인물](#case-classroom-cellular-respiration)
 - [신선식품 모바일 앱 UI](#case-fresh-grocery-mobile-ui)
 - [레이아웃을 유지하는 인포그래픽 번역](#case-infographic-layout-translation)
 - [장문 포스터 템플릿 재사용](#case-long-copy-poster-template)
 - [컵 색상 및 마감 편집](#case-single-cup-material-edit)
+- [건축 포털 여행 포스터](#case-architectural-portal-travel-poster)
 - [5단계 커피 축제 포스터 편집](#case-coffee-festival-poster-iterations)
+- [명시적인 입력을 통한 시장 규모 슬라이드](#case-market-opportunity-slide)
+- [정확한 메시지가 담긴 명절 카드](#case-nostalgic-holiday-card)
 - [에스프레소 머신 정비 매뉴얼 도해](#case-espresso-service-manual)
 - [개인 맞춤형 여행 잡지 페이지](#case-travel-magazine-page)
+- [등각 투영 공간 관계 테스트](#case-isometric-spatial-relations)
 - [수작업으로 만든 여행지 랜드마크 미니어처](#case-miniature-travel-landmark)
 - [사진과 판화를 결합한 여행 일기](#case-santorini-family-travel-diary)
 - [다양한 타이포그래피가 혼합된 마을 게시판](#case-village-notice-board)
@@ -115,17 +126,28 @@
 <a id="category-sketch"></a>
 ### 스케치 기반 생성
 
+- [세 가지 편집을 통한 캠프장 스케치](#case-campsite-sketch-three-edits)
 - [계곡 선화를 사실적으로 렌더링](#case-drawing-to-realistic-valley)
 - [스케치를 바탕으로 장면 재구성하기](#case-sketch-guided-composition)
+- [지중해에서 영감을 받은 미래 정착지](#case-mediterranean-alien-settlement)
 
 <a id="mode-generate"></a>
 <details>
 <summary>텍스트-이미지 변환</summary>
 
+- [중국어 크리에이티브 회사 웹사이트 전체 시안](#case-chinese-agency-page-layout)
+- [깔끔한 알파 가장자리가 있는 베이커리 로고](#case-bakery-logo-transparent)
 - [중국식 커피 추출 인포그래픽](#case-chinese-coffee-brewing-infographic)
+- [라벨이 붙은 세포 호흡 유인물](#case-classroom-cellular-respiration)
+- [블리스 터 포장의 수집 가능한 비행기](#case-collectible-airplane-packaging)
 - [신선식품 모바일 앱 UI](#case-fresh-grocery-mobile-ui)
 - [6색 패션 캠페인](#case-six-color-fashion-campaign)
+- [건축 포털 여행 포스터](#case-architectural-portal-travel-poster)
+- [주석이 달린 패션 룩북](#case-annotated-fashion-lookbook)
+- [명시적인 입력을 통한 시장 규모 슬라이드](#case-market-opportunity-slide)
+- [정확한 메시지가 담긴 명절 카드](#case-nostalgic-holiday-card)
 - [에스프레소 머신 정비 매뉴얼 도해](#case-espresso-service-manual)
+- [등각 투영 공간 관계 테스트](#case-isometric-spatial-relations)
 - [수작업으로 만든 여행지 랜드마크 미니어처](#case-miniature-travel-landmark)
 - [사진과 판화를 결합한 여행 일기](#case-santorini-family-travel-diary)
 - [화산재 모래 위에서 펼쳐지는 셀 애니메이션 스타일의 결투](#case-cel-animation-duel)
@@ -134,6 +156,7 @@
 - [해안 수도원을 배경으로 한 자연스러운 여행 인물 사진](#case-coastal-abbey-travel-portrait)
 - [모듈형 기계 타워](#case-modular-mechanical-tower)
 - [객체 개수 제한이 있는 가을 시장 포스터](#case-autumn-market-count-constraints)
+- [지중해에서 영감을 받은 미래 정착지](#case-mediterranean-alien-settlement)
 - [카페에서 스마트폰으로 찍은 자연스러운 사진](#case-candid-cafe-photo)
 
 </details>
@@ -146,6 +169,7 @@
 - [3가지 참고 자료를 활용한 제품 광고](#case-three-reference-product-ad)
 - [투명 제품 스튜디오 조명 조정](#case-transparent-product-relighting)
 - [계곡 선화를 사실적으로 렌더링](#case-drawing-to-realistic-valley)
+- [구도를 유지하는 정원 사진 색보정](#case-garden-photo-color-grading)
 - [레이아웃을 유지하는 인포그래픽 번역](#case-infographic-layout-translation)
 - [장문 포스터 템플릿 재사용](#case-long-copy-poster-template)
 - [일관성 있는 다중 제품 스튜디오 배치](#case-multi-product-studio-lineup)
@@ -158,6 +182,7 @@
 - [손에 든 물체 제거](#case-remove-flower-local-edit)
 - [방을 유지하며 의자 교체](#case-wooden-chair-room-edit)
 - [형태(지오메트리)가 고정된 제품 렌더링](#case-geometry-locked-product-render)
+- [노트북 화면 내용만 교체하기](#case-laptop-screen-local-replacement)
 - [캐릭터 기반 댄스 포즈 시트](#case-dance-pose-keyframes)
 - [스케치를 바탕으로 장면 재구성하기](#case-sketch-guided-composition)
 - [개인 맞춤형 여행 잡지 페이지](#case-travel-magazine-page)
@@ -174,6 +199,7 @@
 
 - [두 계절에 걸친 광고판 수정](#case-billboard-seasonal-iteration)
 - [튀는 스티커 GIF 애니메이션](#case-bouncing-cutout-sticker)
+- [세 가지 편집을 통한 캠프장 스케치](#case-campsite-sketch-three-edits)
 - [5단계 커피 축제 포스터 편집](#case-coffee-festival-poster-iterations)
 - [6프레임 표정 연기 GIF](#case-six-frame-expression-gif)
 - [스타일 참조 기반의 제품 UGC(사용자 생성 콘텐츠)](#case-style-reference-product-ugc)
@@ -186,6 +212,101 @@
 - [9단계의 연속 편집 과정을 거치는 로봇](#case-robot-sequential-edits)
 
 </details>
+
+---
+
+<a id="case-chinese-agency-page-layout"></a><a id="user-content-case-chinese-agency-page-layout"></a>
+## 중국어 크리에이티브 회사 웹사이트 전체 시안
+
+[English](README.md#user-content-case-chinese-agency-page-layout) · [简体中文](README.zh-CN.md#user-content-case-chinese-agency-page-layout) · [繁體中文](README.zh-TW.md#user-content-case-chinese-agency-page-layout) · [日本語](README.ja.md#user-content-case-chinese-agency-page-layout) · [한국어](README.ko.md#user-content-case-chinese-agency-page-layout) · [Français](README.fr.md#user-content-case-chinese-agency-page-layout) · [Deutsch](README.de.md#user-content-case-chinese-agency-page-layout) · [Español](README.es.md#user-content-case-chinese-agency-page-layout) · [Português (Brasil)](README.pt-BR.md#user-content-case-chinese-agency-page-layout)
+
+<a href="https://x.com/listudio/status/2097652659788619894"><img src="https://pbs.twimg.com/media/HRxb7cJboAAiH2G.jpg" width="640" alt="중국어 크리에이티브 회사 웹사이트 전체 시안 — listudio — source result — 출처 결과 예시" loading="lazy"></a>
+
+구역별 높이 비율과 중국어 UI 문구를 지정하여 제작사 웹사이트 전체를 그립니다.
+
+**원본 프롬프트 · 텍스트-이미지 변환 · 독립적 테스트 미실시**
+
+### 필수 입력 사항
+
+원본에서 지정한 참조 이미지가 없습니다.
+
+<details>
+<summary>프롬프트</summary>
+
+
+
+```text
+웹 버전의 최신 GPT 이미지 2.5 이미지 생성 기능을 사용하여 이미지를 직접 생성하고 프롬프트 단어만 반환하지 마십시오.
+
+창의적인 디자인 회사의 중국 공식 웹사이트에 대한 완전한 시각적 디자인 도면, 정면 보기가 있고 원근감이 없는 데스크톱 웹페이지의 긴 스크린샷, 가능한 높은 해상도의 9:16 세로 형식, 탐색에서 바닥글까지 완전한 디스플레이를 생성합니다. 흰색 배경, 코발트 블루, 밝은 노란색, 산호색 빨간색과 밝은 하늘색 색상, 좁은 공백, 깔끔한 격자, 직각 카드, 대담한 경사 기하학적 콜라주. 전체적인 룩은 젊고 생기 넘치며 디자인 실험적인 느낌을 줍니다.
+
+상단에는 슬림한 흰색 내비게이션 바가 있으며, 원래 굵은 한자 표시 "见造"와 왼쪽에 작은 슬로건 "以创意，让世界更有趣"가 있습니다. 오른쪽에 있는 네비게이션은 "关于我们、创意服务、精选作品、加入我们、最新动态" 이고, 맨 오른쪽에는 파란색 "联系我们 →" 버튼이 있습니다.
+
+첫 번째 화면은 전체 이미지의 약 27%를 차지합니다. 왼쪽에는 아주 눈길을 끄는 코발트 블루의 굵은 고딕체로 "让有趣，"와 "改变世界。" 두 줄이 있습니다. 왼쪽 하단에는 "以自由的想象，连接人与品牌，让每一个好点子，成为真实的改变。"라는 작은 문자가 있습니다. 오른쪽에는 분명히 성인 20 세의 중국 여성이 있습니다. 어깨까지 내려오는 검은 머리카락이 바람에 휘날린다. 그녀는 자연스러운 빛 메이크업과 실제 피부를 가지고 있습니다. 그녀는 고개를 살짝 들어 오른쪽 위를 바라본다. 심플한 경사 플래킷과 같은 색상의 단추 몇 개가 달린 코발트 블루 색상의 면 및 린넨 스탠드업 칼라 반소매 탑을 착용하세요. 잘 맞지만 꽉 끼지는 않습니다. 캐릭터는 파란색 큐브, 노란색 구체, 산호색 빨간색 링, 흰색 기하학적 받침대가 결합되어 있습니다. 배경은 밝은 푸른 하늘과 밝은 자연광입니다. 재질과 그림자은 신뢰할 만합니다.
+
+첫 화면 하단 흰색 컨셉 가로바가 약 8%를 차지하며, 왼쪽에는 소문자 '我们的理念', 중앙에는 굵은 검정색 제목 '用创意，为社会留出想象。', 오른쪽에는 '我们相信，好的设计不止解决问题，也让人与世界产生新的连接。', '了解见造 →'라는 문구가 적혀 있다.
+
+서비스 영역은 약 16%를 차지하며 좁은 열 제목 "创意服务", 간단한 소개 및 왼쪽에 "查看全部服务 →"가 있습니다. 오른쪽에 있는 3개의 동일한 너비 카드: 휴대용 전구 사진이 있는 파란색 배경 카드("品牌创意"), 다채로운 기하학적 빌딩 블록이 있는 노란색 배경 카드("传播设计"), 열린 노트북이 있는 산호색 배경 카드("数字体验"). 각 카드 아래에는 간략한 중국어 소개 두 줄과 오른쪽 화살표가 있습니다.
+
+작업 영역은 약 17%를 차지하며 왼쪽에는 "精选作品" 및 "查看全部作品 →"라는 제목이 있고 오른쪽에는 평면 작품의 썸네일 4열로 화려한 페인트로 장식된 20세 중국 여성 초상화 포스터, 도시 기하학적 설치 포스터, 파란색, 흰색 및 빨간색 편집 디자인, 산 예술 설치 포스터가 있습니다. 4개의 프로젝트 이름은 "自在生长", "城市游乐场", "灵感发生地", "山野之间" 순으로 되어 있으며, 썸네일에 보이는 텍스트는 모두 중국어로 되어있습니다.
+
+모집 영역은 약 18%를 차지하며 전체 코발트 블루 가로 막대, 왼쪽에 흰색 제목 "和有趣的人，一起创造新风景。", 텍스트 "让热爱成为日常，让灵感自由生长。" 및 흰색 버튼 "查看开放职位 →"가 있습니다. 오른쪽에는 20 나이로 보이는 성인 중국 여성 3명이 노란색과 산호색의 기하학적 계단에 앉아 자연스럽게 소통하고 있습니다. 그들은 파란색 스탠드 칼라 탑, 회백색 면과 리넨 셔츠, 연한 노란색의 심플한 니트 탑, 루즈한 바지, 깔끔한 플랫슈즈를 입고 있습니다. 긴 검은 머리 또는 짧은 어깨 길이의 머리, 자연스러운 빛의 메이크업, 젊음, 자신감, 친절함을 갖추고 있습니다. 그들은 고대 의상도 아니고 직업적인 의상도 아니며 과장된 액세서리도 없습니다.
+
+아래 6% 정보는 흰색 배경의 "最新动态" 열이며 메시지의 세 줄은 "2026.09.09 见造全新品牌网站正式上线", "2026.09.08 城市游乐场创意计划发布" 및 "2026.09.01 秋季创意伙伴招募开启"입니다. 마지막 약 8%는 간결한 바닥글이며 중국어 "见造", 탐색 및 "© 2026 见造创意。保留所有权利。"를 사용하여 편안한 하단 여백을 남깁니다. 모든 인터페이스 사본은 읽기 쉽고 정확한 중국어 간체로 되어 있으며 제목과 텍스트도 명확합니다. 일본어, 잘못된 문자, 타사 로고, 워터마크, 브라우저 테두리, 장치 케이스가 없습니다. 완전한 웹 디자인 도면을 출력합니다.
+```
+
+[온라인 갤러리 보기](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ko--chinese-agency-page-layout)
+
+</details>
+
+### 내 용도에 맞추기
+
+주제와 배경을 바꾸고 필요한 구도와 이미지 속 정확한 문구는 유지하세요.
+
+### 참고 사항
+
+- 결과는 웹페이지 이미지이며 HTML이나 실행되는 앱이 아닙니다. 구역별 높이 비율의 합은 100%입니다. 작은 중국어 글자를 원본 크기로 확인하세요. 번역할 때 인용된 중국어 UI 문구를 유지하고 워터마크 금지 조건도 확인하세요.
+
+<details>
+<summary>출처와 날짜별 반응 수</summary>
+
+**편집 검토: 93.75/100 · 2026-09-13T17:54:27.409Z**
+
+[편집 검토](docs/CURATION.md)
+
+[@listudio](https://x.com/listudio/status/2097652659788619894) · [프롬프트 또는 워크플로 원본](https://x.com/listudio/status/2097652659788619894) · [제작자의 모델 관련 설명](https://x.com/listudio/status/2097652659788619894)
+
+프롬프트 원본 언어: **zh** · 게시물 언어: **zh**
+
+0 좋아요 · — 즐겨찾기 · — 재게시 · — 조회수
+
+반응 확인됨: 2026-09-13T17:22:12.779229+00:00 · 원본 확인됨: 2026-09-13T17:54:27.409Z
+
+### 원본 문구 보기
+
+```text
+请使用网页版当前最新的 GPT Image 2.5 生图能力直接生成图片，不要仅返回提示词。
+
+生成一张完整的创意设计公司中文官网视觉设计图，正面平视、无透视的桌面网页长截图，9:16 竖幅，尽可能高分辨率，完整显示从导航到页脚。白底，钴蓝、明黄、珊瑚红和浅天蓝配色，细窄留白、整齐网格、直角卡片、大胆斜切几何拼贴。整体年轻、明快、有设计实验感。
+
+顶部为纤细白色导航栏，左侧原创中文粗体字标“见造”，小标语“以创意，让世界更有趣”。右侧导航依次为“关于我们、创意服务、精选作品、加入我们、最新动态”，最右是蓝色“联系我们 →”按钮。
+
+首屏占全图约 27%，左侧以非常醒目的钴蓝粗黑体排两行“让有趣，”“改变世界。”，左下小字“以自由的想象，连接人与品牌，让每一个好点子，成为真实的改变。”右侧是一名明确成年的 20 岁中国女性，黑色齐肩发被微风吹动，自然淡妆，真实皮肤，微仰头望向右上方。穿钴蓝棉麻立领短袖上衣，简洁斜襟与少量同色盘扣，合身但不紧绷。人物与蓝色立方体、黄色球体、珊瑚红圆环、白色几何台座组合，背景浅蓝天空，明亮自然日光，材质和投影可信。
+
+首屏下方白色理念横栏占约 8%，左侧小字“我们的理念”，中间黑色粗标题“用创意，为社会留出想象。”，右侧正文“我们相信，好的设计不止解决问题，也让人与世界产生新的连接。”及“了解见造 →”。
+
+服务区占约 16%，左侧窄栏标题“创意服务”、简短介绍和“查看全部服务 →”；右侧三张等宽卡片：蓝底卡片以手持灯泡摄影配“品牌创意”，黄底卡片以彩色几何积木配“传播设计”，珊瑚红底卡片以打开的笔记本电脑配“数字体验”。每张卡片下方有两行简短中文介绍和右箭头。
+
+作品区占约 17%，左侧标题“精选作品”和“查看全部作品 →”，右侧四列平面作品缩略图，分别为有彩色颜料点缀的 20 岁中国女性肖像海报、城市几何装置海报、蓝白红编辑设计、山野艺术装置海报。四个项目名称依次为“自在生长”“城市游乐场”“灵感发生地”“山野之间”，缩略图中的可见文字也全部使用中文。
+
+招聘区占约 18%，整幅钴蓝横栏，左侧白色大标题“和有趣的人，一起创造新风景。”，正文“让热爱成为日常，让灵感自由生长。”及白底按钮“查看开放职位 →”。右侧三名明确成年的 20 岁中国女性坐在黄色与珊瑚红几何台阶上自然交流，分别穿蓝色立领上衣、米白棉麻衬衫、浅黄色简约针织上衣，搭配宽松长裤与干净平底鞋，黑色长发或齐肩短发，自然淡妆，青春、自信、亲切，非古装、非职业套装、无夸张饰品。
+
+下方约 6% 为白底“最新动态”栏，三行消息为“2026.09.09 见造全新品牌网站正式上线”“2026.09.08 城市游乐场创意计划发布”“2026.09.01 秋季创意伙伴招募开启”。最后约 8% 为简洁页脚，中文“见造”、导航和“© 2026 见造创意。保留所有权利。”，留出舒适下边距。所有界面文案为可读、准确的简体中文，标题与正文层级鲜明。无日文、无乱码、无第三方标志、无水印、无浏览器边框、无设备外壳。输出一张完整网页设计图。
+```
+
+</details>
+
+[갤러리 목록으로 돌아가기](#collection)
 
 ---
 
@@ -453,6 +574,75 @@
 
 ---
 
+<a id="case-bakery-logo-transparent"></a><a id="user-content-case-bakery-logo-transparent"></a>
+## 깔끔한 알파 가장자리가 있는 베이커리 로고
+
+[English](README.md#user-content-case-bakery-logo-transparent) · [简体中文](README.zh-CN.md#user-content-case-bakery-logo-transparent) · [繁體中文](README.zh-TW.md#user-content-case-bakery-logo-transparent) · [日本語](README.ja.md#user-content-case-bakery-logo-transparent) · [한국어](README.ko.md#user-content-case-bakery-logo-transparent) · [Français](README.fr.md#user-content-case-bakery-logo-transparent) · [Deutsch](README.de.md#user-content-case-bakery-logo-transparent) · [Español](README.es.md#user-content-case-bakery-logo-transparent) · [Português (Brasil)](README.pt-BR.md#user-content-case-bakery-logo-transparent)
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo"><img src="https://developers.openai.com/images/platform/guides/image-prompting/logo-generation-1-gpt-image-2-5-sunburst.webp" width="640" alt="깔끔한 알파 가장자리가 있는 베이커리 로고 — OpenAI — source result — 출처 결과 예시" loading="lazy"></a>
+
+다양한 크기에서도 쉽게 읽을 수 있는 간단한 브랜드 마크를 디자인하세요.
+
+**원본 프롬프트 · 텍스트-이미지 변환 · 독립적 테스트 미실시**
+
+### 필수 입력 사항
+
+원본에서 지정한 참조 이미지가 없습니다.
+
+<details>
+<summary>프롬프트</summary>
+
+
+
+```text
+지역 빵집인 Field & Flour라는 회사의 독창적이고 침해하지 않는 로고를 만듭니다.
+로고는 따뜻하고 단순하며 시대를 초월한 느낌을 주어야 합니다. 깔끔하고 벡터 같은 모양, 강한 실루엣, 균형 잡힌 네거티브 공간을 사용하세요.
+작은 크기와 큰 크기 모두에서 명확하게 읽을 수 있도록 세부 사항보다 단순성을 선호합니다. 평면 디자인, 최소한의 스트로크, 꼭 필요한 경우를 제외하고는 그라데이션이 없습니다.
+완전히 투명한 배경. 넉넉한 패딩, 깔끔한 알파 가장자리, 단색 배경, 풍경, 체커보드 또는 워터마크가 없는 단일 중앙 로고를 제공하세요.
+```
+
+[온라인 갤러리 보기](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ko--bakery-logo-transparent)
+
+</details>
+
+### 내 용도에 맞추기
+
+주제와 배경을 바꾸고 필요한 구도와 이미지 속 정확한 문구는 유지하세요.
+
+### 참고 사항
+
+- 베이커리 이름과 브리핑을 함께 바꿔보세요. 출력은 편집 가능한 벡터 파일이 아닌 래스터 이미지입니다. 편집기에서 알파 가장자리를 검사합니다. 귀속은 상표 허가가 아닙니다. 소스 설정: 1024x1536, 중간 품질, 투명 배경, PNG.
+
+<details>
+<summary>출처와 날짜별 반응 수</summary>
+
+**편집 검토: 91.25/100 · 2026-09-13T17:54:27.409Z**
+
+[편집 검토](docs/CURATION.md)
+
+[OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo) · [프롬프트 또는 워크플로 원본](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo) · [제작자의 모델 관련 설명](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo)
+
+프롬프트 원본 언어: **en** · 게시물 언어: **en**
+
+— 좋아요 · — 즐겨찾기 · — 재게시 · — 조회수
+
+반응 확인됨: 2026-09-13T17:54:27.409Z · 원본 확인됨: 2026-09-13T17:54:27.409Z
+
+### 원본 문구 보기
+
+```text
+Create an original, non-infringing logo for a company called Field & Flour, a local bakery.
+The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.
+Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.
+Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
+```
+
+</details>
+
+[갤러리 목록으로 돌아가기](#collection)
+
+---
+
 <a id="case-billboard-seasonal-iteration"></a><a id="user-content-case-billboard-seasonal-iteration"></a>
 ## 두 계절에 걸친 광고판 수정
 
@@ -668,6 +858,89 @@ Make it look like a winter evening with snowfall.
 
 ---
 
+<a id="case-campsite-sketch-three-edits"></a><a id="user-content-case-campsite-sketch-three-edits"></a>
+## 세 가지 편집을 통한 캠프장 스케치
+
+[English](README.md#user-content-case-campsite-sketch-three-edits) · [简体中文](README.zh-CN.md#user-content-case-campsite-sketch-three-edits) · [繁體中文](README.zh-TW.md#user-content-case-campsite-sketch-three-edits) · [日本語](README.ja.md#user-content-case-campsite-sketch-three-edits) · [한국어](README.ko.md#user-content-case-campsite-sketch-three-edits) · [Français](README.fr.md#user-content-case-campsite-sketch-three-edits) · [Deutsch](README.de.md#user-content-case-campsite-sketch-three-edits) · [Español](README.es.md#user-content-case-campsite-sketch-three-edits) · [Português (Brasil)](README.pt-BR.md#user-content-case-campsite-sketch-three-edits)
+
+<a href="https://x.com/ezolog2026/status/2097698951696908595"><img src="https://pbs.twimg.com/media/HRyEoy-awAARHe5.jpg" width="640" alt="세 가지 편집을 통한 캠프장 스케치 — ezolog2026 — source result — 출처 결과 예시" loading="lazy"></a>
+
+레이아웃을 위해 스케치를 사용한 다음 일광과 의상을 각각 차례대로 변경합니다.
+
+**원본 프롬프트 · 다단계 워크플로 · 독립적 테스트 미실시**
+
+### 필수 입력 사항
+
+- 의도한 구성을 보여주는 캠프장 스케치를 업로드하세요. 동일한 대화를 유지하고 다음 편집에 각 결과를 재사용하세요.
+
+<details>
+<summary>프롬프트</summary>
+
+#### 단계 1
+
+```text
+이 손그림을 바탕으로 분위기 있는 야간 캠핑장 이미지를 만들어 주세요.
+```
+
+#### 단계 2
+
+```text
+구도를 바꾸지 말고 낮으로 바꿔 주세요.
+```
+
+#### 단계 3
+
+```text
+인물의 옷을 멜빵 작업복으로 바꿔 주세요.
+```
+
+[온라인 갤러리 보기](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ko--campsite-sketch-three-edits)
+
+</details>
+
+### 내 용도에 맞추기
+
+순서대로 실행하고 필요한 경우 이전 결과를 재사용하세요. 시작 전에 외부 처리 도구를 확인하세요.
+
+### 참고 사항
+
+- 이전 출력을 재사용하여 다음 지침을 순서대로 실행하세요. 소스 비교는 스케치와 결과를 결합합니다. 업로드하기 전에 자신의 스케치를 사용하거나 스케치 패널을 자릅니다. 이는 측정된 현장 계획이 아닌 시각적 장면 작업흐름입니다.
+
+<details>
+<summary>출처와 날짜별 반응 수</summary>
+
+**편집 검토: 91.25/100 · 2026-09-13T17:54:27.409Z**
+
+[편집 검토](docs/CURATION.md)
+
+[@ezolog2026](https://x.com/ezolog2026/status/2097698951696908595) · [프롬프트 또는 워크플로 원본](https://x.com/ezolog2026/status/2097698951696908595) · [제작자의 모델 관련 설명](https://x.com/ezolog2026/status/2097698951696908595)
+
+프롬프트 원본 언어: **ja** · 게시물 언어: **ja**
+
+13 좋아요 · — 즐겨찾기 · — 재게시 · — 조회수
+
+반응 확인됨: 2026-09-13T17:22:19.990392+00:00 · 원본 확인됨: 2026-09-13T17:54:27.409Z
+
+### 원본 문구 보기
+
+```text
+この手書きの絵をもとにムードのある夜のキャンプ場の画像を作って
+```
+
+```text
+構図は変えずに昼にして
+```
+
+```text
+人物の服装をオーバーオールにして
+```
+
+</details>
+
+[갤러리 목록으로 돌아가기](#collection)
+
+---
+
 <a id="case-chinese-coffee-brewing-infographic"></a><a id="user-content-case-chinese-coffee-brewing-infographic"></a>
 ## 중국식 커피 추출 인포그래픽
 
@@ -742,6 +1015,182 @@ Make it look like a winter evening with snowfall.
 用四个编号模块自上而下排列，每个模块包含一个简洁图标。
 奶油白背景，深咖啡色文字，少量橙色强调。
 所有文字必须清晰可读，不得添加其他文字、品牌、Logo或水印。
+```
+
+</details>
+
+[갤러리 목록으로 돌아가기](#collection)
+
+---
+
+<a id="case-classroom-cellular-respiration"></a><a id="user-content-case-classroom-cellular-respiration"></a>
+## 라벨이 붙은 세포 호흡 유인물
+
+[English](README.md#user-content-case-classroom-cellular-respiration) · [简体中文](README.zh-CN.md#user-content-case-classroom-cellular-respiration) · [繁體中文](README.zh-TW.md#user-content-case-classroom-cellular-respiration) · [日本語](README.ja.md#user-content-case-classroom-cellular-respiration) · [한국어](README.ko.md#user-content-case-classroom-cellular-respiration) · [Français](README.fr.md#user-content-case-classroom-cellular-respiration) · [Deutsch](README.de.md#user-content-case-classroom-cellular-respiration) · [Español](README.es.md#user-content-case-classroom-cellular-respiration) · [Português (Brasil)](README.pt-BR.md#user-content-case-classroom-cellular-respiration)
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals"><img src="https://developers.openai.com/images/platform/guides/image-prompting/scientific-educational-cellular-respiration-gpt-image-2-5-sunburst.webp" width="640" alt="라벨이 붙은 세포 호흡 유인물 — OpenAI — source result — 출처 결과 예시" loading="lazy"></a>
+
+교실 다이어그램을 생성하기 전에 강의, 분자 및 시각적 순서를 지정하세요.
+
+**원본 프롬프트 · 텍스트-이미지 변환 · 독립적 테스트 미실시**
+
+### 필수 입력 사항
+
+원본에서 지정한 참조 이미지가 없습니다.
+
+<details>
+<summary>프롬프트</summary>
+
+
+
+```text
+고등학생을 위해 "Cellular Respiration at a Glance"라는 제목의 간단한 생물학 다이어그램을 만듭니다.
+
+세포 내에서 포도당이 어떻게 에너지로 전환되는지 보여줍니다. 해당과정, 크렙스 회로, 전자 전달 사슬을 포함합니다.
+화살표를 사용하여 단계를 연결하고 주요 분자(포도당, 피루브산, ATP, NADH, FADH2, CO2, O2 및 H2O)에 라벨을 붙입니다.
+흰색 배경, 간단한 아이콘, 명확한 레이블, 읽기 쉬운 텍스트를 사용하여 깔끔한 교실 유인물이나 슬라이드처럼 보이게 만듭니다.
+
+작은 텍스트, 추가 장식 또는 다이어그램을 이해하기 어렵게 만드는 모든 것을 피하세요.
+```
+
+[온라인 갤러리 보기](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ko--classroom-cellular-respiration)
+
+</details>
+
+### 내 용도에 맞추기
+
+주제와 배경을 바꾸고 필요한 구도와 이미지 속 정확한 문구는 유지하세요.
+
+### 참고 사항
+
+- 강의하기 전에 주제 전문가에게 분자 라벨, 화살표 및 과학적 관계를 확인하도록 하세요. 해당 예시는 생성된 예시이며 과학적 증거가 아닙니다. 소스 설정: 1536x1024, 고품질.
+
+<details>
+<summary>출처와 날짜별 반응 수</summary>
+
+**편집 검토: 91.25/100 · 2026-09-13T17:54:27.409Z**
+
+[편집 검토](docs/CURATION.md)
+
+[OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals) · [프롬프트 또는 워크플로 원본](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals) · [제작자의 모델 관련 설명](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals)
+
+프롬프트 원본 언어: **en** · 게시물 언어: **en**
+
+— 좋아요 · — 즐겨찾기 · — 재게시 · — 조회수
+
+반응 확인됨: 2026-09-13T17:54:27.409Z · 원본 확인됨: 2026-09-13T17:54:27.409Z
+
+### 원본 문구 보기
+
+```text
+Create a simple biology diagram titled "Cellular Respiration at a Glance" for high school students.
+
+Show how glucose turns into energy inside a cell. Include glycolysis, the Krebs cycle, and the electron transport chain.
+Use arrows to connect the steps, and label the main molecules: glucose, pyruvate, ATP, NADH, FADH2, CO2, O2, and H2O.
+Make it look like a clean classroom handout or slide, with a white background, simple icons, clear labels, and easy-to-read text.
+
+Avoid tiny text, extra decoration, or anything that makes the diagram hard to understand.
+```
+
+</details>
+
+[갤러리 목록으로 돌아가기](#collection)
+
+---
+
+<a id="case-collectible-airplane-packaging"></a><a id="user-content-case-collectible-airplane-packaging"></a>
+## 블리스 터 포장의 수집 가능한 비행기
+
+[English](README.md#user-content-case-collectible-airplane-packaging) · [简体中文](README.zh-CN.md#user-content-case-collectible-airplane-packaging) · [繁體中文](README.zh-TW.md#user-content-case-collectible-airplane-packaging) · [日本語](README.ja.md#user-content-case-collectible-airplane-packaging) · [한국어](README.ko.md#user-content-case-collectible-airplane-packaging) · [Français](README.fr.md#user-content-case-collectible-airplane-packaging) · [Deutsch](README.de.md#user-content-case-collectible-airplane-packaging) · [Español](README.es.md#user-content-case-collectible-airplane-packaging) · [Português (Brasil)](README.pt-BR.md#user-content-case-collectible-airplane-packaging)
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise"><img src="https://developers.openai.com/images/platform/guides/image-prompting/christmas-collectible-toy-airplane-gpt-image-2-5-sunburst.webp" width="640" alt="블리스 터 포장의 수집 가능한 비행기 — OpenAI — source result — 출처 결과 예시" loading="lazy"></a>
+
+제품 재료, 소매 포장 및 허용되는 포장 라벨 하나를 함께 설명하십시오.
+
+**원본 프롬프트 · 텍스트-이미지 변환 · 독립적 테스트 미실시**
+
+### 필수 입력 사항
+
+원본에서 지정한 참조 이미지가 없습니다.
+
+<details>
+<summary>프롬프트</summary>
+
+
+
+```text
+둥근 날개, 전면에 장착된 회전 프로펠러, 약간 낡은 페인트 가장자리, 고전적인 어린 시절 비율을 갖춘 빈티지 스타일 장난감 프로펠러 비행기의 수집용 액션 피규어를 만들어 향수를 불러일으키는 휴일 수집품으로 디자인하고 블리스 터 포장에 담아보세요.
+
+컨셉:
+단순한 장난감 비행기에서 영감을 받은 향수를 불러일으키는 휴일 수집품
+겨울방학 동안 함께 놀던 아이들.
+따뜻함, 상상력, 어린 시절의 경이로움을 불러일으킵니다.
+
+스타일:
+프리미엄 장난감 사진, 사실적인 플라스틱 및 페인트 금속 질감,
+스튜디오 조명, 얕은 피사계 심도,
+선명한 라벨 인쇄, 고급 소매 프레젠테이션.
+
+제약:
+- 오리지널 디자인만 가능
+- 상표 없음
+- 워터마크 없음
+- 로고 없음
+
+다음 포장 텍스트(축어적)만 포함하세요.
+"Christmas Memories Edition"
+```
+
+[온라인 갤러리 보기](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ko--collectible-airplane-packaging)
+
+</details>
+
+### 내 용도에 맞추기
+
+주제와 배경을 바꾸고 필요한 구도와 이미지 속 정확한 문구는 유지하세요.
+
+### 참고 사항
+
+- 귀하의 제품에 대한 개체 및 포장 사본을 교체하십시오. 이는 제조 다이라인이 아닌 포장 시각화입니다. 인쇄된 텍스트와 소재 세부정보를 확인하세요. 소스 설정: 1024x1536, 중간 품질.
+
+<details>
+<summary>출처와 날짜별 반응 수</summary>
+
+**편집 검토: 91.25/100 · 2026-09-13T17:54:27.409Z**
+
+[편집 검토](docs/CURATION.md)
+
+[OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise) · [프롬프트 또는 워크플로 원본](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise) · [제작자의 모델 관련 설명](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise)
+
+프롬프트 원본 언어: **en** · 게시물 언어: **en**
+
+— 좋아요 · — 즐겨찾기 · — 재게시 · — 조회수
+
+반응 확인됨: 2026-09-13T17:54:27.409Z · 원본 확인됨: 2026-09-13T17:54:27.409Z
+
+### 원본 문구 보기
+
+```text
+Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.
+
+Concept:
+A nostalgic holiday collectible inspired by the simple toy airplanes
+children used to play with during winter holidays.
+Evokes warmth, imagination, and childhood wonder.
+
+Style:
+Premium toy photography, realistic plastic and painted metal textures,
+studio lighting, shallow depth of field,
+sharp label printing, high-end retail presentation.
+
+Constraints:
+- Original design only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this packaging text (verbatim):
+"Christmas Memories Edition"
 ```
 
 </details>
@@ -878,6 +1327,71 @@ Do not add new elements or text.
 
 ```text
 移动端UI设计，生鲜电商App首页界面，清新简洁风格，以白色为主色调，搭配绿色健康主题色。顶部包含状态栏、欢迎语“早上好，林小姐”及搜索框。页面中部设有横幅广告区，展示新鲜蔬果图片，并配有宣传文字。下方为“今日特惠”板块，横向排列番茄、上海青、香蕉等新鲜农产品，展示商品图片、名称及价格。底部为“附近商户”列表，包含店铺名称、距离和评分。界面最底部为标准导航栏，包含首页、分类、购物车、我的四个图标，UI布局规整，高保真设计，扁平化设计语言，专业界面交互设计，极简主义，清晰的排版，高分辨率，矢量图形风格。
+```
+
+</details>
+
+[갤러리 목록으로 돌아가기](#collection)
+
+---
+
+<a id="case-garden-photo-color-grading"></a><a id="user-content-case-garden-photo-color-grading"></a>
+## 구도를 유지하는 정원 사진 색보정
+
+[English](README.md#user-content-case-garden-photo-color-grading) · [简体中文](README.zh-CN.md#user-content-case-garden-photo-color-grading) · [繁體中文](README.zh-TW.md#user-content-case-garden-photo-color-grading) · [日本語](README.ja.md#user-content-case-garden-photo-color-grading) · [한국어](README.ko.md#user-content-case-garden-photo-color-grading) · [Français](README.fr.md#user-content-case-garden-photo-color-grading) · [Deutsch](README.de.md#user-content-case-garden-photo-color-grading) · [Español](README.es.md#user-content-case-garden-photo-color-grading) · [Português (Brasil)](README.pt-BR.md#user-content-case-garden-photo-color-grading)
+
+<a href="https://x.com/HoodyLiu/status/2099115784417251690"><img src="https://pbs.twimg.com/media/HSGOUDQbYAAFxpB.jpg" width="640" alt="구도를 유지하는 정원 사진 색보정 — HoodyLiu — source result — 출처 결과 예시" loading="lazy"></a>
+
+촬영된 장면을 보존하면서 하늘 하이라이트, 그림자 디테일 및 나뭇잎 색상을 제어합니다.
+
+**원본 프롬프트 · 참조 편집 · 독립적 테스트 미실시**
+
+### 필수 입력 사항
+
+- 아래의 두 번째 소스 이미지나 정원 사진을 업로드하세요.
+
+출처의 참고 이미지: [1](https://pbs.twimg.com/media/HSGOiw-a8AAd-1r.jpg)
+
+<details>
+<summary>프롬프트</summary>
+
+
+
+```text
+원본 사진에 대해 전문적인 색상 그레이딩과 빛 및 그림자 최적화만 수행하고 원본 구성, 풍경 위치, 벚꽃, 나무, 물 반사 및 화면 비율을 엄격하게 유지하고 개체를 추가, 삭제 또는 변경하지 마십시오. 전체적인 스타일은 고급스럽고 절제되고 조용한 일본 영화 스타일로 조정되어 이른 봄 일본 정원의 조용한 분위기를 선사합니다. 숲, 물가, 연못의 어두운 디테일을 적당히 밝게 하고 나무 줄기, 관목 및 수면의 레이어를 복원하지만 깊은 그림자를 유지하고 검은색 영역을 회색으로 바꾸지 않습니다. 하늘 하이라이트와 파란색 채도를 줄이고 하늘을 투명하고 차분한 회색-파란색으로 조정하여 과도한 밝기와 HDR 효과를 방지합니다. 사진 중앙의 벚꽃을 강조하여 꽃을 자연스러운 옅은 핑크-화이트 색상으로 만들어 부드러운 햇빛의 투명도와 섬세한 레이어를 추가합니다. 순백색이나 형광핑크색으로 바꾸지 마세요. 녹색 식물은 채도가 낮은 모스 그린, 포레스트 그린, 약간의 올리브 그린으로 조정되어 황록색과 디지털 느낌을 줄입니다. 수면은 짙은 청흑색을 유지하여 은은한 반사와 떨어진 벚꽃의 겹을 더욱 돋보이게 하여 반사가 선명하지만 날카롭지 않게 만듭니다. 전체적인 디자인은 부드러운 하이라이트, 깊은 그림자, 중간에서 강한 대비를 사용하고 따뜻한 햇빛과 차가운 그림자 사이의 대비를 약간 높입니다. 약간의 필름 포그, 자연스러운 후광, 미세한 35mm 필름 그레인 및 부드러운 샤프닝을 추가한 이 색상은 Kodak Portra 400 및 일본 필름 사진을 참조하여 실제적이고 자연스러우며 은은하고 바람이 잘 통하는 고급스러운 느낌을 줍니다. 구도 변경, 벚꽃, 구름, 건물, 사람 또는 빛 추가, 새 가지 생성, 계절 변경, 노출 과다, 데드 블랙, HDR, 과선명, 형광 녹색, 눈부신 푸른 하늘, 무거운 필터, 유화 느낌, 일러스트레이션 느낌 및 AI 다시 그리기 느낌이 금지됩니다. 최종 결과는 재생성된 이미지가 아닌 원본 RAW 사진의 전문적인 색상 보정과 같아야 합니다.
+```
+
+[온라인 갤러리 보기](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ko--garden-photo-color-grading)
+
+</details>
+
+### 내 용도에 맞추기
+
+자신의 참고 이미지를 준비하고 각 이미지의 역할과 변경할 부분, 유지할 부분을 구분하세요.
+
+### 참고 사항
+
+- 제작자는 프롬프트 작성에 대해 GPT6 Astra를, 편집에 대해 GPT 이미지 2.5를 인정했습니다. 이미지 1는 편집된 결과입니다. image 2가 입력입니다. 다시 그리는 가지, 반사 및 개체를 검사합니다. RAW 스타일 요청은 편집 가능한 RAW 파일을 생성하거나 픽셀 보존을 보장하지 않습니다.
+
+<details>
+<summary>출처와 날짜별 반응 수</summary>
+
+**편집 검토: 91.25/100 · 2026-09-13T17:54:27.409Z**
+
+[편집 검토](docs/CURATION.md)
+
+[@HoodyLiu](https://x.com/HoodyLiu/status/2099115784417251690) · [프롬프트 또는 워크플로 원본](https://x.com/HoodyLiu/status/2099115784417251690) · [제작자의 모델 관련 설명](https://x.com/HoodyLiu/status/2099115784417251690)
+
+프롬프트 원본 언어: **zh** · 게시물 언어: **zh**
+
+7 좋아요 · — 즐겨찾기 · — 재게시 · — 조회수
+
+반응 확인됨: 2026-09-13T17:30:11.651392+00:00 · 원본 확인됨: 2026-09-13T17:54:27.409Z
+
+### 원본 문구 보기
+
+```text
+请仅对原照片进行专业调色和光影优化，严格保留原始构图、景物位置、樱花、树木、水面倒影及画面比例，不添加、删除或改变任何物体。整体调成高级、克制、安静的日系电影胶片风格，呈现早春日本庭园的清寂氛围。适度提亮树林、水岸和池塘中的暗部细节，恢复树干、灌木与水面层次，但保留幽深阴影，不要把黑色区域提成灰色。压低天空高光和蓝色饱和度，将天空调整为通透、沉静的灰蓝色，避免过度艳丽和HDR效果。突出画面中央樱花，使花朵呈自然的淡粉白色，增加柔和的阳光通透感和细腻层次，不要变成纯白或荧光粉。绿色植物调整为低饱和的苔藓绿、森林绿和轻微橄榄绿，减少黄绿色和数码感。水面维持深青黑色，增强细微反光和落樱的层次，让倒影清晰但不锐利。整体采用柔和高光、深邃阴影、中等偏强对比，略微增加暖色阳光与冷色阴影的冷暖对比。加入轻微胶片灰雾、自然光晕、细腻35mm胶片颗粒和柔和锐化，色彩参考 Kodak Portra 400 与日系电影摄影，真实、自然、含蓄、有空气感和高级感。禁止改变构图，禁止增加樱花、云朵、建筑、人物或灯光，禁止生成新的树枝，禁止改变季节，禁止过曝、死黑、HDR、过度锐化、荧光绿、艳蓝天空、浓重滤镜、油画感、插画感和AI重绘感。最终效果必须像对原始RAW照片进行专业调色，而不是重新生成一张图片。
 ```
 
 </details>
@@ -1706,6 +2220,107 @@ Do not restyle the product; remove the background and preserve clean alpha trans
 
 ---
 
+<a id="case-architectural-portal-travel-poster"></a><a id="user-content-case-architectural-portal-travel-poster"></a>
+## 건축 포털 여행 포스터
+
+[English](README.md#user-content-case-architectural-portal-travel-poster) · [简体中文](README.zh-CN.md#user-content-case-architectural-portal-travel-poster) · [繁體中文](README.zh-TW.md#user-content-case-architectural-portal-travel-poster) · [日本語](README.ja.md#user-content-case-architectural-portal-travel-poster) · [한국어](README.ko.md#user-content-case-architectural-portal-travel-poster) · [Français](README.fr.md#user-content-case-architectural-portal-travel-poster) · [Deutsch](README.de.md#user-content-case-architectural-portal-travel-poster) · [Español](README.es.md#user-content-case-architectural-portal-travel-poster) · [Português (Brasil)](README.pt-BR.md#user-content-case-architectural-portal-travel-poster)
+
+<a href="https://x.com/Naiknelofar788/status/2097920025617399875"><img src="https://pbs.twimg.com/media/HR1PFgUasAAJbTM.jpg" width="640" alt="건축 포털 여행 포스터 — Naiknelofar788 — source result — 출처 결과 예시" loading="lazy"></a>
+
+제한된 팔레트와 통합된 장소 라벨을 사용하여 지역 건축물을 전경 프레임으로 사용하세요.
+
+**원본 프롬프트 · 텍스트-이미지 변환 · 독립적 테스트 미실시**
+
+### 필수 입력 사항
+
+원본에서 지정한 참조 이미지가 없습니다.
+
+<details>
+<summary>프롬프트</summary>
+
+
+
+```text
+대담한 빈티지 스크린 프린트와 20세기 중반 그래픽 디자인에서 영감을 얻었지만 독창적인 건축 포털 구성을 사용하여 [CITY, COUNTRY]를 위한 프리미엄 현대 여행 포스터를 제작해 보세요.
+
+대상을 향한 창 역할을 하는 크고 독특한 [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH]를 전경에 배치합니다. 오프닝을 통해 [ICONIC LANDMARK], [FAMOUS NATURAL FEATURE], 단순화된 옥상, 지역 거리, 나무, 교통 수단 및 몇 가지 미묘한 문화적 세부 사항을 특징으로 하는 양식화된 레이어 장면을 공개합니다.
+
+전통적인 것보다 시각적으로 눈에 띄는 모양과 배치를 사용하여 주요 랜드마크 뒤에 하나의 크고 대담한 기하학적 태양/달/원을 추가합니다. 2–3 인식 가능한 로컬 기호를 별도의 개체로 표시하는 대신 장면 내에 자연스럽게 포함합니다.
+
+목적지인 [2–5 COLORS]에서 영감을 받은 제한적이고 정교한 색상 팔레트를 사용하세요. 평면적인 기하학적 모양, 강한 실루엣, 깔끔한 가장자리, 미묘한 겹쳐진 레이어, 약간의 스크린 프린트 텍스처, 우아한 네거티브 공간.
+
+다음 기능을 갖춘 높은 통합형 간판 또는 건축 패널을 추가하세요.
+
+[CITY]
+[LOCAL SCRIPT]
+
+하단에 작고 세련된 편집용 타이포그래피를 포함합니다.
+
+[COUNTRY]
+[CITY] • [COORDINATES]
+[SHORT DESTINATION PHRASE]
+
+미니멀하고, 예술적이고, 응집력 있고, 수집 가능한 여행 포스터 미학, 사실적이지 않음, 콜라주가 아님, 과도한 디테일 없음, 정교한 구성, 강력한 시각적 계층 구조, 균형 잡힌 비대칭, 따뜻한 종이 배경, 미묘한 인쇄 결함, 4:5 세로 형식.
+```
+
+[온라인 갤러리 보기](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ko--architectural-portal-travel-poster)
+
+</details>
+
+### 내 용도에 맞추기
+
+주제와 배경을 바꾸고 필요한 구도와 이미지 속 정확한 문구는 유지하세요.
+
+### 참고 사항
+
+- 대괄호로 묶인 모든 변수를 일관된 대상으로 채웁니다. 좌표, 로컬 스크립트 및 랜드마크 선택을 직접 확인하세요. 4개의 소스 대상은 4개의 항목이 아니라 하나의 레시피의 변형입니다.
+
+<details>
+<summary>출처와 날짜별 반응 수</summary>
+
+**편집 검토: 88.75/100 · 2026-09-13T17:54:27.409Z**
+
+[편집 검토](docs/CURATION.md)
+
+[@Naiknelofar788](https://x.com/Naiknelofar788/status/2097920025617399875) · [프롬프트 또는 워크플로 원본](https://x.com/Naiknelofar788/status/2097920025617399875) · [제작자의 모델 관련 설명](https://x.com/Naiknelofar788/status/2097920025617399875)
+
+프롬프트 원본 언어: **en** · 게시물 언어: **en**
+
+47 좋아요 · — 즐겨찾기 · — 재게시 · — 조회수
+
+반응 확인됨: 2026-09-13T17:23:24.288043+00:00 · 원본 확인됨: 2026-09-13T17:54:27.409Z
+
+### 원본 문구 보기
+
+```text
+Create a premium modern travel poster for [CITY, COUNTRY], inspired by bold vintage screen-print and mid-century graphic design, but with an original architectural portal composition.
+
+Place a large distinctive [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH] in the foreground, acting as a window into the destination. Through the opening, reveal a stylized layered scene featuring [ICONIC LANDMARK], [FAMOUS NATURAL FEATURE], simplified rooftops, local streets, trees, transportation, and a few subtle cultural details.
+
+Add one large bold geometric sun / moon / circle behind the main landmark, using a shape and placement that feels visually striking rather than traditional. Include 2–3 recognizable local symbols naturally within the scene instead of presenting them as separate objects.
+
+Use a limited sophisticated color palette inspired by the destination: [2–5 COLORS]. Flat geometric shapes, strong silhouettes, clean edges, subtle overlapping layers, slight screen-print texture, and elegant negative space.
+
+Add a tall integrated sign or architectural panel featuring:
+
+[CITY]
+[LOCAL SCRIPT]
+
+Include small refined editorial typography at the bottom:
+
+[COUNTRY]
+[CITY] • [COORDINATES]
+[SHORT DESTINATION PHRASE]
+
+Minimal, artistic, cohesive, collectible travel-poster aesthetic, not photorealistic, not a collage, no excessive details, sophisticated composition, strong visual hierarchy, balanced asymmetry, warm paper background, subtle print imperfections, 4:5 vertical format.
+```
+
+</details>
+
+[갤러리 목록으로 돌아가기](#collection)
+
+---
+
 <a id="case-remove-flower-local-edit"></a><a id="user-content-case-remove-flower-local-edit"></a>
 ## 손에 든 물체 제거
 
@@ -2027,6 +2642,356 @@ Photorealistic contact shadows and fabric texture.
 ### 원본 문구 보기
 
 이 편집자 수정안의 경우 정확한 원본 문구는 저장되어 있지 않습니다. 원본 워크플로 링크를 참조하세요.
+
+</details>
+
+[갤러리 목록으로 돌아가기](#collection)
+
+---
+
+<a id="case-annotated-fashion-lookbook"></a><a id="user-content-case-annotated-fashion-lookbook"></a>
+## 주석이 달린 패션 룩북
+
+[English](README.md#user-content-case-annotated-fashion-lookbook) · [简体中文](README.zh-CN.md#user-content-case-annotated-fashion-lookbook) · [繁體中文](README.zh-TW.md#user-content-case-annotated-fashion-lookbook) · [日本語](README.ja.md#user-content-case-annotated-fashion-lookbook) · [한국어](README.ko.md#user-content-case-annotated-fashion-lookbook) · [Français](README.fr.md#user-content-case-annotated-fashion-lookbook) · [Deutsch](README.de.md#user-content-case-annotated-fashion-lookbook) · [Español](README.es.md#user-content-case-annotated-fashion-lookbook) · [Português (Brasil)](README.pt-BR.md#user-content-case-annotated-fashion-lookbook)
+
+<a href="https://x.com/LiEvanna85716/status/2097663816339427547"><img src="https://pbs.twimg.com/media/HRxjvncaQAAIuVQ.jpg" width="640" alt="주석이 달린 패션 룩북 — LiEvanna85716 — source result — 출처 결과 예시" loading="lazy"></a>
+
+명확한 카탈로그 계층 구조를 통해 전신 의상 주위에 판독 가능한 의류 라벨을 배치합니다.
+
+**원본 프롬프트 · 텍스트-이미지 변환 · 독립적 테스트 미실시**
+
+### 필수 입력 사항
+
+원본에서 지정한 참조 이미지가 없습니다.
+
+<details>
+<summary>프롬프트</summary>
+
+
+
+```text
+귀엽고 심플한 가을 의상을 입은 젊은 여성 모델이 등장하는 깔끔한 패션 전자상거래 룩북 포스터를 만들어보세요.
+부드러운 파스텔 핑크, 블루, 라벤더 그라데이션 배경을 사용하세요. 현대 한국/일본 패션 카탈로그처럼 전체 디자인을 최소화하고 깔끔하고 약간 유쾌하게 유지하세요.
+
+사실적인 피부, 자연스러운 비율, 선명한 의상 디테일을 갖춘 전신 모델을 주요 초점으로 보여줍니다. 복장은 단순하고 착용 가능해야 합니다. 카디건 또는 후드티, 꼭 맞는 상의, 반바지 또는 주름 치마, 양말 및 운동화/메리 제인 신발.
+
+"Cardigan", "Polo Shirt", "Shorts", "Sneakers" 및 "Bag"와 같이 개별 의류를 가리키는 얇은 화살표가 있는 손으로 쓴 영어 주석을 추가합니다.
+
+상단에 굵은 영어 패션 헤드라인 "AUTUMN DAILY OUTFIT"를 추가하고 "NEW SEASON 2026", "SIMPLE · COMFY · BETTER ME" 및 "OUTFIT IDEAS FOR A BRIGHTER YOU"와 같은 몇 가지 작은 장식 영어 문구를 추가합니다.
+
+기본 콘텐츠 주위에 구조화된 직사각형 프레임, 은은하게 둥근 모서리, 충분한 여백, 최소한의 하트/별 기념일 로고를 사용하세요.
+
+최종 이미지는 세련된 패션 전자 상거래 캠페인 포스터처럼 느껴져야 합니다. 미니멀하고, 젊고, 현실적이며, 읽기 쉬운 타이포그래피, 깔끔한 제품 프레젠테이션, 시각적 초점이 의상에 포함되어 있어야 합니다.
+
+수직형 3:4 구도, 고해상도 상업 패션 사진.
+```
+
+[온라인 갤러리 보기](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ko--annotated-fashion-lookbook)
+
+</details>
+
+### 내 용도에 맞추기
+
+주제와 배경을 바꾸고 필요한 구도와 이미지 속 정확한 문구는 유지하세요.
+
+### 참고 사항
+
+- 화살표가 실제 의복과 일치하도록 의복 이름과 의상 세부 정보를 함께 바꾸십시오. 원본 디자인을 원하시면 인용된 영문 사본을 보존하세요. 모든 라벨과 화살표를 검토하세요. 이 예는 제품의 정확성을 확립하지 않습니다. 첫 번째 결과에는 두 개의 숫자가 표시되고 일부 요청된 헤드라인 문구가 변경되었습니다.
+
+<details>
+<summary>출처와 날짜별 반응 수</summary>
+
+**편집 검토: 85/100 · 2026-09-13T17:54:27.409Z**
+
+[편집 검토](docs/CURATION.md)
+
+[@LiEvanna85716](https://x.com/LiEvanna85716/status/2097663816339427547) · [프롬프트 또는 워크플로 원본](https://x.com/LiEvanna85716/status/2097663816339427547) · [제작자의 모델 관련 설명](https://x.com/LiEvanna85716/status/2097663816339427547)
+
+프롬프트 원본 언어: **en** · 게시물 언어: **zh**
+
+4 좋아요 · — 즐겨찾기 · — 재게시 · — 조회수
+
+반응 확인됨: 2026-09-13T17:22:12.769876+00:00 · 원본 확인됨: 2026-09-13T17:54:27.409Z
+
+### 원본 문구 보기
+
+```text
+Create a clean fashion e-commerce lookbook poster featuring a young female model in a cute, simple autumn outfit.
+Use a soft pastel pink, blue and lavender gradient background. Keep the overall design minimal, clean and slightly playful, like a modern Korean/Japanese fashion catalog.
+
+Show the full-body model as the main focus, with realistic skin, natural proportions and clear clothing details. The outfit should be simple and wearable: cardigan or hoodie, fitted top, shorts or pleated skirt, socks and sneakers/Mary Jane shoes.
+
+Add handwritten English annotations with thin arrows pointing to individual clothing pieces, such as “Cardigan”, “Polo Shirt”, “Shorts”, “Sneakers” and “Bag”.
+
+Add a bold English fashion headline at the top: “AUTUMN DAILY OUTFIT”, plus a few small decorative English phrases such as “NEW SEASON 2026”, “SIMPLE · COMFY · BETTER ME” and “OUTFIT IDEAS FOR A BRIGHTER YOU”.
+
+Use a structured rectangular frame around the main content, subtle rounded corners, plenty of negative space, and only a few minimal heart/star doodles.
+
+The final image should feel like a polished fashion e-commerce campaign poster — minimal, youthful, realistic, highly readable typography, clean product presentation, not cluttered, with the outfit as the visual focus.
+
+Vertical 3:4 composition, high-resolution commercial fashion photography.
+```
+
+</details>
+
+[갤러리 목록으로 돌아가기](#collection)
+
+---
+
+<a id="case-market-opportunity-slide"></a><a id="user-content-case-market-opportunity-slide"></a>
+## 명시적인 입력을 통한 시장 규모 슬라이드
+
+[English](README.md#user-content-case-market-opportunity-slide) · [简体中文](README.zh-CN.md#user-content-case-market-opportunity-slide) · [繁體中文](README.zh-TW.md#user-content-case-market-opportunity-slide) · [日本語](README.ja.md#user-content-case-market-opportunity-slide) · [한국어](README.ko.md#user-content-case-market-opportunity-slide) · [Français](README.fr.md#user-content-case-market-opportunity-slide) · [Deutsch](README.de.md#user-content-case-market-opportunity-slide) · [Español](README.es.md#user-content-case-market-opportunity-slide) · [Português (Brasil)](README.pt-BR.md#user-content-case-market-opportunity-slide)
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts"><img src="https://developers.openai.com/images/platform/guides/image-prompting/market-opportunity-slide-gpt-image-2-5-sunburst.webp" width="640" alt="명시적인 입력을 통한 시장 규모 슬라이드 — OpenAI — source result — 출처 결과 예시" loading="lazy"></a>
+
+명명된 다이어그램, 고정 그림, 레이블 및 각주를 사용하여 슬라이드 계층 구조를 제어합니다.
+
+**원본 프롬프트 · 텍스트-이미지 변환 · 독립적 테스트 미실시**
+
+### 필수 입력 사항
+
+원본에서 지정한 참조 이미지가 없습니다.
+
+<details>
+<summary>프롬프트</summary>
+
+
+
+```text
+YC가 지원하는 스타트업의 실제 시리즈 A 기금 모금 슬라이드처럼 느껴지는 **"Market Opportunity"**라는 제목의 피치덱 슬라이드를 만들어 보세요.
+
+깨끗한 흰색 배경, Inter와 같은 현대적인 산세리프 타이포그래피, 선명하고 최소한의 레이아웃을 사용하세요. 슬라이드에는 다음이 포함되어야 합니다.
+
+* 차분한 파란색과 회색의 TAM/SAM/SOM 동심원 다이어그램
+* 구체적이고 믿을 수 있는 시장 규모 수치:
+
+* **TAM:** $42B
+  * **SAM:** $8.7B
+  * **SOM:** $340M
+* 아래의 깔끔한 막대 차트는 **2021에서 2026**까지의 시장 성장과 미묘한 상승 추세를 보여줍니다.
+* 작은 각주: **"AGI Research, 2024"** 및 **"Internal analysis"**
+* 오른쪽 하단에 회사 로고 자리 표시자가 있습니다.
+
+디자인은 읽기 쉬운 텍스트, 명확한 데이터 계층 구조, 세련된 간격, 전문적인 스타트업 스타일의 시각적 언어 등 실제로 돈을 모은 데크에 속하는 것처럼 보여야 합니다.
+
+클립 아트, 스톡 사진, 그라데이션, 그림자, 장식 요소 등 일반적이거나 과도하게 디자인된 느낌을 주는 요소는 피하세요.
+```
+
+[온라인 갤러리 보기](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ko--market-opportunity-slide)
+
+</details>
+
+### 내 용도에 맞추기
+
+주제와 배경을 바꾸고 필요한 구도와 이미지 속 정확한 문구는 유지하세요.
+
+### 참고 사항
+
+- 이 소스 예시의 모든 시장 수치와 인용은 가상의 설계 입력입니다. 검증된 데이터와 실제 소스로 교체한 후 사용하세요. 생성된 이미지는 편집 가능한 슬라이드나 모금 결과가 아닙니다. 프롬프트는 성장 차트에 대한 연간 값을 제공하지 않으므로 해당 차트를 데이터로 취급하지 마십시오. 소스 설정: 1536x864, 고품질. 또한 이 예에서는 자리 표시자를 남기는 대신 로고를 만들어냅니다.
+
+<details>
+<summary>출처와 날짜별 반응 수</summary>
+
+**편집 검토: 85/100 · 2026-09-13T17:54:27.409Z**
+
+[편집 검토](docs/CURATION.md)
+
+[OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts) · [프롬프트 또는 워크플로 원본](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts) · [제작자의 모델 관련 설명](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts)
+
+프롬프트 원본 언어: **en** · 게시물 언어: **en**
+
+— 좋아요 · — 즐겨찾기 · — 재게시 · — 조회수
+
+반응 확인됨: 2026-09-13T17:54:27.409Z · 원본 확인됨: 2026-09-13T17:54:27.409Z
+
+### 원본 문구 보기
+
+```text
+Create one pitch-deck slide titled **"Market Opportunity"** that feels like a real Series A fundraising slide from a YC-backed startup.
+
+Use a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:
+
+* A TAM/SAM/SOM concentric-circle diagram in muted blues and grays
+* Specific, believable market sizing numbers:
+
+  * **TAM:** $42B
+  * **SAM:** $8.7B
+  * **SOM:** $340M
+* A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend
+* Small footnotes: **"AGI Research, 2024"** and **"Internal analysis"**
+* A company logo placeholder in the bottom-right corner
+
+The design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.
+
+Avoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.
+```
+
+</details>
+
+[갤러리 목록으로 돌아가기](#collection)
+
+---
+
+<a id="case-nostalgic-holiday-card"></a><a id="user-content-case-nostalgic-holiday-card"></a>
+## 정확한 메시지가 담긴 명절 카드
+
+[English](README.md#user-content-case-nostalgic-holiday-card) · [简体中文](README.zh-CN.md#user-content-case-nostalgic-holiday-card) · [繁體中文](README.zh-TW.md#user-content-case-nostalgic-holiday-card) · [日本語](README.ja.md#user-content-case-nostalgic-holiday-card) · [한국어](README.ko.md#user-content-case-nostalgic-holiday-card) · [Français](README.fr.md#user-content-case-nostalgic-holiday-card) · [Deutsch](README.de.md#user-content-case-nostalgic-holiday-card) · [Español](README.es.md#user-content-case-nostalgic-holiday-card) · [Português (Brasil)](README.pt-BR.md#user-content-case-nostalgic-holiday-card)
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card"><img src="https://developers.openai.com/images/platform/guides/image-prompting/christmas-holiday-card-teddy-gpt-image-2-5-sunburst.webp" width="640" alt="정확한 메시지가 담긴 명절 카드 — OpenAI — source result — 출처 결과 예시" loading="lazy"></a>
+
+자료 중심의 장면을 정확하고 독점적인 인사말 카드 사본과 결합합니다.
+
+**원본 프롬프트 · 텍스트-이미지 변환 · 독립적 테스트 미실시**
+
+### 필수 입력 사항
+
+원본에서 지정한 참조 이미지가 없습니다.
+
+<details>
+<summary>프롬프트</summary>
+
+
+
+```text
+크리스마스 휴일 카드 일러스트레이션을 만듭니다.
+
+장면:
+기념품 상자 안에 낡은 테디베어가 앉아 있고, 약간 낡은 모피, 부드러운 바느질 수리, 밖에 눈이 내리는 창문 근처에 놓여 있는 아늑한 크리스마스 장면. 그 장면은 아이가 성장했음을 암시하지만, 기억은 남아있습니다.
+
+기분:
+따뜻하고 향수를 불러일으키며 온화하고 감성적입니다.
+
+스타일:
+프리미엄 명절 카드 사진, 부드러운 영화 조명,
+사실적인 질감, 얕은 피사계 심도,
+세련된 보케 조명, 높은 인쇄 품질 구성.
+
+제약:
+- 원본 작품만 가능
+- 상표 없음
+- 워터마크 없음
+- 로고 없음
+
+다음 카드 텍스트(축어적)만 포함하세요.
+"Merry Christmas — some memories never fade."
+```
+
+[온라인 갤러리 보기](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ko--nostalgic-holiday-card)
+
+</details>
+
+### 내 용도에 맞추기
+
+주제와 배경을 바꾸고 필요한 구도와 이미지 속 정확한 문구는 유지하세요.
+
+### 참고 사항
+
+- 프롬프트를 번역할 때 인용된 카드 텍스트를 변경하지 않고 그대로 유지하거나 청중을 위해 의도적으로 교체하세요. 인쇄하기 전에 구두점과 출력 해상도를 확인하세요. 출력은 인쇄용 접이식 카드 파일이 아닌 평면 이미지입니다. 소스 설정: 1024x1536, 중간 품질. 텍스트만 표시된 지침에도 불구하고 상자에 아주 작은 손글씨가 표시됩니다.
+
+<details>
+<summary>출처와 날짜별 반응 수</summary>
+
+**편집 검토: 85/100 · 2026-09-13T17:54:27.409Z**
+
+[편집 검토](docs/CURATION.md)
+
+[OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card) · [프롬프트 또는 워크플로 원본](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card) · [제작자의 모델 관련 설명](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card)
+
+프롬프트 원본 언어: **en** · 게시물 언어: **en**
+
+— 좋아요 · — 즐겨찾기 · — 재게시 · — 조회수
+
+반응 확인됨: 2026-09-13T17:54:27.409Z · 원본 확인됨: 2026-09-13T17:54:27.409Z
+
+### 원본 문구 보기
+
+```text
+Create a Christmas holiday card illustration.
+
+Scene:
+a cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.
+
+Mood:
+Warm, nostalgic, gentle, emotional.
+
+Style:
+Premium holiday card photography, soft cinematic lighting,
+realistic textures, shallow depth of field,
+tasteful bokeh lights, high print-quality composition.
+
+Constraints:
+- Original artwork only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this card text (verbatim):
+"Merry Christmas — some memories never fade."
+```
+
+</details>
+
+[갤러리 목록으로 돌아가기](#collection)
+
+---
+
+<a id="case-laptop-screen-local-replacement"></a><a id="user-content-case-laptop-screen-local-replacement"></a>
+## 노트북 화면 내용만 교체하기
+
+[English](README.md#user-content-case-laptop-screen-local-replacement) · [简体中文](README.zh-CN.md#user-content-case-laptop-screen-local-replacement) · [繁體中文](README.zh-TW.md#user-content-case-laptop-screen-local-replacement) · [日本語](README.ja.md#user-content-case-laptop-screen-local-replacement) · [한국어](README.ko.md#user-content-case-laptop-screen-local-replacement) · [Français](README.fr.md#user-content-case-laptop-screen-local-replacement) · [Deutsch](README.de.md#user-content-case-laptop-screen-local-replacement) · [Español](README.es.md#user-content-case-laptop-screen-local-replacement) · [Português (Brasil)](README.pt-BR.md#user-content-case-laptop-screen-local-replacement)
+
+<a href="https://x.com/ai_kairos_jp/status/2097679848475099159"><img src="https://pbs.twimg.com/media/HRx0ef9aAAAW7Tv.jpg" width="640" alt="노트북 화면 내용만 교체하기 — ai_kairos_jp — source result — 출처 결과 예시" loading="lazy"></a>
+
+변경되지 않아야 하는 주변 객체를 나열하면서 화면을 타겟팅합니다.
+
+**원본 프롬프트 · 참조 편집 · 독립적 테스트 미실시**
+
+### 필수 입력 사항
+
+- 노트북이 포함된 방 사진을 업로드한 후 노트북 화면을 편집 대상으로 표시합니다.
+
+<details>
+<summary>프롬프트</summary>
+
+
+
+```text
+스프레드시트를 자동화 작업 흐름도로 바꾸세요. 책상, 메모지, 조명과 창밖 야경은 바꾸지 마세요.
+```
+
+[온라인 갤러리 보기](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ko--laptop-screen-local-replacement)
+
+</details>
+
+### 내 용도에 맞추기
+
+자신의 참고 이미지를 준비하고 각 이미지의 역할과 변경할 부분, 유지할 부분을 구분하세요.
+
+### 참고 사항
+
+- 작성자는 편집 전 노트북 화면을 표시해 두었습니다. 자신의 방 사진을 제공하고 대상 영역을 표시하십시오. 소스는 화면 외부의 작은 변화를 보고합니다. 이는 픽셀 보존 보장이나 저장소 측정이 아닙니다.
+
+<details>
+<summary>출처와 날짜별 반응 수</summary>
+
+**편집 검토: 83.75/100 · 2026-09-13T17:54:27.409Z**
+
+[편집 검토](docs/CURATION.md)
+
+[@ai_kairos_jp](https://x.com/ai_kairos_jp/status/2097679848475099159) · [프롬프트 또는 워크플로 원본](https://x.com/ai_kairos_jp/status/2097679848475099159) · [제작자의 모델 관련 설명](https://x.com/ai_kairos_jp/status/2097679848475099159)
+
+프롬프트 원본 언어: **ja** · 게시물 언어: **ja**
+
+1 좋아요 · — 즐겨찾기 · — 재게시 · — 조회수
+
+반응 확인됨: 2026-09-13T17:22:20.223812+00:00 · 원본 확인됨: 2026-09-13T17:54:27.409Z
+
+### 원본 문구 보기
+
+```text
+表計算を自動化フロー図に。机・付箋・照明・窓の夜景は変えないで
+```
 
 </details>
 
@@ -2753,6 +3718,69 @@ change the composition to this
 ### 원본 문구 보기
 
 이 편집자 수정안의 경우 정확한 원본 문구는 저장되어 있지 않습니다. 원본 워크플로 링크를 참조하세요.
+
+</details>
+
+[갤러리 목록으로 돌아가기](#collection)
+
+---
+
+<a id="case-isometric-spatial-relations"></a><a id="user-content-case-isometric-spatial-relations"></a>
+## 등각 투영 공간 관계 테스트
+
+[English](README.md#user-content-case-isometric-spatial-relations) · [简体中文](README.zh-CN.md#user-content-case-isometric-spatial-relations) · [繁體中文](README.zh-TW.md#user-content-case-isometric-spatial-relations) · [日本語](README.ja.md#user-content-case-isometric-spatial-relations) · [한국어](README.ko.md#user-content-case-isometric-spatial-relations) · [Français](README.fr.md#user-content-case-isometric-spatial-relations) · [Deutsch](README.de.md#user-content-case-isometric-spatial-relations) · [Español](README.es.md#user-content-case-isometric-spatial-relations) · [Português (Brasil)](README.pt-BR.md#user-content-case-isometric-spatial-relations)
+
+<a href="https://x.com/Hyperouters/status/2097654503692443744"><img src="https://pbs.twimg.com/media/HRxdlK0WAAAs0PG.jpg" width="640" alt="등각 투영 공간 관계 테스트 — Hyperouters — source result — 출처 결과 예시" loading="lazy"></a>
+
+투명한 참조 볼륨에 내부, 외부, 근거리 및 원거리 관계를 지정합니다.
+
+**원본 프롬프트 · 텍스트-이미지 변환 · 독립적 테스트 미실시**
+
+### 필수 입력 사항
+
+원본에서 지정한 참조 이미지가 없습니다.
+
+<details>
+<summary>프롬프트</summary>
+
+
+
+```text
+투명한 유리 정육면체: 빨간 구는 내부 왼쪽 뒤 위에, 파란 구는 내부 오른쪽 앞 아래에, 초록 구는 외부 바로 위에 배치하세요. 노란 원기둥은 왼쪽 아래에서 오른쪽 위로 관통하게 하세요. 등각 투영을 사용하세요.
+```
+
+[온라인 갤러리 보기](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ko--isometric-spatial-relations)
+
+</details>
+
+### 내 용도에 맞추기
+
+주제와 배경을 바꾸고 필요한 구도와 이미지 속 정확한 문구는 유지하세요.
+
+### 참고 사항
+
+- 소스는 숫자 좌표가 아닌 상대 위치를 설명합니다. 각 개체와 폐색을 별도로 확인하세요. 그림에서 물리적 또는 공학적 정확성을 추론하지 마십시오.
+
+<details>
+<summary>출처와 날짜별 반응 수</summary>
+
+**편집 검토: 81.25/100 · 2026-09-13T17:54:27.409Z**
+
+[편집 검토](docs/CURATION.md)
+
+[@Hyperouters](https://x.com/Hyperouters/status/2097654503692443744) · [프롬프트 또는 워크플로 원본](https://x.com/Hyperouters/status/2097654503692443744) · [제작자의 모델 관련 설명](https://x.com/Hyperouters/status/2097654503692443744)
+
+프롬프트 원본 언어: **zh** · 게시물 언어: **zh**
+
+2 좋아요 · — 즐겨찾기 · — 재게시 · — 조회수
+
+반응 확인됨: 2026-09-13T17:22:19.353485+00:00 · 원본 확인됨: 2026-09-13T17:54:27.409Z
+
+### 원본 문구 보기
+
+```text
+透明玻璃立方体：红球内部左后上，蓝球内部右前下，绿球外部正上方，黄柱从左下穿到右上。还要求等距透视。
+```
 
 </details>
 
@@ -4624,6 +5652,69 @@ If your environment cannot create or attach an animated GIF or ZIP, clearly stat
 
 ---
 
+<a id="case-mediterranean-alien-settlement"></a><a id="user-content-case-mediterranean-alien-settlement"></a>
+## 지중해에서 영감을 받은 미래 정착지
+
+[English](README.md#user-content-case-mediterranean-alien-settlement) · [简体中文](README.zh-CN.md#user-content-case-mediterranean-alien-settlement) · [繁體中文](README.zh-TW.md#user-content-case-mediterranean-alien-settlement) · [日本語](README.ja.md#user-content-case-mediterranean-alien-settlement) · [한국어](README.ko.md#user-content-case-mediterranean-alien-settlement) · [Français](README.fr.md#user-content-case-mediterranean-alien-settlement) · [Deutsch](README.de.md#user-content-case-mediterranean-alien-settlement) · [Español](README.es.md#user-content-case-mediterranean-alien-settlement) · [Português (Brasil)](README.pt-BR.md#user-content-case-mediterranean-alien-settlement)
+
+<a href="https://x.com/wonder_villas/status/2097869977890017784"><img src="https://pbs.twimg.com/media/HR0hm_uWsAAbl8I.jpg" width="640" alt="지중해에서 영감을 받은 미래 정착지 — wonder_villas — source result — 출처 결과 예시" loading="lazy"></a>
+
+개념 탐구를 위해 건축 전통과 절제된 미래 세계 환경을 결합합니다.
+
+**원본 프롬프트 · 텍스트-이미지 변환 · 독립적 테스트 미실시**
+
+### 필수 입력 사항
+
+원본에서 지정한 참조 이미지가 없습니다.
+
+<details>
+<summary>프롬프트</summary>
+
+
+
+```text
+지금으로부터 100년 후, 인류가 정착하여 지중해에서 영감을 받은 건축물과 은은한 복고풍 미래주의 미학이 혼합된 새로운 문명을 건설한 머나먼 외계 세계입니다.
+```
+
+[온라인 갤러리 보기](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ko--mediterranean-alien-settlement)
+
+</details>
+
+### 내 용도에 맞추기
+
+주제와 배경을 바꾸고 필요한 구도와 이미지 속 정확한 문구는 유지하세요.
+
+### 참고 사항
+
+- 이 짧은 소스 개요는 건물 레이아웃과 재료를 모델에 공개합니다. 건축적 분위기 탐색에 사용하세요. 치수, 평면도 또는 건축 가능한 디자인을 제공하지 않습니다.
+
+<details>
+<summary>출처와 날짜별 반응 수</summary>
+
+**편집 검토: 67.5/100 · 2026-09-13T17:54:27.409Z**
+
+[편집 검토](docs/CURATION.md)
+
+[@wonder_villas](https://x.com/wonder_villas/status/2097869977890017784) · [프롬프트 또는 워크플로 원본](https://x.com/wonder_villas/status/2097869977890017784) · [제작자의 모델 관련 설명](https://x.com/wonder_villas/status/2097869977890017784)
+
+프롬프트 원본 언어: **en** · 게시물 언어: **en**
+
+1 좋아요 · — 즐겨찾기 · — 재게시 · — 조회수
+
+반응 확인됨: 2026-09-13T17:23:13.356247+00:00 · 원본 확인됨: 2026-09-13T17:54:27.409Z
+
+### 원본 문구 보기
+
+```text
+A distant alien world, a century from now, where humans have settled and built a new civilisation blending Mediterranean-inspired architecture with a subtle retro-futurist aesthetic.
+```
+
+</details>
+
+[갤러리 목록으로 돌아가기](#collection)
+
+---
+
 <a id="case-robot-sequential-edits"></a><a id="user-content-case-robot-sequential-edits"></a>
 ## 9단계의 연속 편집 과정을 거치는 로봇
 
@@ -5176,6 +6267,74 @@ a 1960s Sunday newspaper comic strip on yellowed newsprint, six panels in two ro
 
 ```text
 turn it into a future building
+```
+
+</details>
+
+</details>
+
+[갤러리 목록으로 돌아가기](#collection)
+
+---
+
+<a id="case-personal-enamel-pin-set"></a><a id="user-content-case-personal-enamel-pin-set"></a>
+## 8개를 요청했지만 10개가 나온 핀 배지
+
+[English](README.md#user-content-case-personal-enamel-pin-set) · [简体中文](README.zh-CN.md#user-content-case-personal-enamel-pin-set) · [繁體中文](README.zh-TW.md#user-content-case-personal-enamel-pin-set) · [日本語](README.ja.md#user-content-case-personal-enamel-pin-set) · [한국어](README.ko.md#user-content-case-personal-enamel-pin-set) · [Français](README.fr.md#user-content-case-personal-enamel-pin-set) · [Deutsch](README.de.md#user-content-case-personal-enamel-pin-set) · [Español](README.es.md#user-content-case-personal-enamel-pin-set) · [Português (Brasil)](README.pt-BR.md#user-content-case-personal-enamel-pin-set)
+
+<details>
+<summary>학습 예시 — 맥락과 한계가 있는 예시</summary>
+
+<a href="https://x.com/miratechtool/status/2097710852413497646"><img src="https://pbs.twimg.com/media/HRyQ5SpXgAA9LW9.jpg" width="640" alt="8개를 요청했지만 10개가 나온 핀 배지 — miratechtool — source result — 출처 결과 예시" loading="lazy"></a>
+
+초상화, 텍스트 핀 2개, 기호 개체 5개에 고정된 항목 수를 할당합니다.
+
+**원본 프롬프트 · 참조 편집 · 독립적 테스트 미실시**
+
+### 필수 입력 사항
+
+- 명확한 인물 사진을 업로드하고, 캐릭터 이름, 성격 단어, 관심사 5가지를 입력하세요.
+
+<details>
+<summary>프롬프트</summary>
+
+
+
+```text
+어두운 질감의 배경에 수직 4:5 구성으로 초현실적인 에나멜 핀 컬렉션을 만듭니다.8 분리형 프리미엄 핀을 광택 있는 금색 윤곽선, 광택 있는 하드 에나멜 표면, 미묘하게 돌출된 가장자리, 사실적인 반사 및 부드러운 그림자로 정확하게 디자인하십시오.메인 중형 센터 핀은 [CHARACTER]의 초상화로, 참조 이미지의 인식 가능한 얼굴, 헤어스타일, 피부색, 표정, 의상, 주요 특징을 그대로 유지하면서 이를 상세한 프리미엄 에나멜 일러스트레이션으로 변환합니다."[NAME]"라고 읽는 1 작은 이름 핀과 "[WORD]"라고 읽는 1 작은 성격 단어 핀을 추가합니다.나머지 5 핀은 과도한 텍스트보다는 기발한 상징적 일러스트레이션을 사용하여 창의적 작업, AI/기술, 시각적 창작, 사진, 여행, 우정, 취미 또는 일상 사물 등 [CHARACTER]의 관심과 라이프스타일을 표현해야 합니다.다양한 핀 모양과 크기, 넉넉한 간격, 단단한 격자 없이 초상화 주변의 모든 것을 유기적으로 배열합니다.정교한 대비, 선명한 디테일, 사실적인 금속 깊이, 고급 상용 제품 조명과 함께 대담하고 평면적이며 밝은 색상을 사용하세요.스튜디오에서 촬영한 한정판 디자이너 핀 세트처럼 모던하고 생동감 넘치며 개인적이고 소장 가치가 높으며 즉시 시선을 사로잡는 느낌을 연출하세요.도시 이름이나 특정 랜드마크, 중복된 핀, 복잡함, 임의의 텍스트, 철자 오류, 값싼 만화 또는 플라스틱 모양이 없습니다.
+```
+
+[온라인 갤러리 보기](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ko--personal-enamel-pin-set)
+
+</details>
+
+### 내 용도에 맞추기
+
+자신의 참고 이미지를 준비하고 각 이미지의 역할과 변경할 부분, 유지할 부분을 구분하세요.
+
+### 참고 사항
+
+- 실패에서 배우는 사례입니다. 8개를 요청했지만 결과에는 핀 배지 10개가 있고, 금지한 추가 글자와 알아볼 수 있는 랜드마크도 있습니다. 개수와 금지 조건을 점검하는 연습에 사용하세요. 사용 권한이 있는 인물 사진을 업로드하고 [CHARACTER], [NAME], [WORD]를 바꾸세요. 제조용 파일이 아닌 콘셉트 이미지입니다.
+
+<details>
+<summary>출처와 날짜별 반응 수</summary>
+
+**편집 검토: 62.5/100 · 2026-09-13T17:54:27.409Z**
+
+[편집 검토](docs/CURATION.md)
+
+[@miratechtool](https://x.com/miratechtool/status/2097710852413497646) · [프롬프트 또는 워크플로 원본](https://x.com/miratechtool/status/2097710852413497646) · [제작자의 모델 관련 설명](https://x.com/miratechtool/status/2097710852413497646)
+
+프롬프트 원본 언어: **en** · 게시물 언어: **en**
+
+28 좋아요 · — 즐겨찾기 · — 재게시 · — 조회수
+
+반응 확인됨: 2026-09-13T17:22:11.067443+00:00 · 원본 확인됨: 2026-09-13T17:54:27.409Z
+
+### 원본 문구 보기
+
+```text
+Create a hyper-realistic enamel pin collection in a vertical 4:5 composition on a dark textured background. Design exactly 8 separate premium pins with polished gold-metal outlines, glossy hard-enamel surfaces, subtle raised edges, realistic reflections, and soft shadows. The main medium-sized center pin is a portrait of [CHARACTER], preserving the reference image’s recognizable face, hairstyle, skin tone, expression, clothing, and key features while translating them into a detailed premium enamel illustration. Add 1 small name pin reading “[NAME]” and 1 small personality-word pin reading “[WORD]”. The remaining 5 pins should represent [CHARACTER]’s interests and lifestyle, such as creative work, AI/technology, visual creation, photography, travel, friendship, hobbies, or everyday objects, using clever symbolic illustrations rather than excessive text. Arrange everything organically around the portrait with varied pin shapes and sizes, generous spacing, and no rigid grid. Use bold, flat, bright colors with sophisticated contrast, crisp details, realistic metallic depth, and high-end commercial product lighting. Make it feel like a limited-edition designer pin set photographed in a studio—modern, vibrant, personal, collectible, and instantly eye-catching. No city names or specific landmarks, no duplicated pins, no clutter, no random text, no misspellings, no cheap cartoon or plastic appearance.
 ```
 
 </details>

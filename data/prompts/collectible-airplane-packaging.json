@@ -1,0 +1,140 @@
+{
+  "id": "collectible-airplane-packaging",
+  "title": {
+    "en": "A collectible airplane in blister packaging",
+    "zh-CN": "怀旧玩具飞机吸塑包装",
+    "zh-TW": "吸塑包裝的可收藏飛機",
+    "ja": "ブリスターパッケージに入った収集価値のある飛行機",
+    "ko": "블리스 터 포장의 수집 가능한 비행기",
+    "fr": "Un avion de collection sous blister",
+    "de": "Ein Sammlerflugzeug in Blisterverpackung",
+    "es": "Un avión de colección en blister.",
+    "pt-BR": "Um avião colecionável em embalagem blister"
+  },
+  "summary": {
+    "en": "Describe product materials, retail packaging and one permitted packaging label together.",
+    "zh-CN": "同时指定产品材质、零售包装与唯一允许出现的包装文字。",
+    "zh-TW": "同時指定產品材質、零售包裝與唯一允許出現的包裝文字。",
+    "ja": "製品の材料、小売パッケージ、および許可されている 1 つのパッケージラベルを一緒に説明します。",
+    "ko": "제품 재료, 소매 포장 및 허용되는 포장 라벨 하나를 함께 설명하십시오.",
+    "fr": "Décrivez ensemble les matériaux du produit, l'emballage de vente au détail et une étiquette d'emballage autorisée.",
+    "de": "Beschreiben Sie gemeinsam Produktmaterialien, Einzelhandelsverpackung und ein zulässiges Verpackungsetikett.",
+    "es": "Describa juntos los materiales del producto, el embalaje minorista y una etiqueta de embalaje permitida.",
+    "pt-BR": "Descreva juntos os materiais do produto, a embalagem de varejo e um rótulo de embalagem permitido."
+  },
+  "category": "products",
+  "tags": [
+    "official-guide",
+    "products",
+    "advertising"
+  ],
+  "mode": "generate",
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": "sunburst",
+    "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise",
+    "evidence": "The official guide labels this linked output GPT Image 2.5 Sunburst. It is not a repository generation."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.\n\nConcept:\nA nostalgic holiday collectible inspired by the simple toy airplanes\nchildren used to play with during winter holidays.\nEvokes warmth, imagination, and childhood wonder.\n\nStyle:\nPremium toy photography, realistic plastic and painted metal textures,\nstudio lighting, shallow depth of field,\nsharp label printing, high-end retail presentation.\n\nConstraints:\n- Original design only\n- No trademarks\n- No watermarks\n- No logos\n\nInclude ONLY this packaging text (verbatim):\n\"Christmas Memories Edition\"",
+        "zh-CN": "打造一款具有收藏价值的复古风格玩具螺旋桨飞机动作人偶，带有圆形机翼、前置旋转螺旋桨、轻微磨损的油漆边缘、经典的童年比例，设计为怀旧节日收藏品，采用吸塑包装。\n\n概念：\n灵感来自简单玩具飞机的怀旧节日收藏品\n孩子们过去常常在寒假期间玩耍。\n唤起温暖、想象力和童年的奇迹。\n\n风格：\n优质玩具摄影，逼真的塑料和彩绘金属纹理，\n演播室灯光，浅景深，\n锐利的标签打印，高端零售展示。\n\n限制条件：\n- 仅限原创设计\n- 无商标\n- 无水印\n- 无标志\n\n仅包含此包装文本（逐字）：\n“Christmas Memories Edition”",
+        "zh-TW": "打造一款具有收藏價值的復古風格玩具螺旋槳飛機動作人偶，帶有圓形機翼、前置旋轉螺旋槳、輕微磨損的油漆邊緣、經典的童年比例，設計為懷舊節日收藏品，採用吸塑包裝。\n\n概念：\n靈感來自簡單玩具飛機的懷舊節日收藏品\n孩子們過去常常在寒假期間玩耍。\n喚起溫暖、想像和童年的奇蹟。\n\n風格：\n優質玩具攝影，逼真的塑膠和彩繪金屬紋理，\n攝影棚燈光，淺景深，\n銳利的標籤列印，高端零售展示。\n\n限制條件：\n- 限原創設計\n- 無商標\n- 無浮水印\n- 無標誌\n\n僅包含此包裝文字（逐字）：\n“Christmas Memories Edition”",
+        "ja": "丸い翼、前部に取り付けられた回転プロペラ、わずかに磨耗したペイントエッジ、古典的な子供時代のプロポーションを備えたビンテージスタイルのおもちゃのプロペラ飛行機の収集価値のあるアクションフィギュアを、ノスタルジックなホリデーコレクションとしてデザインされ、ブリスターパッケージで作成します。\n\nコンセプト:\nシンプルなおもちゃの飛行機からインスピレーションを得た、ノスタルジックなホリデーコレクションアイテム\n冬休みの間、子どもたちはよく遊んでいた。\n温かさ、想像力、そして子供の頃の驚きを呼び起こします。\n\nスタイル:\nプレミアムなおもちゃの写真、リアルなプラスチックと塗装された金属のテクスチャ、\nスタジオの照明、浅い被写界深度、\nシャープなラベル印刷、高級小売店向けプレゼンテーション。\n\n制約:\n- オリジナルデザインのみ\n- 商標はありません\n- 透かしなし\n- ロゴなし\n\nこのパッケージ化テキストのみを含めてください (逐語的に)。\n「Christmas Memories Edition」",
+        "ko": "둥근 날개, 전면에 장착된 회전 프로펠러, 약간 낡은 페인트 가장자리, 고전적인 어린 시절 비율을 갖춘 빈티지 스타일 장난감 프로펠러 비행기의 수집용 액션 피규어를 만들어 향수를 불러일으키는 휴일 수집품으로 디자인하고 블리스 터 포장에 담아보세요.\n\n컨셉:\n단순한 장난감 비행기에서 영감을 받은 향수를 불러일으키는 휴일 수집품\n겨울방학 동안 함께 놀던 아이들.\n따뜻함, 상상력, 어린 시절의 경이로움을 불러일으킵니다.\n\n스타일:\n프리미엄 장난감 사진, 사실적인 플라스틱 및 페인트 금속 질감,\n스튜디오 조명, 얕은 피사계 심도,\n선명한 라벨 인쇄, 고급 소매 프레젠테이션.\n\n제약:\n- 오리지널 디자인만 가능\n- 상표 없음\n- 워터마크 없음\n- 로고 없음\n\n다음 포장 텍스트(축어적)만 포함하세요.\n\"Christmas Memories Edition\"",
+        "fr": "Créez une figurine de collection représentant un avion à hélice de style vintage avec des ailes arrondies, une hélice rotative montée à l'avant, des bords de peinture légèrement usés, des proportions classiques de l'enfance, conçue comme un objet de collection nostalgique des fêtes, dans un emballage blister.\n\nConcept :\nUne collection de vacances nostalgique inspirée des simples avions jouets.\nles enfants jouaient avec pendant les vacances d'hiver.\nÉvoque la chaleur, l’imagination et l’émerveillement de l’enfance.\n\nStyle :\nPhotographie de jouets haut de gamme, textures réalistes en plastique et métal peint,\néclairage de studio, faible profondeur de champ,\nimpression d'étiquettes nettes, présentation au détail haut de gamme.\n\nContraintes :\n- Conception originale uniquement\n- Aucune marque déposée\n- Pas de filigrane\n- Pas de logo\n\nIncluez UNIQUEMENT ce texte d’emballage (textuellement) :\n\"Christmas Memories Edition\"",
+        "de": "Erstellen Sie eine Sammler-Actionfigur eines Spielzeug-Propellerflugzeugs im Vintage-Stil mit abgerundeten Flügeln, einem vorne montierten Propeller, leicht abgenutzten Farbrändern, klassischen Kindheitsproportionen, entworfen als nostalgisches Feiertags-Sammlerstück, in Blisterverpackung.\n\nKonzept:\nEin nostalgisches Weihnachts-Sammlerstück, inspiriert von den einfachen Spielzeugflugzeugen\nIn den Winterferien spielten die Kinder mit ihnen.\nErweckt Wärme, Fantasie und Kindheitswunder.\n\nStil:\nHochwertige Spielzeugfotografie, realistische Texturen aus Kunststoff und lackiertem Metall,\nStudiobeleuchtung, geringe Schärfentiefe,\nGestochen scharfer Etikettendruck, hochwertige Einzelhandelspräsentation.\n\nEinschränkungen:\n- Nur Originaldesign\n- Keine Marken\n- Keine Wasserzeichen\n- Keine Logos\n\nFügen Sie NUR diesen Verpackungstext (wörtlich) ein:\n„Christmas Memories Edition“",
+        "es": "Cree una figura de acción coleccionable de un avión de hélice de juguete de estilo antiguo con alas redondeadas, una hélice giratoria montada en el frente, bordes de pintura ligeramente desgastados y proporciones clásicas de la infancia, diseñada como un coleccionable nostálgico de vacaciones, en un blíster.\n\nConcepto:\nUn coleccionable navideño nostálgico inspirado en los sencillos aviones de juguete.\nLos niños solían jugar durante las vacaciones de invierno.\nEvoca calidez, imaginación y asombro infantil.\n\nEstilo:\nFotografía de juguetes premium, texturas realistas de plástico y metal pintado.\niluminación de estudio, poca profundidad de campo,\nImpresión de etiquetas nítida, presentación minorista de alta gama.\n\nRestricciones:\n- Sólo diseño original\n- Sin marcas comerciales\n- Sin marcas de agua\n- Sin logotipos\n\nIncluya SÓLO este texto de embalaje (textualmente):\n\"Christmas Memories Edition\"",
+        "pt-BR": "Crie uma figura de ação colecionável de um avião a hélice de brinquedo estilo vintage com asas arredondadas, uma hélice giratória montada na frente, bordas pintadas levemente desgastadas, proporções clássicas da infância, projetado como um nostálgico colecionável de férias, em embalagem blister.\n\nConceito:\nUm nostálgico colecionável de férias inspirado nos simples aviões de brinquedo\nas crianças costumavam brincar durante as férias de inverno.\nEvoca calor, imaginação e admiração infantil.\n\nEstilo:\nFotografia de brinquedo premium, texturas realistas de plástico e metal pintado,\niluminação de estúdio, profundidade de campo rasa,\nimpressão de etiquetas nítidas, apresentação de varejo sofisticada.\n\nRestrições:\n- Apenas design original\n- Sem marcas registradas\n- Sem marcas d'água\n- Sem logotipos\n\nInclua SOMENTE este texto da embalagem (literalmente):\n\"Christmas Memories Edition\""
+      }
+    ],
+    "original_language": "en",
+    "original_steps": [
+      "Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.\n\nConcept:\nA nostalgic holiday collectible inspired by the simple toy airplanes\nchildren used to play with during winter holidays.\nEvokes warmth, imagination, and childhood wonder.\n\nStyle:\nPremium toy photography, realistic plastic and painted metal textures,\nstudio lighting, shallow depth of field,\nsharp label printing, high-end retail presentation.\n\nConstraints:\n- Original design only\n- No trademarks\n- No watermarks\n- No logos\n\nInclude ONLY this packaging text (verbatim):\n\"Christmas Memories Edition\""
+    ],
+    "preserved_literals": [
+      "Christmas Memories Edition"
+    ]
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "Replace the object and packaging copy for your own product. This is a packaging visualization, not a manufacturing dieline. Check the printed text and material details. Source settings: 1024x1536, medium quality.",
+      "zh-CN": "将产品对象和包装文案一起替换成自己的内容。这是包装效果图，不是用于制造的刀模图。检查文字与材质细节。原示例设置：1024x1536、中等质量。",
+      "zh-TW": "將產品對象和包裝文案一起替換成自己的內容。這是包裝效果圖，不是用於製造的刀模圖。檢查文字與材質細節。原示例設置：1024x1536、中等質量。",
+      "ja": "オブジェクトとパッケージのコピーを独自の製品に置き換えます。これはパッケージングの視覚化であり、製造ダイラインではありません。印刷された文字や素材の詳細を確認してください。ソース設定: 1024x1536、中品質。",
+      "ko": "귀하의 제품에 대한 개체 및 포장 사본을 교체하십시오. 이는 제조 다이라인이 아닌 포장 시각화입니다. 인쇄된 텍스트와 소재 세부정보를 확인하세요. 소스 설정: 1024x1536, 중간 품질.",
+      "fr": "Remplacez l'objet et la copie de l'emballage par votre propre produit. Il s'agit d'une visualisation d'emballage, pas d'une ligne de fabrication. Vérifiez le texte imprimé et les détails du matériau. Paramètres source : 1024x1536, qualité moyenne.",
+      "de": "Ersetzen Sie die Objekt- und Verpackungskopie für Ihr eigenes Produkt. Dies ist eine Verpackungsvisualisierung, keine Fertigungsstanze. Überprüfen Sie den gedruckten Text und die Materialdetails. Quelleinstellungen: 1024x1536, mittlere Qualität.",
+      "es": "Reemplaza el objeto y la copia del embalaje por tu propio producto. Esta es una visualización del empaque, no una línea de fabricación. Consulta el texto impreso y los detalles del material. Configuración de fuente: 1024x1536, calidad media.",
+      "pt-BR": "Substitua o objeto e a cópia da embalagem pelo seu próprio produto. Esta é uma visualização de embalagem, não uma linha de produção. Verifique o texto impresso e os detalhes do material. Configurações de origem: 1024x1536, qualidade média."
+    }
+  ],
+  "source": {
+    "platform": "documentation",
+    "author": "OpenAI",
+    "url": "https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise",
+    "prompt_url": "https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise",
+    "checked_at": "2026-09-13T17:54:27.409Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "post_language": "en"
+  },
+  "previews": [
+    {
+      "url": "https://developers.openai.com/images/platform/guides/image-prompting/christmas-collectible-toy-airplane-gpt-image-2-5-sunburst.webp",
+      "kind": "source-result",
+      "credit": "OpenAI — source result",
+      "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise"
+    }
+  ],
+  "references": [],
+  "engagement": {
+    "likes": null,
+    "reposts": null,
+    "replies": null,
+    "bookmarks": null,
+    "views": null,
+    "observed_at": "2026-09-13T17:54:27.409Z",
+    "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise",
+    "method": "Official documentation has no social engagement counters."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and linked media remain subject to their source terms. Attribution does not grant a license to source inputs or results."
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T17:54:27.409Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 4,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 4,
+      "distinctiveness": 3
+    },
+    "rationale": "Blister packaging, airplane shape and requested edition label are visible. Manufacturing specifications are absent; treated as a visualization."
+  },
+  "translation_meta": {
+    "source_digest": "c44eb658c27e8eb4485790f0168072b1a1e84c3636e49823f752b1bd3b2cc0c6",
+    "text_digests": {
+      "zh-CN": "5d5bfb3787e73c97d5baaef18d5bc25da9ece000140154e7ad46c8096a4ae64f",
+      "zh-TW": "1925f7b3cfc6874bbba3ad86211186009013bc7edff2d7aefca12fc4e0e6f6a8",
+      "ja": "395361a6fe16d37b13b47cc65090b20197c0923270279da7c6cfa62759e980df",
+      "ko": "fc73fd9fe0511b08e6ae582b0672263582c1eae4966505eafe44c9fdc2247bd4",
+      "fr": "48cc4f381055f5d5a9a43a02c1229e92e9f29cbcc3f90ad47c9a96196fbc9362",
+      "de": "1f1ce348be94c9b60947c2578373603d7d8200ec87d70d0433a24d924bd469b2",
+      "es": "13747f9212d9d0963b4becdcbfdfca8e47bbcfb12847303215b4734376594820",
+      "pt-BR": "984f99fa204b94d58595ac28823de084bb5ae8e8f848ddeeb9222ff1c202f854"
+    }
+  }
+}

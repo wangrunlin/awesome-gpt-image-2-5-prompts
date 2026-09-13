@@ -1,0 +1,150 @@
+{
+  "id": "architectural-portal-travel-poster",
+  "title": {
+    "en": "An architectural portal travel poster",
+    "zh-CN": "建筑门洞框景旅行海报",
+    "zh-TW": "建築門戶旅行海報",
+    "ja": "建築ポータルの旅行ポスター",
+    "ko": "건축 포털 여행 포스터",
+    "fr": "Une affiche de voyage sur un portail architectural",
+    "de": "Ein Architekturportal-Reiseplakat",
+    "es": "Un cartel de viaje de portal arquitectónico.",
+    "pt-BR": "Um cartaz de viagens de portal arquitetônico"
+  },
+  "summary": {
+    "en": "Use local architecture as a foreground frame, with a restrained palette and integrated place labels.",
+    "zh-CN": "用当地建筑门洞框住目的地景观，搭配有限配色与融入建筑的地点标牌。",
+    "zh-TW": "用當地建築門洞框住目的地景觀，搭配有限配色與融入建築的地點標牌。",
+    "ja": "ローカル アーキテクチャを前景フレームとして使用し、抑制されたパレットと統合された場所ラベルを使用します。",
+    "ko": "제한된 팔레트와 통합된 장소 라벨을 사용하여 지역 건축물을 전경 프레임으로 사용하세요.",
+    "fr": "Utilisez l'architecture locale comme cadre de premier plan, avec une palette sobre et des étiquettes de lieu intégrées.",
+    "de": "Nutzen Sie die lokale Architektur als Vordergrundrahmen mit einer zurückhaltenden Farbpalette und integrierten Ortsschildern.",
+    "es": "Utilice la arquitectura local como marco de primer plano, con una paleta sobria y etiquetas de lugares integradas.",
+    "pt-BR": "Use a arquitetura local como moldura de primeiro plano, com uma paleta restrita e rótulos de locais integrados."
+  },
+  "category": "design",
+  "tags": [
+    "architecture",
+    "travel",
+    "poster",
+    "color-palette"
+  ],
+  "mode": "generate",
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/Naiknelofar788/status/2097920025617399875",
+    "evidence": "The creator explicitly attributes this result to GPT Image 2.5 in the linked primary source. This is source attribution, not an independent model test."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "Create a premium modern travel poster for [CITY, COUNTRY], inspired by bold vintage screen-print and mid-century graphic design, but with an original architectural portal composition.\n\nPlace a large distinctive [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH] in the foreground, acting as a window into the destination. Through the opening, reveal a stylized layered scene featuring [ICONIC LANDMARK], [FAMOUS NATURAL FEATURE], simplified rooftops, local streets, trees, transportation, and a few subtle cultural details.\n\nAdd one large bold geometric sun / moon / circle behind the main landmark, using a shape and placement that feels visually striking rather than traditional. Include 2–3 recognizable local symbols naturally within the scene instead of presenting them as separate objects.\n\nUse a limited sophisticated color palette inspired by the destination: [2–5 COLORS]. Flat geometric shapes, strong silhouettes, clean edges, subtle overlapping layers, slight screen-print texture, and elegant negative space.\n\nAdd a tall integrated sign or architectural panel featuring:\n\n[CITY]\n[LOCAL SCRIPT]\n\nInclude small refined editorial typography at the bottom:\n\n[COUNTRY]\n[CITY] • [COORDINATES]\n[SHORT DESTINATION PHRASE]\n\nMinimal, artistic, cohesive, collectible travel-poster aesthetic, not photorealistic, not a collage, no excessive details, sophisticated composition, strong visual hierarchy, balanced asymmetry, warm paper background, subtle print imperfections, 4:5 vertical format.",
+        "zh-CN": "为 [CITY, COUNTRY] 制作优质现代旅行海报，其灵感来自大胆的复古丝网印刷和20世纪中期平面设计，但具有原创的建筑门户构图。\n\n在前景放置一个巨大的独特的 [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH]，作为目的地的窗口。通过开口，展现出一个风格化的分层场景，包括 [ICONIC LANDMARK]、[FAMOUS NATURAL FEATURE]、简化的屋顶、当地街道、树木、交通和一些微妙的文化细节。\n\n在主要地标后面添加一个大的大胆的几何太阳/月亮/圆圈，使用一种视觉上引人注目的形状和位置，而不是传统的。在场景中自然地包含 2–3 个可辨识的当地文化符号，而不是将它们呈现为单独的对象。\n\n使用受目的地启发而设计的有限精致调色板：[2–5 COLORS]。平坦的几何形状、强烈的轮廓、干净的边缘、微妙的重叠层、轻微的丝网印刷纹理和优雅的负空间。\n\n添加一个高大的集成标志或建筑面板，具有以下特点：\n\n[CITY]\n[LOCAL SCRIPT]\n\n在底部添加小型精致的编辑排版：\n\n[COUNTRY]\n[CITY] • [COORDINATES]\n[SHORT DESTINATION PHRASE]\n\n简约、艺术、有凝聚力、具有收藏价值的旅行海报美学，不写实，不是拼贴，没有过多的细节，精心设计的构图，强烈的视觉层次，平衡的不对称，温暖的纸张背景，微妙的印刷缺陷，4:5 垂直格式。",
+        "zh-TW": "為 [CITY, COUNTRY] 製作優質現代旅行海報，其靈感來自大膽的復古絲網印刷和20世紀中期平面設計，但具有原創的建築門戶構圖。\n\n在前景放置一個巨大的獨特的 [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH]，作為目的地的窗口。通過開口，展現出一個風格化的分層場景，包括 [ICONIC LANDMARK]、[FAMOUS NATURAL FEATURE]、簡化的屋頂、當地街道、樹木、交通和一些微妙的文化細節。\n\n在主要地標後面添加一個大的大膽的幾何太陽/月亮/圓圈，使用一種視覺上引人注目的形狀和位置，而不是傳統的。在場景中自然地包含 2–3 個可辨識的當地文化符號，而不是將它們呈現為單獨的對象。\n\n使用受目的地啓發而設計的有限精緻調色板：[2–5 COLORS]。平坦的幾何形狀、強烈的輪廓、乾淨的邊緣、微妙的重疊層、輕微的絲網印刷紋理和優雅的負空間。\n\n添加一個高大的集成標誌或建築面板，具有以下特點：\n\n[CITY]\n[LOCAL SCRIPT]\n\n在底部添加小型精緻的編輯排版：\n\n[COUNTRY]\n[CITY] • [COORDINATES]\n[SHORT DESTINATION PHRASE]\n\n簡約、藝術、有凝聚力、具有收藏價值的旅行海報美學，不寫實，不是拼貼，沒有過多的細節，精心設計的構圖，強烈的視覺層次，平衡的不對稱，溫暖的紙張背景，微妙的印刷缺陷，4:5 垂直格式。",
+        "ja": "[CITY, COUNTRY] 用のプレミアム モダン トラベル ポスターを作成します。このポスターは、大胆なビンテージ スクリーン プリントとミッドセンチュリーのグラフィック デザインにインスピレーションを受け、オリジナルの建築ポータル構成を備えています。\n\n大きく特徴的な [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH] を前景に配置し、目的地への窓として機能します。オープニングを通して、[ICONIC LANDMARK]、[FAMOUS NATURAL FEATURE]、簡略化された屋根、地元の街路、樹木、交通機関、およびいくつかの微妙な文化的詳細を特徴とする様式化されたレイヤード シーンが表示されます。\n\nメインのランドマークの後ろに、伝統的ではなく視覚的に印象的な形状と配置を使用して、大きな大胆な幾何学的な太陽 / 月 / 円を 1 つ追加します。 2 ～ 3 の認識可能なローカル シンボルを、別個のオブジェクトとして表示するのではなく、シーン内に自然に含めます。\n\n目的地からインスピレーションを得た限定された洗練されたカラー パレットを使用します: [2–5 COLORS]。平坦な幾何学的形状、力強いシルエット、すっきりとしたエッジ、微妙に重なり合うレイヤー、わずかなスクリーンプリントのテクスチャー、エレガントなネガティブスペース。\n\n以下の機能を備えた背の高い一体型サインまたは建築パネルを追加します。\n\n[CITY]\n[LOCAL SCRIPT]\n\n下部に小さな洗練された編集用タイポグラフィを含めます。\n\n[COUNTRY]\n[CITY] • [COORDINATES]\n[SHORT DESTINATION PHRASE]\n\nミニマル、芸術的、一貫性のある、収集価値のある旅行ポスターの美学、フォトリアリスティックではなく、コラージュではなく、過剰なディテールなし、洗練された構成、強力な視覚的階層、バランスの取れた非対称性、温かみのある紙の背景、微妙な印刷の欠陥、4:5 縦型フォーマット。",
+        "ko": "대담한 빈티지 스크린 프린트와 20세기 중반 그래픽 디자인에서 영감을 얻었지만 독창적인 건축 포털 구성을 사용하여 [CITY, COUNTRY]를 위한 프리미엄 현대 여행 포스터를 제작해 보세요.\n\n대상을 향한 창 역할을 하는 크고 독특한 [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH]를 전경에 배치합니다. 오프닝을 통해 [ICONIC LANDMARK], [FAMOUS NATURAL FEATURE], 단순화된 옥상, 지역 거리, 나무, 교통 수단 및 몇 가지 미묘한 문화적 세부 사항을 특징으로 하는 양식화된 레이어 장면을 공개합니다.\n\n전통적인 것보다 시각적으로 눈에 띄는 모양과 배치를 사용하여 주요 랜드마크 뒤에 하나의 크고 대담한 기하학적 태양/달/원을 추가합니다. 2–3 인식 가능한 로컬 기호를 별도의 개체로 표시하는 대신 장면 내에 자연스럽게 포함합니다.\n\n목적지인 [2–5 COLORS]에서 영감을 받은 제한적이고 정교한 색상 팔레트를 사용하세요. 평면적인 기하학적 모양, 강한 실루엣, 깔끔한 가장자리, 미묘한 겹쳐진 레이어, 약간의 스크린 프린트 텍스처, 우아한 네거티브 공간.\n\n다음 기능을 갖춘 높은 통합형 간판 또는 건축 패널을 추가하세요.\n\n[CITY]\n[LOCAL SCRIPT]\n\n하단에 작고 세련된 편집용 타이포그래피를 포함합니다.\n\n[COUNTRY]\n[CITY] • [COORDINATES]\n[SHORT DESTINATION PHRASE]\n\n미니멀하고, 예술적이고, 응집력 있고, 수집 가능한 여행 포스터 미학, 사실적이지 않음, 콜라주가 아님, 과도한 디테일 없음, 정교한 구성, 강력한 시각적 계층 구조, 균형 잡힌 비대칭, 따뜻한 종이 배경, 미묘한 인쇄 결함, 4:5 세로 형식.",
+        "fr": "Créez une affiche de voyage moderne haut de gamme pour [CITY, COUNTRY], inspirée d'une sérigraphie vintage audacieuse et d'un design graphique du milieu du siècle, mais avec une composition de portail architectural originale.\n\nPlacez un grand [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH] distinctif au premier plan, faisant office de fenêtre sur la destination. À travers l'ouverture, révélez une scène stylisée en couches mettant en vedette [ICONIC LANDMARK], [FAMOUS NATURAL FEATURE], des toits simplifiés, des rues locales, des arbres, des transports et quelques détails culturels subtils.\n\nAjoutez un grand soleil/lune/cercle géométrique audacieux derrière le point de repère principal, en utilisant une forme et un emplacement qui semblent visuellement frappants plutôt que traditionnels. Incluez naturellement les symboles locaux reconnaissables 2–3 dans la scène au lieu de les présenter comme des objets distincts.\n\nUtilisez une palette de couleurs sophistiquée et limitée inspirée de la destination : [2–5 COLORS]. Formes géométriques plates, silhouettes fortes, bords nets, couches superposées subtiles, légère texture sérigraphiée et espace négatif élégant.\n\nAjoutez une grande enseigne intégrée ou un panneau architectural comprenant :\n\n[CITY]\n[LOCAL SCRIPT]\n\nIncluez une petite typographie éditoriale raffinée en bas :\n\n[COUNTRY]\n[CITY] • [COORDINATES]\n[SHORT DESTINATION PHRASE]\n\nEsthétique minimale, artistique, cohérente, d'affiche de voyage de collection, non photoréaliste, pas de collage, pas de détails excessifs, composition sophistiquée, forte hiérarchie visuelle, asymétrie équilibrée, fond de papier chaud, subtiles imperfections d'impression, format vertical 4:5.",
+        "de": "Erstellen Sie ein hochwertiges, modernes Reiseplakat für [CITY, COUNTRY], inspiriert von kräftigem Vintage-Siebdruck und Grafikdesign aus der Mitte des Jahrhunderts, aber mit einer originellen architektonischen Portalkomposition.\n\nPlatzieren Sie einen großen, markanten [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH] im Vordergrund, der als Fenster zum Ziel fungiert. Enthüllen Sie durch die Öffnung eine stilisierte, mehrschichtige Szene mit [ICONIC LANDMARK], [FAMOUS NATURAL FEATURE], vereinfachten Dächern, örtlichen Straßen, Bäumen, Transportmitteln und einigen subtilen kulturellen Details.\n\nFügen Sie eine große, auffällige geometrische Sonne/einen Mond/einen Kreis hinter dem Hauptwahrzeichen hinzu und verwenden Sie dabei eine Form und Platzierung, die optisch auffällig und nicht traditionell wirkt. Fügen Sie erkennbare lokale Symbole 2–3 auf natürliche Weise in die Szene ein, anstatt sie als separate Objekte darzustellen.\n\nVerwenden Sie eine begrenzte, anspruchsvolle Farbpalette, die vom Reiseziel inspiriert ist: [2–5 COLORS]. Flache geometrische Formen, starke Silhouetten, klare Kanten, subtile überlappende Schichten, leichte Siebdrucktextur und eleganter Negativraum.\n\nFügen Sie ein hohes integriertes Schild oder eine Architekturtafel hinzu mit:\n\n[CITY]\n[LOCAL SCRIPT]\n\nFügen Sie unten eine kleine, raffinierte redaktionelle Typografie ein:\n\n[COUNTRY]\n[CITY] • [COORDINATES]\n[SHORT DESTINATION PHRASE]\n\nMinimal, künstlerisch, zusammenhängend, sammelbare Reiseposter-Ästhetik, nicht fotorealistisch, keine Collage, keine übermäßigen Details, anspruchsvolle Komposition, starke visuelle Hierarchie, ausgewogene Asymmetrie, warmer Papierhintergrund, subtile Druckfehler, 4:5-Vertikalformat.",
+        "es": "Cree un póster de viaje moderno de primera calidad para [CITY, COUNTRY], inspirado en una atrevida serigrafía vintage y un diseño gráfico de mediados de siglo, pero con una composición arquitectónica original del portal.\n\nColoque un gran [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH] distintivo en primer plano, que actúa como una ventana hacia el destino. A través de la apertura, se revela una escena estilizada en capas que presenta [ICONIC LANDMARK], [FAMOUS NATURAL FEATURE], tejados simplificados, calles locales, árboles, transporte y algunos detalles culturales sutiles.\n\nAgregue un sol, luna o círculo geométrico grande y atrevido detrás del punto de referencia principal, utilizando una forma y ubicación que se sienta visualmente impactante en lugar de tradicional. Incluya símbolos locales reconocibles 2–3 de forma natural dentro de la escena en lugar de presentarlos como objetos separados.\n\nUtilice una paleta de colores limitada y sofisticada inspirada en el destino: [2–5 COLORS]. Formas geométricas planas, siluetas fuertes, bordes limpios, capas superpuestas sutiles, textura ligera serigrafiada y espacio negativo elegante.\n\nAgregue un letrero alto integrado o un panel arquitectónico que incluya:\n\n[CITY]\n[LOCAL SCRIPT]\n\nIncluya una pequeña tipografía editorial refinada en la parte inferior:\n\n[COUNTRY]\n[CITY] • [COORDINATES]\n[SHORT DESTINATION PHRASE]\n\nEstética de póster de viaje minimalista, artística, cohesiva y coleccionable, no fotorrealista, no es un collage, sin detalles excesivos, composición sofisticada, fuerte jerarquía visual, asimetría equilibrada, fondo de papel cálido, sutiles imperfecciones de impresión, formato vertical 4:5.",
+        "pt-BR": "Crie um pôster de viagem moderno e premium para [CITY, COUNTRY], inspirado na ousada serigrafia vintage e no design gráfico de meados do século, mas com uma composição de portal arquitetônico original.\n\nColoque um [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH] grande e distinto em primeiro plano, atuando como uma janela para o destino. Através da abertura, revele uma cena estilizada em camadas com [ICONIC LANDMARK], [FAMOUS NATURAL FEATURE], telhados simplificados, ruas locais, árvores, transporte e alguns detalhes culturais sutis.\n\nAdicione um grande sol / lua / círculo geométrico ousado atrás do ponto de referência principal, usando uma forma e posicionamento que pareça visualmente impressionante, em vez de tradicional. Inclua símbolos locais reconhecíveis 2–3 naturalmente na cena, em vez de apresentá-los como objetos separados.\n\nUse uma paleta de cores limitada e sofisticada inspirada no destino: [2–5 COLORS]. Formas geométricas planas, silhuetas fortes, bordas limpas, camadas sutis sobrepostas, leve textura serigráfica e espaço negativo elegante.\n\nAdicione uma placa alta integrada ou painel arquitetônico apresentando:\n\n[CITY]\n[LOCAL SCRIPT]\n\nInclua uma pequena tipografia editorial refinada na parte inferior:\n\n[COUNTRY]\n[CITY] • [COORDINATES]\n[SHORT DESTINATION PHRASE]\n\nEstética mínima, artística, coesa e de pôster de viagem colecionável, não fotorrealista, sem colagem, sem detalhes excessivos, composição sofisticada, forte hierarquia visual, assimetria equilibrada, fundo de papel quente, imperfeições sutis de impressão, formato vertical 4:5."
+      }
+    ],
+    "original_language": "en",
+    "original_steps": [
+      "Create a premium modern travel poster for [CITY, COUNTRY], inspired by bold vintage screen-print and mid-century graphic design, but with an original architectural portal composition.\n\nPlace a large distinctive [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH] in the foreground, acting as a window into the destination. Through the opening, reveal a stylized layered scene featuring [ICONIC LANDMARK], [FAMOUS NATURAL FEATURE], simplified rooftops, local streets, trees, transportation, and a few subtle cultural details.\n\nAdd one large bold geometric sun / moon / circle behind the main landmark, using a shape and placement that feels visually striking rather than traditional. Include 2–3 recognizable local symbols naturally within the scene instead of presenting them as separate objects.\n\nUse a limited sophisticated color palette inspired by the destination: [2–5 COLORS]. Flat geometric shapes, strong silhouettes, clean edges, subtle overlapping layers, slight screen-print texture, and elegant negative space.\n\nAdd a tall integrated sign or architectural panel featuring:\n\n[CITY]\n[LOCAL SCRIPT]\n\nInclude small refined editorial typography at the bottom:\n\n[COUNTRY]\n[CITY] • [COORDINATES]\n[SHORT DESTINATION PHRASE]\n\nMinimal, artistic, cohesive, collectible travel-poster aesthetic, not photorealistic, not a collage, no excessive details, sophisticated composition, strong visual hierarchy, balanced asymmetry, warm paper background, subtle print imperfections, 4:5 vertical format."
+    ],
+    "preserved_literals": [
+      "[CITY, COUNTRY]",
+      "[LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH]",
+      "[ICONIC LANDMARK]",
+      "[FAMOUS NATURAL FEATURE]",
+      "[2–5 COLORS]",
+      "[CITY]",
+      "[LOCAL SCRIPT]",
+      "[COUNTRY]",
+      "[COORDINATES]",
+      "[SHORT DESTINATION PHRASE]"
+    ]
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "Fill every bracketed variable with a consistent destination. Verify coordinates, local script and landmark choices yourself. The four source destinations are variants of one recipe, not four entries.",
+      "zh-CN": "所有方括号变量应围绕同一目的地填写。请自行核实坐标、当地文字与地标。原帖的四个目的地是同一配方的变体，合并收录为一条。",
+      "zh-TW": "所有方括號變量應圍繞同一目的地填寫。請自行覈實坐標、當地文字與地標。原帖的四個目的地是同一配方的變體，合併收錄為一條。",
+      "ja": "括弧で囲まれたすべての変数に一貫した宛先を入力します。座標、現地の文字、ランドマークの選択を自分で確認してください。 4 つのソース宛先は 1 つのレシピのバリエーションであり、4 つのエントリではありません。",
+      "ko": "대괄호로 묶인 모든 변수를 일관된 대상으로 채웁니다. 좌표, 로컬 스크립트 및 랜드마크 선택을 직접 확인하세요. 4개의 소스 대상은 4개의 항목이 아니라 하나의 레시피의 변형입니다.",
+      "fr": "Remplissez chaque variable entre parenthèses avec une destination cohérente. Vérifiez vous-même les coordonnées, l'écriture locale et les choix de points de repère. Les quatre destinations sources sont des variantes d'une recette et non quatre entrées.",
+      "de": "Füllen Sie jede Variable in Klammern mit einem konsistenten Ziel. Überprüfen Sie selbst die Koordinaten, die lokale Schrift und die Auswahl von Orientierungspunkten. Die vier Quellziele sind Varianten eines Rezepts, nicht vier Einträge.",
+      "es": "Complete cada variable entre corchetes con un destino consistente. Verifique usted mismo las coordenadas, la escritura local y las opciones de puntos de referencia. Los cuatro destinos de origen son variantes de una receta, no cuatro entradas.",
+      "pt-BR": "Preencha cada variável entre colchetes com um destino consistente. Verifique você mesmo as coordenadas, o roteiro local e as opções de pontos de referência. Os quatro destinos de origem são variantes de uma receita, não de quatro entradas."
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "Naiknelofar788",
+    "url": "https://x.com/Naiknelofar788/status/2097920025617399875",
+    "prompt_url": "https://x.com/Naiknelofar788/status/2097920025617399875",
+    "checked_at": "2026-09-13T17:54:27.409Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "post_language": "en"
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HR1PFgUasAAJbTM.jpg",
+      "kind": "source-result",
+      "credit": "Naiknelofar788 — source result",
+      "source_url": "https://x.com/Naiknelofar788/status/2097920025617399875"
+    }
+  ],
+  "references": [],
+  "engagement": {
+    "likes": 47,
+    "reposts": null,
+    "replies": 26,
+    "bookmarks": null,
+    "views": null,
+    "observed_at": "2026-09-13T17:23:24.288043+00:00",
+    "source_url": "https://x.com/Naiknelofar788/status/2097920025617399875",
+    "method": "X public embed counters; only available exact integers are recorded. Missing counters remain null."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and linked media remain subject to their source terms. Attribution does not grant a license to source inputs or results."
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T17:54:27.409Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 4,
+      "result": 3,
+      "usefulness": 3,
+      "clarity": 4,
+      "distinctiveness": 4
+    },
+    "rationale": "Foreground arch frames the destination and a circular sun anchors the hierarchy. Multiple source city variants share one control recipe. Coordinates and local lettering remain unverified."
+  },
+  "translation_meta": {
+    "source_digest": "45f1f567d6d97cb6f320e6330dd61f83ebce46522bbd9d87380b885e7d671779",
+    "text_digests": {
+      "zh-CN": "d7295245c27084ae7b6f2dd0317312190f4026789d37b3dce13cfa77fe80ca8f",
+      "zh-TW": "f2e2f67b11535980bd459df86f839069ab7da47b4956f847d9b6183bf5ca784d",
+      "ja": "03fc76b170451e9b392427973d56ec0f56d4167824383d51b1d450a30d0f465c",
+      "ko": "e47e6a8cdfa9a3e7481f91dcbd1fff5fefb7393c071e1d2e19aa95de8ee8fb3e",
+      "fr": "cbecb05d9e0a84c9b303c6b8b773d93189269e1bc9c41192806466e3569413a1",
+      "de": "bdae774a79be74b2a0a2336376d96a3d58565e9f10324a168f1de4a8ed77b961",
+      "es": "e185e15d48ca319dafa46b30038b0b56441f99def71166134cb8e85444be004c",
+      "pt-BR": "c56007e3e31f8d3fe64eaf30785a2f1884f908d02e80ccb8629fc5e39e5335d7"
+    }
+  }
+}

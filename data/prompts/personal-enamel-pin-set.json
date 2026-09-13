@@ -1,0 +1,154 @@
+{
+  "id": "personal-enamel-pin-set",
+  "title": {
+    "en": "Eight requested pins, ten in the result",
+    "zh-CN": "要求八枚徽章，结果生成十枚",
+    "zh-TW": "要求八枚徽章，結果生成十枚",
+    "ja": "8個の指定に対して10個になったピンバッジ",
+    "ko": "8개를 요청했지만 10개가 나온 핀 배지",
+    "fr": "Huit pins demandés, dix dans le résultat",
+    "de": "Acht Anstecker angefordert, zehn im Ergebnis",
+    "es": "Ocho pines solicitados, diez en el resultado",
+    "pt-BR": "Oito broches pedidos, dez no resultado"
+  },
+  "summary": {
+    "en": "Allocate a fixed item count across a portrait, two text pins and five symbolic objects.",
+    "zh-CN": "将八枚徽章分配为一枚肖像、两枚文字与五枚兴趣主题图案。",
+    "zh-TW": "將八枚徽章分配為一枚肖像、兩枚文字與五枚興趣主題圖案。",
+    "ja": "ポートレート全体に固定アイテム数、2 つのテキスト ピン、5 つのシンボル オブジェクトを割り当てます。",
+    "ko": "초상화, 텍스트 핀 2개, 기호 개체 5개에 고정된 항목 수를 할당합니다.",
+    "fr": "Attribuez un nombre d’éléments fixe à un portrait, deux épingles de texte et cinq objets symboliques.",
+    "de": "Weisen Sie einem Porträt, zwei Textpins und fünf symbolischen Objekten eine feste Anzahl von Elementen zu.",
+    "es": "Asigne un número fijo de elementos a un retrato, dos marcadores de texto y cinco objetos simbólicos.",
+    "pt-BR": "Aloque uma contagem fixa de itens em um retrato, dois marcadores de texto e cinco objetos simbólicos."
+  },
+  "category": "products",
+  "tags": [
+    "products",
+    "portrait",
+    "reference-image"
+  ],
+  "mode": "edit",
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/miratechtool/status/2097710852413497646",
+    "evidence": "The creator explicitly attributes this result to GPT Image 2.5 in the linked primary source. This is source attribution, not an independent model test."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "Create a hyper-realistic enamel pin collection in a vertical 4:5 composition on a dark textured background. Design exactly 8 separate premium pins with polished gold-metal outlines, glossy hard-enamel surfaces, subtle raised edges, realistic reflections, and soft shadows. The main medium-sized center pin is a portrait of [CHARACTER], preserving the reference image’s recognizable face, hairstyle, skin tone, expression, clothing, and key features while translating them into a detailed premium enamel illustration. Add 1 small name pin reading “[NAME]” and 1 small personality-word pin reading “[WORD]”. The remaining 5 pins should represent [CHARACTER]’s interests and lifestyle, such as creative work, AI/technology, visual creation, photography, travel, friendship, hobbies, or everyday objects, using clever symbolic illustrations rather than excessive text. Arrange everything organically around the portrait with varied pin shapes and sizes, generous spacing, and no rigid grid. Use bold, flat, bright colors with sophisticated contrast, crisp details, realistic metallic depth, and high-end commercial product lighting. Make it feel like a limited-edition designer pin set photographed in a studio—modern, vibrant, personal, collectible, and instantly eye-catching. No city names or specific landmarks, no duplicated pins, no clutter, no random text, no misspellings, no cheap cartoon or plastic appearance.",
+        "zh-CN": "在深色纹理背景上以垂直 4:5 构图创建超逼真的珐琅徽章系列。严格设计 8 枚独立的高品质珐琅徽章，具有抛光的金色金属轮廓、光滑的硬珐琅表面、微妙的凸起边缘、逼真的反射和柔和的阴影。主要的中型中心徽章是 [CHARACTER] 的肖像，保留了参考图像可识别的脸部、发型、肤色、表情、服装和主要特征，同时将它们转化为详细的高级珐琅插图。添加 1 枚小型姓名徽章“[NAME]”和 1 枚小型个性词徽章“[WORD]”。其余的 5 枚徽章应代表 [CHARACTER] 的兴趣和生活方式，例如创意工作、人工智能/技术、视觉创作、摄影、旅行、友谊、爱好或日常用品，使用巧妙的象征性插图而不是过多的文字。使用不同的徽章形状和大小、宽敞的间距和没有严格的网格，将所有内容有机地排列在肖像周围。使用大胆、平坦、明亮的颜色，具有复杂的对比度、清晰的细节、逼真的金属深度和高端商业产品照明。让它感觉就像在工作室拍摄的限量版设计师徽章套装——现代、充满活力、个性化、具有收藏价值，并且立即引人注目。没有城市名称或特定地标，没有重复的徽章，没有混乱，没有随机文本，没有拼写错误，没有廉价的卡通或塑料外观。",
+        "zh-TW": "在深色紋理背景上以垂直 4:5 構圖創建超逼真的琺瑯徽章系列。嚴格設計 8 枚獨立的高品質琺瑯徽章，具有拋光的金色金屬輪廓、光滑的硬琺瑯表面、微妙的凸起邊緣、逼真的反射和柔和的陰影。主要的中型中心徽章是 [CHARACTER] 的肖像，保留了參考圖像可識別的臉部、髮型、膚色、表情、服裝和主要特徵，同時將它們轉化為詳細的高級琺瑯插圖。添加 1 枚小型姓名徽章“[NAME]”和 1 枚小型個性詞徽章“[WORD]”。其餘的 5 枚徽章應代表 [CHARACTER] 的興趣和生活方式，例如創意工作、人工智能/技術、視覺創作、攝影、旅行、友誼、愛好或日常用品，使用巧妙的象徵性插圖而不是過多的文字。使用不同的徽章形狀和大小、寬敞的間距和沒有嚴格的網格，將所有內容有機地排列在肖像周圍。使用大膽、平坦、明亮的顏色，具有複雜的對比度、清晰的細節、逼真的金屬深度和高端商業產品照明。讓它感覺就像在工作室拍攝的限量版設計師徽章套裝——現代、充滿活力、個性化、具有收藏價值，並且立即引人注目。沒有城市名稱或特定地標，沒有重復的徽章，沒有混亂，沒有隨機文本，沒有拼寫錯誤，沒有廉價的卡通或塑料外觀。",
+        "ja": "暗いテクスチャ背景に垂直方向の 4:5 構成で超リアルなエナメル ピン コレクションを作成します。磨かれたゴールドメタルの輪郭、光沢のあるハードエナメル表面、微妙に隆起したエッジ、リアルな反射、ソフトシャドウを備えた、8 の個別のプレミアム ピンを正確にデザインします。メインの中型センター ピンは [CHARACTER] のポートレートで、参照画像の認識可能な顔、髪型、肌の色、表情、服装、主要な特徴を維持しながら、それらを詳細なプレミアム エナメル イラストに変換します。1 の小さな名前のピン (「[NAME]」) と 1 の小さな個性の単語のピン (「[WORD]」) を追加します。残りの 5 ピンは、過剰なテキストではなく、巧妙な象徴的なイラストを使用して、クリエイティブな仕事、AI/テクノロジー、ビジュアルクリエーション、写真、旅行、友情、趣味、日常の物など、[CHARACTER] の興味やライフスタイルを表現する必要があります。さまざまなピンの形状とサイズ、十分な間隔を使用し、厳密なグリッドを使用せずに、ポートレートの周りにすべてを有機的に配置します。洗練されたコントラスト、鮮明なディテール、リアルな金属の深み、およびハイエンドの商用製品の照明を備えた、大胆でフラットな明るい色を使用します。スタジオで撮影された限定版のデザイナー ピン セットのような雰囲気を演出できます。モダンで、活気に満ち、個性的で、収集価値があり、すぐに人目を引くものになります。都市名や特定のランドマーク、ピンの重複、乱雑なテキスト、スペルミス、安っぽい漫画やプラスチックのような外観はありません。",
+        "ko": "어두운 질감의 배경에 수직 4:5 구성으로 초현실적인 에나멜 핀 컬렉션을 만듭니다.8 분리형 프리미엄 핀을 광택 있는 금색 윤곽선, 광택 있는 하드 에나멜 표면, 미묘하게 돌출된 가장자리, 사실적인 반사 및 부드러운 그림자로 정확하게 디자인하십시오.메인 중형 센터 핀은 [CHARACTER]의 초상화로, 참조 이미지의 인식 가능한 얼굴, 헤어스타일, 피부색, 표정, 의상, 주요 특징을 그대로 유지하면서 이를 상세한 프리미엄 에나멜 일러스트레이션으로 변환합니다.\"[NAME]\"라고 읽는 1 작은 이름 핀과 \"[WORD]\"라고 읽는 1 작은 성격 단어 핀을 추가합니다.나머지 5 핀은 과도한 텍스트보다는 기발한 상징적 일러스트레이션을 사용하여 창의적 작업, AI/기술, 시각적 창작, 사진, 여행, 우정, 취미 또는 일상 사물 등 [CHARACTER]의 관심과 라이프스타일을 표현해야 합니다.다양한 핀 모양과 크기, 넉넉한 간격, 단단한 격자 없이 초상화 주변의 모든 것을 유기적으로 배열합니다.정교한 대비, 선명한 디테일, 사실적인 금속 깊이, 고급 상용 제품 조명과 함께 대담하고 평면적이며 밝은 색상을 사용하세요.스튜디오에서 촬영한 한정판 디자이너 핀 세트처럼 모던하고 생동감 넘치며 개인적이고 소장 가치가 높으며 즉시 시선을 사로잡는 느낌을 연출하세요.도시 이름이나 특정 랜드마크, 중복된 핀, 복잡함, 임의의 텍스트, 철자 오류, 값싼 만화 또는 플라스틱 모양이 없습니다.",
+        "fr": "Créez une collection d'épingles en émail hyperréaliste dans une composition verticale 4:5 sur un fond texturé sombre.Concevez exactement des épingles premium séparées 8 avec des contours en métal doré poli, des surfaces brillantes en émail dur, des bords subtilement surélevés, des reflets réalistes et des ombres douces.L'épingle centrale principale de taille moyenne est un portrait de [CHARACTER], préservant le visage, la coiffure, le teint, l'expression, les vêtements et les caractéristiques clés reconnaissables de l'image de référence tout en les traduisant en une illustration détaillée en émail de qualité supérieure.Ajoutez une petite épinglette de nom 1 indiquant « [NAME] » et une petite épinglette de mot de personnalité 1 indiquant « [WORD] ».Les épinglettes 5 restantes doivent représenter les intérêts et le style de vie de [CHARACTER], tels que le travail créatif, l'IA/la technologie, la création visuelle, la photographie, les voyages, l'amitié, les loisirs ou les objets du quotidien, en utilisant des illustrations symboliques intelligentes plutôt qu'un texte excessif.Disposez tout de manière organique autour du portrait avec des formes et des tailles d'épingles variées, un espacement généreux et aucune grille rigide.Utilisez des couleurs vives, plates et vives avec un contraste sophistiqué, des détails nets, une profondeur métallique réaliste et un éclairage de produits commerciaux haut de gamme.Donnez-lui l'impression d'être un ensemble de broches de créateur en édition limitée photographié dans un studio : moderne, dynamique, personnel, à collectionner et instantanément accrocheur.Pas de noms de villes ou de points de repère spécifiques, pas d'épingles en double, pas de fouillis, pas de texte aléatoire, pas de fautes d'orthographe, pas de dessin animé bon marché ou d'apparence plastique.",
+        "de": "Erstellen Sie eine hyperrealistische Emaille-Pin-Kollektion in einer vertikalen 4:5-Komposition auf einem dunklen strukturierten Hintergrund.Entwerfen Sie exakt die separaten Premium-Pins 8 mit polierten Goldmetallkonturen, glänzenden Hartemaille-Oberflächen, dezent erhabenen Kanten, realistischen Reflexionen und weichen Schatten.Der mittelgroße mittlere Hauptstift ist ein Porträt von [CHARACTER], das das erkennbare Gesicht, die Frisur, den Hautton, den Ausdruck, die Kleidung und die wichtigsten Merkmale des Referenzbildes beibehält und sie gleichzeitig in eine detaillierte Premium-Emaille-Illustration übersetzt.Fügen Sie den kleinen Namenspin 1 mit der Aufschrift „[NAME]“ und den kleinen Pin 1 mit Persönlichkeitswort und der Aufschrift „[WORD]“ hinzu.Die verbleibenden 5-Pins sollten die Interessen und den Lebensstil von [CHARACTER] repräsentieren, z. B. kreative Arbeit, KI/Technologie, visuelles Schaffen, Fotografie, Reisen, Freundschaft, Hobbys oder Alltagsgegenstände, und dabei clevere symbolische Illustrationen anstelle von übermäßigem Text verwenden.Ordnen Sie alles organisch rund um das Porträt an, mit unterschiedlichen Stiftformen und -größen, großzügigen Abständen und ohne starres Raster.Verwenden Sie kräftige, flache, helle Farben mit raffiniertem Kontrast, gestochen scharfen Details, realistischer metallischer Tiefe und hochwertiger kommerzieller Produktbeleuchtung.Fühlen Sie sich wie ein in einem Studio fotografiertes Designer-Pin-Set in limitierter Auflage – modern, lebendig, persönlich, sammelbar und sofort ein Blickfang.Keine Städtenamen oder bestimmten Sehenswürdigkeiten, keine doppelten Stecknadeln, kein Durcheinander, kein zufälliger Text, keine Rechtschreibfehler, kein billiger Cartoon oder Plastikauftritt.",
+        "es": "Crea una colección de pines esmaltados hiperrealista en una composición vertical 4:5 sobre un fondo con textura oscura.Diseñe exactamente los pines premium separados 8 con contornos de metal dorado pulido, superficies de esmalte duro brillante, bordes elevados sutiles, reflejos realistas y sombras suaves.El pin central principal, de tamaño mediano, es un retrato de [CHARACTER], que conserva el rostro, el peinado, el tono de piel, la expresión, la vestimenta y los rasgos clave reconocibles de la imagen de referencia, al tiempo que los traduce en una ilustración detallada en esmalte de primera calidad.Agregue un pin con nombre pequeño 1 que diga “[NAME]” y un pin con palabra de personalidad pequeña 1 que diga “[WORD]”.Los pines 5 restantes deben representar los intereses y el estilo de vida de [CHARACTER], como trabajo creativo, inteligencia artificial/tecnología, creación visual, fotografía, viajes, amistad, pasatiempos u objetos cotidianos, utilizando ilustraciones simbólicas inteligentes en lugar de texto excesivo.Organice todo de forma orgánica alrededor del retrato con pines de formas y tamaños variados, espacios generosos y sin cuadrículas rígidas.Utilice colores llamativos, planos y brillantes con un contraste sofisticado, detalles nítidos, profundidad metálica realista e iluminación de productos comerciales de alta gama.Haz que parezca un juego de pines de diseñador de edición limitada fotografiado en un estudio: moderno, vibrante, personal, coleccionable y llamativo al instante.Sin nombres de ciudades ni puntos de referencia específicos, sin pines duplicados, sin desorden, sin texto aleatorio, sin errores ortográficos, sin caricaturas baratas o apariencia plástica.",
+        "pt-BR": "Crie uma coleção de alfinetes de esmalte hiper-realista em uma composição vertical 4:5 em um fundo de textura escura.Projete exatamente pinos premium separados 8 com contornos de metal dourado polido, superfícies brilhantes de esmalte duro, bordas sutis em relevo, reflexos realistas e sombras suaves.O alfinete central principal de tamanho médio é um retrato de [CHARACTER], preservando o rosto reconhecível, penteado, tom de pele, expressão, roupas e características principais da imagem de referência, traduzindo-os em uma ilustração detalhada de esmalte premium.Adicione o pino de nome pequeno 1 com a leitura “[NAME]” e o pino de palavra de personalidade pequena 1 com a leitura “[WORD]”.Os distintivos 5 restantes devem representar os interesses e estilo de vida de [CHARACTER], como trabalho criativo, IA/tecnologia, criação visual, fotografia, viagens, amizade, hobbies ou objetos do cotidiano, usando ilustrações simbólicas inteligentes em vez de texto excessivo.Organize tudo organicamente ao redor do retrato com formatos e tamanhos variados de alfinetes, espaçamento generoso e sem grade rígida.Use cores ousadas, planas e brilhantes com contraste sofisticado, detalhes nítidos, profundidade metálica realista e iluminação de produtos comerciais de alta qualidade.Faça com que pareça um conjunto de broches de designer de edição limitada fotografado em um estúdio - moderno, vibrante, pessoal, colecionável e instantaneamente atraente.Sem nomes de cidades ou pontos de referência específicos, sem pins duplicados, sem confusão, sem texto aleatório, sem erros ortográficos, sem desenhos baratos ou aparência plástica."
+      }
+    ],
+    "original_language": "en",
+    "original_steps": [
+      "Create a hyper-realistic enamel pin collection in a vertical 4:5 composition on a dark textured background. Design exactly 8 separate premium pins with polished gold-metal outlines, glossy hard-enamel surfaces, subtle raised edges, realistic reflections, and soft shadows. The main medium-sized center pin is a portrait of [CHARACTER], preserving the reference image’s recognizable face, hairstyle, skin tone, expression, clothing, and key features while translating them into a detailed premium enamel illustration. Add 1 small name pin reading “[NAME]” and 1 small personality-word pin reading “[WORD]”. The remaining 5 pins should represent [CHARACTER]’s interests and lifestyle, such as creative work, AI/technology, visual creation, photography, travel, friendship, hobbies, or everyday objects, using clever symbolic illustrations rather than excessive text. Arrange everything organically around the portrait with varied pin shapes and sizes, generous spacing, and no rigid grid. Use bold, flat, bright colors with sophisticated contrast, crisp details, realistic metallic depth, and high-end commercial product lighting. Make it feel like a limited-edition designer pin set photographed in a studio—modern, vibrant, personal, collectible, and instantly eye-catching. No city names or specific landmarks, no duplicated pins, no clutter, no random text, no misspellings, no cheap cartoon or plastic appearance."
+    ],
+    "preserved_literals": [
+      "[CHARACTER]",
+      "[NAME]",
+      "[WORD]"
+    ]
+  },
+  "inputs": [
+    {
+      "en": "Upload a clear portrait reference, and provide the character name, personality word and five interests.",
+      "zh-CN": "上传清晰的肖像参考，并提供人物姓名、个性词和五个兴趣。",
+      "zh-TW": "上傳清晰的肖像參考，並提供人物姓名、個性詞彙和五個興趣。",
+      "ja": "明確なポートレートのリファレンスをアップロードし、キャラクターの名前、性格の単語、および 5 つの興味を提供します。",
+      "ko": "명확한 인물 사진을 업로드하고, 캐릭터 이름, 성격 단어, 관심사 5가지를 입력하세요.",
+      "fr": "Téléchargez une référence de portrait claire et indiquez le nom du personnage, le mot de personnalité et cinq centres d'intérêt.",
+      "de": "Laden Sie eine eindeutige Porträtreferenz hoch und geben Sie den Charakternamen, das Persönlichkeitswort und fünf Interessen an.",
+      "es": "Cargue una referencia de retrato clara y proporcione el nombre del personaje, la palabra de personalidad y cinco intereses.",
+      "pt-BR": "Faça upload de uma referência clara de retrato e forneça o nome do personagem, a palavra da personalidade e cinco interesses."
+    }
+  ],
+  "notes": [
+    {
+      "en": "Educational failure: the preview contains 10 pins instead of the requested 8, extra text, and recognizable landmarks despite the exclusions. Use this to practice counting objects and checking negative constraints. Upload a portrait you may use and replace [CHARACTER], [NAME] and [WORD]. This is a concept image, not production artwork.",
+      "zh-CN": "失败教学案例：要求8枚，预览却有10枚，还出现了明令排除的额外文字与可辨识地标。可用来练习清点物体与检查否定约束。请上传有权使用的人像，并替换 [CHARACTER]、[NAME] 和 [WORD]。这是概念效果图，不是可直接生产的制版文件。",
+      "zh-TW": "失敗教學案例：要求8枚，預覽卻有10枚，還出現了明令排除的額外文字與可辨識地標。可用來練習清點物體與檢查否定約束。請上傳有權使用的人像，並替換 [CHARACTER]、[NAME] 和 [WORD]。這是概念效果圖，不是可直接生產的製版文件。",
+      "ja": "失敗から学ぶ例です。8個の指定に対し、結果には10個のピンバッジがあり、禁止した追加文字と識別可能なランドマークも見られます。個数と禁止事項の確認に使ってください。使用許可のある肖像をアップロードし、[CHARACTER]、[NAME]、[WORD] を置き換えてください。製造用データではなくコンセプト画像です。",
+      "ko": "실패에서 배우는 사례입니다. 8개를 요청했지만 결과에는 핀 배지 10개가 있고, 금지한 추가 글자와 알아볼 수 있는 랜드마크도 있습니다. 개수와 금지 조건을 점검하는 연습에 사용하세요. 사용 권한이 있는 인물 사진을 업로드하고 [CHARACTER], [NAME], [WORD]를 바꾸세요. 제조용 파일이 아닌 콘셉트 이미지입니다.",
+      "fr": "Un échec instructif : le résultat contient 10 pins au lieu de 8, ainsi que du texte supplémentaire et des monuments reconnaissables pourtant interdits. Exercez-vous à compter les objets et à vérifier les exclusions. Importez un portrait que vous avez le droit d’utiliser et remplacez [CHARACTER], [NAME] et [WORD]. Il s’agit d’un concept visuel, pas d’un fichier de fabrication.",
+      "de": "Ein lehrreiches Fehlbeispiel: Das Ergebnis enthält 10 statt 8 Anstecker sowie unerwünschten Zusatztext und erkennbare Sehenswürdigkeiten. Übe damit das Zählen und die Prüfung von Ausschlüssen. Lade ein Porträt hoch, das du verwenden darfst, und ersetze [CHARACTER], [NAME] und [WORD]. Das Bild ist ein Konzept, keine Fertigungsdatei.",
+      "es": "Un fallo instructivo: aparecen 10 pines en lugar de 8, además de texto extra y monumentos reconocibles que se habían excluido. Sirve para practicar el recuento y revisar las restricciones. Sube un retrato que tengas derecho a usar y sustituye [CHARACTER], [NAME] y [WORD]. Es un concepto visual, no un archivo de fabricación.",
+      "pt-BR": "Uma falha instrutiva: aparecem 10 broches em vez de 8, além de texto extra e monumentos reconhecíveis que haviam sido proibidos. Use o exemplo para contar objetos e conferir as restrições. Envie um retrato que você tenha direito de usar e substitua [CHARACTER], [NAME] e [WORD]. É uma imagem conceitual, não um arquivo de fabricação."
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "miratechtool",
+    "url": "https://x.com/miratechtool/status/2097710852413497646",
+    "prompt_url": "https://x.com/miratechtool/status/2097710852413497646",
+    "checked_at": "2026-09-13T17:54:27.409Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "post_language": "en"
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRyQ5SpXgAA9LW9.jpg",
+      "kind": "source-result",
+      "credit": "miratechtool — source result",
+      "source_url": "https://x.com/miratechtool/status/2097710852413497646"
+    }
+  ],
+  "references": [],
+  "engagement": {
+    "likes": 28,
+    "reposts": null,
+    "replies": 22,
+    "bookmarks": null,
+    "views": null,
+    "observed_at": "2026-09-13T17:22:11.067443+00:00",
+    "source_url": "https://x.com/miratechtool/status/2097710852413497646",
+    "method": "X public embed counters; only available exact integers are recorded. Missing counters remain null."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and linked media remain subject to their source terms. Attribution does not grant a license to source inputs or results."
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T17:54:27.409Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": true,
+    "ratings": {
+      "reuse": 3,
+      "result": 1,
+      "usefulness": 3,
+      "clarity": 3,
+      "distinctiveness": 3
+    },
+    "rationale": "Ten separate pins are visible against an eight-pin brief; extra wording and recognizable landmarks also conflict with exclusions. Retained as an explicit educational failure, not a recommended product result."
+  },
+  "translation_meta": {
+    "source_digest": "7e3e25faa6785ab5d9595386b43f89ef6ce3af3c8b0157b8648f684504801931",
+    "text_digests": {
+      "zh-CN": "7b4c69131a723e87234d7ba0d8f1e55ae998cf7b3e16836f79957dabfbd841e2",
+      "zh-TW": "4697ad2bb38d10824eba35f2283dcc1ffae2a6152c2e60c13422418201f592a8",
+      "ja": "b58089266bf2b596580ed1ce08b3f469b4d253ce01e128ef2468d3ee8a00c0b6",
+      "ko": "a7456685063864a26e0a981dfde1dae576adf2248fa776c89ed449c8d0dde32c",
+      "fr": "e658642a24d72ae52c9144d5210037566fea06f429921e0230b1a295ba3001e9",
+      "de": "1959efafc6be73815ec122cee3990b9f78fb8a95d7acbb8450e72c80e5069cf2",
+      "es": "22ac976491095b4547f7229dab1491c032fcc97e3bc1e7c531e2233242564f23",
+      "pt-BR": "184691445f59954ea4146deef6bc078d3f6b6129c1f095c1f8a3bf19fcf722d7"
+    }
+  }
+}

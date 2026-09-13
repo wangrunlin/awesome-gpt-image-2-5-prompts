@@ -80,10 +80,31 @@ in useful collections. Prioritize gaps in product advertising, typography,
 infographics, precise editing and sketch control. Compare the actual technique;
 recolors, translations and repeated promotional posts are not new recipes.
 
-Record considered sources and exclusions. Stop a session after two consecutive
-search rounds produce no new admissible distinct recipe. An inaccessible or
-incomplete source remains a candidate, not a published case. Nine complete
-languages, provenance and passing checks are required before an addition counts.
+Use a discovery matrix spanning products, typography/information design, local
+editing, architecture/spaces and brand/creative assets. Search English, Chinese
+and Japanese first, then check Korean, Spanish and Portuguese sources. Combine
+model-name variants with task terms, and inspect both Latest and Top results.
+Do not require minimum likes or the word “prompt”: instructions may be in an
+author reply or article. Follow relevant authors and resolve mixed-model threads.
+
+Deduplicate post IDs before review, then compare the task, input roles and control
+method. Different cities, colors, translated copies or repeated campaign posts
+usually belong to one recipe. A larger collection is a discovery index, not an
+admission authority. Public embed responses can truncate long posts; open the
+full original before preserving prompt wording. Missing evidence stays unknown.
+
+Log queries, time windows, unique sources, decisions and exclusion reasons. Review
+new sources in batches of 50. After the main task and author paths are covered,
+stop an active search session when two consecutive full batches each yield fewer
+than five admissible distinct recipes and no high-value lead remains unresolved.
+Record any unfinished batch and inaccessible source separately. This is an
+editorial cost rule, not proof that X or the web has been exhausted.
+
+Roughly 80–120 published cases is a useful next coverage checkpoint, not a quota,
+minimum release size or upper limit. Publish fewer when evidence is insufficient;
+continue beyond it when new recipes add value. Prioritize filling task gaps before
+translating all candidates. Nine complete languages, accurate provenance and
+passing checks are required before a new case counts as published catalog content.
 
 The derived `discovery_score` is a weighted mean of `log(1 + count)` using likes
 0.35, bookmarks 0.35, reposts 0.20 and views 0.10. Missing metrics are excluded

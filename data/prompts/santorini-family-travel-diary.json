@@ -1,0 +1,145 @@
+{
+  "id": "santorini-family-travel-diary",
+  "title": {
+    "en": "Photography-to-print travel diary",
+    "zh-CN": "摄影与版画融合旅行手账",
+    "zh-TW": "攝影與版畫融合旅行手帳",
+    "ja": "写真と版画を融合した旅日記",
+    "ko": "사진과 판화를 결합한 여행 일기",
+    "fr": "Carnet de voyage entre photo et estampe",
+    "de": "Reisetagebuch zwischen Foto und Druckgrafik",
+    "es": "Diario de viaje entre fotografía y grabado",
+    "pt-BR": "Diário de viagem entre fotografia e gravura"
+  },
+  "summary": {
+    "en": "Keep a family consistent across photographic and printed interpretations of one scene.",
+    "zh-CN": "在同一场景的摄影与印刷画面中保持家庭人物一致。",
+    "zh-TW": "在同一場景的攝影與印刷畫面中保持家庭人物一致。",
+    "ja": "同じ場面の写真と版画で家族の外見を一致させる。",
+    "ko": "같은 장면의 사진과 판화에서 가족의 외모를 일관되게 유지합니다.",
+    "fr": "Conserver la même famille dans les versions photographique et imprimée d’une scène.",
+    "de": "Dieselbe Familie in fotografischer und gedruckter Darstellung einer Szene erhalten.",
+    "es": "Mantener la misma familia en las versiones fotográfica e impresa de una escena.",
+    "pt-BR": "Manter a mesma família nas versões fotográfica e impressa de uma cena."
+  },
+  "category": "design",
+  "tags": [
+    "travel",
+    "poster",
+    "typography",
+    "mixed-media"
+  ],
+  "mode": "generate",
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/frametheory058/status/2098253373237875074",
+    "evidence": "The creator explicitly attributes this source post to GPT Image 2.5; the variant and output model have not been independently verified."
+  },
+  "prompt": {
+    "kind": "adaptation",
+    "original_language": "en",
+    "steps": [
+      {
+        "en": "Design a vertical 4:5 Santorini travel diary. Above, show a fictional couple kissing their smiling daughter’s cheeks at sunset, among white houses, blue domes and sea. Use natural photographic skin and hands. Below a torn-paper transition, reinterpret the same family as a navy, terracotta and ivory screen print with rough ink and risograph texture. Keep identities consistent. Add only “TRAVEL DIARY”, “Sept 11, 2026”, “SANTORINI — GREECE”, “MORE GOOD DAYS” and “A SMALL DIARY — #001.” Use sparse stamps and taped photos. No Chinese text, rigid half split, excessive stickers or distorted anatomy.",
+        "zh-CN": "设计 4:5 竖版圣托里尼旅行手账。上方是一对虚构夫妻在日落时亲吻微笑女儿的双颊，周围有白色房屋、蓝顶及大海。肤质与手部呈自然摄影效果。通过撕纸过渡，下方用海军蓝、赤陶色与象牙白的丝网版画重新演绎同一家人，带粗糙油墨和孔版印刷质感。保持人物一致。只添加“TRAVEL DIARY”、“Sept 11, 2026”、“SANTORINI — GREECE”、“MORE GOOD DAYS”和“A SMALL DIARY — #001.”。邮票和贴纸照片保持稀疏。不要中文、机械对半分割、过多贴纸或畸形人体。",
+        "zh-TW": "設計 4:5 直式聖托里尼旅行手帳。上方是一對虛構夫妻在日落時親吻微笑女兒的雙頰，周圍有白色房屋、藍頂及大海。膚質與手部呈自然攝影效果。透過撕紙過渡，下方用海軍藍、赤陶色與象牙白的網版印刷重新演繹同一家人，帶粗糙油墨和孔版印刷質感。保持人物一致。只添加“TRAVEL DIARY”、“Sept 11, 2026”、“SANTORINI — GREECE”、“MORE GOOD DAYS”和“A SMALL DIARY — #001.”。郵票和膠帶照片保持稀疏。不要中文、機械對半分割、過多貼紙或畸形人體。",
+        "ja": "縦4:5のサントリーニ旅行日記をデザインしてください。上部は夕日に照らされ、白い家、青いドーム、海に囲まれた架空の夫婦が笑顔の娘の両頬にキスする場面。自然な写真の肌と手。破れた紙の境界の下では、同じ家族を紺、テラコッタ、アイボリーのシルクスクリーンで描き直し、粗いインクとリソグラフの質感を付けてください。人物は一致させてください。文字は“TRAVEL DIARY”、“Sept 11, 2026”、“SANTORINI — GREECE”、“MORE GOOD DAYS”、“A SMALL DIARY — #001.”のみ。切手とテープ留め写真は控えめに。中国語、厳密な二等分、過剰なステッカー、人体の歪みは不要です。",
+        "ko": "세로 4:5 산토리니 여행 일기를 디자인하세요. 위에는 흰 집, 파란 돔과 바다 사이에서 일몰에 가상의 부부가 웃는 딸의 양 볼에 입 맞추는 장면을 배치하세요. 피부와 손은 자연스러운 사진처럼 표현하세요. 찢어진 종이 전환 아래에는 같은 가족을 남색, 테라코타, 아이보리 실크스크린으로 재해석하고 거친 잉크와 리소그래프 질감을 더하세요. 인물의 정체성을 유지하세요. 문구는 “TRAVEL DIARY”, “Sept 11, 2026”, “SANTORINI — GREECE”, “MORE GOOD DAYS”, “A SMALL DIARY — #001.”만 추가하세요. 우표와 테이프로 붙인 사진은 적게 사용하세요. 중국어, 딱딱한 반반 분할, 과도한 스티커와 왜곡된 인체는 금지합니다.",
+        "fr": "Créez un carnet de Santorin vertical 4:5. En haut, un couple fictif embrasse les joues de sa fille souriante au coucher du soleil, parmi maisons blanches, dômes bleus et mer. Peau et mains photographiques naturelles. Sous une transition en papier déchiré, réinterprétez la même famille en sérigraphie bleu marine, terre cuite et ivoire, avec encre rugueuse et texture risographique. Gardez les identités. Ajoutez seulement “TRAVEL DIARY”, “Sept 11, 2026”, “SANTORINI — GREECE”, “MORE GOOD DAYS” et “A SMALL DIARY — #001.” Peu de timbres et de photos collées. Aucun texte chinois, partage rigide en deux, excès d’autocollants ou anatomie déformée.",
+        "de": "Gestalte ein vertikales Santorini-Reisetagebuch im Format 4:5. Oben küsst ein fiktives Paar bei Sonnenuntergang die Wangen seiner lächelnden Tochter, zwischen weißen Häusern, blauen Kuppeln und Meer. Natürliche fotografische Haut und Hände. Unter einem Übergang aus gerissenem Papier dieselbe Familie als Siebdruck in Marineblau, Terrakotta und Elfenbein mit rauer Tinte und Risografie-Textur neu interpretieren. Identitäten erhalten. Nur “TRAVEL DIARY”, “Sept 11, 2026”, “SANTORINI — GREECE”, “MORE GOOD DAYS” und “A SMALL DIARY — #001.” hinzufügen. Wenige Briefmarken und angeklebte Fotos. Kein chinesischer Text, keine starre Halbierung, übermäßigen Sticker oder verformte Anatomie.",
+        "es": "Diseña un diario de Santorini vertical 4:5. Arriba, una pareja ficticia besa las mejillas de su hija sonriente al atardecer, entre casas blancas, cúpulas azules y mar. Piel y manos fotográficas naturales. Bajo una transición de papel rasgado, reinterpreta a la misma familia en serigrafía azul marino, terracota y marfil, con tinta rugosa y textura risográfica. Mantén las identidades. Añade solo “TRAVEL DIARY”, “Sept 11, 2026”, “SANTORINI — GREECE”, “MORE GOOD DAYS” y “A SMALL DIARY — #001.” Pocos sellos y fotos pegadas. Sin texto chino, división rígida en mitades, exceso de pegatinas ni anatomía deformada.",
+        "pt-BR": "Crie um diário de Santorini vertical 4:5. Acima, um casal fictício beija as bochechas da filha sorridente ao pôr do sol, entre casas brancas, cúpulas azuis e mar. Pele e mãos fotográficas naturais. Abaixo de uma transição de papel rasgado, reinterprete a mesma família em serigrafia azul-marinho, terracota e marfim, com tinta áspera e textura risográfica. Mantenha as identidades. Adicione apenas “TRAVEL DIARY”, “Sept 11, 2026”, “SANTORINI — GREECE”, “MORE GOOD DAYS” e “A SMALL DIARY — #001.” Poucos selos e fotos coladas. Sem texto chinês, divisão rígida ao meio, excesso de adesivos ou anatomia deformada."
+      }
+    ],
+    "original_steps": [
+      "Create a vertical 4:5 cinematic travel-diary poster built around one beautiful family moment in Santorini, Greece.\n\nTOP — REAL PHOTOGRAPHY:\nA young couple with their little daughter at a scenic Santorini viewpoint during golden-hour sunset. The daughter is naturally positioned between her parents while both parents gently kiss her cheeks at the same time. She closes her eyes and gives a genuine happy smile. Make the interaction spontaneous, affectionate and completely natural — like a real family vacation photograph, not models posing for an advertisement.\n\nBehind them: iconic white Santorini architecture, blue-domed churches, Mediterranean Sea, distant cliffs, small boats and vibrant bougainvillea. Warm sunset light wraps naturally around their faces and hair. Real skin pores, tiny imperfections, realistic hair strands, accurate hands, natural fabric texture and believable shadows. Shot like a premium full-frame travel photograph, 35mm lens, shallow but realistic depth of field, cinematic dynamic range. Absolutely photorealistic — no AI-looking skin, excessive HDR, plastic faces or artificial expressions.\n\nKeep generous negative space around the subjects for subtle editorial typography. Add only a few refined details such as:\n“TRAVEL DIARY”\n“Sept 11, 2026”\n“SANTORINI — GREECE”\nand one small handwritten travel note.\n\nBOTTOM — HAND-PRINTED MEMORY:\nInstead of simply duplicating the photograph, reinterpret the same family moment as an original vintage travel-print artwork. Use imperfect screen printing, risograph dots, engraved linework, faded ink, rough edges and authentic paper grain on warm ivory stock.\n\nBuild the Santorini landscape around the family as a graphic illustration: simplified blue domes, cliffside houses, sea, sunset and bougainvillea integrated naturally into the composition. Limited ink palette of deep Mediterranean navy, sun-faded terracotta orange, warm ivory and tiny touches of dusty blue.\n\nUse a large expressive hand-painted title:\n“MORE GOOD DAYS”\n\nSurround it with only a few carefully placed diary elements: a Santorini postal stamp, tiny handwritten notes, one or two taped miniature travel photographs and “A SMALL DIARY — #001.” Keep everything intentionally imperfect and tactile rather than digitally clean.\n\nThe transition between photography and illustration should feel like a torn page from a personal travel journal rather than a basic 50/50 split.\n\nOverall aesthetic: real family vacation photography × independent travel magazine × vintage European tourism poster × handmade screen print.\n\nWarm, intimate, nostalgic and premium. Strong enough to stop someone while scrolling, but never overcrowded. The photograph must feel genuinely captured in real life, while the lower artwork feels physically printed by hand.\n\nNo Chinese text. No copied layouts. No generic AI collage aesthetic. No excessive stickers. No fantasy. No fake-looking faces. No malformed hands. No waxy skin. No over-saturation. Keep all three family members consistent between the photographic and illustrated sections."
+    ],
+    "preserved_literals": [
+      "4:5",
+      "TRAVEL DIARY",
+      "Sept 11, 2026",
+      "SANTORINI — GREECE",
+      "MORE GOOD DAYS",
+      "A SMALL DIARY — #001."
+    ]
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "Condensed editor adaptation, not the author’s exact prompt; it makes the family fictional. The second source image matches Santorini; the first shows Paris. English labels and date are design copy, not a record of a trip. No reference upload is required.",
+      "zh-CN": "编辑精简改编，不是作者原文，并明确家庭为虚构人物。第二张来源图对应圣托里尼，第一张为巴黎。英文标签和日期是设计文字，不是旅行记录。无需上传参考图。",
+      "zh-TW": "編輯精簡改編，不是作者原文，並明確家庭為虛構人物。第二張來源圖對應聖托里尼，第一張為巴黎。英文標籤和日期是設計文字，不是旅行紀錄。無需上傳參考圖。",
+      "ja": "作者の原文ではなく編集者の要約改変で、家族を架空としています。2枚目の元画像がサントリーニで、1枚目はパリです。英語のラベルと日付はデザイン用で旅行記録ではありません。参照アップロードは不要です。",
+      "ko": "작가의 정확한 원문이 아닌 편집자의 축약 개작이며 가족을 가상으로 명시합니다. 두 번째 원본 이미지가 산토리니이고 첫 번째는 파리입니다. 영어 라벨과 날짜는 디자인 문구이며 여행 기록이 아닙니다. 참조 업로드는 필요하지 않습니다.",
+      "fr": "Adaptation condensée de l’éditeur, non littérale, avec une famille fictive. La deuxième image correspond à Santorin ; la première montre Paris. Libellés anglais et date sont du texte de design, pas un récit de voyage. Aucune référence à téléverser.",
+      "de": "Gekürzte redaktionelle Adaption, nicht der Originalprompt; die Familie wird als fiktiv benannt. Das zweite Quellbild zeigt Santorini, das erste Paris. Englische Beschriftungen und Datum sind Gestaltungstext, kein Reisebeleg. Kein Referenzupload erforderlich.",
+      "es": "Adaptación resumida del editor, no texto exacto del autor; la familia es ficticia. La segunda imagen corresponde a Santorini; la primera muestra París. Etiquetas inglesas y fecha son texto de diseño, no registro de un viaje. No requiere subir referencias.",
+      "pt-BR": "Adaptação resumida do editor, não o texto exato do autor; a família é fictícia. A segunda imagem corresponde a Santorini; a primeira mostra Paris. Rótulos em inglês e data são texto de design, não registro de viagem. Não exige envio de referências."
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "frametheory058",
+    "url": "https://x.com/frametheory058/status/2098253373237875074",
+    "prompt_url": "https://x.com/frametheory058/status/2098253373237875074",
+    "checked_at": "2026-09-13T16:25:39.914Z",
+    "status": "source-checked",
+    "disclosure": "The post names OpenArt and an author reply links to the service; no paid-partnership label was observed.",
+    "post_language": "en"
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HR5-RxebIAA_H35?format=jpg&name=900x900",
+      "kind": "source-result",
+      "credit": "@frametheory058 — creator source result",
+      "source_url": "https://x.com/frametheory058/status/2098253373237875074"
+    }
+  ],
+  "engagement": {
+    "likes": 24,
+    "reposts": 1,
+    "replies": 20,
+    "bookmarks": 7,
+    "views": 602,
+    "observed_at": "2026-09-11T10:08:27.191Z",
+    "source_url": "https://x.com/frametheory058/status/2098253373237875074",
+    "method": "X primary post UI; individual post engagement controls"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:25:39.914Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 3,
+      "result": 3,
+      "usefulness": 3,
+      "clarity": 4,
+      "distinctiveness": 4
+    },
+    "rationale": "Distinctive transition between photography and print with cross-medium identity constraints. Correct second source image is selected; small text and identity consistency require close inspection."
+  },
+  "translation_meta": {
+    "source_digest": "d2db5f883d59ffcbf8f35a658da09d60ca10217559bc4a1ad8f1fe7159b30212",
+    "text_digests": {
+      "zh-CN": "9e90ff13b3d8745d2d4cdc365c9a4f819be389a1de2c84ba5854f7d6f2b0c67e",
+      "zh-TW": "040d6e7e461bea510d1a5de9c84ffafb2cea4d47582e48360c39e2c7ed426fbe",
+      "ja": "8a26f2215a4e38a94e28d4ee32973cec7bed373ca5209873e56a035a42b8fae7",
+      "ko": "16b15361ca75d17efeb3a11daeaa3971ad25d8e520f98affdc9b32c13fd8bab0",
+      "fr": "27ca5c3b374648d93392bc9cf7df83d4e0fbf0a5b71318ba62c413732ecaf231",
+      "de": "ec40e3602a77fb641326cc20e702a6353fb1b3dbd13bbabe36ed04d35dee7e48",
+      "es": "f83362ae6cbb2d496144c8e9eb55df4a28f85fbd36c41b4ba080aad70af0ff7c",
+      "pt-BR": "ae19e536a432cae678b3c1049caf5318765966991c7e429af82018d8381ba25b"
+    }
+  }
+}

@@ -1,13 +1,26 @@
 {
-  "schema_version": 1,
   "id": "robot-sequential-edits",
   "title": {
     "en": "A robot through nine sequential edits",
-    "zh": "机器人九轮连续编辑"
+    "zh-CN": "机器人九轮连续编辑",
+    "zh-TW": "一個機器人經過九個連續剪輯",
+    "ja": "9つの連続した編集工程を経るロボットの描写",
+    "ko": "9단계의 연속 편집 과정을 거치는 로봇",
+    "fr": "Un robot à travers neuf montages successifs",
+    "de": "Ein Roboter in neun aufeinanderfolgenden Bearbeitungsschritten",
+    "es": "Un robot a través de nueve ediciones secuenciales.",
+    "pt-BR": "Um robô passando por nove edições sequenciais."
   },
   "summary": {
     "en": "Repeat a small action cycle while feeding each result into the next edit.",
-    "zh": "重复一个小动作循环，并将每次结果作为下一轮编辑的输入。"
+    "zh-CN": "重复一个小动作循环，并将每次结果作为下一轮编辑的输入。",
+    "zh-TW": "重複一個小動作循環，並將每個結果輸入到下一個剪輯中。",
+    "ja": "小さな動作サイクルを繰り返し、各工程の出力を次の編集工程の入力として使用します。",
+    "ko": "각 단계의 결과물을 다음 편집 단계의 입력값으로 사용하여 짧은 동작 주기를 반복합니다.",
+    "fr": "Répétez un cycle d'action court en utilisant le résultat de chaque étape comme entrée pour la suivante.",
+    "de": "Wiederholen Sie einen kurzen Bewegungszyklus und verwenden Sie das jeweilige Ergebnis als Ausgangspunkt für den nächsten Bearbeitungsschritt.",
+    "es": "Repita un ciclo de acción breve, utilizando cada resultado como entrada para la siguiente edición.",
+    "pt-BR": "Repita um ciclo de ação curto, utilizando o resultado de cada etapa como entrada para a edição seguinte."
   },
   "category": "editing",
   "tags": [
@@ -16,7 +29,6 @@
     "character"
   ],
   "mode": "workflow",
-  "featured": false,
   "model": {
     "family": "GPT Image 2.5",
     "variant": null,
@@ -28,15 +40,36 @@
     "steps": [
       {
         "en": "Make the robot pick up the star.",
-        "zh": "让机器人捡起星星。"
+        "zh-CN": "让机器人捡起星星。",
+        "zh-TW": "讓機器人撿起星星。",
+        "ja": "ロボットに星を拾い上げさせます。",
+        "ko": "로봇이 별을 집어 들게 합니다.",
+        "fr": "Faites ramasser l'étoile par le robot.",
+        "de": "Lassen Sie den Roboter den Stern aufheben.",
+        "es": "Haga que el robot recoja la estrella.",
+        "pt-BR": "Faça o robô pegar a estrela."
       },
       {
         "en": "Make the robot raise the star.",
-        "zh": "让机器人举起星星。"
+        "zh-CN": "让机器人举起星星。",
+        "zh-TW": "讓機器人舉起星星。",
+        "ja": "ロボットに星を掲げさせます。",
+        "ko": "로봇이 별을 들어 올리게 합니다.",
+        "fr": "Faites lever l'étoile par le robot.",
+        "de": "Lassen Sie den Roboter den Stern anheben.",
+        "es": "Haga que el robot levante la estrella.",
+        "pt-BR": "Faça o robô levantar a estrela."
       },
       {
         "en": "Make the robot return the star to its starting position.",
-        "zh": "让机器人把星星放回原位。"
+        "zh-CN": "让机器人把星星放回原位。",
+        "zh-TW": "讓機器人將星星送回起始位置。",
+        "ja": "ロボットに星を元の位置に戻させます。",
+        "ko": "로봇이 별을 시작 위치로 되돌려 놓게 합니다.",
+        "fr": "Faites ramener l'étoile à sa position initiale par le robot.",
+        "de": "Lassen Sie den Roboter den Stern an seine Ausgangsposition zurückbringen.",
+        "es": "Haga que el robot devuelva la estrella a su posición inicial.",
+        "pt-BR": "Faça o robô devolver a estrela à sua posição inicial."
       }
     ],
     "original_language": null,
@@ -45,17 +78,38 @@
   "inputs": [
     {
       "en": "An initial robot-and-star image. Use each output as the next input; repeat the three-step cycle three times.",
-      "zh": "一张机器人与星星的初始图。每轮输出作为下一轮输入，将三步循环重复三次。"
+      "zh-CN": "一张机器人与星星的初始图。每轮输出作为下一轮输入，将三步循环重复三次。",
+      "zh-TW": "初始機器人和星星圖像。將每個輸出作為下一個輸入；重複三步驟循環三次。",
+      "ja": "ロボットと星の初期画像。各出力を次の入力として使用し、この3段階のサイクルを3回繰り返します。",
+      "ko": "로봇과 별이 포함된 초기 이미지입니다. 각 결과물을 다음 단계의 입력값으로 사용하며, 이 3단계 과정을 세 번 반복합니다.",
+      "fr": "Une image initiale du robot et de l'étoile. Utilisez chaque résultat comme entrée suivante ; répétez le cycle en trois étapes à trois reprises.",
+      "de": "Ein Ausgangsbild mit Roboter und Stern. Verwenden Sie jedes Ergebnis als Eingabe für den nächsten Schritt; wiederholen Sie den dreistufigen Zyklus dreimal.",
+      "es": "Una imagen inicial del robot y la estrella. Utilice cada resultado como la siguiente entrada; repita el ciclo de tres pasos tres veces.",
+      "pt-BR": "Uma imagem inicial do robô com a estrela. Use cada resultado como entrada para a próxima etapa; repita o ciclo de três passos três vezes."
     }
   ],
   "notes": [
     {
       "en": "English editorial rendering of the Japanese action sequence. Inspect identity, texture, and background after every step.",
-      "zh": "这是日文动作序列的英文编辑整理版。每一步都要检查角色身份、材质和背景。"
+      "zh-CN": "这是日文动作序列的英文编辑整理版。每一步都要检查角色身份、材质和背景。",
+      "zh-TW": "對日語動作序列進行英文編輯渲染。每一步之後檢查角色標識、紋理和背景。",
+      "ja": "日本語の動作シーケンスを英語で編集・描写したもの。各工程の後に、キャラクターの同一性、テクスチャ、背景を確認してください。",
+      "ko": "일본어 동작 시퀀스를 영어 편집 방식으로 구현합니다. 매 단계마다 개체(identity), 질감, 배경을 확인합니다.",
+      "fr": "Rendu éditorial en anglais de la séquence d'action japonaise. Vérifiez l'identité, la texture et l'arrière-plan après chaque étape.",
+      "de": "Englische redaktionelle Umsetzung der japanischen Aktionssequenz. Überprüfen Sie Identität, Textur und Hintergrund nach jedem Schritt.",
+      "es": "Renderizado editorial en inglés de la secuencia de acción japonesa. Inspeccione la identidad, la textura y el fondo después de cada paso.",
+      "pt-BR": "Renderização editorial (em inglês) da sequência de ação japonesa. Verifique a identidade, a textura e o fundo após cada etapa."
     },
     {
       "en": "The original video is a side-by-side model comparison, not an independent repository test.",
-      "zh": "原帖视频是模型对比，并非本仓库独立测试。"
+      "zh-CN": "原帖视频是模型对比，并非本仓库独立测试。",
+      "zh-TW": "原始影片是並排模型對比，並非獨立儲存庫測試。",
+      "ja": "元の動画はモデル同士を並べて比較するものであり、単独のリポジトリテストではありません。",
+      "ko": "원본 영상은 모델 간의 나란한 비교(side-by-side)를 위한 것이며, 독립적인 리포지토리 테스트용이 아닙니다.",
+      "fr": "La vidéo originale est une comparaison côte à côte de modèles, et non un test de référentiel indépendant.",
+      "de": "Das Originalvideo ist ein direkter Modellvergleich (Side-by-Side), kein eigenständiger Test des Modell-Repositorys.",
+      "es": "El vídeo original es una comparación de modelos lado a lado, no una prueba de repositorio independiente.",
+      "pt-BR": "O vídeo original é uma comparação lado a lado de modelos, não um teste de repositório independente."
     }
   ],
   "source": {
@@ -94,132 +148,32 @@
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
   },
-  "localizations": {
-    "zh-TW": {
-      "title": "一個機器人經過九個連續剪輯",
-      "summary": "重複一個小動作循環，並將每個結果輸入到下一個剪輯中。",
-      "steps": [
-        "讓機器人撿起星星。",
-        "讓機器人舉起星星。",
-        "讓機器人將星星送回起始位置。"
-      ],
-      "inputs": [
-        "初始機器人和星星圖像。將每個輸出作為下一個輸入；重複三步驟循環三次。"
-      ],
-      "notes": [
-        "對日語動作序列進行英文編輯渲染。每一步之後檢查角色標識、紋理和背景。",
-        "原始影片是並排模型對比，並非獨立儲存庫測試。"
-      ],
-      "source_digest": "419c0cd4d5a99f2fceedd54aee124bf9cd799c0c1d7215af1bcefa7394e485a1",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ja": {
-      "title": "9つの連続した編集工程を経るロボットの描写",
-      "summary": "小さな動作サイクルを繰り返し、各工程の出力を次の編集工程の入力として使用します。",
-      "steps": [
-        "ロボットに星を拾い上げさせます。",
-        "ロボットに星を掲げさせます。",
-        "ロボットに星を元の位置に戻させます。"
-      ],
-      "inputs": [
-        "ロボットと星の初期画像。各出力を次の入力として使用し、この3段階のサイクルを3回繰り返します。"
-      ],
-      "notes": [
-        "日本語の動作シーケンスを英語で編集・描写したもの。各工程の後に、キャラクターの同一性、テクスチャ、背景を確認してください。",
-        "元の動画はモデル同士を並べて比較するものであり、単独のリポジトリテストではありません。"
-      ],
-      "source_digest": "419c0cd4d5a99f2fceedd54aee124bf9cd799c0c1d7215af1bcefa7394e485a1",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ko": {
-      "title": "9단계의 연속 편집 과정을 거치는 로봇",
-      "summary": "각 단계의 결과물을 다음 편집 단계의 입력값으로 사용하여 짧은 동작 주기를 반복합니다.",
-      "steps": [
-        "로봇이 별을 집어 들게 합니다.",
-        "로봇이 별을 들어 올리게 합니다.",
-        "로봇이 별을 시작 위치로 되돌려 놓게 합니다."
-      ],
-      "inputs": [
-        "로봇과 별이 포함된 초기 이미지입니다. 각 결과물을 다음 단계의 입력값으로 사용하며, 이 3단계 과정을 세 번 반복합니다."
-      ],
-      "notes": [
-        "일본어 동작 시퀀스를 영어 편집 방식으로 구현합니다. 매 단계마다 개체(identity), 질감, 배경을 확인합니다.",
-        "원본 영상은 모델 간의 나란한 비교(side-by-side)를 위한 것이며, 독립적인 리포지토리 테스트용이 아닙니다."
-      ],
-      "source_digest": "419c0cd4d5a99f2fceedd54aee124bf9cd799c0c1d7215af1bcefa7394e485a1",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "fr": {
-      "title": "Un robot à travers neuf montages successifs",
-      "summary": "Répétez un cycle d'action court en utilisant le résultat de chaque étape comme entrée pour la suivante.",
-      "steps": [
-        "Faites ramasser l'étoile par le robot.",
-        "Faites lever l'étoile par le robot.",
-        "Faites ramener l'étoile à sa position initiale par le robot."
-      ],
-      "inputs": [
-        "Une image initiale du robot et de l'étoile. Utilisez chaque résultat comme entrée suivante ; répétez le cycle en trois étapes à trois reprises."
-      ],
-      "notes": [
-        "Rendu éditorial en anglais de la séquence d'action japonaise. Vérifiez l'identité, la texture et l'arrière-plan après chaque étape.",
-        "La vidéo originale est une comparaison côte à côte de modèles, et non un test de référentiel indépendant."
-      ],
-      "source_digest": "419c0cd4d5a99f2fceedd54aee124bf9cd799c0c1d7215af1bcefa7394e485a1",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "de": {
-      "title": "Ein Roboter in neun aufeinanderfolgenden Bearbeitungsschritten",
-      "summary": "Wiederholen Sie einen kurzen Bewegungszyklus und verwenden Sie das jeweilige Ergebnis als Ausgangspunkt für den nächsten Bearbeitungsschritt.",
-      "steps": [
-        "Lassen Sie den Roboter den Stern aufheben.",
-        "Lassen Sie den Roboter den Stern anheben.",
-        "Lassen Sie den Roboter den Stern an seine Ausgangsposition zurückbringen."
-      ],
-      "inputs": [
-        "Ein Ausgangsbild mit Roboter und Stern. Verwenden Sie jedes Ergebnis als Eingabe für den nächsten Schritt; wiederholen Sie den dreistufigen Zyklus dreimal."
-      ],
-      "notes": [
-        "Englische redaktionelle Umsetzung der japanischen Aktionssequenz. Überprüfen Sie Identität, Textur und Hintergrund nach jedem Schritt.",
-        "Das Originalvideo ist ein direkter Modellvergleich (Side-by-Side), kein eigenständiger Test des Modell-Repositorys."
-      ],
-      "source_digest": "419c0cd4d5a99f2fceedd54aee124bf9cd799c0c1d7215af1bcefa7394e485a1",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "es": {
-      "title": "Un robot a través de nueve ediciones secuenciales.",
-      "summary": "Repita un ciclo de acción breve, utilizando cada resultado como entrada para la siguiente edición.",
-      "steps": [
-        "Haga que el robot recoja la estrella.",
-        "Haga que el robot levante la estrella.",
-        "Haga que el robot devuelva la estrella a su posición inicial."
-      ],
-      "inputs": [
-        "Una imagen inicial del robot y la estrella. Utilice cada resultado como la siguiente entrada; repita el ciclo de tres pasos tres veces."
-      ],
-      "notes": [
-        "Renderizado editorial en inglés de la secuencia de acción japonesa. Inspeccione la identidad, la textura y el fondo después de cada paso.",
-        "El vídeo original es una comparación de modelos lado a lado, no una prueba de repositorio independiente."
-      ],
-      "source_digest": "419c0cd4d5a99f2fceedd54aee124bf9cd799c0c1d7215af1bcefa7394e485a1",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "pt-BR": {
-      "title": "Um robô passando por nove edições sequenciais.",
-      "summary": "Repita um ciclo de ação curto, utilizando o resultado de cada etapa como entrada para a edição seguinte.",
-      "steps": [
-        "Faça o robô pegar a estrela.",
-        "Faça o robô levantar a estrela.",
-        "Faça o robô devolver a estrela à sua posição inicial."
-      ],
-      "inputs": [
-        "Uma imagem inicial do robô com a estrela. Use cada resultado como entrada para a próxima etapa; repita o ciclo de três passos três vezes."
-      ],
-      "notes": [
-        "Renderização editorial (em inglês) da sequência de ação japonesa. Verifique a identidade, a textura e o fundo após cada etapa.",
-        "O vídeo original é uma comparação lado a lado de modelos, não um teste de repositório independente."
-      ],
-      "source_digest": "419c0cd4d5a99f2fceedd54aee124bf9cd799c0c1d7215af1bcefa7394e485a1",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+  "translation_meta": {
+    "source_digest": "29ebe4b8c2267eac47f556dcd448760a3c7fe29f3f33c5f2a327af51db036645",
+    "text_digests": {
+      "zh-CN": "a4e6fb9eb193c65b6b4aeda825952d253c20433d74dc0779898d3a4e199a2b7b",
+      "zh-TW": "5f9386afb1cce44a826baadf2da1b643dce2a65e308b8b683a05c00953a4ed5d",
+      "ja": "241bfc894571bbe4d8395c500757ded71cc979de48e70108bea4e287b5fa45df",
+      "ko": "afe3e3abd2c9d0daf051bf5fccbe6c2f02250c459e9032007826dc5d7968a37f",
+      "fr": "46b11a65cf34e8cfc333062ba332e2d3b0a48281d0580b2b647e5582c79bb7b2",
+      "de": "e3a3353b9706066461129a5ae8ceef3f835290771abd030cb7d6224ecc7ec166",
+      "es": "c5338e454c1f555d49584652b2b044ce11adafe7a04e35957e8fc9b1a71c6684",
+      "pt-BR": "fe42811a6e4d257218bef5fe293d2abd0f3149213b2b0acbd103ed87aecc5b34"
     }
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:12:37.876Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 2,
+      "result": 2,
+      "usefulness": 4,
+      "clarity": 3,
+      "distinctiveness": 3
+    },
+    "rationale": "The robot sequence is valuable for studying edit drift, but the archive contains a condensed sequence and a comparison preview rather than full independent evidence."
   }
 }

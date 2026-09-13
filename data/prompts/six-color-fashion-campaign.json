@@ -1,13 +1,26 @@
 {
-  "schema_version": 1,
   "id": "six-color-fashion-campaign",
   "title": {
     "en": "Six-color fashion campaign",
-    "zh": "六色时装广告"
+    "zh-CN": "六色时装广告",
+    "zh-TW": "六色時尚廣告",
+    "ja": "6色展開のファッションキャンペーン",
+    "ko": "6색 패션 캠페인",
+    "fr": "Campagne de mode en six couleurs",
+    "de": "Sechsfarbige Modekampagne",
+    "es": "Campaña de moda de seis colores",
+    "pt-BR": "Campanha de moda com seis cores"
   },
   "summary": {
     "en": "Coordinate six distinct colors and poses in a low-angle fashion campaign.",
-    "zh": "用低机位组织六种服装色彩和不同人物姿势。"
+    "zh-CN": "用低机位组织六种服装色彩和不同人物姿势。",
+    "zh-TW": "在低角度時尚廣告中協調六種不同的顏色和姿勢。",
+    "ja": "ローアングルからのファッションキャンペーンで、6つの異なる色とポーズを組み合わせます。",
+    "ko": "로우 앵글 패션 캠페인에서 6가지의 서로 다른 색상과 포즈를 조화롭게 구성해 보세요.",
+    "fr": "Coordonner six couleurs et poses distinctes dans une campagne de mode en contre-plongée.",
+    "de": "Kombinieren Sie sechs verschiedene Farben und Posen in einer Modekampagne aus der Froschperspektive.",
+    "es": "Coordina seis colores y poses distintos en una campaña de moda con ángulo contrapicado.",
+    "pt-BR": "Combine seis cores e poses distintas em uma campanha de moda fotografada em ângulo de baixo para cima (contra-plongée)."
   },
   "category": "products",
   "tags": [
@@ -17,7 +30,6 @@
     "color-palette"
   ],
   "mode": "generate",
-  "featured": true,
   "model": {
     "family": "GPT Image 2.5",
     "variant": "sunburst",
@@ -30,7 +42,14 @@
     "steps": [
       {
         "en": "a fashion campaign for an invented label, shot from a camera on the ground with a 24mm lens tilted fifteen degrees. Six people in electric blue, tomato red, lime green, hot pink, butter yellow and lilac, all posed differently, against plain cobalt sky.",
-        "zh": "为一个虚构品牌拍摄时装广告，摄影机置于地面，使用倾斜十五度的 24mm 镜头。六个人分别穿电光蓝、番茄红、青柠绿、亮粉色、奶油黄和淡紫色服装，姿势各不相同，背景是纯净的钴蓝色天空。"
+        "zh-CN": "为一个虚构品牌拍摄时装广告，摄影机置于地面，使用倾斜十五度的 24mm 镜头。六个人分别穿电光蓝、番茄红、青柠绿、亮粉色、奶油黄和淡紫色服装，姿势各不相同，背景是纯净的钴蓝色天空。",
+        "zh-TW": "為一個虛構品牌拍攝的時尚廣告，使用一台放置在地面的攝影機，配備 24mm 鏡頭，傾斜 15 度拍攝。六個人分別穿著電光藍、番茄紅、萊姆綠、亮粉、奶油黃和淡紫色，姿勢各不相同，背景是純鈷藍色的天空。",
+        "ja": "架空のブランドのためのファッションキャンペーン。地面に置いたカメラ（24mmレンズ、15度上向き）で撮影。エレクトリックブルー、トマトレッド、ライムグリーン、ホットピンク、バターイエロー、ライラック色を身にまとった6人が、それぞれ異なるポーズをとり、背景はコバルトブルーの無地の空。",
+        "ko": "가상의 브랜드를 위한 패션 캠페인으로, 지면에 놓인 카메라에 24mm 렌즈를 장착하고 15도 기울여 촬영한 구도입니다. 코발트색의 단순한 하늘을 배경으로 일렉트릭 블루, 토마토 레드, 라임 그린, 핫 핑크, 버터 옐로, 라일락 색상의 옷을 입은 6명의 인물이 각기 다른 포즈를 취하고 있습니다.",
+        "fr": "Une campagne de mode pour une marque fictive, photographiée depuis le sol avec un objectif de 24 mm incliné à quinze degrés. Six personnes vêtues de bleu électrique, rouge tomate, vert citron, rose vif, jaune beurre et lilas, adoptant chacune une pose différente, sur fond de ciel bleu cobalt uni.",
+        "de": "Eine Modekampagne für ein fiktives Label, fotografiert aus Bodennähe mit einem um 15 Grad geneigten 24-mm-Objektiv. Sechs Personen in Electric Blue, Tomatenrot, Limettengrün, Knallpink, Buttergelb und Flieder – alle unterschiedlich posierend – vor einem schlichten, kobaltblauen Himmel.",
+        "es": "Una campaña de moda para una marca ficticia, fotografiada desde una cámara situada en el suelo con un objetivo de 24 mm inclinado quince grados. Seis personas vestidas de azul eléctrico, rojo tomate, verde lima, rosa intenso, amarillo mantequilla y lila, todas con poses diferentes, sobre un cielo azul cobalto liso.",
+        "pt-BR": "uma campanha de moda para uma marca fictícia, fotografada a partir de uma câmera no chão com uma lente de 24mm inclinada a quinze graus. Seis pessoas vestindo azul-elétrico, vermelho-tomate, verde-limão, rosa-choque, amarelo-manteiga e lilás, todas em poses diferentes, contra um céu azul-cobalto liso."
       }
     ],
     "original_steps": [
@@ -41,11 +60,25 @@
   "notes": [
     {
       "en": "The creator’s parent thread identifies GPT Image 2.5 Sunburst and says GPT Image 2 is on the left and 2.5 on the right. This preview links the second source image. This is a creator claim, not a maintainer test.",
-      "zh": "作者在线程首帖中标明 GPT Image 2.5 Sunburst，并说明左侧为 GPT Image 2、右侧为 2.5。此处预览链接第二张原帖图片。这是作者声明，不是维护者复测。"
+      "zh-CN": "作者在线程首帖中标明 GPT Image 2.5 Sunburst，并说明左侧为 GPT Image 2、右侧为 2.5。此处预览链接第二张原帖图片。这是作者声明，不是维护者复测。",
+      "zh-TW": "創作者的父主題貼文中標識了 GPT Image 2.5 Sunburst，並指出 GPT 圖像 2 在左側，2.5 在右側。此預覽連結到第二個來源圖像。這是創建者的聲明，而非維護者的測試。",
+      "ja": "作成者の親スレッドでは、GPT Image 2.5 Sunburstが特定され、GPT Image 2が左側、2.5が右側にあるとされています。このプレビューは、2番目のソース画像へのリンクです。これは作成者による主張であり、メンテナーによるテストではありません。",
+      "ko": "제작자의 원본 스레드에서는 GPT Image 2.5 Sunburst를 언급하며 왼쪽은 GPT Image 2, 오른쪽은 2.5 버전이라고 밝히고 있습니다. 이 미리보기는 두 번째 원본 이미지를 참조합니다. 이는 제작자의 주장이며, 관리자의 테스트 결과가 아닙니다.",
+      "fr": "Le fil de discussion parent du créateur identifie GPT Image 2.5 Sunburst et indique que l'image GPT 2 est à gauche et 2,5 à droite. Cet aperçu relie la deuxième image source. Il s'agit d'une réclamation du créateur, pas d'un test du responsable.",
+      "de": "Der ursprüngliche Beitrag des Erstellers verweist auf „GPT Image 2.5 Sunburst“ und gibt an, dass sich „GPT Image 2“ auf der linken und „2.5“ auf der rechten Seite befindet. Diese Vorschau verlinkt das zweite Quellbild. Dies ist eine Behauptung des Erstellers, kein Test durch die Betreuer.",
+      "es": "El hilo original del creador identifica la imagen GPT Image 2.5 Sunburst y señala que la imagen GPT 2 está a la izquierda y la 2.5 a la derecha. Esta vista previa enlaza con la segunda imagen de referencia. Se trata de una afirmación del creador, no de una prueba realizada por el responsable del mantenimiento.",
+      "pt-BR": "A discussão original do criador identifica o GPT Image 2.5 Sunburst e indica que a Imagem GPT 2 está à esquerda e a 2.5, à direita. Esta prévia vincula a segunda imagem de referência. Trata-se de uma afirmação do criador, não de um teste realizado pelo responsável pela manutenção."
     },
     {
       "en": "The English block preserves the published brief, excluding its “Prompt N:” label. Engagement belongs to this individual reply, not the entire comparison thread.",
-      "zh": "英文块保留已发布的提示词，去掉“Prompt N:”编号标签。互动量属于这条独立回复，不是整个对比线程。"
+      "zh-CN": "英文块保留已发布的提示词，去掉“Prompt N:”编号标签。互动量属于这条独立回复，不是整个对比线程。",
+      "zh-TW": "英文文字區塊保留了已發布的簡報，但不包括其「提示 N:」標籤。互動屬於此回复，而非整個比較主題帖。",
+      "ja": "英語のブロックは、「Prompt N:」ラベルを除き、公開された概要を保持しています。エンゲージメントは、比較スレッド全体ではなく、この個別の返信に帰属します。",
+      "ko": "영어 텍스트 블록은 'Prompt N:'이라는 라벨을 제외하고 공개된 의뢰 내용을 그대로 유지합니다. 반응(engagement)은 전체 비교 스레드가 아닌 이 개별 답변에 대한 것입니다.",
+      "fr": "Le bloc anglais conserve le mémoire publié, à l'exclusion de son étiquette « Prompt N : ». L'engagement appartient à cette réponse individuelle, et non à l'ensemble du fil de comparaison.",
+      "de": "Der englische Textblock gibt die ursprüngliche Aufgabenstellung wieder, jedoch ohne die Bezeichnung „Prompt N:“. Interaktionen beziehen sich auf diese einzelne Antwort, nicht auf den gesamten Vergleichs-Thread.",
+      "es": "El bloque en inglés conserva la descripción original publicada, excluyendo la etiqueta \"Prompt N:\". La interacción corresponde a esta respuesta individual, no a todo el hilo comparativo.",
+      "pt-BR": "O bloco em inglês preserva a descrição original do pedido, excluindo o rótulo \"Prompt N:\". O engajamento refere-se a esta resposta específica, e não a toda a discussão comparativa."
     }
   ],
   "source": {
@@ -84,104 +117,32 @@
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
   },
-  "localizations": {
-    "zh-TW": {
-      "title": "六色時尚廣告",
-      "summary": "在低角度時尚廣告中協調六種不同的顏色和姿勢。",
-      "steps": [
-        "為一個虛構品牌拍攝的時尚廣告，使用一台放置在地面的攝影機，配備 24mm 鏡頭，傾斜 15 度拍攝。六個人分別穿著電光藍、番茄紅、萊姆綠、亮粉、奶油黃和淡紫色，姿勢各不相同，背景是純鈷藍色的天空。"
-      ],
-      "inputs": [],
-      "notes": [
-        "創作者的父主題貼文中標識了 GPT Image 2.5 Sunburst，並指出 GPT 圖像 2 在左側，2.5 在右側。此預覽連結到第二個來源圖像。這是創建者的聲明，而非維護者的測試。",
-        "英文文字區塊保留了已發布的簡報，但不包括其「提示 N:」標籤。互動屬於此回复，而非整個比較主題帖。"
-      ],
-      "source_digest": "da2f26c666c458ba294db8d7b978c0af9d1e98c3f276291dbb2c59e9afce6272",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ja": {
-      "title": "6色展開のファッションキャンペーン",
-      "summary": "ローアングルからのファッションキャンペーンで、6つの異なる色とポーズを組み合わせます。",
-      "steps": [
-        "架空のブランドのためのファッションキャンペーン。地面に置いたカメラ（24mmレンズ、15度上向き）で撮影。エレクトリックブルー、トマトレッド、ライムグリーン、ホットピンク、バターイエロー、ライラック色を身にまとった6人が、それぞれ異なるポーズをとり、背景はコバルトブルーの無地の空。"
-      ],
-      "inputs": [],
-      "notes": [
-        "作成者の親スレッドでは、GPT Image 2.5 Sunburstが特定され、GPT Image 2が左側、2.5が右側にあるとされています。このプレビューは、2番目のソース画像へのリンクです。これは作成者による主張であり、メンテナーによるテストではありません。",
-        "英語のブロックは、「Prompt N:」ラベルを除き、公開された概要を保持しています。エンゲージメントは、比較スレッド全体ではなく、この個別の返信に帰属します。"
-      ],
-      "source_digest": "da2f26c666c458ba294db8d7b978c0af9d1e98c3f276291dbb2c59e9afce6272",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ko": {
-      "title": "6색 패션 캠페인",
-      "summary": "로우 앵글 패션 캠페인에서 6가지의 서로 다른 색상과 포즈를 조화롭게 구성해 보세요.",
-      "steps": [
-        "가상의 브랜드를 위한 패션 캠페인으로, 지면에 놓인 카메라에 24mm 렌즈를 장착하고 15도 기울여 촬영한 구도입니다. 코발트색의 단순한 하늘을 배경으로 일렉트릭 블루, 토마토 레드, 라임 그린, 핫 핑크, 버터 옐로, 라일락 색상의 옷을 입은 6명의 인물이 각기 다른 포즈를 취하고 있습니다."
-      ],
-      "inputs": [],
-      "notes": [
-        "제작자의 원본 스레드에서는 GPT Image 2.5 Sunburst를 언급하며 왼쪽은 GPT Image 2, 오른쪽은 2.5 버전이라고 밝히고 있습니다. 이 미리보기는 두 번째 원본 이미지를 참조합니다. 이는 제작자의 주장이며, 관리자의 테스트 결과가 아닙니다.",
-        "영어 텍스트 블록은 'Prompt N:'이라는 라벨을 제외하고 공개된 의뢰 내용을 그대로 유지합니다. 반응(engagement)은 전체 비교 스레드가 아닌 이 개별 답변에 대한 것입니다."
-      ],
-      "source_digest": "da2f26c666c458ba294db8d7b978c0af9d1e98c3f276291dbb2c59e9afce6272",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "fr": {
-      "title": "Campagne de mode en six couleurs",
-      "summary": "Coordonner six couleurs et poses distinctes dans une campagne de mode en contre-plongée.",
-      "steps": [
-        "Une campagne de mode pour une marque fictive, photographiée depuis le sol avec un objectif de 24 mm incliné à quinze degrés. Six personnes vêtues de bleu électrique, rouge tomate, vert citron, rose vif, jaune beurre et lilas, adoptant chacune une pose différente, sur fond de ciel bleu cobalt uni."
-      ],
-      "inputs": [],
-      "notes": [
-        "Le fil de discussion parent du créateur identifie GPT Image 2.5 Sunburst et indique que l'image GPT 2 est à gauche et 2,5 à droite. Cet aperçu relie la deuxième image source. Il s'agit d'une réclamation du créateur, pas d'un test du responsable.",
-        "Le bloc anglais conserve le mémoire publié, à l'exclusion de son étiquette « Prompt N : ». L'engagement appartient à cette réponse individuelle, et non à l'ensemble du fil de comparaison."
-      ],
-      "source_digest": "da2f26c666c458ba294db8d7b978c0af9d1e98c3f276291dbb2c59e9afce6272",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "de": {
-      "title": "Sechsfarbige Modekampagne",
-      "summary": "Kombinieren Sie sechs verschiedene Farben und Posen in einer Modekampagne aus der Froschperspektive.",
-      "steps": [
-        "Eine Modekampagne für ein fiktives Label, fotografiert aus Bodennähe mit einem um 15 Grad geneigten 24-mm-Objektiv. Sechs Personen in Electric Blue, Tomatenrot, Limettengrün, Knallpink, Buttergelb und Flieder – alle unterschiedlich posierend – vor einem schlichten, kobaltblauen Himmel."
-      ],
-      "inputs": [],
-      "notes": [
-        "Der ursprüngliche Beitrag des Erstellers verweist auf „GPT Image 2.5 Sunburst“ und gibt an, dass sich „GPT Image 2“ auf der linken und „2.5“ auf der rechten Seite befindet. Diese Vorschau verlinkt das zweite Quellbild. Dies ist eine Behauptung des Erstellers, kein Test durch die Betreuer.",
-        "Der englische Textblock gibt die ursprüngliche Aufgabenstellung wieder, jedoch ohne die Bezeichnung „Prompt N:“. Interaktionen beziehen sich auf diese einzelne Antwort, nicht auf den gesamten Vergleichs-Thread."
-      ],
-      "source_digest": "da2f26c666c458ba294db8d7b978c0af9d1e98c3f276291dbb2c59e9afce6272",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "es": {
-      "title": "Campaña de moda de seis colores",
-      "summary": "Coordina seis colores y poses distintos en una campaña de moda con ángulo contrapicado.",
-      "steps": [
-        "Una campaña de moda para una marca ficticia, fotografiada desde una cámara situada en el suelo con un objetivo de 24 mm inclinado quince grados. Seis personas vestidas de azul eléctrico, rojo tomate, verde lima, rosa intenso, amarillo mantequilla y lila, todas con poses diferentes, sobre un cielo azul cobalto liso."
-      ],
-      "inputs": [],
-      "notes": [
-        "El hilo original del creador identifica la imagen GPT Image 2.5 Sunburst y señala que la imagen GPT 2 está a la izquierda y la 2.5 a la derecha. Esta vista previa enlaza con la segunda imagen de referencia. Se trata de una afirmación del creador, no de una prueba realizada por el responsable del mantenimiento.",
-        "El bloque en inglés conserva la descripción original publicada, excluyendo la etiqueta \"Prompt N:\". La interacción corresponde a esta respuesta individual, no a todo el hilo comparativo."
-      ],
-      "source_digest": "da2f26c666c458ba294db8d7b978c0af9d1e98c3f276291dbb2c59e9afce6272",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "pt-BR": {
-      "title": "Campanha de moda com seis cores",
-      "summary": "Combine seis cores e poses distintas em uma campanha de moda fotografada em ângulo de baixo para cima (contra-plongée).",
-      "steps": [
-        "uma campanha de moda para uma marca fictícia, fotografada a partir de uma câmera no chão com uma lente de 24mm inclinada a quinze graus. Seis pessoas vestindo azul-elétrico, vermelho-tomate, verde-limão, rosa-choque, amarelo-manteiga e lilás, todas em poses diferentes, contra um céu azul-cobalto liso."
-      ],
-      "inputs": [],
-      "notes": [
-        "A discussão original do criador identifica o GPT Image 2.5 Sunburst e indica que a Imagem GPT 2 está à esquerda e a 2.5, à direita. Esta prévia vincula a segunda imagem de referência. Trata-se de uma afirmação do criador, não de um teste realizado pelo responsável pela manutenção.",
-        "O bloco em inglês preserva a descrição original do pedido, excluindo o rótulo \"Prompt N:\". O engajamento refere-se a esta resposta específica, e não a toda a discussão comparativa."
-      ],
-      "source_digest": "da2f26c666c458ba294db8d7b978c0af9d1e98c3f276291dbb2c59e9afce6272",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+  "translation_meta": {
+    "source_digest": "27a5eed07dc28557db8dac49d0282790cccf8a825fc9690224e01b27e0421a75",
+    "text_digests": {
+      "zh-CN": "d9856d3f792f11585ea063f311b22fb063df568a3da4767766af277d1dfd5ab5",
+      "zh-TW": "1fa3792bbbb4c798f3e373ba2a63b7401eabc75a91a810f32c0f42ce71909771",
+      "ja": "49a10dd77a063621c9c532a491e17444753aef9629ead086d50915271e231889",
+      "ko": "70dc94eb77fa4413099185705256509ea87fcc96a583d6c615bc8e1f30fd4650",
+      "fr": "bd2a63abff82a2336e103f2f7460e8b16220e5932b63e66ad08ec71dda766c6f",
+      "de": "f94d9d351b6e785db9e0178487e35e6d618474702d9415cbd8e9660fdc7c9eac",
+      "es": "25a1cf78f4cf4b795fc5796381328f8de595544366b9a6c67a29d9f0a1546a25",
+      "pt-BR": "2fb599f4d40877700dea6f7b65870a70931f05aeb824cd3294ece2b58d2fef1d"
     }
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:12:37.877Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 4,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 4,
+      "distinctiveness": 3
+    },
+    "rationale": "A concise six-person, six-color campaign brief provides observable composition constraints. The preview is a fashion group, not evidence of every detail passing."
   }
 }

@@ -1,13 +1,26 @@
 {
-  "schema_version": 1,
   "id": "combat-sprite-sheet",
   "title": {
     "en": "Combat sprite sheet and transparent GIF",
-    "zh": "战斗精灵表与透明 GIF"
+    "zh-CN": "战斗精灵表与透明 GIF",
+    "zh-TW": "戰鬥精靈圖和透明 GIF",
+    "ko": "전투용 스프라이트 시트 및 투명 배경 GIF.",
+    "de": "Kampf-Sprite-Sheet und transparentes GIF",
+    "es": "Hoja de *sprites* de combate y GIF con fondo transparente.",
+    "pt-BR": "*Sprite sheet* de combate e GIF com fundo transparente.",
+    "fr": "Feuille de sprite de combat et GIF transparent",
+    "ja": "戦闘スプライトシートと透過GIF"
   },
   "summary": {
     "en": "A widely shared workflow for turning character art into combat frames, followed by transparency repair and GIF assembly.",
-    "zh": "把角色图转为战斗动作帧，再修复透明背景并组装 GIF 的高传播工作流。"
+    "zh-CN": "把角色图转为战斗动作帧，再修复透明背景并组装 GIF 的高传播工作流。",
+    "zh-TW": "將角色原畫轉換為戰鬥幀，然後進行透明度修復和 GIF 組裝的常用工作流程。",
+    "ko": "캐릭터 아트를 전투용 프레임으로 변환한 뒤, 투명도 보정 및 GIF 조합을 거치는 널리 공유된 워크플로.",
+    "de": "Ein weit verbreiteter Arbeitsablauf, um Charaktergrafiken in Kampf-Einzelbilder umzuwandeln, gefolgt von der Korrektur der Transparenz und der Zusammenstellung des GIFs.",
+    "es": "Un flujo de trabajo muy difundido para convertir el diseño de un personaje en fotogramas de combate, seguido de la corrección de la transparencia y el ensamblaje del GIF.",
+    "pt-BR": "Um fluxo de trabalho amplamente compartilhado para transformar a arte de um personagem em quadros de combate, seguido pelo ajuste da transparência e pela montagem do GIF.",
+    "fr": "Un flux de travail largement partagé pour transformer les illustrations de personnages en images de combat, suivi de la réparation des transparences et de l'assemblage de GIF.",
+    "ja": "キャラクターアートを戦闘フレームに変換し、透過補正とGIF作成を行う、広く共有されているワークフロー。"
   },
   "category": "characters",
   "tags": [
@@ -17,7 +30,6 @@
     "transparency"
   ],
   "mode": "workflow",
-  "featured": true,
   "model": {
     "family": "GPT Image 2.5",
     "variant": null,
@@ -29,11 +41,25 @@
     "steps": [
       {
         "en": "Use the attached character as the reference. Draw a pixel-art combat sequence in a 4-by-4 sprite sheet. Keep the character scale and ground contact consistent between cells.",
-        "zh": "以附件角色为参考，绘制 4×4 像素风战斗动作精灵表，保持每格中的角色大小与落脚点一致。"
+        "zh-CN": "以附件角色为参考，绘制 4×4 像素风战斗动作精灵表，保持每格中的角色大小与落脚点一致。",
+        "zh-TW": "使用附件中的角色作為參考。在 4x4 的精靈圖中繪製像素風格的戰鬥序列。保持角色在各單元格中的比例和與地面的接觸一致。",
+        "ko": "첨부된 캐릭터를 참조 자료로 사용하십시오. 4x4 스프라이트 시트 형식으로 픽셀 아트 전투 장면을 그리세요. 각 칸(셀) 사이에서 캐릭터의 크기와 지면 접촉 위치가 일정하게 유지되도록 하세요.",
+        "de": "Verwenden Sie den angehängten Charakter als Vorlage. Erstelle eine Pixel-Art-Kampfsequenz auf einem 4x4-Sprite-Sheet. Achte darauf, dass die Größe der Figur und der Bodenkontakt in allen Zellen einheitlich bleiben.",
+        "es": "Utilizar el personaje adjunto como referencia. Dibuja una secuencia de combate en *pixel art* dentro de una hoja de *sprites* de 4x4. Mantén la escala del personaje y el contacto con el suelo constantes entre las celdas.",
+        "pt-BR": "Use o personagem em anexo como referência. Desenhe uma sequência de combate em pixel art em uma *sprite sheet* de 4 por 4. Mantenha a escala do personagem e o contato com o solo consistentes entre as células.",
+        "fr": "Utilisez le caractère ci-joint comme référence. Dessinez une séquence de combat pixel-art dans une feuille de sprite 4 x 4. Gardez l'échelle des caractères et le contact au sol cohérents entre les cellules.",
+        "ja": "添付のキャラクターを参考にしてください。4×4ピクセルのスプライトシートにピクセルアートの戦闘シーケンスを描画してください。セル間でキャラクターのスケールと地面との接触を一定に保ってください。"
       },
       {
         "en": "In a fresh chat, remove the background from the sheet, separate its 16 cells, align the character in each frame, and assemble a looping GIF.",
-        "zh": "在新对话中去除精灵表背景，拆分 16 格，逐帧对齐角色并组装循环 GIF。"
+        "zh-CN": "在新对话中去除精灵表背景，拆分 16 格，逐帧对齐角色并组装循环 GIF。",
+        "zh-TW": "在新建的聊天視窗中，移除精靈圖的背景，將其分割成 16 個單元格，對齊每一幀中的角色，然後組裝成循環 GIF。",
+        "ko": "새로운 채팅창에서 시트의 배경을 제거하고 16개의 칸을 분리한 뒤, 각 프레임의 캐릭터 위치를 정렬하여 반복 재생되는 GIF를 만드세요.",
+        "de": "Entferne in einem neuen Chat den Hintergrund des Sheets, trenne die 16 Zellen voneinander, richte die Figur in jedem Einzelbild aus und füge alles zu einem GIF mit Endlosschleife zusammen.",
+        "es": "En un chat nuevo, elimina el fondo de la hoja, separa sus 16 celdas, alinea al personaje en cada fotograma y monta un GIF en bucle.",
+        "pt-BR": "Em um novo chat, remova o fundo da *sprite sheet*, separe suas 16 células, alinhe o personagem em cada quadro e monte um GIF em loop.",
+        "fr": "Dans une nouvelle conversation, supprimez l'arrière-plan de la feuille, séparez ses 16 cellules, alignez le personnage dans chaque image et assemblez un GIF en boucle.",
+        "ja": "新規チャットで、シートから背景を削除し、16個のセルを分離し、各フレームでキャラクターを整列させ、ループGIFを作成してください。"
       }
     ],
     "original_language": null,
@@ -42,17 +68,38 @@
   "inputs": [
     {
       "en": "A character reference; a file-processing tool for the GIF step.",
-      "zh": "角色参考图；GIF 步骤需要文件处理工具。"
+      "zh-CN": "角色参考图；GIF 步骤需要文件处理工具。",
+      "zh-TW": "角色參考；用於 GIF 步驟的文件處理工具。",
+      "ko": "캐릭터 참조 자료 및 GIF 제작 단계에 사용할 파일 처리 도구.",
+      "de": "Eine Referenz für die Figur; ein Tool zur Dateibearbeitung für den GIF-Schritt.",
+      "es": "Una referencia del personaje; una herramienta de procesamiento de archivos para la fase del GIF.",
+      "pt-BR": "Uma referência de personagem; uma ferramenta de processamento de arquivos para a etapa do GIF.",
+      "fr": "Une référence de personnage ; un outil de traitement de fichiers pour l'étape GIF.",
+      "ja": "キャラクターリファレンス。GIF作成ステップ用のファイル処理ツール。"
     }
   ],
   "notes": [
     {
       "en": "This is an editorial recipe based on the published workflow, not a transcription of the original generation prompt.",
-      "zh": "这是依据作者公开工作流整理的编辑配方，并非最初生图提示词的逐字抄录。"
+      "zh-CN": "这是依据作者公开工作流整理的编辑配方，并非最初生图提示词的逐字抄录。",
+      "zh-TW": "這是基於已發布工作流程的編輯方案，並非原始生成提示的轉錄。",
+      "ko": "이는 공개된 작업 흐름을 바탕으로 정리한 편집된 가이드이며, 원본 생성 프롬프트를 그대로 옮긴 것이 아닙니다.",
+      "de": "Dies ist eine redaktionelle Anleitung auf der Grundlage des veröffentlichten Workflows, keine Transkription des ursprünglichen Generierungs-Prompts.",
+      "es": "Esta es una receta editorial basada en el flujo de trabajo publicado, no una transcripción de la instrucción de generación original.",
+      "pt-BR": "Esta é uma receita editorial baseada no fluxo de trabalho publicado, não uma transcrição do prompt de geração original.",
+      "fr": "Il s'agit d'une recette éditoriale basée sur le flux de travail publié, et non d'une transcription de l'invite de génération d'origine.",
+      "ja": "これは公開されているワークフローに基づいた編集レシピであり、元の生成プロンプトの書き起こしではありません。"
     },
     {
       "en": "The creator reported a failed transparency pass and used a fresh chat to repair it. A sprite sheet is not itself an animated GIF.",
-      "zh": "作者报告首次透明化失败，随后用新对话修复。精灵表本身不是动态 GIF。"
+      "zh-CN": "作者报告首次透明化失败，随后用新对话修复。精灵表本身不是动态 GIF。",
+      "zh-TW": "創建者報告了透明度處理失敗，並使用新的聊天記錄修復了該問題。精靈圖本身並非動畫 GIF。",
+      "ko": "제작자가 투명도 처리 과정에서 오류를 겪어 새로운 채팅창을 통해 이를 수정했습니다. 스프라이트 시트 그 자체는 애니메이션 GIF가 아닙니다.",
+      "de": "Der Ersteller berichtete von einem Fehler bei der Transparenz-Bearbeitung und nutzte einen neuen Chat, um diesen zu beheben. Ein Sprite-Sheet ist für sich genommen kein animiertes GIF.",
+      "es": "El creador informó de un fallo en el proceso de transparencia y utilizó un chat nuevo para corregirlo. Una hoja de *sprites* no es, por sí misma, un GIF animado.",
+      "pt-BR": "O criador relatou uma falha na aplicação da transparência e usou um novo chat para corrigi-la. Uma *sprite sheet*, por si só, não é um GIF animado.",
+      "fr": "Le créateur a signalé un échec de transparence et a utilisé un nouveau chat pour le réparer. Une feuille de sprite n'est pas en soi un GIF animé.",
+      "ja": "作成者は透明度パスの失敗を報告し、新しいチャットを使用して修正しました。スプライトシート自体はアニメーションGIFではありません。"
     }
   ],
   "source": {
@@ -91,125 +138,32 @@
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
   },
-  "localizations": {
-    "zh-TW": {
-      "title": "戰鬥精靈圖和透明 GIF",
-      "summary": "將角色原畫轉換為戰鬥幀，然後進行透明度修復和 GIF 組裝的常用工作流程。",
-      "steps": [
-        "使用附件中的角色作為參考。在 4x4 的精靈圖中繪製像素風格的戰鬥序列。保持角色在各單元格中的比例和與地面的接觸一致。",
-        "在新建的聊天視窗中，移除精靈圖的背景，將其分割成 16 個單元格，對齊每一幀中的角色，然後組裝成循環 GIF。"
-      ],
-      "inputs": [
-        "角色參考；用於 GIF 步驟的文件處理工具。"
-      ],
-      "notes": [
-        "這是基於已發布工作流程的編輯方案，並非原始生成提示的轉錄。",
-        "創建者報告了透明度處理失敗，並使用新的聊天記錄修復了該問題。精靈圖本身並非動畫 GIF。"
-      ],
-      "source_digest": "3b408bf66a44d18a5dc7aebe0e9685f2ed2bb77e59430e7f0082b716ae672342",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ko": {
-      "title": "전투용 스프라이트 시트 및 투명 배경 GIF.",
-      "summary": "캐릭터 아트를 전투용 프레임으로 변환한 뒤, 투명도 보정 및 GIF 조합을 거치는 널리 공유된 워크플로.",
-      "steps": [
-        "첨부된 캐릭터를 참조 자료로 사용하십시오. 4x4 스프라이트 시트 형식으로 픽셀 아트 전투 장면을 그리세요. 각 칸(셀) 사이에서 캐릭터의 크기와 지면 접촉 위치가 일정하게 유지되도록 하세요.",
-        "새로운 채팅창에서 시트의 배경을 제거하고 16개의 칸을 분리한 뒤, 각 프레임의 캐릭터 위치를 정렬하여 반복 재생되는 GIF를 만드세요."
-      ],
-      "inputs": [
-        "캐릭터 참조 자료 및 GIF 제작 단계에 사용할 파일 처리 도구."
-      ],
-      "notes": [
-        "이는 공개된 작업 흐름을 바탕으로 정리한 편집된 가이드이며, 원본 생성 프롬프트를 그대로 옮긴 것이 아닙니다.",
-        "제작자가 투명도 처리 과정에서 오류를 겪어 새로운 채팅창을 통해 이를 수정했습니다. 스프라이트 시트 그 자체는 애니메이션 GIF가 아닙니다."
-      ],
-      "source_digest": "3b408bf66a44d18a5dc7aebe0e9685f2ed2bb77e59430e7f0082b716ae672342",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "de": {
-      "title": "Kampf-Sprite-Sheet und transparentes GIF",
-      "summary": "Ein weit verbreiteter Arbeitsablauf, um Charaktergrafiken in Kampf-Einzelbilder umzuwandeln, gefolgt von der Korrektur der Transparenz und der Zusammenstellung des GIFs.",
-      "steps": [
-        "Verwenden Sie den angehängten Charakter als Vorlage. Erstelle eine Pixel-Art-Kampfsequenz auf einem 4x4-Sprite-Sheet. Achte darauf, dass die Größe der Figur und der Bodenkontakt in allen Zellen einheitlich bleiben.",
-        "Entferne in einem neuen Chat den Hintergrund des Sheets, trenne die 16 Zellen voneinander, richte die Figur in jedem Einzelbild aus und füge alles zu einem GIF mit Endlosschleife zusammen."
-      ],
-      "inputs": [
-        "Eine Referenz für die Figur; ein Tool zur Dateibearbeitung für den GIF-Schritt."
-      ],
-      "notes": [
-        "Dies ist eine redaktionelle Anleitung auf der Grundlage des veröffentlichten Workflows, keine Transkription des ursprünglichen Generierungs-Prompts.",
-        "Der Ersteller berichtete von einem Fehler bei der Transparenz-Bearbeitung und nutzte einen neuen Chat, um diesen zu beheben. Ein Sprite-Sheet ist für sich genommen kein animiertes GIF."
-      ],
-      "source_digest": "3b408bf66a44d18a5dc7aebe0e9685f2ed2bb77e59430e7f0082b716ae672342",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "es": {
-      "title": "Hoja de *sprites* de combate y GIF con fondo transparente.",
-      "summary": "Un flujo de trabajo muy difundido para convertir el diseño de un personaje en fotogramas de combate, seguido de la corrección de la transparencia y el ensamblaje del GIF.",
-      "steps": [
-        "Utilizar el personaje adjunto como referencia. Dibuja una secuencia de combate en *pixel art* dentro de una hoja de *sprites* de 4x4. Mantén la escala del personaje y el contacto con el suelo constantes entre las celdas.",
-        "En un chat nuevo, elimina el fondo de la hoja, separa sus 16 celdas, alinea al personaje en cada fotograma y monta un GIF en bucle."
-      ],
-      "inputs": [
-        "Una referencia del personaje; una herramienta de procesamiento de archivos para la fase del GIF."
-      ],
-      "notes": [
-        "Esta es una receta editorial basada en el flujo de trabajo publicado, no una transcripción de la instrucción de generación original.",
-        "El creador informó de un fallo en el proceso de transparencia y utilizó un chat nuevo para corregirlo. Una hoja de *sprites* no es, por sí misma, un GIF animado."
-      ],
-      "source_digest": "3b408bf66a44d18a5dc7aebe0e9685f2ed2bb77e59430e7f0082b716ae672342",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "pt-BR": {
-      "title": "*Sprite sheet* de combate e GIF com fundo transparente.",
-      "summary": "Um fluxo de trabalho amplamente compartilhado para transformar a arte de um personagem em quadros de combate, seguido pelo ajuste da transparência e pela montagem do GIF.",
-      "steps": [
-        "Use o personagem em anexo como referência. Desenhe uma sequência de combate em pixel art em uma *sprite sheet* de 4 por 4. Mantenha a escala do personagem e o contato com o solo consistentes entre as células.",
-        "Em um novo chat, remova o fundo da *sprite sheet*, separe suas 16 células, alinhe o personagem em cada quadro e monte um GIF em loop."
-      ],
-      "inputs": [
-        "Uma referência de personagem; uma ferramenta de processamento de arquivos para a etapa do GIF."
-      ],
-      "notes": [
-        "Esta é uma receita editorial baseada no fluxo de trabalho publicado, não uma transcrição do prompt de geração original.",
-        "O criador relatou uma falha na aplicação da transparência e usou um novo chat para corrigi-la. Uma *sprite sheet*, por si só, não é um GIF animado."
-      ],
-      "source_digest": "3b408bf66a44d18a5dc7aebe0e9685f2ed2bb77e59430e7f0082b716ae672342",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "fr": {
-      "title": "Feuille de sprite de combat et GIF transparent",
-      "summary": "Un flux de travail largement partagé pour transformer les illustrations de personnages en images de combat, suivi de la réparation des transparences et de l'assemblage de GIF.",
-      "steps": [
-        "Utilisez le caractère ci-joint comme référence. Dessinez une séquence de combat pixel-art dans une feuille de sprite 4 x 4. Gardez l'échelle des caractères et le contact au sol cohérents entre les cellules.",
-        "Dans une nouvelle conversation, supprimez l'arrière-plan de la feuille, séparez ses 16 cellules, alignez le personnage dans chaque image et assemblez un GIF en boucle."
-      ],
-      "inputs": [
-        "Une référence de personnage ; un outil de traitement de fichiers pour l'étape GIF."
-      ],
-      "notes": [
-        "Il s'agit d'une recette éditoriale basée sur le flux de travail publié, et non d'une transcription de l'invite de génération d'origine.",
-        "Le créateur a signalé un échec de transparence et a utilisé un nouveau chat pour le réparer. Une feuille de sprite n'est pas en soi un GIF animé."
-      ],
-      "source_digest": "3b408bf66a44d18a5dc7aebe0e9685f2ed2bb77e59430e7f0082b716ae672342",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ja": {
-      "title": "戦闘スプライトシートと透過GIF",
-      "summary": "キャラクターアートを戦闘フレームに変換し、透過補正とGIF作成を行う、広く共有されているワークフロー。",
-      "steps": [
-        "添付のキャラクターを参考にしてください。4×4ピクセルのスプライトシートにピクセルアートの戦闘シーケンスを描画してください。セル間でキャラクターのスケールと地面との接触を一定に保ってください。",
-        "新規チャットで、シートから背景を削除し、16個のセルを分離し、各フレームでキャラクターを整列させ、ループGIFを作成してください。"
-      ],
-      "inputs": [
-        "キャラクターリファレンス。GIF作成ステップ用のファイル処理ツール。"
-      ],
-      "notes": [
-        "これは公開されているワークフローに基づいた編集レシピであり、元の生成プロンプトの書き起こしではありません。",
-        "作成者は透明度パスの失敗を報告し、新しいチャットを使用して修正しました。スプライトシート自体はアニメーションGIFではありません。"
-      ],
-      "source_digest": "3b408bf66a44d18a5dc7aebe0e9685f2ed2bb77e59430e7f0082b716ae672342",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+  "translation_meta": {
+    "source_digest": "e26b4ed2b18793f141335cb5c2193c0d3b7a562bc9d56023c026083f242e56af",
+    "text_digests": {
+      "zh-CN": "94c9a55e8938d43160e7868aaa27250d641c7563899855028f22ff69fe5e96a7",
+      "zh-TW": "3d5c3c474608ac311ea45cf13f06b9fde4ed4d68ce9115b879962760f0a558b1",
+      "ko": "e5d1afe2a5b227beb9e82610bc63a596e7b720497e9ce96056fb2326d7e33dec",
+      "de": "3073c450c680fe8c73dcaa847d2574ff92c03d82cc3bb5ec9294fcb0e9eec669",
+      "es": "a6cc5f356151a64ddc46b727a19f1348361b0ade40282e2841e355b4cf187567",
+      "pt-BR": "0920a8d726f5825fe3ae9eb84873c81c8847b6973db7208c0a7e8c59c477469b",
+      "fr": "7dd8ed920371033d53aa6f93a60b80a35f51cd39cd8851113f132475a40148bc",
+      "ja": "a076ede9cef26e5ee5792db09480bfaa06afe7d59ab9b4c1ebf02a2ffb2031cd"
     }
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:12:37.860Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 2,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 3,
+      "distinctiveness": 3
+    },
+    "rationale": "The sheet is a useful frame-layout example, but the exact prompt is not archived and transparency repair plus GIF assembly remain separate untested steps."
   }
 }

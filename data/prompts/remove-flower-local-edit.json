@@ -1,0 +1,165 @@
+{
+  "id": "remove-flower-local-edit",
+  "title": {
+    "en": "Remove an object from a hand",
+    "zh-CN": "移除手中物体",
+    "zh-TW": "移除手中物體",
+    "ja": "手に持つ物を除去",
+    "ko": "손에 든 물체 제거",
+    "fr": "Retirer un objet tenu en main",
+    "de": "Einen Gegenstand aus einer Hand entfernen",
+    "es": "Eliminar un objeto de una mano",
+    "pt-BR": "Remover um objeto de uma mão"
+  },
+  "summary": {
+    "en": "A concise removal instruction with a source image for checking hands and surrounding details.",
+    "zh-CN": "简短的移除指令，配套源图便于检查手部及周边细节。",
+    "zh-TW": "簡短的移除指令，搭配來源圖片方便檢查手部及周邊細節。",
+    "ja": "手や周囲の細部を確認できる元画像付きの簡潔な除去指示。",
+    "ko": "손과 주변 세부를 확인할 수 있는 원본 이미지가 포함된 간결한 제거 지시입니다.",
+    "fr": "Une instruction courte avec une image source pour contrôler les mains et les détails alentour.",
+    "de": "Eine knappe Anweisung mit Quellbild zur Kontrolle von Händen und Umgebung.",
+    "es": "Una instrucción breve con imagen original para revisar las manos y los detalles cercanos.",
+    "pt-BR": "Uma instrução breve com imagem original para conferir as mãos e os detalhes ao redor."
+  },
+  "category": "editing",
+  "tags": [
+    "official-guide",
+    "remove-flower-local-edit"
+  ],
+  "mode": "edit",
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": "sunburst",
+    "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object",
+    "evidence": "The OpenAI image prompting guide labels the linked result GPT Image 2.5 Sunburst. This repository did not generate it."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "Remove the flower from man's hand. Do not change anything else.",
+        "zh-CN": "移除男人手中的花。不要改变任何其他内容。",
+        "zh-TW": "移除男人手中的花。不要改變任何其他內容。",
+        "ja": "男性の手にある花を取り除いてください。他は何も変えないでください。",
+        "ko": "남자의 손에 있는 꽃을 제거하세요. 다른 것은 바꾸지 마세요.",
+        "fr": "Retirez la fleur de la main de l’homme. Ne changez rien d’autre.",
+        "de": "Entferne die Blume aus der Hand des Mannes. Ändere sonst nichts.",
+        "es": "Elimina la flor de la mano del hombre. No cambies nada más.",
+        "pt-BR": "Remova a flor da mão do homem. Não altere mais nada."
+      }
+    ],
+    "original_language": "en",
+    "original_steps": [
+      "Remove the flower from man's hand. Do not change anything else."
+    ]
+  },
+  "inputs": [
+    {
+      "en": "Upload the linked photograph of the man holding a flower.",
+      "zh-CN": "上传下方男子手持花朵的照片。",
+      "zh-TW": "上傳下方男子手持花朵的照片。",
+      "ja": "下記の花を持つ男性の写真をアップロードしてください。",
+      "ko": "아래 꽃을 든 남자의 사진을 업로드하세요.",
+      "fr": "Téléversez la photo liée de l’homme tenant une fleur.",
+      "de": "Lade das verlinkte Foto des Mannes mit einer Blume hoch.",
+      "es": "Sube la foto enlazada del hombre que sostiene una flor.",
+      "pt-BR": "Envie a foto no link do homem segurando uma flor."
+    }
+  ],
+  "notes": [
+    {
+      "en": "Inspect reconstructed fingers and the formerly occluded background at full size.",
+      "zh-CN": "以原尺寸检查重建的手指及此前被遮挡的背景。",
+      "zh-TW": "以原尺寸檢查重建的手指及先前被遮擋的背景。",
+      "ja": "復元された指と隠れていた背景を原寸で確認してください。",
+      "ko": "복원된 손가락과 가려졌던 배경을 원본 크기로 확인하세요.",
+      "fr": "Inspectez les doigts reconstruits et l’arrière-plan auparavant masqué à taille réelle.",
+      "de": "Prüfe rekonstruierte Finger und den zuvor verdeckten Hintergrund in voller Größe.",
+      "es": "Revisa los dedos reconstruidos y el fondo antes oculto a tamaño completo.",
+      "pt-BR": "Confira os dedos reconstruídos e o fundo antes oculto em tamanho real."
+    },
+    {
+      "en": "Source settings: `size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "zh-CN": "来源参数：`size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "zh-TW": "來源參數：`size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "ja": "出典の設定：`size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "ko": "출처 설정: `size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "fr": "Paramètres de la source : `size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "de": "Einstellungen der Quelle: `size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "es": "Ajustes de la fuente: `size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "pt-BR": "Configurações da fonte: `size=\"1024x1536\"`, `quality=\"medium\"`."
+    }
+  ],
+  "source": {
+    "platform": "documentation",
+    "author": "OpenAI",
+    "url": "https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object",
+    "prompt_url": "https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object",
+    "checked_at": "2026-09-13T16:20:44.580Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "post_language": "en"
+  },
+  "previews": [
+    {
+      "url": "https://developers.openai.com/images/platform/guides/image-prompting/man-with-no-flower-gpt-image-2-5-sunburst.webp",
+      "kind": "source-result",
+      "credit": "OpenAI — official guide example",
+      "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object"
+    }
+  ],
+  "references": [
+    {
+      "url": "https://developers.openai.com/images/platform/guides/image-prompting/man-with-blue-hat.webp",
+      "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object",
+      "credit": "OpenAI — source input"
+    }
+  ],
+  "engagement": {
+    "likes": null,
+    "reposts": null,
+    "replies": null,
+    "bookmarks": null,
+    "views": null,
+    "observed_at": "2026-09-13T16:20:44.580Z",
+    "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#remove-an-object",
+    "method": "Official documentation has no public social engagement counters."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and linked media remain subject to their source terms. Attribution does not grant a license to the source inputs or results."
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:20:44.580Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 4,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 4,
+      "distinctiveness": 2
+    },
+    "rationale": "A concrete occlusion-removal example with input and result, useful for inspecting hand reconstruction. Control method is clear but not novel."
+  },
+  "translation_meta": {
+    "source_digest": "7859827dc6dd44eb8d1a968fa4297b56d24235fa3a157b3a9aade639ccb6c182",
+    "text_digests": {
+      "zh-CN": "dc65632d964d01f257f18bb7d4b5675ba5e5556073cc5da8dd98445dc9f894bb",
+      "zh-TW": "d0975a560ba76066c55de6c850da47844a76359b11091392272c46651ad22ad5",
+      "ja": "b8ce88bbea3777a238cb61cb721b19c2ec0de9b878cea3334275297c6a1247db",
+      "ko": "f54bc45d344de2503c31bf0a8d17b0ffd9e6ed7f9913398ab724018e45431b79",
+      "fr": "ef067b69f8a3e19567a5bcf2d716f474cc24316bac0e1e02d0c84b99830758cf",
+      "de": "65232b628913647212376acd77e6adb8e94326b996d80fa6d16956810ba7f364",
+      "es": "8bd744148e44cb6f1ea730cfd8e57c9681f4ac3536822399fc6cb7212836c692",
+      "pt-BR": "c4ad098ffa93785ed6c73a71afa3d6fc4e9ae132b3cfd5aa78391dd09bc62dbe"
+    }
+  }
+}

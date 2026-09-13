@@ -1,17 +1,18 @@
 # Roadmap
 
-The repository is the public content source for [Image 2.5](https://image-2-5.com).
-These are planned directions, not implemented website features or deadlines.
+- [x] Complete galleries in nine languages and useful bilingual standalone pages.
+- [x] One multilingual body and a versioned export without legacy aliases.
+- [x] Editorial quality ordering, diverse featured links and collapsed exploration.
+- [x] Source inputs separated from result previews, dated provenance and metrics.
+- [x] Contextual links to verified online details, with a gallery fallback for new cases.
+- [x] Add paired official editing examples and reconsider low-engagement recipes.
+- [ ] Import catalog version 2 into the website and apply its content placement rules.
+- [ ] Independently reproduce selected recipes after model/spending authorization.
+- [ ] Run the first two-week theme-based distribution experiment after publication approval.
+- [ ] Add further distinct product, typography and architectural sketch recipes when evidence is complete.
 
-- [x] Complete image-first galleries in nine languages with stable case anchors.
-- [x] Source-linked prompt pages with reference requirements and dated X metrics.
-- [x] Structured multilingual catalog with compatible English/Chinese projections and automated validation.
-- [ ] Add more distinctive, source-verified product, typography, and editing cases.
-- [ ] Independently reproduce selected prompts and attach input/settings/output evidence.
-- [ ] Add a dedicated prompt page on image-2-5.com with visual browsing and filters.
-- [ ] Add prompt copying and generation handoff on that page.
-- [ ] Update the shared destination URL when that page is live.
-
-The first website integration can import the checked-in catalog at build time.
-No separate database, scheduled scraping service, or contributor account system
-is required to begin validating demand.
+The [online gallery](https://image-2-5.com/gpt-image-2-5-prompts), detail pages,
+copying and generation handoff already exist. They use a pinned data snapshot;
+new repository cases require a separate website import and release. GIF assembly
+and editable document export are external workflow steps, not promised gallery
+features. Roadmap items are directions, not delivery deadlines.

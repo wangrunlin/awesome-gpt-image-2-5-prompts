@@ -1,13 +1,26 @@
 {
-  "schema_version": 1,
   "id": "beach-w-sit-pose",
   "title": {
     "en": "Beach portrait with a W-sitting pose",
-    "zh": "海滩鸭子坐姿人像"
+    "zh-CN": "海滩鸭子坐姿人像",
+    "zh-TW": "海灘人像，W形坐姿",
+    "ja": "W字座りのビーチポートレート",
+    "ko": "W자 자세로 앉은 해변 인물 사진",
+    "fr": "Portrait de plage en position assise en W",
+    "de": "Strandporträt in W-förmiger Sitzhaltung",
+    "es": "Retrato de playa con postura en W",
+    "pt-BR": "Retrato de praia com pose sentada em forma de W"
   },
   "summary": {
     "en": "Explore a short Chinese pose instruction combined with emoji scene cues.",
-    "zh": "探索结合表情符号场景提示的简短中文姿势说明。"
+    "zh-CN": "探索结合表情符号场景提示的简短中文姿势说明。",
+    "zh-TW": "探索結合表情符號場景提示的簡短中文姿勢說明。",
+    "ja": "絵文字のシーンキューと組み合わせた短い中国語のポーズ指示を検討してください。",
+    "ko": "이모지 장면 단서와 결합된 간단한 중국어 포즈 지침을 살펴보세요.",
+    "fr": "Explorer une courte instruction de pose en chinois combinée à des indications de scène par emoji.",
+    "de": "Entdecken Sie eine kurze chinesische Posenanleitung mit Emoji-Szenenhinweisen.",
+    "es": "Explora una breve instrucción de pose china combinada con emojis.",
+    "pt-BR": "Explore uma breve instrução de pose em chinês combinada com dicas de cena em emoji."
   },
   "category": "photography",
   "tags": [
@@ -15,7 +28,6 @@
     "generate"
   ],
   "mode": "generate",
-  "featured": true,
   "model": {
     "family": "GPT Image 2.5",
     "variant": null,
@@ -31,7 +43,14 @@
     "steps": [
       {
         "en": "W-sitting pose（W-sit）🏝️👙😜🦵🫰🍋🥤",
-        "zh": "鸭子坐（W-sit）🏝️👙😜🦵🫰🍋🥤"
+        "zh-CN": "鸭子坐（W-sit）🏝️👙😜🦵🫰🍋🥤",
+        "zh-TW": "鴨子坐（W-sit）🏝️👙😜🦵🫰🍋🥤",
+        "ja": "アヒル座り（W座り）🏝️👙😜🦵🫰🍋🥤",
+        "ko": "오리 앉기 (W-sit) 🏝️👙😜🦵🫰🍋🥤",
+        "fr": "Canard assis (position en W) 🏝️👙😜🦵🫰🍋🥤",
+        "de": "Ente sitzend (W-sitzen) 🏝️👙😜🦵🫰🍋🥤",
+        "es": "Pato sentado (W-sit) 🏝️👙😜🦵🫰🍋🥤",
+        "pt-BR": "Pato Sentado (W-sit) 🏝️👙😜🦵🫰🍋🥤"
       }
     ]
   },
@@ -39,11 +58,25 @@
   "notes": [
     {
       "en": "The original is a short Chinese prompt with emoji cues. The main post supplies no additional detailed prompt and specifies no required reference image.",
-      "zh": "原文是包含表情符号场景提示的简短中文提示词。主帖没有提供更详细的提示词，也没有指定必需的参考图片。"
+      "zh-CN": "原文是包含表情符号场景提示的简短中文提示词。主帖没有提供更详细的提示词，也没有指定必需的参考图片。",
+      "zh-TW": "原文是包含表情符號場景提示的簡短中文提示詞。主帖沒有提供更詳細的提示詞，也沒有指定必需的參考圖片。",
+      "ja": "原文は、絵文字で場面を示す短い中国語のプロンプトです。メイン投稿には、さらに詳しいプロンプトは掲載されておらず、必須の参照画像も指定されていません。",
+      "ko": "원문은 이모지로 장면을 나타내는 짧은 중국어 프롬프트입니다. 본문에는 더 자세한 프롬프트가 없으며, 필수 참고 이미지도 지정되어 있지 않습니다.",
+      "fr": "Le texte original est un court prompt en chinois avec des indications de scène sous forme d’émojis. La publication principale ne fournit pas de prompt plus détaillé et ne précise aucune image de référence obligatoire.",
+      "de": "Das Original ist ein kurzer chinesischer Prompt mit Emojis als Szenenhinweisen. Der Hauptbeitrag enthält keinen ausführlicheren Prompt und nennt kein erforderliches Referenzbild.",
+      "es": "El original es un breve prompt en chino con emojis que indican la escena. La publicación principal no ofrece un prompt más detallado ni especifica una imagen de referencia obligatoria.",
+      "pt-BR": "O original é um prompt curto em chinês com emojis que indicam a cena. A postagem principal não fornece um prompt mais detalhado nem especifica uma imagem de referência obrigatória."
     },
     {
       "en": "This preview and its engagement belong to the September 9 GPT Image 2.5 post, not the quoted September 2 GPT Image 2 example.",
-      "zh": "此预览及其互动属于9月9日的GPT Image 2.5帖子，而非引用的9月2日GPT Image 2示例。"
+      "zh-CN": "此预览及其互动属于9月9日的GPT Image 2.5帖子，而非引用的9月2日GPT Image 2示例。",
+      "zh-TW": "此預覽及其互動屬於9月9日的GPT Image 2.5帖子，而非引用的9月2日GPT Image 2範例。",
+      "ja": "このプレビューとそのエンゲージメントは、9月9日のGPT Image 2.5投稿のものであり、引用されている9月2日のGPT画像2の例とは異なります。",
+      "ko": "이 미리보기 및 관련 내용은 9월 9일 GPT Image 2.5 게시물에 속하며, 9월 2일 인용된 GPT 이미지 2 예시와는 관련이 없습니다.",
+      "fr": "Cet aperçu et son interaction appartiennent au message GPT Image 2.5 du 9 septembre, et non à l'exemple cité du 2 septembre (Image 2 de GPT).",
+      "de": "Diese Vorschau und die dazugehörige Interaktion beziehen sich auf den Beitrag GPT Image 2.5 vom 9. September und nicht auf das zitierte Beispielbild GPT vom 2. September.",
+      "es": "Esta vista previa y su interacción pertenecen a la publicación GPT Image 2.5 del 9 de septiembre, no al ejemplo de la Imagen 2 de GPT del 2 de septiembre citado.",
+      "pt-BR": "Esta prévia e seu engajamento pertencem à postagem GPT Image 2.5 de 9 de setembro, não ao exemplo citado da Imagem 2 do GPT de 2 de setembro."
     }
   ],
   "source": {
@@ -82,104 +115,45 @@
     "status": "third-party-terms",
     "note": "Third-party prompts and media retain their creators’ rights; external previews are linked, not relicensed."
   },
-  "localizations": {
-    "zh-TW": {
-      "title": "海灘人像，W形坐姿",
-      "summary": "探索結合表情符號場景提示的簡短中文姿勢說明。",
-      "steps": [
-        "鴨子坐（W-sit）🏝️👙😜🦵🫰🍋🥤"
-      ],
-      "inputs": [],
-      "notes": [
-        "原文是包含表情符號場景提示的簡短中文提示詞。主帖沒有提供更詳細的提示詞，也沒有指定必需的參考圖片。",
-        "此預覽及其互動屬於9月9日的GPT Image 2.5帖子，而非引用的9月2日GPT Image 2範例。"
-      ],
-      "source_digest": "0a60da6bd3b17bb8e1da707ae7a4ea9bc0956967617372fa40c38405131fd1d5",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+  "translation_meta": {
+    "source_digest": "12ebccd750e0c2d3e246e3b3afe40b2bf65bbd175aade333d5758f0a0a755642",
+    "text_digests": {
+      "zh-CN": "a910ff18ce8fd1547b8aecfb9c945eac909be3c5a92482b8fc6108a4a1c5abb0",
+      "zh-TW": "15a6496f717e5e0fc8b83315eb2923116b2adfde4c49a985e8812b010f5559d7",
+      "ja": "a248e342fdfc7ae803aa3b975ce1624bcaec30fb7eb95b7daf8182797dcb220b",
+      "ko": "71081a6f57a2401831fc8ca943be3fa9273665173742856cabdd493530994422",
+      "fr": "d11bb6d00b0a2bc75f8825d1e1a6e84c0522d5a6713ad8d6217cefee46d2b817",
+      "de": "f7f2f0833c311f7c9a5d0926d3733e04ef0d4ba3167fff49b8d4154f22768015",
+      "es": "0d0f33569ad63c6e372e58ceb4a8be6f6dfccd0001b373f21b97a9dfea65119e",
+      "pt-BR": "59b80ff81724b264955f4e7299dec3c7d204ff071961654767565008a51d68ee"
+    }
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:12:37.851Z",
+    "decision": "hold",
+    "content_flags": [
+      "suggestive"
+    ],
+    "educational": false,
+    "ratings": {
+      "reuse": 1,
+      "result": 2,
+      "usefulness": 1,
+      "clarity": 1,
+      "distinctiveness": 1
     },
-    "ja": {
-      "title": "W字座りのビーチポートレート",
-      "summary": "絵文字のシーンキューと組み合わせた短い中国語のポーズ指示を検討してください。",
-      "steps": [
-        "アヒル座り（W座り）🏝️👙😜🦵🫰🍋🥤"
-      ],
-      "inputs": [],
-      "notes": [
-        "原文は、絵文字で場面を示す短い中国語のプロンプトです。メイン投稿には、さらに詳しいプロンプトは掲載されておらず、必須の参照画像も指定されていません。",
-        "このプレビューとそのエンゲージメントは、9月9日のGPT Image 2.5投稿のものであり、引用されている9月2日のGPT画像2の例とは異なります。"
-      ],
-      "source_digest": "0a60da6bd3b17bb8e1da707ae7a4ea9bc0956967617372fa40c38405131fd1d5",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ko": {
-      "title": "W자 자세로 앉은 해변 인물 사진",
-      "summary": "이모지 장면 단서와 결합된 간단한 중국어 포즈 지침을 살펴보세요.",
-      "steps": [
-        "오리 앉기 (W-sit) 🏝️👙😜🦵🫰🍋🥤"
-      ],
-      "inputs": [],
-      "notes": [
-        "원문은 이모지로 장면을 나타내는 짧은 중국어 프롬프트입니다. 본문에는 더 자세한 프롬프트가 없으며, 필수 참고 이미지도 지정되어 있지 않습니다.",
-        "이 미리보기 및 관련 내용은 9월 9일 GPT Image 2.5 게시물에 속하며, 9월 2일 인용된 GPT 이미지 2 예시와는 관련이 없습니다."
-      ],
-      "source_digest": "0a60da6bd3b17bb8e1da707ae7a4ea9bc0956967617372fa40c38405131fd1d5",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "fr": {
-      "title": "Portrait de plage en position assise en W",
-      "summary": "Explorer une courte instruction de pose en chinois combinée à des indications de scène par emoji.",
-      "steps": [
-        "Canard assis (position en W) 🏝️👙😜🦵🫰🍋🥤"
-      ],
-      "inputs": [],
-      "notes": [
-        "Le texte original est un court prompt en chinois avec des indications de scène sous forme d’émojis. La publication principale ne fournit pas de prompt plus détaillé et ne précise aucune image de référence obligatoire.",
-        "Cet aperçu et son interaction appartiennent au message GPT Image 2.5 du 9 septembre, et non à l'exemple cité du 2 septembre (Image 2 de GPT)."
-      ],
-      "source_digest": "0a60da6bd3b17bb8e1da707ae7a4ea9bc0956967617372fa40c38405131fd1d5",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "de": {
-      "title": "Strandporträt in W-förmiger Sitzhaltung",
-      "summary": "Entdecken Sie eine kurze chinesische Posenanleitung mit Emoji-Szenenhinweisen.",
-      "steps": [
-        "Ente sitzend (W-sitzen) 🏝️👙😜🦵🫰🍋🥤"
-      ],
-      "inputs": [],
-      "notes": [
-        "Das Original ist ein kurzer chinesischer Prompt mit Emojis als Szenenhinweisen. Der Hauptbeitrag enthält keinen ausführlicheren Prompt und nennt kein erforderliches Referenzbild.",
-        "Diese Vorschau und die dazugehörige Interaktion beziehen sich auf den Beitrag GPT Image 2.5 vom 9. September und nicht auf das zitierte Beispielbild GPT vom 2. September."
-      ],
-      "source_digest": "0a60da6bd3b17bb8e1da707ae7a4ea9bc0956967617372fa40c38405131fd1d5",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "es": {
-      "title": "Retrato de playa con postura en W",
-      "summary": "Explora una breve instrucción de pose china combinada con emojis.",
-      "steps": [
-        "Pato sentado (W-sit) 🏝️👙😜🦵🫰🍋🥤"
-      ],
-      "inputs": [],
-      "notes": [
-        "El original es un breve prompt en chino con emojis que indican la escena. La publicación principal no ofrece un prompt más detallado ni especifica una imagen de referencia obligatoria.",
-        "Esta vista previa y su interacción pertenecen a la publicación GPT Image 2.5 del 9 de septiembre, no al ejemplo de la Imagen 2 de GPT del 2 de septiembre citado."
-      ],
-      "source_digest": "0a60da6bd3b17bb8e1da707ae7a4ea9bc0956967617372fa40c38405131fd1d5",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "pt-BR": {
-      "title": "Retrato de praia com pose sentada em forma de W",
-      "summary": "Explore uma breve instrução de pose em chinês combinada com dicas de cena em emoji.",
-      "steps": [
-        "Pato Sentado (W-sit) 🏝️👙😜🦵🫰🍋🥤"
-      ],
-      "inputs": [],
-      "notes": [
-        "O original é um prompt curto em chinês com emojis que indicam a cena. A postagem principal não fornece um prompt mais detalhado nem especifica uma imagem de referência obrigatória.",
-        "Esta prévia e seu engajamento pertencem à postagem GPT Image 2.5 de 9 de setembro, não ao exemplo citado da Imagem 2 do GPT de 2 de setembro."
-      ],
-      "source_digest": "0a60da6bd3b17bb8e1da707ae7a4ea9bc0956967617372fa40c38405131fd1d5",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    "rationale": "Hold: a sexualized pose preview has no confirmed adult subject in the archived source wording; the emoji-only scene brief also leaves key reproduction details unspecified.",
+    "notice": {
+      "en": "Temporarily withheld: adult age is not established for the sexualized pose, and the brief is insufficient for reliable reuse.",
+      "zh-CN": "暂缓展示：性化姿态的人物缺少成年年龄依据，简短指令也不足以可靠复用。",
+      "zh-TW": "暫緩展示：性化姿態的人物缺少成年年齡依據，簡短指令也不足以可靠重用。",
+      "ja": "一時非掲載：性的なポーズの人物が成人である根拠がなく、短い指示では十分に再利用できません。",
+      "ko": "임시 보류: 성적인 포즈의 인물이 성인인지 확인되지 않으며 짧은 지시도 안정적으로 재사용하기에 부족합니다.",
+      "fr": "Publication suspendue : l’âge adulte du sujet sexualisé n’est pas établi et la consigne est insuffisante pour une réutilisation fiable.",
+      "de": "Vorläufig zurückgestellt: Das Erwachsenenalter der sexualisiert dargestellten Person ist unbelegt; die knappe Anweisung reicht für zuverlässige Wiederverwendung nicht aus.",
+      "es": "En espera: no está acreditada la edad adulta del sujeto sexualizado y la instrucción es insuficiente para reutilizarla con fiabilidad.",
+      "pt-BR": "Em espera: a idade adulta da pessoa sexualizada não está estabelecida e a instrução é insuficiente para reutilização confiável."
     }
   }
 }

@@ -1,0 +1,170 @@
+{
+  "id": "reference-dog-composite",
+  "title": {
+    "en": "Combine two references with matching light",
+    "zh-CN": "双参考图合成并匹配光线",
+    "zh-TW": "雙參考圖合成並匹配光線",
+    "ja": "光を合わせて2枚の参照画像を合成",
+    "ko": "조명을 맞추는 두 참조 이미지 합성",
+    "fr": "Assembler deux références avec un éclairage cohérent",
+    "de": "Zwei Referenzen mit passendem Licht kombinieren",
+    "es": "Combinar dos referencias con iluminación coherente",
+    "pt-BR": "Combinar duas referências com iluminação coerente"
+  },
+  "summary": {
+    "en": "Name the donor image, destination and position before asking for a local composite.",
+    "zh-CN": "局部合成前明确主体来源图、目标图及放置位置。",
+    "zh-TW": "局部合成前明確指定主體來源圖、目標圖及放置位置。",
+    "ja": "部分合成の前に、移す対象の画像、配置先、位置を指定する。",
+    "ko": "부분 합성 전에 대상이 있는 이미지, 배경 이미지와 배치 위치를 지정합니다.",
+    "fr": "Indiquer l’image source, la destination et la position avant une composition locale.",
+    "de": "Quellbild, Zielbild und Position vor einer lokalen Montage benennen.",
+    "es": "Indicar la imagen de origen, el destino y la posición antes de componer.",
+    "pt-BR": "Indicar a imagem de origem, o destino e a posição antes da composição."
+  },
+  "category": "editing",
+  "tags": [
+    "official-guide",
+    "reference-dog-composite"
+  ],
+  "mode": "edit",
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": "sunburst",
+    "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#combine-references",
+    "evidence": "The OpenAI image prompting guide labels the linked result GPT Image 2.5 Sunburst. This repository did not generate it."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else.",
+        "zh-CN": "将第二张图片中的狗放入图片 1 的场景中，紧挨着那位女性，使用相同的光线、构图和背景风格。不要改变任何其他内容。",
+        "zh-TW": "將第二張圖片中的狗放入圖片 1 的場景中，緊挨著那位女性，使用相同的光線、構圖和背景風格。不要改變任何其他內容。",
+        "ja": "2枚目の画像の犬を画像1の場面に移し、女性のすぐ隣に配置してください。照明、構図、背景のスタイルを合わせてください。他は何も変えないでください。",
+        "ko": "두 번째 이미지의 개를 이미지 1의 장면 속 여성 바로 옆에 배치하세요. 조명, 구도와 배경 스타일을 동일하게 맞추세요. 다른 것은 바꾸지 마세요.",
+        "fr": "Placez le chien de la deuxième image dans la scène de l’image 1, juste à côté de la femme, avec le même style d’éclairage, de composition et d’arrière-plan. Ne changez rien d’autre.",
+        "de": "Platziere den Hund aus dem zweiten Bild in der Umgebung von Bild 1 direkt neben der Frau. Übernimm den Stil von Beleuchtung, Komposition und Hintergrund. Ändere sonst nichts.",
+        "es": "Coloca al perro de la segunda imagen en la escena de la imagen 1, justo al lado de la mujer, con el mismo estilo de iluminación, composición y fondo. No cambies nada más.",
+        "pt-BR": "Coloque o cachorro da segunda imagem na cena da imagem 1, bem ao lado da mulher, usando o mesmo estilo de iluminação, composição e fundo. Não altere mais nada."
+      }
+    ],
+    "original_language": "en",
+    "original_steps": [
+      "Place the dog from the second image into the setting of image 1, right next to the woman, use the same style of lighting, composition and background. Do not change anything else."
+    ]
+  },
+  "inputs": [
+    {
+      "en": "Upload the linked references in order: street scene first, dog source second.",
+      "zh-CN": "按顺序上传下方参考图：街景在前，狗的来源图在后。",
+      "zh-TW": "按順序上傳下方參考圖：街景在前，狗的來源圖在後。",
+      "ja": "参照画像を順番にアップロードしてください。1枚目は街の場面、2枚目は犬の画像です。",
+      "ko": "참조 이미지를 순서대로 업로드하세요. 거리 장면이 첫 번째, 개가 있는 이미지가 두 번째입니다.",
+      "fr": "Téléversez les références dans l’ordre : la rue, puis l’image contenant le chien.",
+      "de": "Lade die Referenzen in dieser Reihenfolge hoch: Straßenszene, dann das Bild mit dem Hund.",
+      "es": "Sube las referencias en orden: primero la escena callejera, después la imagen del perro.",
+      "pt-BR": "Envie as referências na ordem: primeiro a cena de rua, depois a imagem com o cachorro."
+    }
+  ],
+  "notes": [
+    {
+      "en": "Check dog identity, contact shadows and unchanged background details against both inputs.",
+      "zh-CN": "对照两张输入图检查狗的外观、接触阴影及应保持不变的背景细节。",
+      "zh-TW": "對照兩張輸入圖檢查狗的外觀、接觸陰影及應保持不變的背景細節。",
+      "ja": "両方の入力と比較し、犬の外見、接地影、変更しない背景の細部を確認してください。",
+      "ko": "두 입력 이미지와 비교하여 개의 외모, 접촉 그림자, 유지해야 할 배경 세부를 확인하세요.",
+      "fr": "Comparez aux deux entrées : identité du chien, ombres de contact et détails du fond à préserver.",
+      "de": "Prüfe anhand beider Eingaben Identität des Hundes, Kontaktschatten und unveränderte Hintergrunddetails.",
+      "es": "Compara con ambas entradas la identidad del perro, las sombras de contacto y el fondo que debe conservarse.",
+      "pt-BR": "Compare com ambas as entradas a identidade do cachorro, as sombras de contato e os detalhes do fundo que devem permanecer."
+    },
+    {
+      "en": "Source settings: `size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "zh-CN": "来源参数：`size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "zh-TW": "來源參數：`size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "ja": "出典の設定：`size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "ko": "출처 설정: `size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "fr": "Paramètres de la source : `size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "de": "Einstellungen der Quelle: `size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "es": "Ajustes de la fuente: `size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "pt-BR": "Configurações da fonte: `size=\"1024x1536\"`, `quality=\"medium\"`."
+    }
+  ],
+  "source": {
+    "platform": "documentation",
+    "author": "OpenAI",
+    "url": "https://developers.openai.com/api/docs/guides/image-prompting#combine-references",
+    "prompt_url": "https://developers.openai.com/api/docs/guides/image-prompting#combine-references",
+    "checked_at": "2026-09-13T16:20:44.579Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "post_language": "en"
+  },
+  "previews": [
+    {
+      "url": "https://developers.openai.com/images/platform/guides/image-prompting/test-woman-with-dog-gpt-image-2-5-sunburst.webp",
+      "kind": "source-result",
+      "credit": "OpenAI — official guide example",
+      "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#combine-references"
+    }
+  ],
+  "references": [
+    {
+      "url": "https://developers.openai.com/images/platform/guides/image-prompting/test-woman.webp",
+      "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#combine-references",
+      "credit": "OpenAI — source input"
+    },
+    {
+      "url": "https://developers.openai.com/images/platform/guides/image-prompting/test-woman-2.webp",
+      "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#combine-references",
+      "credit": "OpenAI — source input"
+    }
+  ],
+  "engagement": {
+    "likes": null,
+    "reposts": null,
+    "replies": null,
+    "bookmarks": null,
+    "views": null,
+    "observed_at": "2026-09-13T16:20:44.579Z",
+    "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#combine-references",
+    "method": "Official documentation has no public social engagement counters."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and linked media remain subject to their source terms. Attribution does not grant a license to the source inputs or results."
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:20:44.579Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 4,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 4,
+      "distinctiveness": 3
+    },
+    "rationale": "Both inputs and a paired result are present. Explicit ordering and placement make subject transfer reproducible; background invariance still needs close comparison."
+  },
+  "translation_meta": {
+    "source_digest": "b9788444725b7a3e2e88ffce7b25d82a74d9ce23528570c89fbf6ecd738889f6",
+    "text_digests": {
+      "zh-CN": "248020298cbe0982d4cd35a58f1f3b395b985848714060a07214c6170ede9b75",
+      "zh-TW": "03c3747b21135058e681b88dbf508de2f53feee74799dec99c837c3aacb29466",
+      "ja": "db0159acf0eb9b72f4884d2537c92bd77e5ce013afc663dc3d27190d6c6500fe",
+      "ko": "25ac4cce523c8b18f5df83a60974cec5058e54b247f74aa5c965bb2817151b94",
+      "fr": "bdc61ae3d488f35dd6d9c35dd635c3dd8c09ebd1591fd0da204a4b009d009083",
+      "de": "1eeefeb8cf90493f362b836588766d99827155cd886147242cf18d0b20f9720b",
+      "es": "6c9e995b14d16058e04a59033cb46be104180ad47c6cabdc9b9e4a7661ae6979",
+      "pt-BR": "9180246696122767f147e62294ad87097e974b35e5f64959a2174f146db1e2f8"
+    }
+  }
+}

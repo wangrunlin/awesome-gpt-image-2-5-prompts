@@ -1,0 +1,198 @@
+{
+  "id": "billboard-seasonal-iteration",
+  "title": {
+    "en": "A billboard across two seasons",
+    "zh-CN": "广告牌跨季节迭代",
+    "zh-TW": "廣告看板跨季節迭代",
+    "ja": "看板を2つの季節で展開",
+    "ko": "두 계절에 걸친 광고판 수정",
+    "fr": "Décliner un panneau publicitaire en deux saisons",
+    "de": "Ein Werbeplakat in zwei Jahreszeiten",
+    "es": "Un anuncio en dos estaciones",
+    "pt-BR": "Um outdoor em duas estações"
+  },
+  "summary": {
+    "en": "Set exact advertising copy, then change weather in a follow-up edit.",
+    "zh-CN": "先指定精确广告文字，再通过后续编辑改变天气。",
+    "zh-TW": "先指定精確廣告文字，再透過後續編輯改變天氣。",
+    "ja": "広告文を正確に指定し、その後の編集で天候を変える。",
+    "ko": "광고 문구를 정확히 지정한 후 후속 편집으로 날씨를 바꿉니다.",
+    "fr": "Fixer le texte exact, puis modifier la météo lors d’une retouche suivante.",
+    "de": "Exakten Werbetext festlegen und danach das Wetter bearbeiten.",
+    "es": "Fijar el texto exacto y después cambiar el clima en una edición posterior.",
+    "pt-BR": "Definir o texto exato e depois alterar o clima em uma edição posterior."
+  },
+  "category": "products",
+  "tags": [
+    "official-guide",
+    "typography",
+    "multi-turn"
+  ],
+  "mode": "workflow",
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": "sunburst",
+    "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image",
+    "evidence": "The OpenAI image prompting guide labels the linked result GPT Image 2.5 Sunburst. This repository did not generate it."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "Create a realistic billboard mockup of the shampoo on a highway scene during sunset.\nBillboard text (EXACT, verbatim, no extra characters):\n\"Fresh and clean\"\nTypography: bold sans-serif, high contrast, centered, clean kerning.\nEnsure text appears once and is perfectly legible.\nNo watermarks, no logos.",
+        "zh-CN": "制作一张真实的洗发水广告牌样机，置于日落时的公路场景中。\n广告牌文字（精确、逐字、不加任何字符）：\n\"Fresh and clean\"\n排版：粗体无衬线、高对比、居中、字距整洁。\n确保文字只出现一次，并且完全清晰可读。\n不要水印，不要标志。",
+        "zh-TW": "製作一張真實的洗髮精廣告看板示意圖，置於日落時的公路場景中。\n看板文字（精確、逐字、不加任何字元）：\n\"Fresh and clean\"\n排版：粗體無襯線、高對比、置中、字距整潔。\n確保文字只出現一次，並且完全清晰可讀。\n不要浮水印，不要標誌。",
+        "ja": "日没の高速道路を背景に、シャンプーの看板のリアルなモックアップを作成してください。\n看板の文字（正確に、そのまま、余分な文字なし）：\n\"Fresh and clean\"\n文字組み：太字サンセリフ、高コントラスト、中央揃え、きれいなカーニング。\n文字は1回だけ表示し、完全に読みやすくしてください。\n透かしやロゴは不要です。",
+        "ko": "해 질 무렵 고속도로 장면에 샴푸 광고판의 사실적인 목업을 만드세요.\n광고판 문구(정확하게, 그대로, 추가 문자 없이):\n\"Fresh and clean\"\n타이포그래피: 굵은 산세리프, 높은 대비, 가운데 정렬, 깔끔한 자간.\n문구는 한 번만 나타나고 완벽히 읽을 수 있어야 합니다.\n워터마크와 로고는 넣지 마세요.",
+        "fr": "Créez une maquette réaliste d’un panneau publicitaire pour le shampooing sur une autoroute au coucher du soleil.\nTexte du panneau (EXACT, mot pour mot, sans caractères supplémentaires) :\n\"Fresh and clean\"\nTypographie : sans empattement gras, contraste élevé, centrée, crénage soigné.\nLe texte doit apparaître une seule fois et être parfaitement lisible.\nAucun filigrane, aucun logo.",
+        "de": "Erstelle ein realistisches Werbeplakat-Mockup für das Shampoo an einer Autobahn bei Sonnenuntergang.\nPlakattext (EXAKT, wortgetreu, keine zusätzlichen Zeichen):\n\"Fresh and clean\"\nTypografie: fette serifenlose Schrift, hoher Kontrast, zentriert, sauberes Kerning.\nDer Text soll genau einmal erscheinen und perfekt lesbar sein.\nKeine Wasserzeichen, keine Logos.",
+        "es": "Crea una maqueta realista de una valla publicitaria del champú en una autopista al atardecer.\nTexto de la valla (EXACTO, literal, sin caracteres adicionales):\n\"Fresh and clean\"\nTipografía: sans serif en negrita, alto contraste, centrada, interletraje limpio.\nEl texto debe aparecer una sola vez y ser perfectamente legible.\nSin marcas de agua ni logotipos.",
+        "pt-BR": "Crie uma maquete realista de um outdoor do xampu em uma rodovia ao pôr do sol.\nTexto do outdoor (EXATO, literal, sem caracteres extras):\n\"Fresh and clean\"\nTipografia: sem serifa em negrito, alto contraste, centralizada, kerning limpo.\nO texto deve aparecer uma única vez e ser perfeitamente legível.\nSem marcas d’água nem logotipos."
+      },
+      {
+        "en": "Make it look like a winter evening with snowfall.",
+        "zh-CN": "让它呈现下雪的冬日傍晚景象。",
+        "zh-TW": "讓它呈現下雪的冬日傍晚景象。",
+        "ja": "雪が降る冬の夕方のようにしてください。",
+        "ko": "눈이 내리는 겨울 저녁처럼 바꾸세요.",
+        "fr": "Donnez-lui l’aspect d’une soirée d’hiver avec des chutes de neige.",
+        "de": "Lass es wie einen Winterabend mit Schneefall aussehen.",
+        "es": "Haz que parezca una tarde de invierno con nieve.",
+        "pt-BR": "Faça parecer uma noite de inverno com neve caindo."
+      }
+    ],
+    "original_language": "en",
+    "original_steps": [
+      "Create a realistic billboard mockup of the shampoo on a highway scene during sunset.\nBillboard text (EXACT, verbatim, no extra characters):\n\"Fresh and clean\"\nTypography: bold sans-serif, high contrast, centered, clean kerning.\nEnsure text appears once and is perfectly legible.\nNo watermarks, no logos.",
+      "Make it look like a winter evening with snowfall."
+    ],
+    "preserved_literals": [
+      "Fresh and clean"
+    ]
+  },
+  "inputs": [
+    {
+      "en": "Upload the shampoo photograph linked below, or your own product photograph.",
+      "zh-CN": "上传下方洗发水照片，或自己的产品照片。",
+      "zh-TW": "上傳下方洗髮精照片，或自己的產品照片。",
+      "ja": "下記のシャンプー写真、または自分の商品写真をアップロードしてください。",
+      "ko": "아래 샴푸 사진 또는 본인 제품 사진을 업로드하세요.",
+      "fr": "Téléversez la photo de shampooing ci-dessous ou votre propre photo de produit.",
+      "de": "Lade das unten verlinkte Shampoo-Foto oder dein eigenes Produktfoto hoch.",
+      "es": "Sube la foto del champú enlazada abajo o una foto de tu propio producto.",
+      "pt-BR": "Envie a foto do xampu no link abaixo ou uma foto do seu próprio produto."
+    },
+    {
+      "en": "Step 2 edits the output of step 1. Keep the image in the same conversation or upload it again.",
+      "zh-CN": "第 2 步编辑第 1 步的结果。保留同一对话中的图像，或再次上传该图。",
+      "zh-TW": "第 2 步編輯第 1 步的結果。保留同一對話中的影像，或再次上傳該圖。",
+      "ja": "手順2は手順1の出力を編集します。同じ会話で画像を保持するか、再アップロードしてください。",
+      "ko": "2단계는 1단계 결과를 편집합니다. 같은 대화에서 이미지를 유지하거나 다시 업로드하세요.",
+      "fr": "L’étape 2 modifie le résultat de l’étape 1. Gardez l’image dans la même conversation ou téléversez-la à nouveau.",
+      "de": "Schritt 2 bearbeitet das Ergebnis von Schritt 1. Behalte das Bild im selben Gespräch oder lade es erneut hoch.",
+      "es": "El paso 2 edita el resultado del paso 1. Conserva la imagen en la misma conversación o vuelve a subirla.",
+      "pt-BR": "A etapa 2 edita o resultado da etapa 1. Mantenha a imagem na mesma conversa ou envie-a novamente."
+    }
+  ],
+  "notes": [
+    {
+      "en": "Keep \"Fresh and clean\" in English in every language. Compare wording and billboard geometry after the winter edit.",
+      "zh-CN": "所有语言版本都保留英文 \"Fresh and clean\"。冬景编辑后对照检查文字与广告牌几何形状。",
+      "zh-TW": "所有語言版本都保留英文 \"Fresh and clean\"。冬景編輯後對照檢查文字與看板幾何形狀。",
+      "ja": "どの言語でも \"Fresh and clean\" は英語のまま残してください。冬景色への編集後に文言と看板の形状を比較してください。",
+      "ko": "모든 언어에서 \"Fresh and clean\"은 영어로 유지하세요. 겨울 편집 후 문구와 광고판 형태를 비교하세요.",
+      "fr": "Conservez \"Fresh and clean\" en anglais dans toutes les langues. Comparez texte et géométrie du panneau après la retouche hivernale.",
+      "de": "Behalte \"Fresh and clean\" in jeder Sprache auf Englisch. Vergleiche nach der Winterbearbeitung Text und Plakatgeometrie.",
+      "es": "Mantén \"Fresh and clean\" en inglés en todos los idiomas. Compara el texto y la geometría de la valla tras la edición invernal.",
+      "pt-BR": "Mantenha \"Fresh and clean\" em inglês em todos os idiomas. Compare o texto e a geometria do outdoor após a edição de inverno."
+    },
+    {
+      "en": "Source settings: `size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "zh-CN": "来源参数：`size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "zh-TW": "來源參數：`size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "ja": "出典の設定：`size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "ko": "출처 설정: `size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "fr": "Paramètres de la source : `size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "de": "Einstellungen der Quelle: `size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "es": "Ajustes de la fuente: `size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "pt-BR": "Configurações da fonte: `size=\"1024x1536\"`, `quality=\"medium\"`."
+    }
+  ],
+  "source": {
+    "platform": "documentation",
+    "author": "OpenAI",
+    "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image",
+    "prompt_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image",
+    "checked_at": "2026-09-13T16:20:44.578Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "post_language": "en"
+  },
+  "previews": [
+    {
+      "url": "https://developers.openai.com/images/platform/guides/image-prompting/billboard-gpt-image-2-5-sunburst.webp",
+      "kind": "source-result",
+      "credit": "OpenAI — Create the starting image",
+      "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image"
+    },
+    {
+      "url": "https://developers.openai.com/images/platform/guides/image-prompting/billboard-winter-gpt-image-2-5-sunburst.webp",
+      "kind": "source-result",
+      "credit": "OpenAI — Change one condition",
+      "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image"
+    }
+  ],
+  "references": [
+    {
+      "url": "https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp",
+      "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image",
+      "credit": "OpenAI — source input"
+    }
+  ],
+  "engagement": {
+    "likes": null,
+    "reposts": null,
+    "replies": null,
+    "bookmarks": null,
+    "views": null,
+    "observed_at": "2026-09-13T16:20:44.578Z",
+    "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-the-starting-image",
+    "method": "Official documentation has no public social engagement counters."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and linked media remain subject to their source terms. Attribution does not grant a license to the source inputs or results."
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:20:44.578Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 4,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 4,
+      "distinctiveness": 3
+    },
+    "rationale": "Two paired results show a weather iteration after exact-copy placement. Input, sequence and settings are explicit; compare unchanged typography and bottle geometry rather than assuming invariance."
+  },
+  "translation_meta": {
+    "source_digest": "4d4abea69810ad07d9dea03dee54b1361c858a4a58c2c703fad31ce054e446a0",
+    "text_digests": {
+      "zh-CN": "c8e3858a909413ac114f278e37c5d60bda1fc02f4ddcdc32d707491d368ead09",
+      "zh-TW": "ee68bccbb5ca29b638ad33dbff2e9f9e1948968001b7209313d69a5a076b8e12",
+      "ja": "edc832b12d387dd578f6e84ffc7eca6426121537ee786c7b02f30da2043eede5",
+      "ko": "426dcac7ed73ece19e9cb34722745b327a92de66c74532a4401d2daa0d7232cc",
+      "fr": "ffbd436b670fdf95e114926335c6806070e76ad2733649e719063ddea287832f",
+      "de": "78403ca08738e3e197be887cb977e46b7aa4488552421d9048f4612b2697d713",
+      "es": "7a10a3018dafac9601696a420ee0447cdfa2a47415b16f6e92cd501cd5d242b9",
+      "pt-BR": "db98ac97ed6090c87d333a29c80818f2da7de3f6a77aa06aa65396f5025b2abc"
+    }
+  }
+}

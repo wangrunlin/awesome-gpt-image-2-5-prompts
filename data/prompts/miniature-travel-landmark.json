@@ -1,13 +1,26 @@
 {
-  "schema_version": 1,
   "id": "miniature-travel-landmark",
   "title": {
     "en": "Handcrafted miniature travel landmark",
-    "zh": "手工微缩旅行地标"
+    "zh-CN": "手工微缩旅行地标",
+    "zh-TW": "手工製作的微型旅行地標",
+    "ja": "手作りのミニチュア旅行用ランドマーク",
+    "ko": "수작업으로 만든 여행지 랜드마크 미니어처",
+    "fr": "Miniature artisanale représentant un monument touristique",
+    "de": "Handgefertigte Miniatur-Reiseattraktion",
+    "es": "Miniatura artesanal de un monumento turístico.",
+    "pt-BR": "Miniatura artesanal de ponto turístico"
   },
   "summary": {
     "en": "Build a collectible landmark diorama with a travel plaque and a warm paper background.",
-    "zh": "制作一个包含旅行铭牌和温馨纸质背景的可收藏地标立体模型（diorama）。"
+    "zh-CN": "制作一个包含旅行铭牌和温馨纸质背景的可收藏地标立体模型（diorama）。",
+    "zh-TW": "製作一個帶有旅行銘牌和暖色調紙質背景的收藏級地標立體模型。",
+    "ja": "旅行記念のプレートと温かみのある紙の背景を組み合わせた、収集可能なランドマークのジオラマを制作します。",
+    "ko": "여행 기념 명판과 따뜻한 느낌의 종이 배경을 활용하여 소장 가치가 있는 랜드마크 디오라마를 만드세요.",
+    "fr": "Créez un diorama de collection représentant un monument, accompagné d'une plaque souvenir et d'un arrière-plan en papier aux tons chauds.",
+    "de": "Baue ein Diorama einer Sehenswürdigkeit zum Sammeln, ergänzt durch eine Reiseplakette und einen warmen Papierhintergrund.",
+    "es": "Construye un diorama coleccionable de un monumento turístico que incluya una placa de viaje y un fondo de papel en tonos cálidos.",
+    "pt-BR": "Construa um diorama colecionável de um ponto turístico, com uma placa de viagem e um fundo de papel em tons quentes."
   },
   "category": "design",
   "tags": [
@@ -15,7 +28,6 @@
     "generate"
   ],
   "mode": "generate",
-  "featured": true,
   "model": {
     "family": "GPT Image 2.5",
     "variant": null,
@@ -31,7 +43,14 @@
     "steps": [
       {
         "en": "Create a charming handcrafted miniature travel scene featuring [ICONIC STRUCTURE] as the main focal point.\nShow the landmark as a beautifully sculpted tiny 3D model, with soft rounded details, handmade textures, delicate imperfections, and a whimsical storybook feeling. Surround it with a few subtle elements that represent its location—such as tiny trees, flowers, streets, boats, mountains, clouds, or local objects—without making the scene crowded.\n\nPlace everything on a clean warm-white textured paper background, with plenty of elegant negative space. Add a small tasteful wooden or paper travel plaque containing:\n\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT UNIQUE FACT]\n\nUse soft natural lighting, gentle shadows, pastel yet realistic colors, miniature diorama depth, handcrafted clay/paper textures, and a premium cute travel-journal aesthetic. Centered composition, highly detailed landmark, adorable but sophisticated, clean and collectible travel-card design, no photorealistic people, no clutter.",
-        "zh": "打造一个迷人的手工微缩旅行场景，以 [ICONIC STRUCTURE] 为视觉焦点。\n将地标呈现为精美雕刻的微型 3D 模型，具有柔和圆润的细节、手工质感、细腻的微瑕美感以及充满童趣的故事书风格。周围点缀少量代表其地理位置的微妙元素——如微型树木、花卉、街道、船只、山脉、云朵或当地特色物品——保持场景简洁，避免拥挤。\n\n将所有元素置于干净、暖白色且有质感的纸张背景上，留出优雅的留白空间。添加一块精致的木质或纸质旅行铭牌，内容包括：\n\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT UNIQUE FACT]\n\n运用柔和的自然光、轻柔的阴影、柔和而逼真的色彩、微缩模型的景深效果、手工粘土/纸张质感，营造出高级可爱且充满旅行手账风格的视觉美感。采用居中构图，地标细节丰富，既可爱又精致，设计风格简洁且适合收藏，画面中不包含写实人物，无杂乱元素。"
+        "zh-CN": "打造一个迷人的手工微缩旅行场景，以 [ICONIC STRUCTURE] 为视觉焦点。\n将地标呈现为精美雕刻的微型 3D 模型，具有柔和圆润的细节、手工质感、细腻的微瑕美感以及充满童趣的故事书风格。周围点缀少量代表其地理位置的微妙元素——如微型树木、花卉、街道、船只、山脉、云朵或当地特色物品——保持场景简洁，避免拥挤。\n\n将所有元素置于干净、暖白色且有质感的纸张背景上，留出优雅的留白空间。添加一块精致的木质或纸质旅行铭牌，内容包括：\n\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT UNIQUE FACT]\n\n运用柔和的自然光、轻柔的阴影、柔和而逼真的色彩、微缩模型的景深效果、手工粘土/纸张质感，营造出高级可爱且充满旅行手账风格的视觉美感。采用居中构图，地标细节丰富，既可爱又精致，设计风格简洁且适合收藏，画面中不包含写实人物，无杂乱元素。",
+        "zh-TW": "以 [ICONIC STRUCTURE] 為中心，創作一幅迷人的手工微縮旅行場景。\n\n將地標建築以精美的 3D 模型呈現，展現其柔和圓潤的細節、手工質感、精緻的瑕疵，營造出奇幻的童話氛圍。用一些巧妙的元素環繞它，例如小樹、花朵、街道、船隻、山脈、雲朵或當地特色物件，以展現其所在位置，避免畫面過於擁擠。\n\n將所有元素置於乾淨的暖白色紋理紙背景上，留出大量優雅的空白。加上一塊精緻的木質或紙質旅行牌匾，上面寫著：\n\n[STRUCTURE NAME]\n\n[CITY, COUNTRY]\n\nFamous for: [SHORT UNIQUE FACT]\n\n運用柔和的自然光線、淡雅的陰影、柔和而又不失寫實的色彩、微縮場景的立體感、手工黏土/紙張的質感，以及精緻可愛的旅行日記風格。居中構圖，地標細節豐富，可愛又不失精緻，簡潔且具有收藏價值的旅行卡設計，沒有寫實的人物，畫面乾淨整潔。",
+        "ja": "[ICONIC STRUCTURE]を主役（フォーカルポイント）にした、魅力的な手作りのミニチュア旅行シーンを作成します。そのランドマークを、美しく造形された小さな3Dモデルとして表現してください。丸みを帯びた柔らかなディテール、手作り感のある質感、繊細な不完全さ、そして遊び心のある絵本のような雰囲気が特徴です。その周囲には、木々、花、通り、ボート、山、雲、あるいはその土地特有の物など、場所を想起させる要素を控えめに配置し、画面がごちゃごちゃしないようにします。\n\n全体を、温かみのある白で質感のある紙の背景に配置し、上品な余白を十分に取ります。また、センスの良い小さな木製または紙製のトラベルプレート（銘板）を添え、そこに以下の情報を記載します：\n\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT UNIQUE FACT]\n\n柔らかな自然光、穏やかな影、パステル調でありながらリアルな色使い、ミニチュアのジオラマのような奥行き、手作り感のある粘土や紙の質感、そして上質でキュートなトラベルジャーナルのような美学を取り入れます。構図は中央配置とし、ランドマークは細部まで丁寧に描写します。愛らしさと洗練さを兼ね備え、すっきりとしていてコレクションしたくなるようなトラベルカードのデザインにします。写実的な人物や雑然とした要素は排除します。",
+        "ko": "[ICONIC STRUCTURE]를 중심 요소로 삼아 매력적인 수제 여행지 미니어처 장면을 연출하세요. 랜드마크를 아름답게 조형된 작은 3D 모델로 표현하세요. 부드럽고 둥근 디테일, 수작업 느낌의 질감, ​​섬세한 불완전함, 그리고 동화책 같은 아기자기한 분위기를 살려야 합니다. 장면이 복잡해지지 않도록 나무, 꽃, 거리, 보트, 산, 구름, 또는 지역적 특색을 담은 사물 등 해당 장소의 분위기를 나타내는 요소를 은은하게 배치하세요.\n\n모든 요소를 ​​따뜻한 느낌의 흰색 질감 종이 배경 위에 배치하고, 우아한 여백을 충분히 확보하세요. 세련된 느낌의 작은 나무 또는 종이 소재 여행용 명판을 추가하여 다음 내용을 포함하세요:\n\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT UNIQUE FACT]\n\n부드러운 자연광, 은은한 그림자, 파스텔 톤이면서도 사실적인 색감, 미니어처 디오라마의 깊이감, 수작업 점토/종이 질감, 그리고 고급스럽고 귀여운 여행 일기장 스타일을 활용하세요. 중앙 집중형 구도, 정교한 랜드마크 묘사, 귀여우면서도 세련된 느낌, 깔끔하고 소장 가치 있는 여행 카드 디자인을 적용하고, 실사 인물이나 불필요한 복잡함은 배제하세요.",
+        "fr": "Créez une charmante scène de voyage miniature artisanale mettant en vedette [ICONIC STRUCTURE] comme élément central. Représentez le monument sous la forme d'une minuscule maquette 3D magnifiquement sculptée, aux détails arrondis et doux, aux textures façonnées à la main et aux imperfections délicates, évoquant l'univers féerique d'un livre d'images. Entourez-le de quelques éléments subtils évoquant son emplacement — tels que de minuscules arbres, fleurs, rues, bateaux, montagnes, nuages ​​ou objets locaux — sans surcharger la scène.\n\nDisposez le tout sur un fond de papier texturé d'un blanc chaud et épuré, laissant une large place à un espace négatif élégant. Ajoutez une petite plaque de voyage en bois ou en papier, sobre et raffinée, portant les inscriptions suivantes :\n\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT UNIQUE FACT]\n\nPrivilégiez un éclairage naturel et doux, des ombres légères, des couleurs pastel mais réalistes, une profondeur façon diorama miniature, des textures évoquant l'argile ou le papier travaillé à la main, ainsi qu'une esthétique haut de gamme rappelant un carnet de voyage plein de charme. Composition centrée, monument très détaillé, style à la fois adorable et sophistiqué, design de carte de voyage épuré digne d'un objet de collection ; pas de personnages photoréalistes ni d'éléments encombrants.",
+        "de": "Erstelle eine charmante, handgefertigte Miniatur-Reiseszene, in der [ICONIC STRUCTURE] als zentrales Element im Mittelpunkt steht. Stelle das Wahrzeichen als wunderschön modelliertes, winziges 3D-Modell dar – mit weichen, abgerundeten Details, handgefertigten Texturen, feinen Unvollkommenheiten und einer verspielten Märchenbuch-Atmosphäre. Umgib es mit einigen dezenten Elementen, die seinen Standort widerspiegeln – etwa winzige Bäume, Blumen, Straßen, Boote, Berge, Wolken oder lokale Gegenstände –, ohne die Szene zu überladen.\n\nPlatziere alles auf einem sauberen, warmweißen Hintergrund mit Papierstruktur und viel elegantem Freiraum (Negative Space). Füge ein kleines, geschmackvolles Schild aus Holz oder Papier im Reise-Stil hinzu, das Folgendes enthält:\n\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT UNIQUE FACT]\n\nNutze sanftes natürliches Licht, weiche Schatten, Pastellfarben (die dennoch realistisch wirken), die Tiefenwirkung eines Miniatur-Dioramas, handgefertigte Ton- oder Papiertexturen sowie eine hochwertige, charmante Ästhetik im Stil eines Reisetagebuchs. Zentrierte Komposition, detailreiches Wahrzeichen, niedlich und zugleich raffiniert, klares Design einer Sammelkarte, keine fotorealistischen Personen, kein visuelles Chaos.",
+        "es": "Crea una encantadora escena de viaje en miniatura hecha a mano, con el modelo [ICONIC STRUCTURE] como punto focal principal. Representa el monumento como un pequeño modelo 3D bellamente esculpido, con detalles suaves y redondeados, texturas artesanales, imperfecciones delicadas y un aire fantástico propio de un libro de cuentos. Rodéalo de algunos elementos sutiles que evoquen su ubicación —como árboles diminutos, flores, calles, barcos, montañas, nubes u objetos locales— sin saturar la escena.\n\nSitúa todo sobre un fondo de papel texturizado de un limpio tono blanco cálido, dejando un elegante y amplio espacio negativo. Añade una pequeña y refinada placa de viaje (de madera o papel) que contenga:\n\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT UNIQUE FACT]\n\nUtiliza una iluminación natural suave, sombras tenues, colores pastel pero realistas, profundidad propia de un diorama en miniatura, texturas artesanales (arcilla o papel) y una estética de diario de viaje encantadora y de alta calidad. Composición centrada, monumento muy detallado, diseño adorable pero sofisticado, limpio y digno de coleccionar (estilo tarjeta de viaje); sin personas fotorrealistas ni elementos superfluos.",
+        "pt-BR": "Crie uma cena de viagem em miniatura artesanal e encantadora, tendo o [ICONIC STRUCTURE] como ponto focal principal. Exiba o marco como um pequeno modelo 3D esculpido com esmero, apresentando detalhes suaves e arredondados, texturas artesanais, imperfeições delicadas e uma atmosfera lúdica de livro de histórias. Cerque-o com alguns elementos sutis que representem sua localização — como pequenas árvores, flores, ruas, barcos, montanhas, nuvens ou objetos locais — sem sobrecarregar a cena.\n\nPosicione tudo sobre um fundo de papel texturizado em tom branco-quente e limpo, com bastante espaço negativo elegante. Adicione uma pequena e elegante placa de viagem, feita de madeira ou papel, contendo:\n\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT UNIQUE FACT]\n\nUtilize iluminação natural suave, sombras brandas, cores pastéis porém realistas, profundidade típica de dioramas em miniatura, texturas artesanais (argila/papel) e uma estética premium e encantadora de diário de viagem. Composição centralizada, marco altamente detalhado, visual adorável e sofisticado, design de cartão de viagem limpo e colecionável; sem pessoas fotorrealistas e sem poluição visual."
       }
     ],
     "preserved_literals": [
@@ -45,13 +64,27 @@
   "inputs": [
     {
       "en": "Replace [ICONIC STRUCTURE], [STRUCTURE NAME], [CITY, COUNTRY], and [SHORT UNIQUE FACT] with the desired landmark and checked facts.",
-      "zh": "将 [ICONIC STRUCTURE]、[STRUCTURE NAME]、[CITY, COUNTRY] 和 [SHORT UNIQUE FACT] 替换为目标地标名称及经核实的信息。"
+      "zh-CN": "将 [ICONIC STRUCTURE]、[STRUCTURE NAME]、[CITY, COUNTRY] 和 [SHORT UNIQUE FACT] 替换为目标地标名称及经核实的信息。",
+      "zh-TW": "將 [ICONIC STRUCTURE]、[STRUCTURE NAME]、[CITY, COUNTRY] 和 [SHORT UNIQUE FACT] 替換為所需的地標和已核實的資訊。",
+      "ja": "[ICONIC STRUCTURE]、[STRUCTURE NAME]、[CITY, COUNTRY]、[SHORT UNIQUE FACT]を、目的のランドマークと確認済みの情報に置き換えてください。",
+      "ko": "[ICONIC STRUCTURE], [STRUCTURE NAME], [CITY, COUNTRY], [SHORT UNIQUE FACT]를 원하는 랜드마크와 사실 확인된 정보로 교체하세요.",
+      "fr": "Remplacez [ICONIC STRUCTURE], [STRUCTURE NAME], [CITY, COUNTRY] et [SHORT UNIQUE FACT] par le monument souhaité et les informations vérifiées correspondantes.",
+      "de": "Ersetze [ICONIC STRUCTURE], [STRUCTURE NAME], [CITY, COUNTRY] und [SHORT UNIQUE FACT] durch das gewünschte Wahrzeichen und die verifizierten Fakten.",
+      "es": "Sustituye [ICONIC STRUCTURE], [STRUCTURE NAME], [CITY, COUNTRY] y [SHORT UNIQUE FACT] por el monumento deseado y los datos verificados.",
+      "pt-BR": "Substitua [ICONIC STRUCTURE], [STRUCTURE NAME], [CITY, COUNTRY] e [SHORT UNIQUE FACT] pelo marco desejado e pelas informações verificadas."
     }
   ],
   "notes": [
     {
       "en": "The full prompt is in the main post. The preview is the first of four creator examples. The visible plaque label “Famous for:” is intentionally preserved when translating the instructions.",
-      "zh": "完整提示词（prompt）见主帖。预览图是创作者提供的四个示例中的第一个。在翻译说明时，特意保留了可见的铭牌标签“Famous for:”。"
+      "zh-CN": "完整提示词（prompt）见主帖。预览图是创作者提供的四个示例中的第一个。在翻译说明时，特意保留了可见的铭牌标签“Famous for:”。",
+      "zh-TW": "完整的提示訊息在主帖。預覽圖是四個創作者範例中的第一個。在翻譯說明時，我們刻意保留了可見的銘牌標籤「Famous for:」。",
+      "ja": "プロンプトの全文はメインの投稿にあります。プレビュー画像は、クリエイターによる4つの作例のうちの1つです。指示を翻訳する際、表示されているプレートのラベル「Famous for:」は意図的にそのまま残しています。",
+      "ko": "전체 프롬프트는 본문에 있습니다. 미리보기 이미지는 제작자 예시 4개 중 첫 번째 것입니다. 지침 번역 시 명판에 표시된 \"Famous for:\"라는 라벨은 의도적으로 그대로 유지했습니다.",
+      "fr": "Le prompt complet figure dans la publication principale. L'aperçu correspond au premier des quatre exemples fournis par le créateur. L'étiquette « Famous for: » visible sur la plaque a été volontairement conservée lors de la traduction des instructions.",
+      "de": "Der vollständige Prompt befindet sich im Hauptbeitrag. Die Vorschau ist das erste von vier Beispielen der Ersteller. Die sichtbare Beschriftung „Famous for:“ auf dem Schild bleibt bei der Übersetzung der Anweisungen absichtlich erhalten.",
+      "es": "La instrucción completa se encuentra en la publicación principal. La vista previa es el primero de los cuatro ejemplos del creador. La etiqueta visible «Famous for:» se conserva intencionadamente al traducir las instrucciones.",
+      "pt-BR": "O prompt completo está na postagem principal. A prévia é o primeiro de quatro exemplos do criador. O rótulo visível na placa, \"Famous for:\", foi mantido intencionalmente durante a tradução das instruções."
     }
   ],
   "source": {
@@ -90,111 +123,32 @@
     "status": "third-party-terms",
     "note": "Third-party prompts and media retain their creators’ rights; external previews are linked, not relicensed."
   },
-  "localizations": {
-    "zh-TW": {
-      "title": "手工製作的微型旅行地標",
-      "summary": "製作一個帶有旅行銘牌和暖色調紙質背景的收藏級地標立體模型。",
-      "steps": [
-        "以 [ICONIC STRUCTURE] 為中心，創作一幅迷人的手工微縮旅行場景。\n\n將地標建築以精美的 3D 模型呈現，展現其柔和圓潤的細節、手工質感、精緻的瑕疵，營造出奇幻的童話氛圍。用一些巧妙的元素環繞它，例如小樹、花朵、街道、船隻、山脈、雲朵或當地特色物件，以展現其所在位置，避免畫面過於擁擠。\n\n將所有元素置於乾淨的暖白色紋理紙背景上，留出大量優雅的空白。加上一塊精緻的木質或紙質旅行牌匾，上面寫著：\n\n[STRUCTURE NAME]\n\n[CITY, COUNTRY]\n\nFamous for: [SHORT UNIQUE FACT]\n\n運用柔和的自然光線、淡雅的陰影、柔和而又不失寫實的色彩、微縮場景的立體感、手工黏土/紙張的質感，以及精緻可愛的旅行日記風格。居中構圖，地標細節豐富，可愛又不失精緻，簡潔且具有收藏價值的旅行卡設計，沒有寫實的人物，畫面乾淨整潔。"
-      ],
-      "inputs": [
-        "將 [ICONIC STRUCTURE]、[STRUCTURE NAME]、[CITY, COUNTRY] 和 [SHORT UNIQUE FACT] 替換為所需的地標和已核實的資訊。"
-      ],
-      "notes": [
-        "完整的提示訊息在主帖。預覽圖是四個創作者範例中的第一個。在翻譯說明時，我們刻意保留了可見的銘牌標籤「Famous for:」。"
-      ],
-      "source_digest": "92191409c27cfb23ac008fce0e155dfce85f916c27b4913ca07de135e322ab33",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ja": {
-      "title": "手作りのミニチュア旅行用ランドマーク",
-      "summary": "旅行記念のプレートと温かみのある紙の背景を組み合わせた、収集可能なランドマークのジオラマを制作します。",
-      "steps": [
-        "[ICONIC STRUCTURE]を主役（フォーカルポイント）にした、魅力的な手作りのミニチュア旅行シーンを作成します。そのランドマークを、美しく造形された小さな3Dモデルとして表現してください。丸みを帯びた柔らかなディテール、手作り感のある質感、繊細な不完全さ、そして遊び心のある絵本のような雰囲気が特徴です。その周囲には、木々、花、通り、ボート、山、雲、あるいはその土地特有の物など、場所を想起させる要素を控えめに配置し、画面がごちゃごちゃしないようにします。\n\n全体を、温かみのある白で質感のある紙の背景に配置し、上品な余白を十分に取ります。また、センスの良い小さな木製または紙製のトラベルプレート（銘板）を添え、そこに以下の情報を記載します：\n\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT UNIQUE FACT]\n\n柔らかな自然光、穏やかな影、パステル調でありながらリアルな色使い、ミニチュアのジオラマのような奥行き、手作り感のある粘土や紙の質感、そして上質でキュートなトラベルジャーナルのような美学を取り入れます。構図は中央配置とし、ランドマークは細部まで丁寧に描写します。愛らしさと洗練さを兼ね備え、すっきりとしていてコレクションしたくなるようなトラベルカードのデザインにします。写実的な人物や雑然とした要素は排除します。"
-      ],
-      "inputs": [
-        "[ICONIC STRUCTURE]、[STRUCTURE NAME]、[CITY, COUNTRY]、[SHORT UNIQUE FACT]を、目的のランドマークと確認済みの情報に置き換えてください。"
-      ],
-      "notes": [
-        "プロンプトの全文はメインの投稿にあります。プレビュー画像は、クリエイターによる4つの作例のうちの1つです。指示を翻訳する際、表示されているプレートのラベル「Famous for:」は意図的にそのまま残しています。"
-      ],
-      "source_digest": "92191409c27cfb23ac008fce0e155dfce85f916c27b4913ca07de135e322ab33",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ko": {
-      "title": "수작업으로 만든 여행지 랜드마크 미니어처",
-      "summary": "여행 기념 명판과 따뜻한 느낌의 종이 배경을 활용하여 소장 가치가 있는 랜드마크 디오라마를 만드세요.",
-      "steps": [
-        "[ICONIC STRUCTURE]를 중심 요소로 삼아 매력적인 수제 여행지 미니어처 장면을 연출하세요. 랜드마크를 아름답게 조형된 작은 3D 모델로 표현하세요. 부드럽고 둥근 디테일, 수작업 느낌의 질감, ​​섬세한 불완전함, 그리고 동화책 같은 아기자기한 분위기를 살려야 합니다. 장면이 복잡해지지 않도록 나무, 꽃, 거리, 보트, 산, 구름, 또는 지역적 특색을 담은 사물 등 해당 장소의 분위기를 나타내는 요소를 은은하게 배치하세요.\n\n모든 요소를 ​​따뜻한 느낌의 흰색 질감 종이 배경 위에 배치하고, 우아한 여백을 충분히 확보하세요. 세련된 느낌의 작은 나무 또는 종이 소재 여행용 명판을 추가하여 다음 내용을 포함하세요:\n\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT UNIQUE FACT]\n\n부드러운 자연광, 은은한 그림자, 파스텔 톤이면서도 사실적인 색감, 미니어처 디오라마의 깊이감, 수작업 점토/종이 질감, 그리고 고급스럽고 귀여운 여행 일기장 스타일을 활용하세요. 중앙 집중형 구도, 정교한 랜드마크 묘사, 귀여우면서도 세련된 느낌, 깔끔하고 소장 가치 있는 여행 카드 디자인을 적용하고, 실사 인물이나 불필요한 복잡함은 배제하세요."
-      ],
-      "inputs": [
-        "[ICONIC STRUCTURE], [STRUCTURE NAME], [CITY, COUNTRY], [SHORT UNIQUE FACT]를 원하는 랜드마크와 사실 확인된 정보로 교체하세요."
-      ],
-      "notes": [
-        "전체 프롬프트는 본문에 있습니다. 미리보기 이미지는 제작자 예시 4개 중 첫 번째 것입니다. 지침 번역 시 명판에 표시된 \"Famous for:\"라는 라벨은 의도적으로 그대로 유지했습니다."
-      ],
-      "source_digest": "92191409c27cfb23ac008fce0e155dfce85f916c27b4913ca07de135e322ab33",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "fr": {
-      "title": "Miniature artisanale représentant un monument touristique",
-      "summary": "Créez un diorama de collection représentant un monument, accompagné d'une plaque souvenir et d'un arrière-plan en papier aux tons chauds.",
-      "steps": [
-        "Créez une charmante scène de voyage miniature artisanale mettant en vedette [ICONIC STRUCTURE] comme élément central. Représentez le monument sous la forme d'une minuscule maquette 3D magnifiquement sculptée, aux détails arrondis et doux, aux textures façonnées à la main et aux imperfections délicates, évoquant l'univers féerique d'un livre d'images. Entourez-le de quelques éléments subtils évoquant son emplacement — tels que de minuscules arbres, fleurs, rues, bateaux, montagnes, nuages ​​ou objets locaux — sans surcharger la scène.\n\nDisposez le tout sur un fond de papier texturé d'un blanc chaud et épuré, laissant une large place à un espace négatif élégant. Ajoutez une petite plaque de voyage en bois ou en papier, sobre et raffinée, portant les inscriptions suivantes :\n\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT UNIQUE FACT]\n\nPrivilégiez un éclairage naturel et doux, des ombres légères, des couleurs pastel mais réalistes, une profondeur façon diorama miniature, des textures évoquant l'argile ou le papier travaillé à la main, ainsi qu'une esthétique haut de gamme rappelant un carnet de voyage plein de charme. Composition centrée, monument très détaillé, style à la fois adorable et sophistiqué, design de carte de voyage épuré digne d'un objet de collection ; pas de personnages photoréalistes ni d'éléments encombrants."
-      ],
-      "inputs": [
-        "Remplacez [ICONIC STRUCTURE], [STRUCTURE NAME], [CITY, COUNTRY] et [SHORT UNIQUE FACT] par le monument souhaité et les informations vérifiées correspondantes."
-      ],
-      "notes": [
-        "Le prompt complet figure dans la publication principale. L'aperçu correspond au premier des quatre exemples fournis par le créateur. L'étiquette « Famous for: » visible sur la plaque a été volontairement conservée lors de la traduction des instructions."
-      ],
-      "source_digest": "92191409c27cfb23ac008fce0e155dfce85f916c27b4913ca07de135e322ab33",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "de": {
-      "title": "Handgefertigte Miniatur-Reiseattraktion",
-      "summary": "Baue ein Diorama einer Sehenswürdigkeit zum Sammeln, ergänzt durch eine Reiseplakette und einen warmen Papierhintergrund.",
-      "steps": [
-        "Erstelle eine charmante, handgefertigte Miniatur-Reiseszene, in der [ICONIC STRUCTURE] als zentrales Element im Mittelpunkt steht. Stelle das Wahrzeichen als wunderschön modelliertes, winziges 3D-Modell dar – mit weichen, abgerundeten Details, handgefertigten Texturen, feinen Unvollkommenheiten und einer verspielten Märchenbuch-Atmosphäre. Umgib es mit einigen dezenten Elementen, die seinen Standort widerspiegeln – etwa winzige Bäume, Blumen, Straßen, Boote, Berge, Wolken oder lokale Gegenstände –, ohne die Szene zu überladen.\n\nPlatziere alles auf einem sauberen, warmweißen Hintergrund mit Papierstruktur und viel elegantem Freiraum (Negative Space). Füge ein kleines, geschmackvolles Schild aus Holz oder Papier im Reise-Stil hinzu, das Folgendes enthält:\n\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT UNIQUE FACT]\n\nNutze sanftes natürliches Licht, weiche Schatten, Pastellfarben (die dennoch realistisch wirken), die Tiefenwirkung eines Miniatur-Dioramas, handgefertigte Ton- oder Papiertexturen sowie eine hochwertige, charmante Ästhetik im Stil eines Reisetagebuchs. Zentrierte Komposition, detailreiches Wahrzeichen, niedlich und zugleich raffiniert, klares Design einer Sammelkarte, keine fotorealistischen Personen, kein visuelles Chaos."
-      ],
-      "inputs": [
-        "Ersetze [ICONIC STRUCTURE], [STRUCTURE NAME], [CITY, COUNTRY] und [SHORT UNIQUE FACT] durch das gewünschte Wahrzeichen und die verifizierten Fakten."
-      ],
-      "notes": [
-        "Der vollständige Prompt befindet sich im Hauptbeitrag. Die Vorschau ist das erste von vier Beispielen der Ersteller. Die sichtbare Beschriftung „Famous for:“ auf dem Schild bleibt bei der Übersetzung der Anweisungen absichtlich erhalten."
-      ],
-      "source_digest": "92191409c27cfb23ac008fce0e155dfce85f916c27b4913ca07de135e322ab33",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "es": {
-      "title": "Miniatura artesanal de un monumento turístico.",
-      "summary": "Construye un diorama coleccionable de un monumento turístico que incluya una placa de viaje y un fondo de papel en tonos cálidos.",
-      "steps": [
-        "Crea una encantadora escena de viaje en miniatura hecha a mano, con el modelo [ICONIC STRUCTURE] como punto focal principal. Representa el monumento como un pequeño modelo 3D bellamente esculpido, con detalles suaves y redondeados, texturas artesanales, imperfecciones delicadas y un aire fantástico propio de un libro de cuentos. Rodéalo de algunos elementos sutiles que evoquen su ubicación —como árboles diminutos, flores, calles, barcos, montañas, nubes u objetos locales— sin saturar la escena.\n\nSitúa todo sobre un fondo de papel texturizado de un limpio tono blanco cálido, dejando un elegante y amplio espacio negativo. Añade una pequeña y refinada placa de viaje (de madera o papel) que contenga:\n\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT UNIQUE FACT]\n\nUtiliza una iluminación natural suave, sombras tenues, colores pastel pero realistas, profundidad propia de un diorama en miniatura, texturas artesanales (arcilla o papel) y una estética de diario de viaje encantadora y de alta calidad. Composición centrada, monumento muy detallado, diseño adorable pero sofisticado, limpio y digno de coleccionar (estilo tarjeta de viaje); sin personas fotorrealistas ni elementos superfluos."
-      ],
-      "inputs": [
-        "Sustituye [ICONIC STRUCTURE], [STRUCTURE NAME], [CITY, COUNTRY] y [SHORT UNIQUE FACT] por el monumento deseado y los datos verificados."
-      ],
-      "notes": [
-        "La instrucción completa se encuentra en la publicación principal. La vista previa es el primero de los cuatro ejemplos del creador. La etiqueta visible «Famous for:» se conserva intencionadamente al traducir las instrucciones."
-      ],
-      "source_digest": "92191409c27cfb23ac008fce0e155dfce85f916c27b4913ca07de135e322ab33",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "pt-BR": {
-      "title": "Miniatura artesanal de ponto turístico",
-      "summary": "Construa um diorama colecionável de um ponto turístico, com uma placa de viagem e um fundo de papel em tons quentes.",
-      "steps": [
-        "Crie uma cena de viagem em miniatura artesanal e encantadora, tendo o [ICONIC STRUCTURE] como ponto focal principal. Exiba o marco como um pequeno modelo 3D esculpido com esmero, apresentando detalhes suaves e arredondados, texturas artesanais, imperfeições delicadas e uma atmosfera lúdica de livro de histórias. Cerque-o com alguns elementos sutis que representem sua localização — como pequenas árvores, flores, ruas, barcos, montanhas, nuvens ou objetos locais — sem sobrecarregar a cena.\n\nPosicione tudo sobre um fundo de papel texturizado em tom branco-quente e limpo, com bastante espaço negativo elegante. Adicione uma pequena e elegante placa de viagem, feita de madeira ou papel, contendo:\n\n[STRUCTURE NAME]\n[CITY, COUNTRY]\nFamous for: [SHORT UNIQUE FACT]\n\nUtilize iluminação natural suave, sombras brandas, cores pastéis porém realistas, profundidade típica de dioramas em miniatura, texturas artesanais (argila/papel) e uma estética premium e encantadora de diário de viagem. Composição centralizada, marco altamente detalhado, visual adorável e sofisticado, design de cartão de viagem limpo e colecionável; sem pessoas fotorrealistas e sem poluição visual."
-      ],
-      "inputs": [
-        "Substitua [ICONIC STRUCTURE], [STRUCTURE NAME], [CITY, COUNTRY] e [SHORT UNIQUE FACT] pelo marco desejado e pelas informações verificadas."
-      ],
-      "notes": [
-        "O prompt completo está na postagem principal. A prévia é o primeiro de quatro exemplos do criador. O rótulo visível na placa, \"Famous for:\", foi mantido intencionalmente durante a tradução das instruções."
-      ],
-      "source_digest": "92191409c27cfb23ac008fce0e155dfce85f916c27b4913ca07de135e322ab33",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+  "translation_meta": {
+    "source_digest": "6e9b84ceffee802a3c61a5faf95fb5e8cd76d65a132e056b9fe4a1a1cef25f6b",
+    "text_digests": {
+      "zh-CN": "aef2043a89d0fad0c45642b98a854be0d5d16f0b6ef2a2ccda8bd7f2e5319fae",
+      "zh-TW": "3466f236cd85dbc795e950df9f03358ee5c2df7712bee9bcbf8bffa040010cc3",
+      "ja": "93d92e19bf4d35bb1819556ee7da87208ca65f5f1587d0458146dac24ee9a140",
+      "ko": "3d7ed70a02fdfc2cbee1128ab3709e55592c892f3f077b80649e09c1f368e01e",
+      "fr": "75d62d894eec67b78ca2985463e5e9319f6fe39e11b855b8da2f7eec3bef5383",
+      "de": "7919153d504ea5e3f356e4edaf6784fc548831e5b195e3cc1ebadf65625ef8ee",
+      "es": "dc7292b5f45095b9962b2db17505a36455acb65c5204c38c4370f4e3b5bc38a7",
+      "pt-BR": "57ad050ac8c0f9e37172164ac9a289813461dc63925dcd96d916adc735db8f4a"
     }
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:12:37.868Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 3,
+      "result": 3,
+      "usefulness": 3,
+      "clarity": 4,
+      "distinctiveness": 4
+    },
+    "rationale": "A coherent landmark miniature and restrained label show a distinctive collectible travel format with a reusable destination variable."
   }
 }

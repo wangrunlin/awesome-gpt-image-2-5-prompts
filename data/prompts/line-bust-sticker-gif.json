@@ -1,13 +1,26 @@
 {
-  "schema_version": 1,
   "id": "line-bust-sticker-gif",
   "title": {
     "en": "LINE-style blowing-kiss sticker GIF",
-    "zh": "LINE 风格飞吻贴纸 GIF"
+    "zh-CN": "LINE 风格飞吻贴纸 GIF",
+    "zh-TW": "LINE風格的飛吻貼紙GIF",
+    "ja": "LINE風の投げキッススタンプGIF",
+    "ko": "LINE 스타일의 키스 날리는 스티커 GIF",
+    "fr": "GIF autocollant « bisou soufflé » style LINE",
+    "de": "GIF-Sticker im LINE-Stil mit einem Luftkuss",
+    "es": "GIF de pegatina de beso al estilo LINE",
+    "pt-BR": "GIF de adesivo de beijo no estilo LINE"
   },
   "summary": {
     "en": "Generate sixteen connected bust poses with fixed Chinese lettering, then assemble a GIF.",
-    "zh": "生成十六张带有固定中文文字的连体半身像，然后将其组合成一个GIF动画。"
+    "zh-CN": "生成十六张带有固定中文文字的连体半身像，然后将其组合成一个GIF动画。",
+    "zh-TW": "產生十六張固定中文文字的連體半身像，然後將其組合成一個GIF動畫。",
+    "ja": "固定された中国語の文字を使った16種類の連続したバストアップポーズを生成し、GIFを作成してください。",
+    "ko": "고정된 중국어 글자와 연결된 16개의 흉상 포즈를 생성하고 GIF를 만드세요.",
+    "fr": "Générer seize poses de buste liées avec des caractères chinois fixes, puis assembler un GIF.",
+    "de": "Generieren Sie sechzehn verbundene Brustbildposen mit festgelegter chinesischer Schrift und erstellen Sie daraus ein GIF.",
+    "es": "Genera dieciséis poses de busto conectadas con caracteres chinos fijos y luego crea un GIF.",
+    "pt-BR": "Gere dezesseis poses de busto conectadas com letras chinesas fixas e, em seguida, monte um GIF."
   },
   "category": "characters",
   "tags": [
@@ -15,7 +28,6 @@
     "workflow"
   ],
   "mode": "workflow",
-  "featured": true,
   "model": {
     "family": "GPT Image 2.5",
     "variant": null,
@@ -31,7 +43,14 @@
     "steps": [
       {
         "en": "Generate a set of individual frames for a cartoon-style (LINE sticker aesthetic) half-body GIF animation based on the character in the image; ensure the headwear and hairstyle are accurate.\nGenerate 16 small images arranged in a 4x4 grid. These 16 images should represent a continuous, sequential animation (“飞吻”) that forms a complete, seamless loop with fluid, realistic movement; the final frame should transition smoothly back to the first. Each of the 16 images must include the Chinese text (“爱你哦”) rendered in a font that complements the image style. Leave sufficient whitespace between the 16 images to facilitate later cropping, ensuring no image extends beyond its designated area. Do not copy the original image exactly; use only the figure from the image. Use a solid white background and do not draw dividing lines. Image aspect ratio: 1:1.\n\nAfter generating the image, crop it into individual square panels—minimizing whitespace during cropping—and then compile them into an animated GIF.",
-        "zh": "为我生成图中角色的卡通Line风格的半身像GIF表情包每一帧的图片，注意头饰和发型要正确。\n使用 4行x4列 布局共生成16个小图片。16个小图片为“飞吻”动画的连贯的拆分动作，使用这16张可以组成一个完整的、循环动画，动作流畅逼真，最后一帧应流畅地循环回到第一帧。16张图片里都使用跟图片搭配的字体写着汉字“爱你哦”。16个小图片之间需要有足够留白方便后续切割，每张图片都不要超出自己的区域。\n注意不要原图复制，只是使用图片里的人物。背景为纯白色，不要画分割线。图片比例1：1\n\n生成图片后再切分成一张张正方形的小图，切分时尽量切掉更多的空白，然后合成GIF动图"
+        "zh-CN": "为我生成图中角色的卡通Line风格的半身像GIF表情包每一帧的图片，注意头饰和发型要正确。\n使用 4行x4列 布局共生成16个小图片。16个小图片为“飞吻”动画的连贯的拆分动作，使用这16张可以组成一个完整的、循环动画，动作流畅逼真，最后一帧应流畅地循环回到第一帧。16张图片里都使用跟图片搭配的字体写着汉字“爱你哦”。16个小图片之间需要有足够留白方便后续切割，每张图片都不要超出自己的区域。\n注意不要原图复制，只是使用图片里的人物。背景为纯白色，不要画分割线。图片比例1：1\n\n生成图片后再切分成一张张正方形的小图，切分时尽量切掉更多的空白，然后合成GIF动图",
+        "zh-TW": "為我產生圖中角色的卡通Line風格的半身像GIF表情包每一幀的圖片，注意頭飾和髮型要正確。\n使用 4行x4列 佈局共產生16個小圖片。 16個小圖片為“飞吻”動畫的連貫的分割動作，使用這16張可以組成一個完整的、循環動畫，動作流暢逼真，最後一幀應流暢地循環回到第一幀。 16張圖片裡都使用跟圖片搭配的字體寫著漢字“爱你哦”。 16個小圖片之間需要有足夠留白方便後續切割，每張圖片都不要超出自己的區域。\n注意不要原圖複製，只是使用圖片裡的人物。背景為純白色，不要畫分割線。圖片比例1：1\n\n生成圖片後再切分成一張張正方形的小圖，切分時盡量切掉更多的空白，然後合成GIF動圖",
+        "ja": "画像のキャラクターの、正しい帽子と髪型に注意しながら、漫画風の線画スタイルの上半身GIF絵文字を各フレーム生成してください。\n\n4x4のレイアウトを使用し、合計16枚の小さな画像を生成します。これらの16枚の小さな画像は、“飞吻”アニメーションの連続的な分割動作を表します。これらの16枚の画像を組み合わせることで、滑らかでリアルな動きの完全なループアニメーションを作成できます。最後のフレームは最初のフレームに滑らかに戻るようにしてください。16枚の画像それぞれに、画像に合ったフォントで中国語の文字“爱你哦”を使用してください。16枚の小さな画像の間には、後で切り抜くための十分な余白が必要であり、各画像はそれぞれの領域を超えないようにしてください。\n\n注：元の画像をコピーしないでください。画像内の文字のみを使用してください。背景は純白とし、分割線は描かないでください。画像のアスペクト比は1:1です。\n\n画像生成後、個々の正方形画像に切り分け、切り抜き時にできるだけ余白を取り除いてから、それらをGIFアニメーションに結合してください。",
+        "ko": "이미지 속 캐릭터의 모자와 헤어스타일을 정확하게 표현하여 만화풍의 선화 스타일로 상반신 GIF 이모티콘을 각 프레임별로 생성하세요.\n\n4x4 레이아웃을 사용하여 총 16개의 작은 이미지를 생성하세요. 이 16개의 작은 이미지는 “飞吻” 애니메이션의 연속적인 분할 동작을 나타냅니다. 이 16개의 이미지를 조합하여 부드럽고 사실적인 움직임의 완전한 반복 애니메이션을 만들 수 있습니다. 마지막 프레임은 첫 번째 프레임으로 부드럽게 되돌아가야 합니다. 16개의 이미지 각각에는 이미지와 어울리는 글꼴로 한자 “爱你哦”가 사용됩니다. 16개의 작은 이미지 사이에는 추후 자르기를 위해 충분한 여백이 필요하며, 각 이미지는 자체 영역을 초과해서는 안 됩니다.\n\n참고: 원본 이미지를 복사하지 마세요. 이미지 안에 있는 캐릭터만 사용하세요. 배경은 순백색이어야 하며, 구분선을 그리지 마세요. 이미지 비율은 1:1입니다.\n\n이미지를 생성한 후, 최대한 여백을 제거하고 정사각형 이미지로 분할한 다음, 이들을 합쳐 GIF 애니메이션을 만드세요.",
+        "fr": "Générez chaque image d'une émoticône GIF de style cartoon (lignes) représentant la moitié du corps du personnage de l'image, en veillant à respecter la coiffure et les couvre-chefs.\n\nUtilisez une mise en page 4x4 pour générer 16 petites images. Ces 16 images représentent le mouvement de division continu de l'animation “飞吻”. Elles peuvent être combinées pour former une animation complète en boucle, aux mouvements fluides et réalistes. La dernière image doit revenir à la première de manière fluide. Chaque image utilise les caractères chinois “爱你哦” dans une police assortie. Prévoyez suffisamment d'espace blanc entre les 16 images pour faciliter le découpage, et chaque image ne doit pas dépasser sa propre surface.\n\nRemarque : Ne copiez pas l'image originale ; utilisez uniquement les caractères contenus dans les images. Le fond doit être blanc pur ; ne tracez pas de lignes de séparation. Le format d'image est de 1:1.\n\nAprès avoir généré l'image, découpez-la en carrés individuels en supprimant autant d'espace blanc que possible, puis assemblez-les en une animation GIF.",
+        "de": "Erstelle für jedes Einzelbild ein animiertes Halbfiguren-GIF im Cartoon-Stil (Linienstil) der Figur aus dem Bild. Achte dabei auf die korrekte Kopfbedeckung und Frisur.\n\nVerwende ein 4x4-Layout und generiere insgesamt 16 kleine Bilder. Diese 16 Bilder stellen die kontinuierliche Teilungsbewegung der “飞吻”-Animation dar. Sie können zu einer vollständigen, sich wiederholenden Animation mit flüssigen und realistischen Bewegungen kombiniert werden. Das letzte Bild sollte nahtlos zum ersten zurückkehren. Jedes der 16 Bilder verwendet die chinesischen Schriftzeichen “爱你哦” in einer zum Bild passenden Schriftart. Zwischen den 16 kleinen Bildern muss ausreichend Platz für das spätere Zuschneiden vorhanden sein, und jedes Bild darf seinen eigenen Bereich nicht überschreiten.\n\nHinweis: Kopiere nicht das Originalbild. Verwenden Sie ausschließlich die Figuren in den Bildern. Der Hintergrund sollte reinweiß sein; zeichnen Sie keine Trennlinien. Das Bildverhältnis beträgt 1:1.\n\nNachdem Sie das Bild erstellt haben, schneiden Sie es in einzelne quadratische Bilder, entfernen Sie dabei so viel Weißraum wie möglich und fügen Sie diese anschließend zu einer GIF-Animation zusammen.",
+        "es": "Genera cada fotograma de un emoticono GIF de medio cuerpo estilo caricatura, del personaje de la imagen, prestando atención al tocado y peinado correctos.\n\nUsando una cuadrícula de 4x4, genera un total de 16 imágenes pequeñas. Estas 16 imágenes representan el movimiento continuo de división de la animación “飞吻”. Se pueden combinar para formar una animación completa en bucle con movimientos suaves y realistas. El último fotograma debe volver al primero sin problemas. Cada una de las 16 imágenes utiliza los caracteres chinos “爱你哦” en una fuente que coincida con la imagen. Se necesita suficiente espacio en blanco entre las 16 imágenes para el recorte posterior, y cada imagen no debe exceder su propia área.\n\nNota: No copies la imagen original. Utilice únicamente los personajes de las imágenes. El fondo debe ser blanco puro; no dibuje líneas divisorias. La relación de aspecto es 1:1.\n\nTras generar la imagen, divídala en imágenes cuadradas individuales, eliminando la mayor cantidad de espacio en blanco posible durante el proceso, y luego combínelas en una animación GIF.",
+        "pt-BR": "Gere cada quadro de um GIF em estilo cartoon, com traços finos, representando meio corpo do personagem na imagem, atentando-se ao penteado e ao chapéu.\n\nUsando um layout 4x4, gere um total de 16 pequenas imagens. As 16 pequenas imagens representam o movimento contínuo de divisão da animação “飞吻”. Essas 16 imagens podem ser combinadas para formar uma animação completa em loop com movimentos suaves e realistas. O último quadro deve retornar suavemente ao primeiro. Cada uma das 16 imagens utiliza os caracteres chineses “爱你哦” em uma fonte que corresponda à imagem. É necessário espaço em branco suficiente entre as 16 pequenas imagens para recortes subsequentes, e cada imagem não deve exceder sua própria área.\n\nNota: Não copie a imagem original; Utilize apenas os caracteres dentro das imagens. O fundo deve ser totalmente branco; não desenhe linhas divisórias. A proporção da imagem é 1:1.\n\nApós gerar a imagem, recorte-a em quadrados individuais, removendo o máximo de espaço em branco possível durante o recorte, e então combine-os em uma animação GIF."
       }
     ],
     "preserved_literals": [
@@ -41,21 +60,49 @@
   "inputs": [
     {
       "en": "A character reference image.",
-      "zh": "角色参考图像。"
+      "zh-CN": "角色参考图像。",
+      "zh-TW": "角色參考圖像。",
+      "ja": "文字参照画像。",
+      "ko": "캐릭터 참고 이미지.",
+      "fr": "Image de référence de personnage.",
+      "de": "Ein Referenzbild für die Zeichen.",
+      "es": "Imagen de referencia de un personaje.",
+      "pt-BR": "Uma imagem de referência de personagem."
     },
     {
       "en": "An environment that can split frames and export a GIF.",
-      "zh": "一个可以分割帧并导出 GIF 的环境。"
+      "zh-CN": "一个可以分割帧并导出 GIF 的环境。",
+      "zh-TW": "一個可以分割幀並導出 GIF 的環境。",
+      "ja": "フレーム分割とGIFエクスポートが可能な環境。",
+      "ko": "프레임을 분할하고 GIF로 내보낼 수 있는 환경.",
+      "fr": "Un environnement permettant de découper les images et d'exporter un GIF.",
+      "de": "Eine Umgebung, die Einzelbilder teilen und ein GIF exportieren kann.",
+      "es": "Entorno que permite dividir fotogramas y exportar un GIF.",
+      "pt-BR": "Um ambiente que permite dividir quadros e exportar um GIF."
     }
   ],
   "notes": [
     {
       "en": "The image text “爱你哦” is intentionally preserved in every translation.",
-      "zh": "图像文本 “爱你哦” 在所有翻译中均被有意保留。"
+      "zh-CN": "图像文本 “爱你哦” 在所有翻译中均被有意保留。",
+      "zh-TW": "圖像文字 “爱你哦” 在所有翻譯中均有意保留。",
+      "ja": "画像テキスト「“爱你哦”」は、すべての翻訳において意図的に保持されます。",
+      "ko": "이미지 텍스트 “爱你哦”는 모든 번역에서 의도적으로 유지됩니다.",
+      "fr": "Le texte de l'image “爱你哦” est intentionnellement conservé dans chaque traduction.",
+      "de": "Der Bildtext “爱你哦” wird in jeder Übersetzung beibehalten.",
+      "es": "El texto de la imagen “爱你哦” se conserva intencionadamente en cada traducción.",
+      "pt-BR": "O texto da imagem “爱你哦” é intencionalmente preservado em todas as traduções."
     },
     {
       "en": "The author requests frame generation followed by cutting and GIF assembly. GIF export is a separate processing step, not an image-only model capability.",
-      "zh": "作者要求生成帧，然后进行剪切和 GIF 组装。GIF 导出是一个单独的处理步骤，并非仅图像模型的功能。"
+      "zh-CN": "作者要求生成帧，然后进行剪切和 GIF 组装。GIF 导出是一个单独的处理步骤，并非仅图像模型的功能。",
+      "zh-TW": "作者要求產生幀，然後進行剪切和 GIF 組裝。 GIF 匯出是一個單獨的處理步驟，並非僅有影像模型的功能。",
+      "ja": "作成者は、フレーム生成、切り抜き、GIF作成を要求しています。GIFエクスポートは、画像のみのモデル機能ではなく、別の処理ステップです。",
+      "ko": "작성자는 프레임 생성 후 자르기 및 GIF 조립을 요청합니다. GIF 내보내기는 별도의 처리 단계이며, 이미지 전용 모델 기능이 아닙니다.",
+      "fr": "L'auteur demande la génération des images, suivie du découpage et de l'assemblage du GIF. L'exportation au format GIF est une étape de traitement distincte et non une fonctionnalité du modèle d'image uniquement.",
+      "de": "Der Autor wünscht die Generierung von Einzelbildern, gefolgt vom Schneiden und Zusammenfügen des GIFs. Der GIF-Export ist ein separater Verarbeitungsschritt und keine Funktion des reinen Bildmodells.",
+      "es": "El autor solicita la generación de fotogramas, seguida del corte y el ensamblaje del GIF. La exportación a GIF es un paso de procesamiento independiente, no una función exclusiva del modelo de imagen.",
+      "pt-BR": "O autor solicita a geração de quadros seguida de recorte e montagem de GIF. A exportação de GIF é uma etapa de processamento separada, não uma funcionalidade exclusiva do modelo de imagem."
     }
   ],
   "source": {
@@ -94,125 +141,32 @@
     "status": "third-party-terms",
     "note": "Third-party prompts and media retain their creators’ rights; external previews are linked, not relicensed."
   },
-  "localizations": {
-    "zh-TW": {
-      "title": "LINE風格的飛吻貼紙GIF",
-      "summary": "產生十六張固定中文文字的連體半身像，然後將其組合成一個GIF動畫。",
-      "steps": [
-        "為我產生圖中角色的卡通Line風格的半身像GIF表情包每一幀的圖片，注意頭飾和髮型要正確。\n使用 4行x4列 佈局共產生16個小圖片。 16個小圖片為“飞吻”動畫的連貫的分割動作，使用這16張可以組成一個完整的、循環動畫，動作流暢逼真，最後一幀應流暢地循環回到第一幀。 16張圖片裡都使用跟圖片搭配的字體寫著漢字“爱你哦”。 16個小圖片之間需要有足夠留白方便後續切割，每張圖片都不要超出自己的區域。\n注意不要原圖複製，只是使用圖片裡的人物。背景為純白色，不要畫分割線。圖片比例1：1\n\n生成圖片後再切分成一張張正方形的小圖，切分時盡量切掉更多的空白，然後合成GIF動圖"
-      ],
-      "inputs": [
-        "角色參考圖像。",
-        "一個可以分割幀並導出 GIF 的環境。"
-      ],
-      "notes": [
-        "圖像文字 “爱你哦” 在所有翻譯中均有意保留。",
-        "作者要求產生幀，然後進行剪切和 GIF 組裝。 GIF 匯出是一個單獨的處理步驟，並非僅有影像模型的功能。"
-      ],
-      "source_digest": "112a6a60574cda0c652c9e7b7e6dd744bc4ac77f7922564ea852ef5dbb614b7f",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ja": {
-      "title": "LINE風の投げキッススタンプGIF",
-      "summary": "固定された中国語の文字を使った16種類の連続したバストアップポーズを生成し、GIFを作成してください。",
-      "steps": [
-        "画像のキャラクターの、正しい帽子と髪型に注意しながら、漫画風の線画スタイルの上半身GIF絵文字を各フレーム生成してください。\n\n4x4のレイアウトを使用し、合計16枚の小さな画像を生成します。これらの16枚の小さな画像は、“飞吻”アニメーションの連続的な分割動作を表します。これらの16枚の画像を組み合わせることで、滑らかでリアルな動きの完全なループアニメーションを作成できます。最後のフレームは最初のフレームに滑らかに戻るようにしてください。16枚の画像それぞれに、画像に合ったフォントで中国語の文字“爱你哦”を使用してください。16枚の小さな画像の間には、後で切り抜くための十分な余白が必要であり、各画像はそれぞれの領域を超えないようにしてください。\n\n注：元の画像をコピーしないでください。画像内の文字のみを使用してください。背景は純白とし、分割線は描かないでください。画像のアスペクト比は1:1です。\n\n画像生成後、個々の正方形画像に切り分け、切り抜き時にできるだけ余白を取り除いてから、それらをGIFアニメーションに結合してください。"
-      ],
-      "inputs": [
-        "文字参照画像。",
-        "フレーム分割とGIFエクスポートが可能な環境。"
-      ],
-      "notes": [
-        "画像テキスト「“爱你哦”」は、すべての翻訳において意図的に保持されます。",
-        "作成者は、フレーム生成、切り抜き、GIF作成を要求しています。GIFエクスポートは、画像のみのモデル機能ではなく、別の処理ステップです。"
-      ],
-      "source_digest": "112a6a60574cda0c652c9e7b7e6dd744bc4ac77f7922564ea852ef5dbb614b7f",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ko": {
-      "title": "LINE 스타일의 키스 날리는 스티커 GIF",
-      "summary": "고정된 중국어 글자와 연결된 16개의 흉상 포즈를 생성하고 GIF를 만드세요.",
-      "steps": [
-        "이미지 속 캐릭터의 모자와 헤어스타일을 정확하게 표현하여 만화풍의 선화 스타일로 상반신 GIF 이모티콘을 각 프레임별로 생성하세요.\n\n4x4 레이아웃을 사용하여 총 16개의 작은 이미지를 생성하세요. 이 16개의 작은 이미지는 “飞吻” 애니메이션의 연속적인 분할 동작을 나타냅니다. 이 16개의 이미지를 조합하여 부드럽고 사실적인 움직임의 완전한 반복 애니메이션을 만들 수 있습니다. 마지막 프레임은 첫 번째 프레임으로 부드럽게 되돌아가야 합니다. 16개의 이미지 각각에는 이미지와 어울리는 글꼴로 한자 “爱你哦”가 사용됩니다. 16개의 작은 이미지 사이에는 추후 자르기를 위해 충분한 여백이 필요하며, 각 이미지는 자체 영역을 초과해서는 안 됩니다.\n\n참고: 원본 이미지를 복사하지 마세요. 이미지 안에 있는 캐릭터만 사용하세요. 배경은 순백색이어야 하며, 구분선을 그리지 마세요. 이미지 비율은 1:1입니다.\n\n이미지를 생성한 후, 최대한 여백을 제거하고 정사각형 이미지로 분할한 다음, 이들을 합쳐 GIF 애니메이션을 만드세요."
-      ],
-      "inputs": [
-        "캐릭터 참고 이미지.",
-        "프레임을 분할하고 GIF로 내보낼 수 있는 환경."
-      ],
-      "notes": [
-        "이미지 텍스트 “爱你哦”는 모든 번역에서 의도적으로 유지됩니다.",
-        "작성자는 프레임 생성 후 자르기 및 GIF 조립을 요청합니다. GIF 내보내기는 별도의 처리 단계이며, 이미지 전용 모델 기능이 아닙니다."
-      ],
-      "source_digest": "112a6a60574cda0c652c9e7b7e6dd744bc4ac77f7922564ea852ef5dbb614b7f",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "fr": {
-      "title": "GIF autocollant « bisou soufflé » style LINE",
-      "summary": "Générer seize poses de buste liées avec des caractères chinois fixes, puis assembler un GIF.",
-      "steps": [
-        "Générez chaque image d'une émoticône GIF de style cartoon (lignes) représentant la moitié du corps du personnage de l'image, en veillant à respecter la coiffure et les couvre-chefs.\n\nUtilisez une mise en page 4x4 pour générer 16 petites images. Ces 16 images représentent le mouvement de division continu de l'animation “飞吻”. Elles peuvent être combinées pour former une animation complète en boucle, aux mouvements fluides et réalistes. La dernière image doit revenir à la première de manière fluide. Chaque image utilise les caractères chinois “爱你哦” dans une police assortie. Prévoyez suffisamment d'espace blanc entre les 16 images pour faciliter le découpage, et chaque image ne doit pas dépasser sa propre surface.\n\nRemarque : Ne copiez pas l'image originale ; utilisez uniquement les caractères contenus dans les images. Le fond doit être blanc pur ; ne tracez pas de lignes de séparation. Le format d'image est de 1:1.\n\nAprès avoir généré l'image, découpez-la en carrés individuels en supprimant autant d'espace blanc que possible, puis assemblez-les en une animation GIF."
-      ],
-      "inputs": [
-        "Image de référence de personnage.",
-        "Un environnement permettant de découper les images et d'exporter un GIF."
-      ],
-      "notes": [
-        "Le texte de l'image “爱你哦” est intentionnellement conservé dans chaque traduction.",
-        "L'auteur demande la génération des images, suivie du découpage et de l'assemblage du GIF. L'exportation au format GIF est une étape de traitement distincte et non une fonctionnalité du modèle d'image uniquement."
-      ],
-      "source_digest": "112a6a60574cda0c652c9e7b7e6dd744bc4ac77f7922564ea852ef5dbb614b7f",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "de": {
-      "title": "GIF-Sticker im LINE-Stil mit einem Luftkuss",
-      "summary": "Generieren Sie sechzehn verbundene Brustbildposen mit festgelegter chinesischer Schrift und erstellen Sie daraus ein GIF.",
-      "steps": [
-        "Erstelle für jedes Einzelbild ein animiertes Halbfiguren-GIF im Cartoon-Stil (Linienstil) der Figur aus dem Bild. Achte dabei auf die korrekte Kopfbedeckung und Frisur.\n\nVerwende ein 4x4-Layout und generiere insgesamt 16 kleine Bilder. Diese 16 Bilder stellen die kontinuierliche Teilungsbewegung der “飞吻”-Animation dar. Sie können zu einer vollständigen, sich wiederholenden Animation mit flüssigen und realistischen Bewegungen kombiniert werden. Das letzte Bild sollte nahtlos zum ersten zurückkehren. Jedes der 16 Bilder verwendet die chinesischen Schriftzeichen “爱你哦” in einer zum Bild passenden Schriftart. Zwischen den 16 kleinen Bildern muss ausreichend Platz für das spätere Zuschneiden vorhanden sein, und jedes Bild darf seinen eigenen Bereich nicht überschreiten.\n\nHinweis: Kopiere nicht das Originalbild. Verwenden Sie ausschließlich die Figuren in den Bildern. Der Hintergrund sollte reinweiß sein; zeichnen Sie keine Trennlinien. Das Bildverhältnis beträgt 1:1.\n\nNachdem Sie das Bild erstellt haben, schneiden Sie es in einzelne quadratische Bilder, entfernen Sie dabei so viel Weißraum wie möglich und fügen Sie diese anschließend zu einer GIF-Animation zusammen."
-      ],
-      "inputs": [
-        "Ein Referenzbild für die Zeichen.",
-        "Eine Umgebung, die Einzelbilder teilen und ein GIF exportieren kann."
-      ],
-      "notes": [
-        "Der Bildtext “爱你哦” wird in jeder Übersetzung beibehalten.",
-        "Der Autor wünscht die Generierung von Einzelbildern, gefolgt vom Schneiden und Zusammenfügen des GIFs. Der GIF-Export ist ein separater Verarbeitungsschritt und keine Funktion des reinen Bildmodells."
-      ],
-      "source_digest": "112a6a60574cda0c652c9e7b7e6dd744bc4ac77f7922564ea852ef5dbb614b7f",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "es": {
-      "title": "GIF de pegatina de beso al estilo LINE",
-      "summary": "Genera dieciséis poses de busto conectadas con caracteres chinos fijos y luego crea un GIF.",
-      "steps": [
-        "Genera cada fotograma de un emoticono GIF de medio cuerpo estilo caricatura, del personaje de la imagen, prestando atención al tocado y peinado correctos.\n\nUsando una cuadrícula de 4x4, genera un total de 16 imágenes pequeñas. Estas 16 imágenes representan el movimiento continuo de división de la animación “飞吻”. Se pueden combinar para formar una animación completa en bucle con movimientos suaves y realistas. El último fotograma debe volver al primero sin problemas. Cada una de las 16 imágenes utiliza los caracteres chinos “爱你哦” en una fuente que coincida con la imagen. Se necesita suficiente espacio en blanco entre las 16 imágenes para el recorte posterior, y cada imagen no debe exceder su propia área.\n\nNota: No copies la imagen original. Utilice únicamente los personajes de las imágenes. El fondo debe ser blanco puro; no dibuje líneas divisorias. La relación de aspecto es 1:1.\n\nTras generar la imagen, divídala en imágenes cuadradas individuales, eliminando la mayor cantidad de espacio en blanco posible durante el proceso, y luego combínelas en una animación GIF."
-      ],
-      "inputs": [
-        "Imagen de referencia de un personaje.",
-        "Entorno que permite dividir fotogramas y exportar un GIF."
-      ],
-      "notes": [
-        "El texto de la imagen “爱你哦” se conserva intencionadamente en cada traducción.",
-        "El autor solicita la generación de fotogramas, seguida del corte y el ensamblaje del GIF. La exportación a GIF es un paso de procesamiento independiente, no una función exclusiva del modelo de imagen."
-      ],
-      "source_digest": "112a6a60574cda0c652c9e7b7e6dd744bc4ac77f7922564ea852ef5dbb614b7f",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "pt-BR": {
-      "title": "GIF de adesivo de beijo no estilo LINE",
-      "summary": "Gere dezesseis poses de busto conectadas com letras chinesas fixas e, em seguida, monte um GIF.",
-      "steps": [
-        "Gere cada quadro de um GIF em estilo cartoon, com traços finos, representando meio corpo do personagem na imagem, atentando-se ao penteado e ao chapéu.\n\nUsando um layout 4x4, gere um total de 16 pequenas imagens. As 16 pequenas imagens representam o movimento contínuo de divisão da animação “飞吻”. Essas 16 imagens podem ser combinadas para formar uma animação completa em loop com movimentos suaves e realistas. O último quadro deve retornar suavemente ao primeiro. Cada uma das 16 imagens utiliza os caracteres chineses “爱你哦” em uma fonte que corresponda à imagem. É necessário espaço em branco suficiente entre as 16 pequenas imagens para recortes subsequentes, e cada imagem não deve exceder sua própria área.\n\nNota: Não copie a imagem original; Utilize apenas os caracteres dentro das imagens. O fundo deve ser totalmente branco; não desenhe linhas divisórias. A proporção da imagem é 1:1.\n\nApós gerar a imagem, recorte-a em quadrados individuais, removendo o máximo de espaço em branco possível durante o recorte, e então combine-os em uma animação GIF."
-      ],
-      "inputs": [
-        "Uma imagem de referência de personagem.",
-        "Um ambiente que permite dividir quadros e exportar um GIF."
-      ],
-      "notes": [
-        "O texto da imagem “爱你哦” é intencionalmente preservado em todas as traduções.",
-        "O autor solicita a geração de quadros seguida de recorte e montagem de GIF. A exportação de GIF é uma etapa de processamento separada, não uma funcionalidade exclusiva do modelo de imagem."
-      ],
-      "source_digest": "112a6a60574cda0c652c9e7b7e6dd744bc4ac77f7922564ea852ef5dbb614b7f",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+  "translation_meta": {
+    "source_digest": "dfca01a8aa3d98d0c2236bbdea7fd0cea1b4a62e9433f75f60dbc757c669fa6e",
+    "text_digests": {
+      "zh-CN": "b913562d680913bf4430bfadd2225e0c638b26deeb7adc603303f7c6451f4ea4",
+      "zh-TW": "aa9bedf7b7948e5f72fa7c231ac81a2f3b8083ed9ba7086f88eca9822ef264b1",
+      "ja": "03eaf8163088c2ae7d048d1231533686f0e3e99fe2029549cda5720f2e3b6f50",
+      "ko": "348ddab13abab83651a77223c47e8532d2f42f5b053f7f5e1bbe045c960e91fe",
+      "fr": "025b4680d9c1071a5d89b6f1c97dc1ced4857f9645c82b8caf7bbb1f287e2a24",
+      "de": "9b4d36d555b3906281c9430bf17f7f2709896c5ecbbb3d6958843cae96158b7b",
+      "es": "358e6fe1732b823e1fc517875bf7fae9eb828d64fc52214e018ec1b273c256ed",
+      "pt-BR": "66653ca215d58837961e8e7c9cac688b7a865316a1b8285095249fa735fbfabf"
     }
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:12:37.867Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 3,
+      "result": 2,
+      "usefulness": 3,
+      "clarity": 3,
+      "distinctiveness": 3
+    },
+    "rationale": "The sticker composition and Chinese lettering are visible; the thumbnail cannot verify sixteen connected poses, timing or a delivered GIF."
   }
 }

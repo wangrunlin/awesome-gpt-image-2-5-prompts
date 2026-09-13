@@ -35,3 +35,8 @@ body:
     attributes:
       label: Optional engagement snapshot
       description: Public counts plus capture time. Unknown is fine; do not guess.
+  - type: textarea
+    id: usefulness
+    attributes:
+      label: Use case and limits
+      description: What does this recipe help someone do? Explain its distinctive control method, known failures, and any content warning. Low engagement is welcome; no minimum likes are required.

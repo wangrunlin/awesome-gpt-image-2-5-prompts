@@ -1,0 +1,137 @@
+{
+  "id": "modular-mechanical-tower",
+  "title": {
+    "en": "Modular mechanical tower",
+    "zh-CN": "模块机械塔",
+    "zh-TW": "模組機械塔",
+    "ja": "モジュール式機械タワー",
+    "ko": "모듈형 기계 타워",
+    "fr": "Tour mécanique modulaire",
+    "de": "Modularer Maschinenturm",
+    "es": "Torre mecánica modular",
+    "pt-BR": "Torre mecânica modular"
+  },
+  "summary": {
+    "en": "Study material separation, structural connections and color blocking in an industrial concept.",
+    "zh-CN": "通过工业概念图研究材质分离、结构连接与色块构图。",
+    "zh-TW": "透過工業概念圖研究材質分離、結構連接與色塊構圖。",
+    "ja": "工業コンセプトで素材の区別、構造接合、色面構成を学ぶ。",
+    "ko": "산업 콘셉트에서 재질 구분, 구조 연결과 색면 구성을 연구합니다.",
+    "fr": "Étudier matières distinctes, assemblages et aplats dans un concept industriel.",
+    "de": "Materialtrennung, Verbindungen und Farbflächen an einem Industriekonzept untersuchen.",
+    "es": "Estudiar materiales diferenciados, conexiones y bloques de color en un concepto industrial.",
+    "pt-BR": "Estudar materiais distintos, conexões e blocos de cor em um conceito industrial."
+  },
+  "category": "design",
+  "tags": [
+    "industrial-design",
+    "architecture",
+    "color-blocking",
+    "material-study"
+  ],
+  "mode": "generate",
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/listudio/status/2098316254679625917",
+    "evidence": "The creator explicitly attributes this source post to GPT Image 2.5; the variant and output model have not been independently verified."
+  },
+  "prompt": {
+    "kind": "adaptation",
+    "original_language": "zh-CN",
+    "steps": [
+      {
+        "en": "Create a 2:3 photoreal industrial tower viewed from below, its top outside the frame. Stack offset cobalt, orange-red, yellow, green and silver metal modules. Separate glossy painted panels from chrome frames. Show seams, hinges, maintenance stairs and two supported roller conveyors at different heights. Add a few vertical pipes. Leave clear blue sky on the right. Use hard sunlight and crisp shadows. No text, logos, watermarks, weathering, haze or floating parts.",
+        "zh-CN": "制作 2:3 写实工业机械塔，从低处仰视，塔顶超出画面。将钴蓝、橙红、黄、绿及银色金属舱错位堆叠。区分亮面烤漆面板与镀铬框架。展示接缝、铰链、维护楼梯及位于不同高度的两条有支撑滚筒输送带。添加少量竖向管线。右侧留出纯净蓝天。采用强烈日光与清晰阴影。不要文字、标志、水印、做旧、雾气或悬浮零件。",
+        "zh-TW": "製作 2:3 寫實工業機械塔，從低處仰視，塔頂超出畫面。將鈷藍、橙紅、黃、綠及銀色金屬艙錯位堆疊。區分亮面烤漆面板與鍍鉻框架。展示接縫、鉸鏈、維護樓梯及位於不同高度的兩條有支撐滾筒輸送帶。添加少量垂直管線。右側留出純淨藍天。採用強烈日光與清晰陰影。不要文字、標誌、浮水印、做舊、霧氣或懸浮零件。",
+        "ja": "2:3の写実的な工業タワーを下から見上げ、頂部を画面外にしてください。コバルト、橙赤、黄、緑、銀の金属モジュールをずらして積んでください。光沢塗装パネルとクロームフレームを区別してください。継ぎ目、ヒンジ、保守階段、高さの異なる支持付きローラーコンベヤー2本を描いてください。垂直配管を少し追加し、右側に澄んだ青空を残してください。強い日光と鮮明な影。文字、ロゴ、透かし、劣化、霞、浮遊部品は不要です。",
+        "ko": "2:3 비율의 사실적인 산업 타워를 아래에서 올려다보게 만들고 꼭대기는 화면 밖에 두세요. 코발트, 주홍, 노랑, 초록, 은색 금속 모듈을 어긋나게 쌓으세요. 유광 도장 패널과 크롬 프레임을 구분하세요. 이음새, 경첩, 유지보수 계단과 서로 다른 높이의 지지된 롤러 컨베이어 두 개를 보여주세요. 수직 배관을 조금 추가하고 오른쪽에 맑은 푸른 하늘을 남기세요. 강한 햇빛과 선명한 그림자. 글자, 로고, 워터마크, 낡은 흔적, 안개, 떠 있는 부품은 넣지 마세요.",
+        "fr": "Créez une tour industrielle photoréaliste au format 2:3, en contre-plongée, sommet hors cadre. Empilez des modules métalliques décalés cobalt, rouge orangé, jaunes, verts et argentés. Distinguez panneaux peints brillants et cadres chromés. Montrez joints, charnières, escaliers de maintenance et deux convoyeurs à rouleaux soutenus à différentes hauteurs. Ajoutez quelques conduites verticales. Gardez un ciel bleu dégagé à droite. Soleil dur, ombres nettes. Aucun texte, logo, filigrane, vieillissement, brume ou pièce flottante.",
+        "de": "Erstelle einen fotorealistischen Industrieturm im Format 2:3 aus der Untersicht, die Spitze außerhalb des Bildes. Staple versetzte Metallmodule in Kobalt, Orangerot, Gelb, Grün und Silber. Trenne glänzend lackierte Paneele von Chromrahmen. Zeige Fugen, Scharniere, Wartungstreppen und zwei abgestützte Rollenförderer auf verschiedenen Höhen. Ergänze wenige vertikale Rohre. Lass rechts klaren blauen Himmel frei. Hartes Sonnenlicht, scharfe Schatten. Keine Texte, Logos, Wasserzeichen, Alterung, Dunst oder schwebenden Teile.",
+        "es": "Crea una torre industrial fotorrealista 2:3 vista desde abajo, con la parte superior fuera del encuadre. Apila módulos metálicos desplazados en cobalto, rojo anaranjado, amarillo, verde y plata. Distingue paneles pintados brillantes y marcos cromados. Muestra juntas, bisagras, escaleras de mantenimiento y dos transportadores de rodillos con soportes a distintas alturas. Añade pocas tuberías verticales. Deja cielo azul despejado a la derecha. Sol duro y sombras nítidas. Sin texto, logotipos, marcas de agua, desgaste, bruma ni piezas flotantes.",
+        "pt-BR": "Crie uma torre industrial fotorrealista 2:3 vista de baixo, com o topo fora do quadro. Empilhe módulos metálicos deslocados em cobalto, vermelho-alaranjado, amarelo, verde e prata. Distinga painéis pintados brilhantes de estruturas cromadas. Mostre juntas, dobradiças, escadas de manutenção e dois transportadores de roletes apoiados em alturas diferentes. Adicione poucos tubos verticais. Deixe céu azul limpo à direita. Sol forte e sombras nítidas. Sem texto, logotipos, marcas d’água, desgaste, névoa ou peças flutuantes."
+      }
+    ],
+    "original_steps": [
+      "2:3竖屏，酸性未来主义模块机械塔的超写实产品建筑摄影。从低机位仰视一座向上延伸、顶部局部越出画幅的不对称工业装置，主体由错位咬合的巨大长方体金属舱组成，分别为高纯度钴蓝、朱红橙、柠檬黄、鲜草绿和银白，色彩平涂干净，各色块边界锋利，不做脏污渐变。每个舱体具有精细钣金折边、窄接缝、少量通风孔、机械门铰链和把手，烤漆表面呈克制光泽，与镜面镀铬框架区别明确。左侧和中央沿舱体外墙悬接银色细栏杆维护平台与折返钢梯，密集但整齐；两段短滚筒输送带从上方不同高度伸出，具有真实滚轴、轴承、链条及支撑连接，形成有力量的横向构图。几根纤细橙色和绿色管线沿竖向走线，少量红绿按钮点缀。装置右侧保留足够的纯净高饱和蓝天，几何轮廓清楚。强烈晴日硬光、锐利阴影、银色镜面反光，材质像新制造的真实工业设备，精密、饱满、干净，带复古科技广告的理性趣味。无文字、品牌、邮政标识、国旗、logo或水印，无做旧、污渍、雾气、光晕、悬浮零件。"
+    ]
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "Condensed editor adaptation, not a verbatim translation. The source image has a Genvizu watermark despite the no-watermark instruction. This is a visual concept, not an engineering drawing; no reference upload is required.",
+      "zh-CN": "编辑精简改编，并非逐字翻译。原图带有 Genvizu 水印，与无水印指令不符。这是视觉概念，不是工程图；无需上传参考图。",
+      "zh-TW": "編輯精簡改編，並非逐字翻譯。原圖帶有 Genvizu 浮水印，與無浮水印指令不符。這是視覺概念，不是工程圖；無需上傳參考圖。",
+      "ja": "編集者による要約改変で、逐語訳ではありません。透かし禁止の指示に反して元画像にはGenvizuの透かしがあります。これは視覚コンセプトであり工学図面ではありません。参照画像のアップロードは不要です。",
+      "ko": "편집자가 축약한 개작으로 직역이 아닙니다. 워터마크 금지 지시와 달리 원본 이미지에는 Genvizu 워터마크가 있습니다. 공학 도면이 아닌 시각 콘셉트이며 참조 업로드는 필요하지 않습니다.",
+      "fr": "Adaptation condensée par l’éditeur, non littérale. L’image porte un filigrane Genvizu malgré l’interdiction. Concept visuel, pas un plan technique ; aucune référence à téléverser.",
+      "de": "Gekürzte redaktionelle Adaption, keine wörtliche Übersetzung. Das Quellbild trägt trotz Verbot ein Genvizu-Wasserzeichen. Visuelles Konzept, keine technische Zeichnung; kein Referenzupload erforderlich.",
+      "es": "Adaptación abreviada del editor, no traducción literal. La imagen lleva una marca de agua Genvizu pese a prohibirla. Concepto visual, no plano técnico; no requiere subir referencias.",
+      "pt-BR": "Adaptação resumida do editor, não tradução literal. A imagem tem marca d’água Genvizu apesar da proibição. Conceito visual, não desenho técnico; não exige envio de referências."
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "listudio",
+    "url": "https://x.com/listudio/status/2098316254679625917",
+    "prompt_url": "https://x.com/listudio/status/2098316254679625917",
+    "checked_at": "2026-09-13T16:25:39.911Z",
+    "status": "source-checked",
+    "disclosure": "The creator promotes Genvizu in the post; its watermark is visible on the source image.",
+    "post_language": "zh-CN"
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HR63c2BaYAAPqW3?format=jpg&name=medium",
+      "kind": "source-result",
+      "credit": "@listudio — creator source result",
+      "source_url": "https://x.com/listudio/status/2098316254679625917"
+    }
+  ],
+  "engagement": {
+    "likes": 1,
+    "reposts": 0,
+    "replies": 0,
+    "bookmarks": 0,
+    "views": 127,
+    "observed_at": "2026-09-11T10:08:52.771Z",
+    "source_url": "https://x.com/listudio/status/2098316254679625917",
+    "method": "X primary post UI; individual post engagement controls"
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:25:39.911Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 3,
+      "result": 2,
+      "usefulness": 3,
+      "clarity": 4,
+      "distinctiveness": 3
+    },
+    "rationale": "Useful material and structural composition study despite low engagement. Watermark contradicts a negative constraint, so visible-result quality is only basic; physical constructibility is unverified."
+  },
+  "translation_meta": {
+    "source_digest": "66ebf74a5b6760a082d32f67a0df316d98d019e5e10c1e0d14f6c7b89ecff567",
+    "text_digests": {
+      "zh-CN": "dcb44dc6f218ea5c868cfb6bf6f03b9521bf6456b3043e80cda7e2d3b6c415fa",
+      "zh-TW": "045c21be3333e64a4d0aaaeb5c493612f7d363863fc987dda23e21e03563f415",
+      "ja": "9789d40263824f03be48774078407b6667628183c0cde88597db23ba4afc33fd",
+      "ko": "7d77c7c057f6b3e99a8aad7bc8f551be1222514eb0ef332fe7140185b0e2ccbb",
+      "fr": "15695c1b194f187bb791b6521e114d0444cb4885ae05249a49bcb2e1ff02ffbc",
+      "de": "d17a20705223e3263fe2ed2c7180bcd6f4a72b428fa10d4329e7c9e9b274b02d",
+      "es": "5ed3735ae3790ae569c5815bade4fea2971d14e867bd1217b42f777377a1d8e5",
+      "pt-BR": "6fcce4824a2352cc7ab4c22546af2ca4faacce4010633f02fddbb31371bec145"
+    }
+  }
+}

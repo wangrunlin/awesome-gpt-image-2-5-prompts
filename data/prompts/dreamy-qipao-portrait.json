@@ -1,13 +1,26 @@
 {
-  "schema_version": 1,
   "id": "dreamy-qipao-portrait",
   "title": {
     "en": "A dreamy qipao portrait",
-    "zh": "梦幻旗袍人像"
+    "zh-CN": "梦幻旗袍人像",
+    "zh-TW": "夢幻般的旗袍肖像",
+    "ja": "夢幻的なチャイナドレス（旗袍）姿のポートレート",
+    "ko": "몽환적인 분위기의 치파오 초상화",
+    "fr": "Un portrait onirique en qipao",
+    "de": "Ein verträumtes Porträt im Qipao",
+    "es": "Un retrato onírico con *qipao*",
+    "pt-BR": "Um retrato etéreo com *qipao*"
   },
   "summary": {
     "en": "A compact portrait prompt combining high-angle framing, bloom, and soft focus.",
-    "zh": "结合俯拍、柔光泛光和朦胧焦点的简洁人像提示词。"
+    "zh-CN": "结合俯拍、柔光泛光和朦胧焦点的简洁人像提示词。",
+    "zh-TW": "一幅簡潔的肖像提示圖，結合了高角度構圖、光暈和柔焦效果。",
+    "ja": "ハイアングル（俯瞰）の構図、ブルーム効果、ソフトフォーカスを組み合わせた、コンパクトなポートレート用プロンプト。",
+    "ko": "하이 앵글 구도, 블룸(빛 번짐) 효과, 소프트 포커스를 결합한 간결한 초상화 프롬프트.",
+    "fr": "Un prompt concis pour un portrait combinant une prise de vue en plongée, un effet de halo lumineux (bloom) et un flou artistique doux.",
+    "de": "Ein kompakter Porträt-Prompt, der eine Aufnahme aus der Vogelperspektive mit Bloom-Effekt und Weichzeichnung kombiniert.",
+    "es": "Un *prompt* conciso para un retrato que combina encuadre en ángulo picado, efecto de resplandor (*bloom*) y enfoque suave.",
+    "pt-BR": "Um *prompt* de retrato compacto que combina enquadramento em ângulo alto, efeito *bloom* e foco suave."
   },
   "category": "photography",
   "tags": [
@@ -16,7 +29,6 @@
     "soft-light"
   ],
   "mode": "generate",
-  "featured": false,
   "model": {
     "family": "GPT Image 2.5",
     "variant": null,
@@ -28,7 +40,14 @@
     "steps": [
       {
         "en": "9:16, wearing a qipao, soft light bloom, dreamy blur, high-angle shot looking down, tall slender model figure, refined makeup, fox-like beauty face",
-        "zh": "9:16，穿着旗袍，柔和泛光，梦幻虚化，从高处向下俯拍，高挑纤细的模特身形，精致妆容，狐系美人面容"
+        "zh-CN": "9:16，穿着旗袍，柔和泛光，梦幻虚化，从高处向下俯拍，高挑纤细的模特身形，精致妆容，狐系美人面容",
+        "zh-TW": "9:16，身著旗袍，柔和的光暈，夢幻般的虛化效果，高角度俯拍，模特兒身材高挑纖細，妝容精緻，面容如狐狸般美麗。",
+        "ja": "アスペクト比9:16、チャイナドレス着用、柔らかな光の輝き、夢幻的なぼかし効果、上からのハイアングルショット、長身でスリムなモデル体型、洗練されたメイク、狐のような美しい顔立ち",
+        "ko": "9:16 비율, 치파오(qipao) 착용, 부드럽게 퍼지는 빛, 몽환적인 블러 효과, 위에서 아래로 내려다보는 하이 앵글 샷, 키 크고 날씬한 모델 체형, 세련된 메이크업, 여우를 닮은 매혹적인 얼굴",
+        "fr": "Format 9:16, portant un qipao, lumière douce et diffuse, flou onirique, vue en plongée, silhouette de mannequin grande et élancée, maquillage raffiné, visage aux traits fins évoquant un renard",
+        "de": "9:16-Format, Qipao-Kleid, sanfter Lichtschein, verträumte Unschärfe, Aufsicht (Perspektive von oben), hohe, schlanke Model-Figur, raffiniertes Make-up, Gesicht mit fuchsartiger Schönheit",
+        "es": "Relación de aspecto 9:16, modelo con *qipao*, iluminación suave y difusa, desenfoque onírico, toma en picado (desde arriba), figura alta y esbelta, maquillaje refinado, rostro de belleza felina (tipo zorro).",
+        "pt-BR": "Proporção 9:16, vestindo um qipao, brilho de luz suave, desfoque onírico, ângulo de visão de cima para baixo (picado), silhueta de modelo alta e esbelta, maquiagem refinada, rosto com traços de beleza que lembram uma raposa"
       }
     ],
     "original_language": "en",
@@ -40,7 +59,14 @@
   "notes": [
     {
       "en": "The English block preserves the published wording; the Chinese block is a translation.",
-      "zh": "英文保留原帖措辞；中文为译文。"
+      "zh-CN": "英文保留原帖措辞；中文为译文。",
+      "zh-TW": "英文部分保留了原文；中文部分為翻譯。",
+      "ja": "英語のブロックは公開時の文言をそのまま使用し、中国語のブロックは翻訳です。",
+      "ko": "영어 텍스트는 원본 문구를 그대로 유지하며, 중국어 텍스트는 번역본입니다.",
+      "fr": "Le bloc en anglais conserve le libellé original ; le bloc en chinois en est la traduction.",
+      "de": "Der englische Textblock behält den veröffentlichten Wortlaut bei; der chinesische Block ist eine Übersetzung.",
+      "es": "El bloque en inglés conserva la redacción original publicada; el bloque en chino es una traducción.",
+      "pt-BR": "O bloco em inglês preserva a redação original publicada; o bloco em chinês é uma tradução."
     }
   ],
   "source": {
@@ -79,97 +105,43 @@
     "status": "third-party-terms",
     "note": "Original prompts and source media retain their creators’ rights. External previews are linked, not relicensed by this repository."
   },
-  "localizations": {
-    "zh-TW": {
-      "title": "夢幻般的旗袍肖像",
-      "summary": "一幅簡潔的肖像提示圖，結合了高角度構圖、光暈和柔焦效果。",
-      "steps": [
-        "9:16，身著旗袍，柔和的光暈，夢幻般的虛化效果，高角度俯拍，模特兒身材高挑纖細，妝容精緻，面容如狐狸般美麗。"
-      ],
-      "inputs": [],
-      "notes": [
-        "英文部分保留了原文；中文部分為翻譯。"
-      ],
-      "source_digest": "ed859455f502d67afc93246a352ab23e0dab0b0c660788eea5a936d1c01502b9",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+  "translation_meta": {
+    "source_digest": "bef0f985ebada2a468ab5b5d5b5b0eeca268be786617736f096e321f5c6a1809",
+    "text_digests": {
+      "zh-CN": "ca2492fef6629cc72942cbdcde1403eb29373227e5365aedec982fd531618c4f",
+      "zh-TW": "9683f85b95adb7f2f61ae4b0f55f52ad77f94fc7330c099344e1a88fc339ae6a",
+      "ja": "1a5844d51d86af1f688cd5796f90d23edc69eb02af7c5bd6618c785dbebe75bb",
+      "ko": "cc68f1278c2da79082b5ffa9788393822253414f52ec7ee5e68bd9c6d4f5e8a3",
+      "fr": "d93453dad2d95c634f98aa46b7d511b3e350a251fbb051643c37a10ccb1670b5",
+      "de": "98009dedfb42b3dfc6a08d1e7a21d9098a0c98207f1ecf0597fcccecb69249e1",
+      "es": "9b3e00ac22e0fc9c0295c2e54c7368334d09dcee67cac4d84b3b571c0dd88ea8",
+      "pt-BR": "b6fa1ad7d39e53b6213779e55282829f7e504f7213d976be67c31f04cbb72da3"
+    }
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:12:37.863Z",
+    "decision": "hold",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 2,
+      "result": 3,
+      "usefulness": 2,
+      "clarity": 2,
+      "distinctiveness": 1
     },
-    "ja": {
-      "title": "夢幻的なチャイナドレス（旗袍）姿のポートレート",
-      "summary": "ハイアングル（俯瞰）の構図、ブルーム効果、ソフトフォーカスを組み合わせた、コンパクトなポートレート用プロンプト。",
-      "steps": [
-        "アスペクト比9:16、チャイナドレス着用、柔らかな光の輝き、夢幻的なぼかし効果、上からのハイアングルショット、長身でスリムなモデル体型、洗練されたメイク、狐のような美しい顔立ち"
-      ],
-      "inputs": [],
-      "notes": [
-        "英語のブロックは公開時の文言をそのまま使用し、中国語のブロックは翻訳です。"
-      ],
-      "source_digest": "ed859455f502d67afc93246a352ab23e0dab0b0c660788eea5a936d1c01502b9",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ko": {
-      "title": "몽환적인 분위기의 치파오 초상화",
-      "summary": "하이 앵글 구도, 블룸(빛 번짐) 효과, 소프트 포커스를 결합한 간결한 초상화 프롬프트.",
-      "steps": [
-        "9:16 비율, 치파오(qipao) 착용, 부드럽게 퍼지는 빛, 몽환적인 블러 효과, 위에서 아래로 내려다보는 하이 앵글 샷, 키 크고 날씬한 모델 체형, 세련된 메이크업, 여우를 닮은 매혹적인 얼굴"
-      ],
-      "inputs": [],
-      "notes": [
-        "영어 텍스트는 원본 문구를 그대로 유지하며, 중국어 텍스트는 번역본입니다."
-      ],
-      "source_digest": "ed859455f502d67afc93246a352ab23e0dab0b0c660788eea5a936d1c01502b9",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "fr": {
-      "title": "Un portrait onirique en qipao",
-      "summary": "Un prompt concis pour un portrait combinant une prise de vue en plongée, un effet de halo lumineux (bloom) et un flou artistique doux.",
-      "steps": [
-        "Format 9:16, portant un qipao, lumière douce et diffuse, flou onirique, vue en plongée, silhouette de mannequin grande et élancée, maquillage raffiné, visage aux traits fins évoquant un renard"
-      ],
-      "inputs": [],
-      "notes": [
-        "Le bloc en anglais conserve le libellé original ; le bloc en chinois en est la traduction."
-      ],
-      "source_digest": "ed859455f502d67afc93246a352ab23e0dab0b0c660788eea5a936d1c01502b9",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "de": {
-      "title": "Ein verträumtes Porträt im Qipao",
-      "summary": "Ein kompakter Porträt-Prompt, der eine Aufnahme aus der Vogelperspektive mit Bloom-Effekt und Weichzeichnung kombiniert.",
-      "steps": [
-        "9:16-Format, Qipao-Kleid, sanfter Lichtschein, verträumte Unschärfe, Aufsicht (Perspektive von oben), hohe, schlanke Model-Figur, raffiniertes Make-up, Gesicht mit fuchsartiger Schönheit"
-      ],
-      "inputs": [],
-      "notes": [
-        "Der englische Textblock behält den veröffentlichten Wortlaut bei; der chinesische Block ist eine Übersetzung."
-      ],
-      "source_digest": "ed859455f502d67afc93246a352ab23e0dab0b0c660788eea5a936d1c01502b9",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "es": {
-      "title": "Un retrato onírico con *qipao*",
-      "summary": "Un *prompt* conciso para un retrato que combina encuadre en ángulo picado, efecto de resplandor (*bloom*) y enfoque suave.",
-      "steps": [
-        "Relación de aspecto 9:16, modelo con *qipao*, iluminación suave y difusa, desenfoque onírico, toma en picado (desde arriba), figura alta y esbelta, maquillaje refinado, rostro de belleza felina (tipo zorro)."
-      ],
-      "inputs": [],
-      "notes": [
-        "El bloque en inglés conserva la redacción original publicada; el bloque en chino es una traducción."
-      ],
-      "source_digest": "ed859455f502d67afc93246a352ab23e0dab0b0c660788eea5a936d1c01502b9",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "pt-BR": {
-      "title": "Um retrato etéreo com *qipao*",
-      "summary": "Um *prompt* de retrato compacto que combina enquadramento em ângulo alto, efeito *bloom* e foco suave.",
-      "steps": [
-        "Proporção 9:16, vestindo um qipao, brilho de luz suave, desfoque onírico, ângulo de visão de cima para baixo (picado), silhueta de modelo alta e esbelta, maquiagem refinada, rosto com traços de beleza que lembram uma raposa"
-      ],
-      "inputs": [],
-      "notes": [
-        "O bloco em inglês preserva a redação original publicada; o bloco em chinês é uma tradução."
-      ],
-      "source_digest": "ed859455f502d67afc93246a352ab23e0dab0b0c660788eea5a936d1c01502b9",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+    "rationale": "Hold: the compact fashion description lacks actionable subject and garment detail beyond generic styling. The decision is about limited reuse and distinctiveness, not a blanket exclusion of qipao photography.",
+    "notice": {
+      "en": "Held after quality review: the style brief offers too little distinct, reusable control. Qipao fashion itself is not restricted.",
+      "zh-CN": "质量复审后暂存：风格描述缺少足够独特且可复用的控制方法。旗袍时尚本身不受限制。",
+      "zh-TW": "品質複審後暫存：風格描述缺少足夠獨特且可重用的控制方法。旗袍時尚本身不受限制。",
+      "ja": "品質審査後に保留：スタイルの説明に独自性と再利用できる制御が不足しています。チャイナドレスのファッション自体は制限していません。",
+      "ko": "품질 검토 후 보류: 스타일 설명에 독특하고 재사용 가능한 제어 방식이 부족합니다. 치파오 패션 자체는 제한하지 않습니다.",
+      "fr": "Conservé hors galerie après examen : trop peu de contrôles distinctifs et réutilisables. La mode qipao n’est pas restreinte en elle-même.",
+      "de": "Nach Qualitätsprüfung zurückgestellt: Zu wenig eigenständige, wiederverwendbare Steuerung. Qipao-Mode selbst ist nicht eingeschränkt.",
+      "es": "Apartado tras revisión de calidad: ofrece poco control distintivo y reutilizable. La moda qipao en sí no está restringida.",
+      "pt-BR": "Retido após revisão de qualidade: oferece pouco controle distinto e reutilizável. A moda qipao em si não é restrita."
     }
   }
 }

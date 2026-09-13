@@ -1,13 +1,26 @@
 {
-  "schema_version": 1,
   "id": "clay-skateboard-cat-loop",
   "title": {
     "en": "Clay skateboard cat animation loop",
-    "zh": "黏土滑板猫循环动画"
+    "zh-CN": "黏土滑板猫循环动画",
+    "zh-TW": "黏土滑板貓動畫循環",
+    "ko": "스케이트보드를 타는 고양이의 클레이 애니메이션 루프.",
+    "de": "Animationsschleife einer Katze auf einem Skateboard im Knet-Look",
+    "es": "Bucle de animación de un gato en monopatín estilo plastilina.",
+    "pt-BR": "Loop de animação de gato andando de skate (estilo massinha/clay).",
+    "fr": "Boucle d'animation de chat de skateboard en argile",
+    "ja": "粘土で作ったスケートボード猫のアニメーションループ"
   },
   "summary": {
     "en": "Generate a handmade clay-style action sequence, then assemble its frames into a GIF.",
-    "zh": "生成一组手工粘土风格的动作序列，然后将其帧合成 GIF。"
+    "zh-CN": "生成一组手工粘土风格的动作序列，然后将其帧合成 GIF。",
+    "zh-TW": "產生一個手工黏土風格的動作序列，然後將其幀組裝成 GIF。",
+    "ko": "수작업 클레이 스타일의 액션 시퀀스를 생성한 다음, 프레임을 조합하여 GIF로 만듭니다.",
+    "de": "Erstellung einer handgemachten Action-Sequenz im Knet-Stil und anschließende Zusammenfügung der Einzelbilder zu einem GIF.",
+    "es": "Generar una secuencia de acción artesanal estilo plastilina y luego ensamblar sus fotogramas en un GIF.",
+    "pt-BR": "Gere uma sequência de ação artesanal no estilo massinha (*clay*) e, em seguida, monte os quadros em um GIF.",
+    "fr": "Générez une séquence d'action de style argile faite à la main, puis assemblez ses images dans un GIF.",
+    "ja": "手作りの粘土風アクションシーケンスを生成し、そのフレームをGIFに組み立ててください。"
   },
   "category": "characters",
   "tags": [
@@ -15,7 +28,6 @@
     "workflow"
   ],
   "mode": "workflow",
-  "featured": true,
   "model": {
     "family": "GPT Image 2.5",
     "variant": null,
@@ -31,28 +43,63 @@
     "steps": [
       {
         "en": "Create a 24-frame clay stop-motion loop of an orange-and-white cat riding a skateboard. Handmade plasticine texture, black pixel sunglasses, studded collar, cigarette in mouth. The cat rides, crouches, pops, jumps, flips the board, catches it, lands and loops back. Square 1:1, solid off-white background, full character always visible, no cropped ears/tail/skate, no frame leakage, only a subtle horizontal ground shadow. Slightly choppy handcrafted motion, not smooth CGI.",
-        "zh": "制作一个 24 帧的粘土定格动画循环，内容是一只橙白相间的猫在滑板上滑行。具有手工橡皮泥质感，猫戴着黑色像素风墨镜和带铆钉的项圈，嘴里叼着烟。动作包括滑行、蹲伏、起跳（pop）、腾空、翻板、接板、落地并循环。画面为 1:1 正方形，纯米白色背景；角色全身始终可见，耳朵、尾巴或滑板未被切断，无画面溢出，仅有淡淡的水平地面阴影。动作呈现手工制作特有的轻微顿挫感，而非流畅的 CGI 效果。"
+        "zh-CN": "制作一个 24 帧的粘土定格动画循环，内容是一只橙白相间的猫在滑板上滑行。具有手工橡皮泥质感，猫戴着黑色像素风墨镜和带铆钉的项圈，嘴里叼着烟。动作包括滑行、蹲伏、起跳（pop）、腾空、翻板、接板、落地并循环。画面为 1:1 正方形，纯米白色背景；角色全身始终可见，耳朵、尾巴或滑板未被切断，无画面溢出，仅有淡淡的水平地面阴影。动作呈现手工制作特有的轻微顿挫感，而非流畅的 CGI 效果。",
+        "zh-TW": "製作24格的定格動畫，用黏土製作一隻橘白相間的貓咪滑板的循環動畫。動畫需使用手工橡皮泥材質，貓咪戴著黑色像素太陽眼鏡，項圈上有鉚釘，嘴裡叼著香菸。動畫內容包括滑行、蹲伏、彈跳、翻轉滑板、接住滑板、落地、繞圈圈。畫面比例為1:1正方形，背景為純米白色，角色全貌始終可見，耳朵、尾巴和滑板均不可裁剪，無漏幀，僅需添加輕微的水平地面陰影。動畫動作需略顯生硬，而非流暢的CGI動畫。",
+        "ko": "스케이트보드를 타는 주황색-흰색 고양이의 24프레임 클레이 스톱모션 루프를 생성합니다. 수작업 플라스티신(점토) 질감, 검은색 픽셀 선글라스, 스터드 장식 목걸이, 입에 문 담배가 특징입니다. 고양이는 주행, 웅크리기, 팝(pop), 점프, 보드 뒤집기(flip), 보드 잡기(catch), 착지 후 다시 처음으로 돌아가는 동작을 반복합니다. 정사각형(1:1) 비율, 단색의 미색(off-white) 배경, 캐릭터 전체가 항상 보이도록 설정(귀, 꼬리, 스케이트보드가 잘리지 않아야 함), 프레임 밖으로 나가는 부분 없음, 바닥에는 은은한 수평 그림자만 표시. 매끄러운 CGI가 아닌, 약간 끊기는 듯한 수작업 느낌의 움직임.",
+        "de": "Erstellung einer Stop-Motion-Schleife aus Knete (24 Einzelbilder) mit einer orange-weißen Katze auf einem Skateboard. Handgemachte Knetmasse-Textur, schwarze Pixel-Sonnenbrille, Halsband mit Nieten, Zigarette im Maul. Die Katze fährt, geht in die Hocke, macht einen Pop und Sprung, flippt das Board, fängt es auf, landet und beginnt die Schleife von vorn. Quadratisches Format (1:1), einfarbiger Hintergrund in gebrochenem Weiß, die gesamte Figur ist stets sichtbar, keine abgeschnittenen Ohren/Schwanz/Skateboard, kein Hinausragen aus dem Bildrahmen, nur ein dezenter horizontaler Bodenschatten. Leicht abgehackte, handgemachte Bewegung, kein flüssiges CGI.",
+        "es": "Crear un bucle de animación *stop-motion* de 24 fotogramas estilo plastilina que muestre a un gato naranja y blanco montando un monopatín. Textura artesanal de plastilina, gafas de sol de píxeles negros, collar con tachuelas y un cigarrillo en la boca. El gato avanza, se agacha, hace un *pop*, salta, gira la tabla, la atrapa, aterriza y reinicia el bucle. Formato cuadrado 1:1, fondo blanco roto sólido, personaje completo siempre visible (sin orejas, cola o monopatín recortados), sin elementos que se salgan del encuadre, solo una sutil sombra horizontal en el suelo. Movimiento artesanal ligeramente entrecortado, no fluido como en CGI.",
+        "pt-BR": "Crie um loop de stop-motion em estilo massinha, com 24 quadros, mostrando um gato laranja e branco andando de skate. Textura artesanal de massinha, óculos escuros de pixel pretos, coleira com tachas e cigarro na boca. O gato anda, agacha-se, faz o *pop*, pula, gira o skate, agarra-o no ar, aterrissa e reinicia o loop. Formato quadrado (1:1), fundo branco-sujo (*off-white*) sólido; o personagem deve estar sempre totalmente visível (sem cortes nas orelhas, cauda ou skate) e dentro dos limites do quadro, com apenas uma sombra sutil projetada no chão. Movimento artesanal levemente irregular (*choppy*), sem a fluidez de CGI.",
+        "fr": "Créez une boucle stop-motion en argile de 24 images représentant un chat orange et blanc chevauchant une planche à roulettes. Texture de pâte à modeler faite à la main, lunettes de soleil à pixels noirs, col clouté, cigarette dans la bouche. Le chat monte, s'accroupit, saute, saute, retourne la planche, l'attrape, atterrit et revient en arrière. Carré 1:1, fond blanc cassé uni, caractère complet toujours visible, pas d'oreilles/queue/patin coupés, pas de fuite de cadre, seulement une subtile ombre au sol horizontale. Mouvement artisanal légèrement saccadé, pas CGI fluide.",
+        "ja": "オレンジと白の猫がスケートボードに乗っている24フレームの粘土ストップモーションループを作成してください。手作りの粘土テクスチャ、黒いピクセルサングラス、スタッズ付き首輪、口にはタバコをくわえています。猫はスケートボードに乗り、しゃがみ、飛び上がり、ジャンプし、ボードをひっくり返し、キャッチし、着地してループします。1:1の正方形、オフホワイトの単色背景、常にキャラクター全体が見えるようにし、耳、尻尾、スケートボードが切り取られないようにし、フレーム漏れがないようにし、地面にわずかな水平方向の影のみを付けます。滑らかなCGIではなく、ややぎこちない手作りの動きにしてください。"
       }
     ]
   },
   "inputs": [
     {
       "en": "An image-generation tool and a tool that can split, align, and export frames as a GIF.",
-      "zh": "一个图像生成工具，以及一个能够拆分、对齐并将帧导出为 GIF 的工具。"
+      "zh-CN": "一个图像生成工具，以及一个能够拆分、对齐并将帧导出为 GIF 的工具。",
+      "zh-TW": "需要一款影像產生工具以及一款能夠分割、對齊幀並將其匯出為GIF格式的工具。",
+      "ko": "이미지 생성 도구 및 프레임을 분할·정렬하여 GIF로 내보낼 수 있는 도구.",
+      "de": "Ein Tool zur Bilderzeugung sowie ein Tool zum Aufteilen, Ausrichten und Exportieren von Einzelbildern als GIF.",
+      "es": "Una herramienta de generación de imágenes y otra capaz de dividir, alinear y exportar fotogramas como GIF.",
+      "pt-BR": "Uma ferramenta de geração de imagens e uma ferramenta capaz de dividir, alinhar e exportar quadros como um GIF.",
+      "fr": "Un outil de génération d'images et un outil permettant de diviser, d'aligner et d'exporter des images au format GIF.",
+      "ja": "画像生成ツールと、フレームを分割、整列、GIFとしてエクスポートできるツールを作成してください。"
     }
   ],
   "notes": [
     {
       "en": "The original post is Portuguese; the full prompt in the first author reply is English.",
-      "zh": "原帖为葡萄牙语；作者在第一条回复中提供了完整的英文提示词（prompt）。"
+      "zh-CN": "原帖为葡萄牙语；作者在第一条回复中提供了完整的英文提示词（prompt）。",
+      "zh-TW": "原帖為葡萄牙語；作者在第一個回應中提供了完整的提示訊息，該提示訊息為英語。",
+      "ko": "원본 게시물은 포르투갈어로 작성되었으나, 첫 번째 작성자 답글에 포함된 전체 프롬프트는 영어로 되어 있습니다.",
+      "de": "Der Originalbeitrag ist auf Portugiesisch verfasst; der vollständige Prompt in der ersten Antwort des Autors ist auf Englisch.",
+      "es": "La publicación original está en portugués; la instrucción completa en la primera respuesta del autor está en inglés.",
+      "pt-BR": "A publicação original está em português; o prompt completo, presente na primeira resposta do autor, está em inglês.",
+      "fr": "Le message original est en portugais ; l'invite complète dans la réponse du premier auteur est en anglais.",
+      "ja": "元の投稿はポルトガル語ですが、最初の投稿者からの返信にあるプロンプト全文は英語です。"
     },
     {
       "en": "The author later clarifies that the sprite sheet must be converted to a GIF. After generation, split the frames, check their order and alignment, and export the loop. These processing instructions are editorial notes, not an extra sentence attributed to the original prompt.",
-      "zh": "作者随后说明必须将精灵图（sprite sheet）转换为 GIF。生成后，需拆分帧、检查顺序与对齐情况，并导出循环动画。这些处理说明属于编辑注释，而非原提示词中的额外句子。"
+      "zh-CN": "作者随后说明必须将精灵图（sprite sheet）转换为 GIF。生成后，需拆分帧、检查顺序与对齐情况，并导出循环动画。这些处理说明属于编辑注释，而非原提示词中的额外句子。",
+      "zh-TW": "作者後來澄清，精靈圖必須轉換為GIF格式。產生後，分割幀，檢查幀的順序和對齊方式，然後匯出循環動畫。這些處理說明是編輯註釋，並非原始提示的補充語句。",
+      "ko": "작성자는 추후 스프라이트 시트를 GIF로 변환해야 한다고 명시했습니다. 생성 후 프레임을 분할하고 순서와 정렬을 확인한 다음 루프 형태로 내보내야 합니다. 이러한 처리 지침은 편집상의 참고 사항이며, 원본 프롬프트에 포함된 추가 문장이 아닙니다.",
+      "de": "Der Autor stellt später klar, dass das Sprite-Sheet in ein GIF umgewandelt werden muss. Nach der Erstellung werden die Einzelbilder aufgeteilt, deren Reihenfolge und Ausrichtung überprüft und die Schleife exportiert. Diese Verarbeitungshinweise sind redaktionelle Anmerkungen und kein zusätzlicher Satz, der dem ursprünglichen Prompt zuzuordnen wäre.",
+      "es": "El autor aclara posteriormente que la hoja de *sprites* debe convertirse en un GIF. Tras la generación, se deben dividir los fotogramas, verificar su orden y alineación, y exportar el bucle. Estas instrucciones de procesamiento son notas editoriales, no una frase adicional atribuida a la instrucción original.",
+      "pt-BR": "O autor esclarece posteriormente que a *sprite sheet* deve ser convertida em um GIF. Após a geração, é necessário dividir os quadros, verificar a ordem e o alinhamento deles e exportar o loop. Essas instruções de processamento são notas editoriais, e não uma frase adicional atribuída ao prompt original.",
+      "fr": "L'auteur précise plus tard que la feuille de sprite doit être convertie en GIF. Après génération, divisez les images, vérifiez leur ordre et leur alignement, puis exportez la boucle. Ces instructions de traitement sont des notes éditoriales et non une phrase supplémentaire attribuée à l'invite d'origine.",
+      "ja": "投稿者は後に、スプライトシートをGIFに変換する必要があると説明しています。生成後、フレームを分割し、順序と整列を確認して、ループをエクスポートしてください。これらの処理手順は編集上の注記であり、元のプロンプトに追加される文章ではありません。"
     },
     {
       "en": "The preview is the creator’s GIF thumbnail. The repository has not tested frame count, continuity, or file export.",
-      "zh": "预览图为创作者的 GIF 缩略图。该代码库尚未对帧数、连贯性或文件导出进行测试。"
+      "zh-CN": "预览图为创作者的 GIF 缩略图。该代码库尚未对帧数、连贯性或文件导出进行测试。",
+      "zh-TW": "預覽圖是創作者的 GIF 縮圖。此倉庫尚未測試幀數、連續性或檔案匯出功能。",
+      "ko": "미리보기 이미지는 제작자가 올린 GIF의 썸네일입니다. 저장소(repository)에서 프레임 수, 연속성, 파일 내보내기 기능은 테스트되지 않았습니다.",
+      "de": "Die Vorschau ist das GIF-Vorschaubild des Erstellers. Im Repository wurden weder die Anzahl der Einzelbilder noch die Kontinuität oder der Dateiexport überprüft.",
+      "es": "La vista previa es la miniatura del GIF del creador. El repositorio no ha verificado el número de fotogramas, la continuidad ni la exportación del archivo.",
+      "pt-BR": "A prévia é a miniatura do GIF do criador. O repositório não testou a contagem de quadros, a continuidade ou a exportação do arquivo.",
+      "fr": "L’aperçu est la vignette GIF du créateur. Le référentiel n'a pas testé le nombre d'images, la continuité ou l'exportation de fichiers.",
+      "ja": "プレビューは作成者によるGIFサムネイルです。リポジトリでは、フレーム数、連続性、ファイルのエクスポートについてはテストしていません。"
     }
   ],
   "source": {
@@ -91,125 +138,32 @@
     "status": "third-party-terms",
     "note": "Third-party prompts and media retain their creators’ rights; external previews are linked, not relicensed."
   },
-  "localizations": {
-    "zh-TW": {
-      "title": "黏土滑板貓動畫循環",
-      "summary": "產生一個手工黏土風格的動作序列，然後將其幀組裝成 GIF。",
-      "steps": [
-        "製作24格的定格動畫，用黏土製作一隻橘白相間的貓咪滑板的循環動畫。動畫需使用手工橡皮泥材質，貓咪戴著黑色像素太陽眼鏡，項圈上有鉚釘，嘴裡叼著香菸。動畫內容包括滑行、蹲伏、彈跳、翻轉滑板、接住滑板、落地、繞圈圈。畫面比例為1:1正方形，背景為純米白色，角色全貌始終可見，耳朵、尾巴和滑板均不可裁剪，無漏幀，僅需添加輕微的水平地面陰影。動畫動作需略顯生硬，而非流暢的CGI動畫。"
-      ],
-      "inputs": [
-        "需要一款影像產生工具以及一款能夠分割、對齊幀並將其匯出為GIF格式的工具。"
-      ],
-      "notes": [
-        "原帖為葡萄牙語；作者在第一個回應中提供了完整的提示訊息，該提示訊息為英語。",
-        "作者後來澄清，精靈圖必須轉換為GIF格式。產生後，分割幀，檢查幀的順序和對齊方式，然後匯出循環動畫。這些處理說明是編輯註釋，並非原始提示的補充語句。",
-        "預覽圖是創作者的 GIF 縮圖。此倉庫尚未測試幀數、連續性或檔案匯出功能。"
-      ],
-      "source_digest": "9a72373a1318e08de2eebb4886b933b496d661c761d307fb00aa7a9e4e6f971b",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ko": {
-      "title": "스케이트보드를 타는 고양이의 클레이 애니메이션 루프.",
-      "summary": "수작업 클레이 스타일의 액션 시퀀스를 생성한 다음, 프레임을 조합하여 GIF로 만듭니다.",
-      "steps": [
-        "스케이트보드를 타는 주황색-흰색 고양이의 24프레임 클레이 스톱모션 루프를 생성합니다. 수작업 플라스티신(점토) 질감, 검은색 픽셀 선글라스, 스터드 장식 목걸이, 입에 문 담배가 특징입니다. 고양이는 주행, 웅크리기, 팝(pop), 점프, 보드 뒤집기(flip), 보드 잡기(catch), 착지 후 다시 처음으로 돌아가는 동작을 반복합니다. 정사각형(1:1) 비율, 단색의 미색(off-white) 배경, 캐릭터 전체가 항상 보이도록 설정(귀, 꼬리, 스케이트보드가 잘리지 않아야 함), 프레임 밖으로 나가는 부분 없음, 바닥에는 은은한 수평 그림자만 표시. 매끄러운 CGI가 아닌, 약간 끊기는 듯한 수작업 느낌의 움직임."
-      ],
-      "inputs": [
-        "이미지 생성 도구 및 프레임을 분할·정렬하여 GIF로 내보낼 수 있는 도구."
-      ],
-      "notes": [
-        "원본 게시물은 포르투갈어로 작성되었으나, 첫 번째 작성자 답글에 포함된 전체 프롬프트는 영어로 되어 있습니다.",
-        "작성자는 추후 스프라이트 시트를 GIF로 변환해야 한다고 명시했습니다. 생성 후 프레임을 분할하고 순서와 정렬을 확인한 다음 루프 형태로 내보내야 합니다. 이러한 처리 지침은 편집상의 참고 사항이며, 원본 프롬프트에 포함된 추가 문장이 아닙니다.",
-        "미리보기 이미지는 제작자가 올린 GIF의 썸네일입니다. 저장소(repository)에서 프레임 수, 연속성, 파일 내보내기 기능은 테스트되지 않았습니다."
-      ],
-      "source_digest": "9a72373a1318e08de2eebb4886b933b496d661c761d307fb00aa7a9e4e6f971b",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "de": {
-      "title": "Animationsschleife einer Katze auf einem Skateboard im Knet-Look",
-      "summary": "Erstellung einer handgemachten Action-Sequenz im Knet-Stil und anschließende Zusammenfügung der Einzelbilder zu einem GIF.",
-      "steps": [
-        "Erstellung einer Stop-Motion-Schleife aus Knete (24 Einzelbilder) mit einer orange-weißen Katze auf einem Skateboard. Handgemachte Knetmasse-Textur, schwarze Pixel-Sonnenbrille, Halsband mit Nieten, Zigarette im Maul. Die Katze fährt, geht in die Hocke, macht einen Pop und Sprung, flippt das Board, fängt es auf, landet und beginnt die Schleife von vorn. Quadratisches Format (1:1), einfarbiger Hintergrund in gebrochenem Weiß, die gesamte Figur ist stets sichtbar, keine abgeschnittenen Ohren/Schwanz/Skateboard, kein Hinausragen aus dem Bildrahmen, nur ein dezenter horizontaler Bodenschatten. Leicht abgehackte, handgemachte Bewegung, kein flüssiges CGI."
-      ],
-      "inputs": [
-        "Ein Tool zur Bilderzeugung sowie ein Tool zum Aufteilen, Ausrichten und Exportieren von Einzelbildern als GIF."
-      ],
-      "notes": [
-        "Der Originalbeitrag ist auf Portugiesisch verfasst; der vollständige Prompt in der ersten Antwort des Autors ist auf Englisch.",
-        "Der Autor stellt später klar, dass das Sprite-Sheet in ein GIF umgewandelt werden muss. Nach der Erstellung werden die Einzelbilder aufgeteilt, deren Reihenfolge und Ausrichtung überprüft und die Schleife exportiert. Diese Verarbeitungshinweise sind redaktionelle Anmerkungen und kein zusätzlicher Satz, der dem ursprünglichen Prompt zuzuordnen wäre.",
-        "Die Vorschau ist das GIF-Vorschaubild des Erstellers. Im Repository wurden weder die Anzahl der Einzelbilder noch die Kontinuität oder der Dateiexport überprüft."
-      ],
-      "source_digest": "9a72373a1318e08de2eebb4886b933b496d661c761d307fb00aa7a9e4e6f971b",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "es": {
-      "title": "Bucle de animación de un gato en monopatín estilo plastilina.",
-      "summary": "Generar una secuencia de acción artesanal estilo plastilina y luego ensamblar sus fotogramas en un GIF.",
-      "steps": [
-        "Crear un bucle de animación *stop-motion* de 24 fotogramas estilo plastilina que muestre a un gato naranja y blanco montando un monopatín. Textura artesanal de plastilina, gafas de sol de píxeles negros, collar con tachuelas y un cigarrillo en la boca. El gato avanza, se agacha, hace un *pop*, salta, gira la tabla, la atrapa, aterriza y reinicia el bucle. Formato cuadrado 1:1, fondo blanco roto sólido, personaje completo siempre visible (sin orejas, cola o monopatín recortados), sin elementos que se salgan del encuadre, solo una sutil sombra horizontal en el suelo. Movimiento artesanal ligeramente entrecortado, no fluido como en CGI."
-      ],
-      "inputs": [
-        "Una herramienta de generación de imágenes y otra capaz de dividir, alinear y exportar fotogramas como GIF."
-      ],
-      "notes": [
-        "La publicación original está en portugués; la instrucción completa en la primera respuesta del autor está en inglés.",
-        "El autor aclara posteriormente que la hoja de *sprites* debe convertirse en un GIF. Tras la generación, se deben dividir los fotogramas, verificar su orden y alineación, y exportar el bucle. Estas instrucciones de procesamiento son notas editoriales, no una frase adicional atribuida a la instrucción original.",
-        "La vista previa es la miniatura del GIF del creador. El repositorio no ha verificado el número de fotogramas, la continuidad ni la exportación del archivo."
-      ],
-      "source_digest": "9a72373a1318e08de2eebb4886b933b496d661c761d307fb00aa7a9e4e6f971b",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "pt-BR": {
-      "title": "Loop de animação de gato andando de skate (estilo massinha/clay).",
-      "summary": "Gere uma sequência de ação artesanal no estilo massinha (*clay*) e, em seguida, monte os quadros em um GIF.",
-      "steps": [
-        "Crie um loop de stop-motion em estilo massinha, com 24 quadros, mostrando um gato laranja e branco andando de skate. Textura artesanal de massinha, óculos escuros de pixel pretos, coleira com tachas e cigarro na boca. O gato anda, agacha-se, faz o *pop*, pula, gira o skate, agarra-o no ar, aterrissa e reinicia o loop. Formato quadrado (1:1), fundo branco-sujo (*off-white*) sólido; o personagem deve estar sempre totalmente visível (sem cortes nas orelhas, cauda ou skate) e dentro dos limites do quadro, com apenas uma sombra sutil projetada no chão. Movimento artesanal levemente irregular (*choppy*), sem a fluidez de CGI."
-      ],
-      "inputs": [
-        "Uma ferramenta de geração de imagens e uma ferramenta capaz de dividir, alinhar e exportar quadros como um GIF."
-      ],
-      "notes": [
-        "A publicação original está em português; o prompt completo, presente na primeira resposta do autor, está em inglês.",
-        "O autor esclarece posteriormente que a *sprite sheet* deve ser convertida em um GIF. Após a geração, é necessário dividir os quadros, verificar a ordem e o alinhamento deles e exportar o loop. Essas instruções de processamento são notas editoriais, e não uma frase adicional atribuída ao prompt original.",
-        "A prévia é a miniatura do GIF do criador. O repositório não testou a contagem de quadros, a continuidade ou a exportação do arquivo."
-      ],
-      "source_digest": "9a72373a1318e08de2eebb4886b933b496d661c761d307fb00aa7a9e4e6f971b",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "fr": {
-      "title": "Boucle d'animation de chat de skateboard en argile",
-      "summary": "Générez une séquence d'action de style argile faite à la main, puis assemblez ses images dans un GIF.",
-      "steps": [
-        "Créez une boucle stop-motion en argile de 24 images représentant un chat orange et blanc chevauchant une planche à roulettes. Texture de pâte à modeler faite à la main, lunettes de soleil à pixels noirs, col clouté, cigarette dans la bouche. Le chat monte, s'accroupit, saute, saute, retourne la planche, l'attrape, atterrit et revient en arrière. Carré 1:1, fond blanc cassé uni, caractère complet toujours visible, pas d'oreilles/queue/patin coupés, pas de fuite de cadre, seulement une subtile ombre au sol horizontale. Mouvement artisanal légèrement saccadé, pas CGI fluide."
-      ],
-      "inputs": [
-        "Un outil de génération d'images et un outil permettant de diviser, d'aligner et d'exporter des images au format GIF."
-      ],
-      "notes": [
-        "Le message original est en portugais ; l'invite complète dans la réponse du premier auteur est en anglais.",
-        "L'auteur précise plus tard que la feuille de sprite doit être convertie en GIF. Après génération, divisez les images, vérifiez leur ordre et leur alignement, puis exportez la boucle. Ces instructions de traitement sont des notes éditoriales et non une phrase supplémentaire attribuée à l'invite d'origine.",
-        "L’aperçu est la vignette GIF du créateur. Le référentiel n'a pas testé le nombre d'images, la continuité ou l'exportation de fichiers."
-      ],
-      "source_digest": "9a72373a1318e08de2eebb4886b933b496d661c761d307fb00aa7a9e4e6f971b",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
-    },
-    "ja": {
-      "title": "粘土で作ったスケートボード猫のアニメーションループ",
-      "summary": "手作りの粘土風アクションシーケンスを生成し、そのフレームをGIFに組み立ててください。",
-      "steps": [
-        "オレンジと白の猫がスケートボードに乗っている24フレームの粘土ストップモーションループを作成してください。手作りの粘土テクスチャ、黒いピクセルサングラス、スタッズ付き首輪、口にはタバコをくわえています。猫はスケートボードに乗り、しゃがみ、飛び上がり、ジャンプし、ボードをひっくり返し、キャッチし、着地してループします。1:1の正方形、オフホワイトの単色背景、常にキャラクター全体が見えるようにし、耳、尻尾、スケートボードが切り取られないようにし、フレーム漏れがないようにし、地面にわずかな水平方向の影のみを付けます。滑らかなCGIではなく、ややぎこちない手作りの動きにしてください。"
-      ],
-      "inputs": [
-        "画像生成ツールと、フレームを分割、整列、GIFとしてエクスポートできるツールを作成してください。"
-      ],
-      "notes": [
-        "元の投稿はポルトガル語ですが、最初の投稿者からの返信にあるプロンプト全文は英語です。",
-        "投稿者は後に、スプライトシートをGIFに変換する必要があると説明しています。生成後、フレームを分割し、順序と整列を確認して、ループをエクスポートしてください。これらの処理手順は編集上の注記であり、元のプロンプトに追加される文章ではありません。",
-        "プレビューは作成者によるGIFサムネイルです。リポジトリでは、フレーム数、連続性、ファイルのエクスポートについてはテストしていません。"
-      ],
-      "source_digest": "9a72373a1318e08de2eebb4886b933b496d661c761d307fb00aa7a9e4e6f971b",
-      "translation_method": "Google Translate UI initial translation; protected literals checked; editorial review tracked locally"
+  "translation_meta": {
+    "source_digest": "e7f03f10ef88446eabbfbab8fcc5a45cc4af5e4e9b5f9adfe5842085455ea912",
+    "text_digests": {
+      "zh-CN": "04954e5b087687371f445f20999f0fc28547aa7bf36bca014818828464f12f0c",
+      "zh-TW": "8cd008a1704663cc86eec6c6d1486cb87d6eabb97fb129a47cb1f36dff25af0f",
+      "ko": "8b98e92d644444129746f5c946638018c8cd7cccd129974f35cca61f99823528",
+      "de": "85aba7fe8aa8f2485ceee72386f1937df8ba0a6dafe8821d534f097ffe8fdd6c",
+      "es": "d4d0a4f0686746b9bd47cc0dad76f2c5dd3309b2f7cf692d2b5831301e738514",
+      "pt-BR": "e3defc12e87ca8154466b553701991eb9f0cd29bfb3a3ddda0b21074468a6250",
+      "fr": "d19fc61e0acded840b893b26d74c3ef261580e822fc53fde4512c98cd65b81ef",
+      "ja": "6acc8de9f9be546898237659ae5549ac445744fd217434805d7fc27d222c7353"
     }
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:12:37.858Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 3,
+      "result": 2,
+      "usefulness": 3,
+      "clarity": 3,
+      "distinctiveness": 3
+    },
+    "rationale": "A distinctive clay look is visible, but one thumbnail cannot verify 24 frames or a seamless loop; the required assembly is disclosed."
   }
 }

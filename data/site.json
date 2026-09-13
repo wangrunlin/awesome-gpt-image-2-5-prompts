@@ -1,81 +1,271 @@
 {
   "brand": "Image 2.5",
   "url": "https://image-2-5.com",
-  "promptDestination": "https://image-2-5.com",
+  "promptDestination": "https://image-2-5.com/gpt-image-2-5-prompts",
   "repository": "https://github.com/wangrunlin/awesome-gpt-image-2-5-prompts",
   "contact": "support@image-2-5.com",
   "categories": [
     {
       "id": "editing",
       "en": "Editing and restoration",
-      "zh": "局部编辑与修复",
       "zh-TW": "編輯與修復",
       "ja": "編集と復元",
       "ko": "편집 및 복원",
       "fr": "Édition et restauration",
       "de": "Bearbeitung und Wiederherstellung",
       "pt-BR": "Edição e restauração",
-      "es": "Edición y restauración"
+      "es": "Edición y restauración",
+      "zh-CN": "局部编辑与修复"
     },
     {
       "id": "products",
       "en": "Products and UGC",
-      "zh": "产品与 UGC",
       "zh-TW": "產品與使用者生成內容 (UGC)",
       "ja": "製品とUGC（ユーザー生成コンテンツ）",
       "ko": "제품 및 사용자 생성 콘텐츠(UGC)",
       "fr": "Produits et contenu généré par les utilisateurs (UGC)",
       "de": "Produkte und nutzergenerierte Inhalte (UGC)",
       "pt-BR": "Produtos e conteúdo gerado pelo usuário (UGC)",
-      "es": "Productos y contenido generado por el usuario"
+      "es": "Productos y contenido generado por el usuario",
+      "zh-CN": "产品与 UGC"
     },
     {
       "id": "photography",
       "en": "Portraits and photography",
-      "zh": "人像与摄影",
       "zh-TW": "肖像與攝影",
       "ja": "ポートレートと写真",
       "ko": "인물 사진 및 사진 촬영",
       "fr": "Portraits et photographie",
       "de": "Porträts und Fotografie",
       "pt-BR": "Retratos e fotografia",
-      "es": "Retratos y fotografía"
+      "es": "Retratos y fotografía",
+      "zh-CN": "人像与摄影"
     },
     {
       "id": "design",
       "en": "Posters and editorial design",
-      "zh": "海报与编辑设计",
       "zh-TW": "海報與編輯設計",
       "ja": "ポスターとエディトリアルデザイン",
       "ko": "포스터 및 편집 디자인",
       "fr": "Affiches et design éditorial",
       "de": "Poster und redaktionelles Design",
       "pt-BR": "Pôsteres e design editorial",
-      "es": "Carteles y diseño editorial"
+      "es": "Carteles y diseño editorial",
+      "zh-CN": "海报与编辑设计"
     },
     {
       "id": "characters",
       "en": "Characters and sprite workflows",
-      "zh": "角色与精灵图工作流",
       "zh-TW": "角色與精靈工作流程",
       "ja": "キャラクターとスプライトのワークフロー",
       "ko": "캐릭터 및 스프라이트 워크플로",
       "fr": "Personnages et flux de travail pour sprites",
       "de": "Charaktere und Sprite-Workflows",
       "pt-BR": "Personagens e fluxos de trabalho com sprites",
-      "es": "Personajes y flujos de trabajo de sprites"
+      "es": "Personajes y flujos de trabajo de sprites",
+      "zh-CN": "角色与精灵图工作流"
     },
     {
       "id": "sketch",
       "en": "Sketch-guided creation",
-      "zh": "草图引导创作",
       "zh-TW": "草圖引導式創作",
       "ja": "スケッチをガイドとした生成",
       "ko": "스케치 기반 생성",
       "fr": "Création guidée par esquisse",
       "de": "Skizzenbasierte Erstellung",
       "pt-BR": "Criação guiada por esboço",
-      "es": "Creación guiada por bocetos"
+      "es": "Creación guiada por bocetos",
+      "zh-CN": "草图引导创作"
     }
-  ]
+  ],
+  "promptPages": {
+    "espresso-service-manual": {
+      "url": "https://image-2-5.com/prompt/community-espresso-service-manual",
+      "checked_at": "2026-09-13T16:21:11.326107+00:00"
+    },
+    "autumn-market-count-constraints": {
+      "url": "https://image-2-5.com/prompt/community-autumn-market-count-constraints",
+      "checked_at": "2026-09-13T16:21:11.357900+00:00"
+    },
+    "combat-sprite-sheet": {
+      "url": "https://image-2-5.com/prompt/community-combat-sprite-sheet",
+      "checked_at": "2026-09-13T16:21:09.940056+00:00"
+    },
+    "travel-magazine-page": {
+      "url": "https://image-2-5.com/prompt/community-travel-magazine-page",
+      "checked_at": "2026-09-13T16:21:09.412147+00:00"
+    },
+    "coffee-festival-poster-iterations": {
+      "url": "https://image-2-5.com/prompt/community-coffee-festival-poster-iterations",
+      "checked_at": "2026-09-13T16:21:09.545424+00:00"
+    },
+    "bouncing-cutout-sticker": {
+      "url": "https://image-2-5.com/prompt/community-bouncing-cutout-sticker",
+      "checked_at": "2026-09-13T16:21:09.106614+00:00"
+    },
+    "remove-ai-slop": {
+      "url": "https://image-2-5.com/prompt/community-remove-ai-slop",
+      "checked_at": "2026-09-13T16:21:12.752980+00:00"
+    },
+    "miniature-travel-landmark": {
+      "url": "https://image-2-5.com/prompt/community-miniature-travel-landmark",
+      "checked_at": "2026-09-13T16:21:11.688903+00:00"
+    },
+    "style-reference-product-ugc": {
+      "url": "https://image-2-5.com/prompt/community-style-reference-product-ugc",
+      "checked_at": "2026-09-13T16:21:16.244031+00:00"
+    },
+    "reference-shirt-try-on": {
+      "url": "https://image-2-5.com/prompt/community-reference-shirt-try-on",
+      "checked_at": "2026-09-13T16:21:18.159301+00:00"
+    },
+    "village-notice-board": {
+      "url": "https://image-2-5.com/prompt/community-village-notice-board",
+      "checked_at": "2026-09-13T16:21:16.249763+00:00"
+    },
+    "fresh-grocery-mobile-ui": {
+      "url": "https://image-2-5.com/prompt/community-fresh-grocery-mobile-ui",
+      "checked_at": "2026-09-13T16:21:17.286314+00:00"
+    },
+    "line-bust-sticker-gif": {
+      "url": "https://image-2-5.com/prompt/community-line-bust-sticker-gif",
+      "checked_at": "2026-09-13T16:21:17.310268+00:00"
+    },
+    "character-idle-sprite-loop": {
+      "url": "https://image-2-5.com/prompt/community-character-idle-sprite-loop",
+      "checked_at": "2026-09-13T16:21:21.693271+00:00"
+    },
+    "robot-sequential-edits": {
+      "url": "https://image-2-5.com/prompt/community-robot-sequential-edits",
+      "checked_at": "2026-09-13T16:21:22.507687+00:00"
+    },
+    "long-copy-poster-template": {
+      "url": "https://image-2-5.com/prompt/community-long-copy-poster-template",
+      "checked_at": "2026-09-13T16:21:20.103998+00:00"
+    },
+    "retro-infomercial-frame": {
+      "url": "https://image-2-5.com/prompt/community-retro-infomercial-frame",
+      "checked_at": "2026-09-13T16:21:21.166880+00:00"
+    },
+    "geometry-locked-product-render": {
+      "url": "https://image-2-5.com/prompt/community-geometry-locked-product-render",
+      "checked_at": "2026-09-13T16:21:22.128742+00:00"
+    },
+    "candid-cafe-photo": {
+      "url": "https://image-2-5.com/prompt/community-candid-cafe-photo",
+      "checked_at": "2026-09-13T16:21:21.782307+00:00"
+    },
+    "person-holding-reference-product": {
+      "url": "https://image-2-5.com/prompt/community-person-holding-reference-product",
+      "checked_at": "2026-09-13T16:21:24.001131+00:00"
+    },
+    "nine-emotion-chat-stickers": {
+      "url": "https://image-2-5.com/prompt/community-nine-emotion-chat-stickers",
+      "checked_at": "2026-09-13T16:21:30.296829+00:00"
+    },
+    "fixed-template-product-swap": {
+      "url": "https://image-2-5.com/prompt/community-fixed-template-product-swap",
+      "checked_at": "2026-09-13T16:21:27.631994+00:00"
+    },
+    "cybernetic-monochrome-portrait": {
+      "url": "https://image-2-5.com/prompt/community-cybernetic-monochrome-portrait",
+      "checked_at": "2026-09-13T16:21:24.561744+00:00"
+    },
+    "coastal-abbey-travel-portrait": {
+      "url": "https://image-2-5.com/prompt/community-coastal-abbey-travel-portrait",
+      "checked_at": "2026-09-13T16:21:26.578998+00:00"
+    },
+    "three-reference-product-ad": {
+      "url": "https://image-2-5.com/prompt/community-three-reference-product-ad",
+      "checked_at": "2026-09-13T16:21:28.649604+00:00"
+    },
+    "character-design-reference-sheet": {
+      "url": "https://image-2-5.com/prompt/community-character-design-reference-sheet",
+      "checked_at": "2026-09-13T16:21:29.822980+00:00"
+    },
+    "pixel-pet-loop": {
+      "url": "https://image-2-5.com/prompt/community-pixel-pet-loop",
+      "checked_at": "2026-09-13T16:21:30.320599+00:00"
+    },
+    "six-color-fashion-campaign": {
+      "url": "https://image-2-5.com/prompt/community-six-color-fashion-campaign",
+      "checked_at": "2026-09-13T16:21:29.563792+00:00"
+    },
+    "dance-pose-keyframes": {
+      "url": "https://image-2-5.com/prompt/community-dance-pose-keyframes",
+      "checked_at": "2026-09-13T16:21:32.704644+00:00"
+    },
+    "six-frame-expression-gif": {
+      "url": "https://image-2-5.com/prompt/community-six-frame-expression-gif",
+      "checked_at": "2026-09-13T16:21:33.875545+00:00"
+    },
+    "move-the-lamp": {
+      "url": "https://image-2-5.com/prompt/community-move-the-lamp",
+      "checked_at": "2026-09-13T16:21:34.416546+00:00"
+    },
+    "cel-animation-duel": {
+      "url": "https://image-2-5.com/prompt/community-cel-animation-duel",
+      "checked_at": "2026-09-13T16:21:33.987855+00:00"
+    },
+    "sketch-to-future-building": {
+      "url": "https://image-2-5.com/prompt/community-sketch-to-future-building",
+      "checked_at": "2026-09-13T16:21:35.635728+00:00"
+    },
+    "nineties-japanese-ccd-photo": {
+      "url": "https://image-2-5.com/prompt/community-nineties-japanese-ccd-photo",
+      "checked_at": "2026-09-13T16:21:38.385717+00:00"
+    },
+    "vintage-baker-portraits": {
+      "url": "https://image-2-5.com/prompt/community-vintage-baker-portraits",
+      "checked_at": "2026-09-13T16:21:37.683178+00:00"
+    },
+    "transparent-product-relighting": {
+      "url": "https://image-2-5.com/prompt/community-transparent-product-relighting",
+      "checked_at": "2026-09-13T16:21:37.754396+00:00"
+    },
+    "forest-detail-stress-test": {
+      "url": "https://image-2-5.com/prompt/community-forest-detail-stress-test",
+      "checked_at": "2026-09-13T16:21:38.682065+00:00"
+    },
+    "clay-skateboard-cat-loop": {
+      "url": "https://image-2-5.com/prompt/community-clay-skateboard-cat-loop",
+      "checked_at": "2026-09-13T16:21:39.432114+00:00"
+    },
+    "chinese-coffee-brewing-infographic": {
+      "url": "https://image-2-5.com/prompt/community-chinese-coffee-brewing-infographic",
+      "checked_at": "2026-09-13T16:21:41.715286+00:00"
+    },
+    "goblin-archer-animation": {
+      "url": "https://image-2-5.com/prompt/community-goblin-archer-animation",
+      "checked_at": "2026-09-13T16:21:40.034521+00:00"
+    },
+    "separate-frame-animation": {
+      "url": "https://image-2-5.com/prompt/community-separate-frame-animation",
+      "checked_at": "2026-09-13T16:21:41.700491+00:00"
+    },
+    "multi-product-studio-lineup": {
+      "url": "https://image-2-5.com/prompt/community-multi-product-studio-lineup",
+      "checked_at": "2026-09-13T16:21:43.201338+00:00"
+    },
+    "low-resolution-restoration": {
+      "url": "https://image-2-5.com/prompt/community-low-resolution-restoration",
+      "checked_at": "2026-09-13T16:21:44.265613+00:00"
+    },
+    "single-cup-material-edit": {
+      "url": "https://image-2-5.com/prompt/community-single-cup-material-edit",
+      "checked_at": "2026-09-13T16:21:47.818878+00:00"
+    },
+    "six-panel-newspaper-comic": {
+      "url": "https://image-2-5.com/prompt/community-six-panel-newspaper-comic",
+      "checked_at": "2026-09-13T16:21:45.208360+00:00"
+    },
+    "sketch-guided-composition": {
+      "url": "https://image-2-5.com/prompt/community-sketch-guided-composition",
+      "checked_at": "2026-09-13T16:21:46.354374+00:00"
+    },
+    "poster-perspective-redesign": {
+      "url": "https://image-2-5.com/prompt/community-poster-perspective-redesign",
+      "checked_at": "2026-09-13T16:27:20.636Z"
+    }
+  }
 }

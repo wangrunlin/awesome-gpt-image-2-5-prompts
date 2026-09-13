@@ -1,0 +1,165 @@
+{
+  "id": "drawing-to-realistic-valley",
+  "title": {
+    "en": "Render a valley drawing realistically",
+    "zh-CN": "山谷线稿转写实图",
+    "zh-TW": "山谷線稿轉寫實圖",
+    "ja": "渓谷の線画を写実的に描く",
+    "ko": "계곡 선화를 사실적으로 렌더링",
+    "fr": "Rendre réaliste un dessin de vallée",
+    "de": "Eine Talzeichnung fotorealistisch umsetzen",
+    "es": "Convertir un dibujo de un valle en imagen realista",
+    "pt-BR": "Transformar um desenho de vale em imagem realista"
+  },
+  "summary": {
+    "en": "Keep layout and perspective while translating line work into materials and light.",
+    "zh-CN": "将线条转化为材质和光照，同时保留布局与透视。",
+    "zh-TW": "將線條轉化為材質和光照，同時保留布局與透視。",
+    "ja": "線画を素材と光に置き換えながら配置と遠近法を保つ。",
+    "ko": "선화를 재질과 조명으로 바꾸면서 배치와 원근을 유지합니다.",
+    "fr": "Traduire les traits en matières et lumière tout en conservant disposition et perspective.",
+    "de": "Linien in Materialien und Licht umsetzen, dabei Anordnung und Perspektive erhalten.",
+    "es": "Convertir líneas en materiales y luz conservando la disposición y la perspectiva.",
+    "pt-BR": "Converter linhas em materiais e luz preservando a disposição e a perspectiva."
+  },
+  "category": "sketch",
+  "tags": [
+    "official-guide",
+    "drawing-to-realistic-valley"
+  ],
+  "mode": "edit",
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": "sunburst",
+    "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image",
+    "evidence": "The OpenAI image prompting guide labels the linked result GPT Image 2.5 Sunburst. This repository did not generate it."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "Turn this drawing into a photorealistic image.\nPreserve the exact layout, proportions, and perspective.\nChoose realistic materials and lighting consistent with the sketch intent.\nDo not add new elements or text.",
+        "zh-CN": "将这张绘画转成写实图像。\n精确保留布局、比例和透视。\n选择符合草图意图的真实材质与光照。\n不要添加新元素或文字。",
+        "zh-TW": "將這張繪畫轉成寫實影像。\n精確保留布局、比例和透視。\n選擇符合草圖意圖的真實材質與光照。\n不要添加新元素或文字。",
+        "ja": "この絵を写真のようにリアルな画像にしてください。\n配置、比率、遠近法を正確に維持してください。\nスケッチの意図に合う現実的な素材と照明を選んでください。\n新しい要素や文字は追加しないでください。",
+        "ko": "이 그림을 사실적인 이미지로 바꾸세요.\n배치, 비율과 원근을 정확히 유지하세요.\n스케치 의도에 맞는 현실적인 재질과 조명을 선택하세요.\n새로운 요소나 텍스트를 추가하지 마세요.",
+        "fr": "Transformez ce dessin en image photoréaliste.\nPréservez exactement la disposition, les proportions et la perspective.\nChoisissez des matières et un éclairage réalistes conformes à l’intention du croquis.\nN’ajoutez aucun nouvel élément ni texte.",
+        "de": "Verwandle diese Zeichnung in ein fotorealistisches Bild.\nErhalte Anordnung, Proportionen und Perspektive exakt.\nWähle realistische Materialien und Beleuchtung passend zur Absicht der Skizze.\nFüge keine neuen Elemente oder Texte hinzu.",
+        "es": "Convierte este dibujo en una imagen fotorrealista.\nConserva exactamente la disposición, las proporciones y la perspectiva.\nElige materiales e iluminación realistas acordes con la intención del boceto.\nNo añadas elementos nuevos ni texto.",
+        "pt-BR": "Transforme este desenho em uma imagem fotorrealista.\nPreserve exatamente a disposição, as proporções e a perspectiva.\nEscolha materiais e iluminação realistas coerentes com a intenção do esboço.\nNão adicione novos elementos nem texto."
+      }
+    ],
+    "original_language": "en",
+    "original_steps": [
+      "Turn this drawing into a photorealistic image.\nPreserve the exact layout, proportions, and perspective.\nChoose realistic materials and lighting consistent with the sketch intent.\nDo not add new elements or text."
+    ]
+  },
+  "inputs": [
+    {
+      "en": "Upload the linked valley drawing or your own layout sketch.",
+      "zh-CN": "上传下方山谷线稿，或自己的布局草图。",
+      "zh-TW": "上傳下方山谷線稿，或自己的布局草圖。",
+      "ja": "下記の渓谷の線画、または自分の配置スケッチをアップロードしてください。",
+      "ko": "아래 계곡 선화 또는 직접 그린 배치 스케치를 업로드하세요.",
+      "fr": "Téléversez le dessin de vallée ci-dessous ou votre propre croquis.",
+      "de": "Lade die verlinkte Talzeichnung oder deine eigene Layoutskizze hoch.",
+      "es": "Sube el dibujo del valle enlazado abajo o tu propio boceto de distribución.",
+      "pt-BR": "Envie o desenho de vale no link abaixo ou seu próprio esboço de disposição."
+    }
+  ],
+  "notes": [
+    {
+      "en": "Compare the river path, slopes and horizon against the sketch; this is visual design, not a surveyed landscape.",
+      "zh-CN": "对照草图检查河道、坡面与地平线；这是视觉设计，不是测绘地形。",
+      "zh-TW": "對照草圖檢查河道、坡面與地平線；這是視覺設計，不是測繪地形。",
+      "ja": "川の流路、斜面、地平線をスケッチと比較してください。これは視覚デザインであり、測量図ではありません。",
+      "ko": "강의 경로, 경사면과 지평선을 스케치와 비교하세요. 측량 지형이 아닌 시각 디자인입니다.",
+      "fr": "Comparez le cours d’eau, les pentes et l’horizon au croquis ; il s’agit de design visuel, pas d’un relevé topographique.",
+      "de": "Vergleiche Flusslauf, Hänge und Horizont mit der Skizze; dies ist visuelle Gestaltung, keine Geländeaufnahme.",
+      "es": "Compara el río, las laderas y el horizonte con el boceto; es diseño visual, no un levantamiento topográfico.",
+      "pt-BR": "Compare o rio, as encostas e o horizonte com o esboço; é design visual, não um levantamento topográfico."
+    },
+    {
+      "en": "Source settings: `size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "zh-CN": "来源参数：`size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "zh-TW": "來源參數：`size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "ja": "出典の設定：`size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "ko": "출처 설정: `size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "fr": "Paramètres de la source : `size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "de": "Einstellungen der Quelle: `size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "es": "Ajustes de la fuente: `size=\"1024x1536\"`, `quality=\"medium\"`.",
+      "pt-BR": "Configurações da fonte: `size=\"1024x1536\"`, `quality=\"medium\"`."
+    }
+  ],
+  "source": {
+    "platform": "documentation",
+    "author": "OpenAI",
+    "url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image",
+    "prompt_url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image",
+    "checked_at": "2026-09-13T16:20:44.579Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "post_language": "en"
+  },
+  "previews": [
+    {
+      "url": "https://developers.openai.com/images/platform/guides/image-prompting/realistic-valley-gpt-image-2-5-sunburst.webp",
+      "kind": "source-result",
+      "credit": "OpenAI — official guide example",
+      "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image"
+    }
+  ],
+  "references": [
+    {
+      "url": "https://developers.openai.com/images/platform/guides/image-prompting/drawings.webp",
+      "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image",
+      "credit": "OpenAI — source input"
+    }
+  ],
+  "engagement": {
+    "likes": null,
+    "reposts": null,
+    "replies": null,
+    "bookmarks": null,
+    "views": null,
+    "observed_at": "2026-09-13T16:20:44.579Z",
+    "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#turn-a-drawing-into-a-realistic-image",
+    "method": "Official documentation has no public social engagement counters."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and linked media remain subject to their source terms. Attribution does not grant a license to the source inputs or results."
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T16:20:44.579Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 4,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 4,
+      "distinctiveness": 3
+    },
+    "rationale": "The line drawing is available alongside the rendered valley. Layout preservation has direct visual evidence, with realistic material choices but no survey accuracy claim."
+  },
+  "translation_meta": {
+    "source_digest": "72ed49f85ab06a11dfc55236f26b8a60b34872a0e56ea4404ad39c51c128f92b",
+    "text_digests": {
+      "zh-CN": "5d40e292541431ef89d93f938776d332c08df129a6d9ab8b50c16e4d911154fb",
+      "zh-TW": "c5ab875a24aa63f0e438e2710915357b2bc06554f150cef80e0c3471c3eaaa87",
+      "ja": "b81b8a959ac526db0c42c2dae46dbf0e30468df8ac6f4f39eaf9154cd6e6e9c1",
+      "ko": "7f0637ca84f7f6dc07dbbba3d288d2c12a681a9ed4b9f5ffc6ae1b177dfe8cc1",
+      "fr": "e6f78dc16ba9a81c96ed1acd764c695845b9adfac2cb88e83ff8fe144417014e",
+      "de": "dad795af97cdc3c954bcbc6806b8f0f3218364d1690853f8ff6caadba4c8b33f",
+      "es": "42bb7ad1515a08da3de1c5d5a1cb22723efb94d1933113d23b85bc7a6658c02d",
+      "pt-BR": "beb204d5f9a31f5386a65d8f5e6795dfddbcc8c4c97008614f866f30bfad9a82"
+    }
+  }
+}

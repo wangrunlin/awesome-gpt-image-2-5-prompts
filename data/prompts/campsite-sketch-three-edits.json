@@ -1,0 +1,174 @@
+{
+  "id": "campsite-sketch-three-edits",
+  "title": {
+    "en": "A campsite sketch through three edits",
+    "zh-CN": "露营草图的三步迭代",
+    "zh-TW": "經過三次編輯的露營地草圖",
+    "ja": "3 つの編集を経たキャンプ場のスケッチ",
+    "ko": "세 가지 편집을 통한 캠프장 스케치",
+    "fr": "Un croquis de camping à travers trois modifications",
+    "de": "Eine Campingplatz-Skizze in drei Bearbeitungen",
+    "es": "Un boceto del camping a través de tres ediciones.",
+    "pt-BR": "Um esboço de acampamento através de três edições"
+  },
+  "summary": {
+    "en": "Use a sketch for layout, then change daylight and clothing in separate turns.",
+    "zh-CN": "先用草图控制布局，再分别调整昼夜与人物服装。",
+    "zh-TW": "先用草圖控制佈局，再分別調整晝夜與人物服裝。",
+    "ja": "レイアウトにスケッチを使用し、日光と衣服を別々のターンに変更します。",
+    "ko": "레이아웃을 위해 스케치를 사용한 다음 일광과 의상을 각각 차례대로 변경합니다.",
+    "fr": "Utilisez un croquis pour la mise en page, puis changez de lumière du jour et de vêtements à tour de rôle.",
+    "de": "Verwenden Sie eine Skizze für das Layout und ändern Sie dann das Tageslicht und die Kleidung in getrennten Runden.",
+    "es": "Utilice un boceto para el diseño y luego cambie la luz del día y la ropa en turnos separados.",
+    "pt-BR": "Use um esboço para o layout e depois troque a luz do dia e as roupas em turnos separados."
+  },
+  "category": "sketch",
+  "tags": [
+    "sketch",
+    "workflow",
+    "multi-turn",
+    "composition"
+  ],
+  "mode": "workflow",
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/ezolog2026/status/2097698951696908595",
+    "evidence": "The creator explicitly attributes this result to GPT Image 2.5 in the linked primary source. This is source attribution, not an independent model test."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "Create an atmospheric nighttime campsite image based on this hand-drawn sketch.",
+        "zh-CN": "根据这张手绘草图，生成一张有氛围感的夜间露营地图片。",
+        "zh-TW": "根據這張手繪草圖，生成一張有氛圍感的夜間露營地圖片。",
+        "ja": "この手書きの絵をもとにムードのある夜のキャンプ場の画像を作って",
+        "ko": "이 손그림을 바탕으로 분위기 있는 야간 캠핑장 이미지를 만들어 주세요.",
+        "fr": "Créez une image de camping nocturne évocatrice à partir de ce dessin à la main.",
+        "de": "Erstelle anhand dieser handgezeichneten Skizze ein stimmungsvolles Bild eines nächtlichen Campingplatzes.",
+        "es": "Crea una imagen de un campamento nocturno con una atmósfera evocadora a partir de este dibujo a mano.",
+        "pt-BR": "Crie uma imagem atmosférica de um acampamento à noite com base neste desenho à mão."
+      },
+      {
+        "en": "Change it to daytime without changing the composition.",
+        "zh-CN": "改为白天，不要改变构图。",
+        "zh-TW": "改為白天，不要改變構圖。",
+        "ja": "構図は変えずに昼にして",
+        "ko": "구도를 바꾸지 말고 낮으로 바꿔 주세요.",
+        "fr": "Passez la scène en plein jour sans modifier la composition.",
+        "de": "Ändere die Szene zu Tageslicht, ohne die Komposition zu verändern.",
+        "es": "Cambia la escena a pleno día sin modificar la composición.",
+        "pt-BR": "Mude a cena para o dia sem alterar a composição."
+      },
+      {
+        "en": "Change the person’s clothing to overalls.",
+        "zh-CN": "把人物的服装改成背带工装裤。",
+        "zh-TW": "把人物的服裝改成吊帶工作褲。",
+        "ja": "人物の服装をオーバーオールにして",
+        "ko": "인물의 옷을 멜빵 작업복으로 바꿔 주세요.",
+        "fr": "Remplacez les vêtements du personnage par une salopette.",
+        "de": "Ändere die Kleidung der Person zu einer Latzhose.",
+        "es": "Cambia la ropa de la persona por un peto de trabajo.",
+        "pt-BR": "Troque a roupa da pessoa por um macacão de trabalho com alças."
+      }
+    ],
+    "original_language": "ja",
+    "original_steps": [
+      "この手書きの絵をもとにムードのある夜のキャンプ場の画像を作って",
+      "構図は変えずに昼にして",
+      "人物の服装をオーバーオールにして"
+    ]
+  },
+  "inputs": [
+    {
+      "en": "Upload a campsite sketch showing the intended composition. Keep the same conversation and reuse each result for the next edit.",
+      "zh-CN": "上传显示预期构图的露营地草图。保持相同的对话并在下一次编辑中重复使用每个结果。",
+      "zh-TW": "上傳顯示預期構圖的露營地草圖。保持相同的對話並在下一次編輯中重複使用每個結果。",
+      "ja": "意図した構成を示すキャンプ場のスケッチをアップロードします。同じ会話を維持し、各結果を次の編集で再利用します。",
+      "ko": "의도한 구성을 보여주는 캠프장 스케치를 업로드하세요. 동일한 대화를 유지하고 다음 편집에 각 결과를 재사용하세요.",
+      "fr": "Téléchargez un croquis du camping montrant la composition prévue. Gardez la même conversation et réutilisez chaque résultat pour la prochaine modification.",
+      "de": "Laden Sie eine Campingplatzskizze hoch, die die beabsichtigte Zusammensetzung zeigt. Behalten Sie die gleiche Konversation bei und verwenden Sie jedes Ergebnis für die nächste Bearbeitung wieder.",
+      "es": "Cargue un boceto del camping que muestre la composición prevista. Mantenga la misma conversación y reutilice cada resultado para la siguiente edición.",
+      "pt-BR": "Carregue um esboço do parque de campismo mostrando a composição pretendida. Mantenha a mesma conversa e reutilize cada resultado para a próxima edição."
+    }
+  ],
+  "notes": [
+    {
+      "en": "Run these instructions in order, reusing the previous output. The source comparison combines the sketch and results; use your own sketch or crop the sketch panel before upload. This is a visual scene workflow, not a measured site plan.",
+      "zh-CN": "按顺序执行，每一步使用上一步的结果。原帖对比图将草图与多个结果拼在一起；请使用自己的草图，或先在图片编辑器中裁出草图区再上传。这是视觉场景工作流，不是带测量数据的场地平面图。",
+      "zh-TW": "按順序執行，每一步使用上一步的結果。原帖對比圖將草圖與多個結果拼在一起；請使用自己的草圖，或先在圖片編輯器中裁出草圖區再上傳。這是視覺場景工作流，不是帶測量數據的場地平面圖。",
+      "ja": "前の出力を再利用して、これらの手順を順番に実行します。ソース比較では、スケッチと結果が結合されます。独自のスケッチを使用するか、アップロードする前にスケッチ パネルをトリミングしてください。これは視覚的なシーンのワークフローであり、測定された敷地計画ではありません。",
+      "ko": "이전 출력을 재사용하여 다음 지침을 순서대로 실행하세요. 소스 비교는 스케치와 결과를 결합합니다. 업로드하기 전에 자신의 스케치를 사용하거나 스케치 패널을 자릅니다. 이는 측정된 현장 계획이 아닌 시각적 장면 작업흐름입니다.",
+      "fr": "Exécutez ces instructions dans l’ordre, en réutilisant la sortie précédente. La comparaison des sources combine le croquis et les résultats ; utilisez votre propre croquis ou recadrez le panneau de croquis avant de le télécharger. Il s'agit d'un flux de travail de scène visuelle, et non d'un plan de site mesuré.",
+      "de": "Führen Sie diese Anweisungen der Reihe nach aus und verwenden Sie dabei die vorherige Ausgabe wieder. Der Quellenvergleich führt Skizze und Ergebnisse zusammen; Verwenden Sie Ihre eigene Skizze oder schneiden Sie das Skizzenfeld vor dem Hochladen zu. Hierbei handelt es sich um einen visuellen Szenen-Workflow, nicht um einen vermessenen Lageplan.",
+      "es": "Ejecute estas instrucciones en orden, reutilizando el resultado anterior. La comparación de fuentes combina el boceto y los resultados; use su propio boceto o recorte el panel de boceto antes de cargarlo. Este es un flujo de trabajo de escena visual, no un plano de sitio medido.",
+      "pt-BR": "Execute estas instruções em ordem, reutilizando a saída anterior. A comparação de origem combina o esboço e os resultados; use seu próprio esboço ou corte o painel de esboço antes de fazer o upload. Este é um fluxo de trabalho de cena visual, não um plano de local medido."
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "ezolog2026",
+    "url": "https://x.com/ezolog2026/status/2097698951696908595",
+    "prompt_url": "https://x.com/ezolog2026/status/2097698951696908595",
+    "checked_at": "2026-09-13T17:54:27.409Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "post_language": "ja"
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRyEoy-awAARHe5.jpg",
+      "kind": "source-result",
+      "credit": "ezolog2026 — source result",
+      "source_url": "https://x.com/ezolog2026/status/2097698951696908595"
+    }
+  ],
+  "references": [],
+  "engagement": {
+    "likes": 13,
+    "reposts": null,
+    "replies": 2,
+    "bookmarks": null,
+    "views": null,
+    "observed_at": "2026-09-13T17:22:19.990392+00:00",
+    "source_url": "https://x.com/ezolog2026/status/2097698951696908595",
+    "method": "X public embed counters; only available exact integers are recorded. Missing counters remain null."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and linked media remain subject to their source terms. Attribution does not grant a license to source inputs or results."
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T17:54:27.409Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 4,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 4,
+      "distinctiveness": 3
+    },
+    "rationale": "Composite shows sketch, night, day and clothing-change stages. Sequential outputs retain recognizable framing; original sketch must be cropped or replaced by a user input."
+  },
+  "translation_meta": {
+    "source_digest": "1fcf03902f525199801d5dba6b93a27da80820dcc38bcad08da15fa7f9818396",
+    "text_digests": {
+      "zh-CN": "53f5e2a34bad1933965f95cb6446f44060f80ffdb3be6b59996d44d3aeeeecb6",
+      "zh-TW": "79e8a7ea109579656e7e30bc2638b972ba14c4ecab8634af06e620a050f5b162",
+      "ja": "2c9e6b4d667dc0c3125f0640af33213cde4de4bf55da02d9c428bbda8c4263b5",
+      "ko": "8b14145becc9a58b787a71c885dedbbe408c5b806565751868e32cb2b2118693",
+      "fr": "d07e01d0d97c6b6b726ac37ec52226ad3463846218d3e7c24753325af1ca66ca",
+      "de": "4121451e7c6f01524934af1ea5e4c2981c789462ec513a76b7cc37619906f93c",
+      "es": "34f45d5129425db372bf6d7ac6f8b6ec019a0199345b4fd928cb44a12d0bc13d",
+      "pt-BR": "b70f22638caa062dd0521fc0cf133ee93547102480a5ff887e68eca8d30fac5d"
+    }
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "id": "mediterranean-alien-settlement",
+  "title": {
+    "en": "A Mediterranean-inspired future settlement",
+    "zh-CN": "地中海风格未来聚落",
+    "zh-TW": "地中海風格的未來定居點",
+    "ja": "地中海にインスピレーションを得た未来の定住地",
+    "ko": "지중해에서 영감을 받은 미래 정착지",
+    "fr": "Un futur habitat d’inspiration méditerranéenne",
+    "de": "Eine vom Mittelmeer inspirierte Zukunftssiedlung",
+    "es": "Un futuro asentamiento de inspiración mediterránea",
+    "pt-BR": "Um futuro assentamento de inspiração mediterrânea"
+  },
+  "summary": {
+    "en": "Combine an architectural tradition with a restrained future-world setting for concept exploration.",
+    "zh-CN": "将地中海建筑语言与未来殖民地设定结合，探索空间概念。",
+    "zh-TW": "將地中海建築語言與未來殖民地設定結合，探索空間概念。",
+    "ja": "建築の伝統と抑制された未来世界の設定を組み合わせて、コンセプトを探求します。",
+    "ko": "개념 탐구를 위해 건축 전통과 절제된 미래 세계 환경을 결합합니다.",
+    "fr": "Combinez une tradition architecturale avec un cadre sobre du futur pour l’exploration de concepts.",
+    "de": "Kombinieren Sie eine architektonische Tradition mit einem zurückhaltenden Zukunftsambiente zur Konzepterkundung.",
+    "es": "Combine una tradición arquitectónica con un entorno sobrio del mundo futuro para la exploración de conceptos.",
+    "pt-BR": "Combine uma tradição arquitetônica com um cenário contido do mundo futuro para a exploração de conceitos."
+  },
+  "category": "sketch",
+  "tags": [
+    "architecture",
+    "generate",
+    "minimal-prompt"
+  ],
+  "mode": "generate",
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/wonder_villas/status/2097869977890017784",
+    "evidence": "The creator explicitly attributes this result to GPT Image 2.5 in the linked primary source. This is source attribution, not an independent model test."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "A distant alien world, a century from now, where humans have settled and built a new civilisation blending Mediterranean-inspired architecture with a subtle retro-futurist aesthetic.",
+        "zh-CN": "一个世纪后，一个遥远的外星世界，人类在那里定居并建立了一种新的文明，将地中海风格的建筑与微妙的复古未来主义美学融为一体。",
+        "zh-TW": "一個世紀後，一個遙遠的外星世界，人類在那裡定居並建立了一種新的文明，將地中海風格的建築與微妙的復古未來主義美學融為一體。",
+        "ja": "今から 1 世紀後の遠い異世界。そこでは人類が定住し、地中海風の建築と微妙なレトロフューチャーな美学が融合した新しい文明を築いています。",
+        "ko": "지금으로부터 100년 후, 인류가 정착하여 지중해에서 영감을 받은 건축물과 은은한 복고풍 미래주의 미학이 혼합된 새로운 문명을 건설한 머나먼 외계 세계입니다.",
+        "fr": "Un monde extraterrestre lointain, dans un siècle, où les humains se sont installés et ont construit une nouvelle civilisation mêlant une architecture d'inspiration méditerranéenne à une subtile esthétique rétro-futuriste.",
+        "de": "Eine ferne fremde Welt in einem Jahrhundert, in der sich Menschen niedergelassen und eine neue Zivilisation aufgebaut haben, die mediterran inspirierte Architektur mit einer subtilen retro-futuristischen Ästhetik verbindet.",
+        "es": "Un mundo alienígena lejano, dentro de un siglo, donde los humanos se han asentado y construido una nueva civilización que combina la arquitectura de inspiración mediterránea con una sutil estética retrofuturista.",
+        "pt-BR": "Um mundo alienígena distante, daqui a um século, onde os humanos se estabeleceram e construíram uma nova civilização que combina arquitetura de inspiração mediterrânea com uma estética retro-futurista sutil."
+      }
+    ],
+    "original_language": "en",
+    "original_steps": [
+      "A distant alien world, a century from now, where humans have settled and built a new civilisation blending Mediterranean-inspired architecture with a subtle retro-futurist aesthetic."
+    ]
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "This short source brief leaves building layouts and materials open to the model. Use it for architectural mood exploration; it does not provide dimensions, floor plans or a buildable design.",
+      "zh-CN": "这段简短原文未约束建筑布局与具体材质，可用于探索建筑氛围。它不提供尺寸、平面图或可施工的设计。",
+      "zh-TW": "這段簡短原文未約束建築佈局與具體材質，可用於探索建築氛圍。它不提供尺寸、平面圖或可施工的設計。",
+      "ja": "この短いソース概要では、建物のレイアウトとマテリアルがモデルに公開されています。建築の雰囲気を探るために使用してください。寸法、間取り図、または建設可能な設計は提供されません。",
+      "ko": "이 짧은 소스 개요는 건물 레이아웃과 재료를 모델에 공개합니다. 건축적 분위기 탐색에 사용하세요. 치수, 평면도 또는 건축 가능한 디자인을 제공하지 않습니다.",
+      "fr": "Ce court mémoire laisse les dispositions et les matériaux du bâtiment ouverts au modèle. Utilisez-le pour explorer l’ambiance architecturale ; il ne fournit pas de dimensions, de plans d'étage ou de conception constructible.",
+      "de": "Diese kurze Quellenbeschreibung lässt dem Modell Gebäudelayouts und Materialien offen. Verwenden Sie es zur Erkundung architektonischer Stimmungen. Es werden keine Abmessungen, Grundrisse oder ein bebaubares Design angegeben.",
+      "es": "Este breve resumen deja los diseños y materiales de construcción abiertos al modelo. Úselo para explorar el estado de ánimo arquitectónico; no proporciona dimensiones, planos de planta ni diseño edificable.",
+      "pt-BR": "Este breve resumo da fonte deixa layouts e materiais de construção abertos ao modelo. Use-o para explorar o clima arquitetônico; não fornece dimensões, plantas baixas ou um projeto edificável."
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "wonder_villas",
+    "url": "https://x.com/wonder_villas/status/2097869977890017784",
+    "prompt_url": "https://x.com/wonder_villas/status/2097869977890017784",
+    "checked_at": "2026-09-13T17:54:27.409Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "post_language": "en"
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HR0hm_uWsAAbl8I.jpg",
+      "kind": "source-result",
+      "credit": "wonder_villas — source result",
+      "source_url": "https://x.com/wonder_villas/status/2097869977890017784"
+    }
+  ],
+  "references": [],
+  "engagement": {
+    "likes": 1,
+    "reposts": null,
+    "replies": 0,
+    "bookmarks": null,
+    "views": null,
+    "observed_at": "2026-09-13T17:23:13.356247+00:00",
+    "source_url": "https://x.com/wonder_villas/status/2097869977890017784",
+    "method": "X public embed counters; only available exact integers are recorded. Missing counters remain null."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and linked media remain subject to their source terms. Attribution does not grant a license to source inputs or results."
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T17:54:27.409Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 2,
+      "result": 3,
+      "usefulness": 3,
+      "clarity": 3,
+      "distinctiveness": 3
+    },
+    "rationale": "Source image combines coastal stepped architecture and a future-world backdrop. Short brief leaves framing and buildings unconstrained; reuse score reduced."
+  },
+  "translation_meta": {
+    "source_digest": "0b53154475e5108549e2615058cd800b070f93326e27bfb85ab9d0aab1668a25",
+    "text_digests": {
+      "zh-CN": "337e6343166365e92ece3215f178c8b79c793a17765f0e99ffcc19151d627865",
+      "zh-TW": "baedfda027f3682351a0c8cf54324ff46dbd397f3e8c7815855e59def148ea13",
+      "ja": "6b940c1d1fc04c0e49668d191129182f7434512017df241a388dfecc2b050432",
+      "ko": "4597309990a2be6772028124bcd5fc1379414d95253f820fb60bb6d2953a6a2c",
+      "fr": "82c014e6e4142ae667c8aeec258123046d4f8a10d2ee7dd814f28bec242b60b0",
+      "de": "4f4c63bf17f85516cc930a813588f24ef1605dc1cf09a18634ffbc0e0d1e5d14",
+      "es": "545a87626b0b9ad1c6c251cb5cdf74d79a5807623aeb2c1158499090ee77ffa8",
+      "pt-BR": "f9300fcefd6335447de833ad93bde2954b3daeb7c94c8b125299c7358480c39b"
+    }
+  }
+}

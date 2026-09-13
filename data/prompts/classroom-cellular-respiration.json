@@ -1,0 +1,146 @@
+{
+  "id": "classroom-cellular-respiration",
+  "title": {
+    "en": "A labeled cellular respiration handout",
+    "zh-CN": "细胞呼吸课堂图解",
+    "zh-TW": "帶有標籤的細胞呼吸講義",
+    "ja": "ラベル付き細胞呼吸ハンドアウト",
+    "ko": "라벨이 붙은 세포 호흡 유인물",
+    "fr": "Un document étiqueté sur la respiration cellulaire",
+    "de": "Ein beschriftetes Handout zur Zellatmung",
+    "es": "Un folleto etiquetado sobre respiración celular",
+    "pt-BR": "Um folheto rotulado sobre respiração celular"
+  },
+  "summary": {
+    "en": "Specify the lesson, molecules and visual sequence before generating a classroom diagram.",
+    "zh-CN": "先指定教学内容、分子标签与步骤顺序，再生成课堂图解。",
+    "zh-TW": "先指定教學內容、分子標籤與步驟順序，再生成課堂圖解。",
+    "ja": "教室図を生成する前に、レッスン、分子、視覚的なシーケンスを指定します。",
+    "ko": "교실 다이어그램을 생성하기 전에 강의, 분자 및 시각적 순서를 지정하세요.",
+    "fr": "Précisez la leçon, les molécules et la séquence visuelle avant de générer un diagramme de classe.",
+    "de": "Geben Sie die Lektion, die Moleküle und die visuelle Reihenfolge an, bevor Sie ein Klassenzimmerdiagramm erstellen.",
+    "es": "Especifique la lección, las moléculas y la secuencia visual antes de generar un diagrama de aula.",
+    "pt-BR": "Especifique a lição, as moléculas e a sequência visual antes de gerar um diagrama de sala de aula."
+  },
+  "category": "design",
+  "tags": [
+    "official-guide",
+    "design",
+    "typography"
+  ],
+  "mode": "generate",
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": "sunburst",
+    "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals",
+    "evidence": "The official guide labels this linked output GPT Image 2.5 Sunburst. It is not a repository generation."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "Create a simple biology diagram titled \"Cellular Respiration at a Glance\" for high school students.\n\nShow how glucose turns into energy inside a cell. Include glycolysis, the Krebs cycle, and the electron transport chain.\nUse arrows to connect the steps, and label the main molecules: glucose, pyruvate, ATP, NADH, FADH2, CO2, O2, and H2O.\nMake it look like a clean classroom handout or slide, with a white background, simple icons, clear labels, and easy-to-read text.\n\nAvoid tiny text, extra decoration, or anything that makes the diagram hard to understand.",
+        "zh-CN": "为高中生创建一个名为“Cellular Respiration at a Glance”的简单生物图。\n\n展示葡萄糖如何在细胞内转化为能量。包括糖酵解、克雷布斯循环和电子传递链。\n使用箭头连接步骤，并标记主要分子：葡萄糖、丙酮酸、ATP、NADH、FADH2、CO2、O2 和 H2O。\n使其看起来像干净的课堂讲义或幻灯片，具有白色背景、简单的图标、清晰的标签和易于阅读的文本。\n\n避免微小的文字、额外的装饰或任何使图表难以理解的东西。",
+        "zh-TW": "為高中生創建一個名為「Cellular Respiration at a Glance」的簡單生物圖。\n\n展示葡萄糖如何在細胞內轉化為能量。包括糖解作用、克雷布斯循環和電子傳遞鏈。\n使用箭頭連接步驟，並標記主要分子：葡萄糖、丙酮酸、ATP、NADH、FADH2、CO2、O2 和 H2O。\n使其看起來像乾淨的課堂講義或幻燈片，具有白色背景、簡單的圖標、清晰的標籤和易於閱讀的文字。\n\n避免微小的文字、額外的裝飾或任何使圖表難以理解的東西。",
+        "ja": "高校生向けに「Cellular Respiration at a Glance」というタイトルの簡単な生物学図を作成します。\n\nグルコースが細胞内でどのようにエネルギーに変わるかを示します。解糖系、クレブス回路、電子伝達系が含まれます。\n矢印を使用してステップを接続し、主要な分子にラベルを付けます: グルコース、ピルビン酸、ATP、NADH、FADH2、CO2、O2、および H2O。\n白い背景、シンプルなアイコン、明確なラベル、読みやすいテキストを使用して、きれいな教室の配布物やスライドのように見せます。\n\n小さなテキスト、余分な装飾、または図を理解しにくくするものは避けてください。",
+        "ko": "고등학생을 위해 \"Cellular Respiration at a Glance\"라는 제목의 간단한 생물학 다이어그램을 만듭니다.\n\n세포 내에서 포도당이 어떻게 에너지로 전환되는지 보여줍니다. 해당과정, 크렙스 회로, 전자 전달 사슬을 포함합니다.\n화살표를 사용하여 단계를 연결하고 주요 분자(포도당, 피루브산, ATP, NADH, FADH2, CO2, O2 및 H2O)에 라벨을 붙입니다.\n흰색 배경, 간단한 아이콘, 명확한 레이블, 읽기 쉬운 텍스트를 사용하여 깔끔한 교실 유인물이나 슬라이드처럼 보이게 만듭니다.\n\n작은 텍스트, 추가 장식 또는 다이어그램을 이해하기 어렵게 만드는 모든 것을 피하세요.",
+        "fr": "Créez un diagramme de biologie simple intitulé \"Cellular Respiration at a Glance\" pour les élèves du secondaire.\n\nMontrez comment le glucose se transforme en énergie à l'intérieur d'une cellule. Incluez la glycolyse, le cycle de Krebs et la chaîne de transport d'électrons.\nUtilisez les flèches pour relier les étapes et étiquetez les molécules principales : glucose, pyruvate, ATP, NADH, FADH2, CO2, O2 et H2O.\nDonnez-lui l’apparence d’un document ou d’une diapositive propre en classe, avec un fond blanc, des icônes simples, des étiquettes claires et un texte facile à lire.\n\nÉvitez les petits textes, les décorations supplémentaires ou tout ce qui rend le diagramme difficile à comprendre.",
+        "de": "Erstellen Sie ein einfaches Biologiediagramm mit dem Titel „Cellular Respiration at a Glance“ für Oberstufenschüler.\n\nZeigen Sie, wie Glukose in einer Zelle in Energie umgewandelt wird. Dazu gehören die Glykolyse, der Krebszyklus und die Elektronentransportkette.\nVerwenden Sie Pfeile, um die Schritte zu verbinden und die Hauptmoleküle zu beschriften: Glucose, Pyruvat, ATP, NADH, FADH2, CO2, O2 und H2O.\nLassen Sie es wie ein sauberes Handzettel oder eine Folie im Klassenzimmer aussehen, mit weißem Hintergrund, einfachen Symbolen, klaren Beschriftungen und leicht lesbarem Text.\n\nVermeiden Sie winzigen Text, zusätzliche Dekorationen oder alles, was das Diagramm schwer verständlich macht.",
+        "es": "Cree un diagrama de biología simple titulado \"Cellular Respiration at a Glance\" para estudiantes de secundaria.\n\nMuestre cómo la glucosa se convierte en energía dentro de una célula. Incluye la glucólisis, el ciclo de Krebs y la cadena de transporte de electrones.\nUtilice flechas para conectar los pasos y etiquete las moléculas principales: glucosa, piruvato, ATP, NADH, FADH2, CO2, O2 y H2O.\nHaga que parezca un folleto o una diapositiva limpios del aula, con un fondo blanco, íconos simples, etiquetas claras y texto fácil de leer.\n\nEvite textos pequeños, decoración adicional o cualquier cosa que dificulte la comprensión del diagrama.",
+        "pt-BR": "Crie um diagrama simples de biologia intitulado \"Cellular Respiration at a Glance\" para alunos do ensino médio.\n\nMostre como a glicose se transforma em energia dentro de uma célula. Inclui a glicólise, o ciclo de Krebs e a cadeia de transporte de elétrons.\nUse setas para conectar as etapas e rotule as moléculas principais: glicose, piruvato, ATP, NADH, FADH2, CO2, O2 e H2O.\nFaça com que pareça um folheto ou slide de sala de aula limpo, com fundo branco, ícones simples, rótulos claros e texto fácil de ler.\n\nEvite textos minúsculos, decoração extra ou qualquer coisa que dificulte a compreensão do diagrama."
+      }
+    ],
+    "original_language": "en",
+    "original_steps": [
+      "Create a simple biology diagram titled \"Cellular Respiration at a Glance\" for high school students.\n\nShow how glucose turns into energy inside a cell. Include glycolysis, the Krebs cycle, and the electron transport chain.\nUse arrows to connect the steps, and label the main molecules: glucose, pyruvate, ATP, NADH, FADH2, CO2, O2, and H2O.\nMake it look like a clean classroom handout or slide, with a white background, simple icons, clear labels, and easy-to-read text.\n\nAvoid tiny text, extra decoration, or anything that makes the diagram hard to understand."
+    ],
+    "preserved_literals": [
+      "Cellular Respiration at a Glance",
+      "ATP",
+      "NADH",
+      "FADH2",
+      "CO2",
+      "O2",
+      "H2O"
+    ]
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "Have a subject expert verify molecule labels, arrows and scientific relationships before teaching. The example is a generated illustration, not scientific evidence. Source settings: 1536x1024, high quality.",
+      "zh-CN": "用于教学前，请让学科专家核对分子标签、箭头和科学关系。该示例是生成的示意图，不是科学证据。原示例设置：1536x1024、高质量。",
+      "zh-TW": "用於教學前，請讓學科專家核對分子標籤、箭頭和科學關係。該示例是生成的示意圖，不是科學證據。原示例設置：1536x1024、高質量。",
+      "ja": "教える前に、その科目の専門家に分子ラベル、矢印、科学的関係を確認してもらいます。この例は生成された図であり、科学的証拠ではありません。ソース設定: 1536x1024、高品質。",
+      "ko": "강의하기 전에 주제 전문가에게 분자 라벨, 화살표 및 과학적 관계를 확인하도록 하세요. 해당 예시는 생성된 예시이며 과학적 증거가 아닙니다. 소스 설정: 1536x1024, 고품질.",
+      "fr": "Demandez à un expert en la matière de vérifier les étiquettes des molécules, les flèches et les relations scientifiques avant d'enseigner. L'exemple est une illustration générée, et non une preuve scientifique. Paramètres source : 1536x1024, haute qualité.",
+      "de": "Lassen Sie Molekülmarkierungen, Pfeile und wissenschaftliche Zusammenhänge vor dem Unterricht von einem Fachexperten überprüfen. Das Beispiel ist eine generierte Illustration, kein wissenschaftlicher Beweis. Quelleinstellungen: 1536x1024, hohe Qualität.",
+      "es": "Haga que un experto en la materia verifique las etiquetas de las moléculas, las flechas y las relaciones científicas antes de enseñar. El ejemplo es una ilustración generada, no evidencia científica. Configuración de fuente: 1536x1024, alta calidad.",
+      "pt-BR": "Peça a um especialista no assunto que verifique os rótulos das moléculas, setas e relações científicas antes de ensinar. O exemplo é uma ilustração gerada, não uma evidência científica. Configurações de fonte: 1536x1024, alta qualidade."
+    }
+  ],
+  "source": {
+    "platform": "documentation",
+    "author": "OpenAI",
+    "url": "https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals",
+    "prompt_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals",
+    "checked_at": "2026-09-13T17:54:27.409Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "post_language": "en"
+  },
+  "previews": [
+    {
+      "url": "https://developers.openai.com/images/platform/guides/image-prompting/scientific-educational-cellular-respiration-gpt-image-2-5-sunburst.webp",
+      "kind": "source-result",
+      "credit": "OpenAI — source result",
+      "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals"
+    }
+  ],
+  "references": [],
+  "engagement": {
+    "likes": null,
+    "reposts": null,
+    "replies": null,
+    "bookmarks": null,
+    "views": null,
+    "observed_at": "2026-09-13T17:54:27.409Z",
+    "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals",
+    "method": "Official documentation has no social engagement counters."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and linked media remain subject to their source terms. Attribution does not grant a license to source inputs or results."
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T17:54:27.409Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 4,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 4,
+      "distinctiveness": 3
+    },
+    "rationale": "Three stages, arrows and molecule labels are visible and organized. Visual legibility was checked; biochemical completeness and arrow semantics are not independently certified."
+  },
+  "translation_meta": {
+    "source_digest": "4dfdff1b40e87a1421623109f2ce7944cf58cdbc0b3412a34647d2514db523d3",
+    "text_digests": {
+      "zh-CN": "40eed3daeb3b0a9e162d6c66553f1fce5a10c268fa5778556385e51dc68beb48",
+      "zh-TW": "334b4cf7d8d79d534c2eedb70b4e4c598fa694c56c73427e86c58b31e19bba20",
+      "ja": "f0dfa18bb7d998815ffafe1dcc83fde7bcf475203f8b2249c0933187059ed971",
+      "ko": "ce8dc9b55d9625c6064002da6656d4b3c209c238ac5c943e316aefe417fc5fda",
+      "fr": "a7ee39291188cec629273db566ffdb54c47cb81e241dcb5c669653185c360bc4",
+      "de": "5f1d524f4735238b7081e9a4232e046d1a039786f48d0477cb748390d9659337",
+      "es": "93b7a0ea74f3f3d79e657edea731e62d273079830c42509b6eeaf3e0df57787a",
+      "pt-BR": "61fefaa5ffcd477298327100f43f94a0ba9102785d8d6549d27583a5b41b9803"
+    }
+  }
+}

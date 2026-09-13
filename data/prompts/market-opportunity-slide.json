@@ -1,0 +1,151 @@
+{
+  "id": "market-opportunity-slide",
+  "title": {
+    "en": "A market-sizing slide from explicit inputs",
+    "zh-CN": "明确数据与布局的市场规模幻灯片",
+    "zh-TW": "來自明確投入的市場規模幻燈片",
+    "ja": "明示的なインプットによる市場規模のスライド",
+    "ko": "명시적인 입력을 통한 시장 규모 슬라이드",
+    "fr": "Une diapositive de taille de marché à partir d'entrées explicites",
+    "de": "Eine Folie zur Marktgröße anhand expliziter Eingaben",
+    "es": "Una diapositiva del tamaño del mercado a partir de insumos explícitos",
+    "pt-BR": "Um slide do tamanho do mercado a partir de informações explícitas"
+  },
+  "summary": {
+    "en": "Control slide hierarchy with named diagrams, fixed figures, labels and footnotes.",
+    "zh-CN": "用指定的图表、固定数值、标签和脚注控制幻灯片的信息层级。",
+    "zh-TW": "用指定的圖表、固定數值、標籤和腳注控制幻燈片的信息層級。",
+    "ja": "名前付き図、固定図、ラベル、脚注を使用してスライド階層を制御します。",
+    "ko": "명명된 다이어그램, 고정 그림, 레이블 및 각주를 사용하여 슬라이드 계층 구조를 제어합니다.",
+    "fr": "Contrôlez la hiérarchie des diapositives avec des diagrammes nommés, des figures fixes, des étiquettes et des notes de bas de page.",
+    "de": "Steuern Sie die Folienhierarchie mit benannten Diagrammen, festen Abbildungen, Beschriftungen und Fußnoten.",
+    "es": "Controle la jerarquía de diapositivas con diagramas con nombre, figuras fijas, etiquetas y notas al pie.",
+    "pt-BR": "Controle a hierarquia de slides com diagramas nomeados, figuras fixas, rótulos e notas de rodapé."
+  },
+  "category": "design",
+  "tags": [
+    "official-guide",
+    "design",
+    "layout",
+    "typography"
+  ],
+  "mode": "generate",
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": "sunburst",
+    "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts",
+    "evidence": "The official guide labels this linked output GPT Image 2.5 Sunburst. It is not a repository generation."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "Create one pitch-deck slide titled **\"Market Opportunity\"** that feels like a real Series A fundraising slide from a YC-backed startup.\n\nUse a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:\n\n* A TAM/SAM/SOM concentric-circle diagram in muted blues and grays\n* Specific, believable market sizing numbers:\n\n  * **TAM:** $42B\n  * **SAM:** $8.7B\n  * **SOM:** $340M\n* A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend\n* Small footnotes: **\"AGI Research, 2024\"** and **\"Internal analysis\"**\n* A company logo placeholder in the bottom-right corner\n\nThe design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.\n\nAvoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.",
+        "zh-CN": "创建一张标题为 **“Market Opportunity”** 的融资幻灯片，感觉就像 YC 支持的初创公司真正的 A 轮融资幻灯片。\n\n使用干净的白色背景、像Inter这样的现代无衬线字体以及清晰、简约的布局。幻灯片应包括：\n\n* TAM/SAM/SOM 同心圆图，采用柔和的蓝色和灰色\n* 具体、可信的市场规模数字：\n\n* **TAM:** $42B\n  * **SAM:** $8.7B\n  * **SOM:** $340M\n* 下面清晰的条形图显示了从 **2021 到 2026** 的市场增长，并呈现微妙的上升趋势\n* 小脚注：**“AGI Research, 2024”** 和 **“Internal analysis”**\n* 右下角有公司徽标占位符\n\n该设计应该看起来像是属于真实融资演示文稿：高度可读的文本、清晰的数据层次结构、优美的间距以及专业的初创公司风格的视觉语言。\n\n避免使用剪贴画、图库摄影、渐变、阴影、装饰元素或任何感觉通用或过度设计的东西。",
+        "zh-TW": "創建一張標題為 **“Market Opportunity”** 的融資幻燈片，感覺就像 YC 支持的初創公司真正的 A 輪融資幻燈片。\n\n使用乾淨的白色背景、像Inter這樣的現代無襯線字體以及清晰、簡約的佈局。幻燈片應包括：\n\n* TAM/SAM/SOM 同心圓圖，採用柔和的藍色和灰色\n* 具體、可信的市場規模數字：\n\n* **TAM:** $42B\n  * **SAM:** $8.7B\n  * **SOM:** $340M\n* 下面清晰的條形圖顯示了從 **2021 到 2026** 的市場增長，並呈現微妙的上升趨勢\n* 小腳注：**“AGI Research, 2024”** 和 **“Internal analysis”**\n* 右下角有公司徽標佔位符\n\n該設計應該看起來像是屬於真實融資演示文稿：高度可讀的文本、清晰的數據層次結構、優美的間距以及專業的初創公司風格的視覺語言。\n\n避免使用剪貼畫、圖庫攝影、漸變、陰影、裝飾元素或任何感覺通用或過度設計的東西。",
+        "ja": "**「Market Opportunity」** というタイトルのピッチデッキ スライドを 1 つ作成します。これは、YC が支援するスタートアップによる本物のシリーズ A 資金調達スライドのようなものです。\n\nきれいな白の背景、Inter のようなモダンなサンセリフ タイポグラフィ、鮮明で最小限のレイアウトを使用します。スライドには次の内容を含める必要があります。\n\n* 落ち着いたブルーとグレーの TAM/SAM/SOM 同心円図\n* 具体的で信頼できる市場規模の数値:\n\n* **TAM:** $42B\n  * **SAM:** $8.7B\n  * **SOM:** $340M\n* 以下のきれいな棒グラフは、**2021 から 2026** までの市場の成長を示しており、微妙な上昇傾向を示しています\n* 小さな脚注: **「AGI Research, 2024」** および **「Internal analysis」**\n* 右下隅の会社ロゴのプレースホルダー\n\nデザインは、実際に資金を集めたデッキに属するものであるかのように見える必要があります。可読性の高いテキスト、明確なデータ階層、洗練された間隔、プロのスタートアップスタイルのビジュアル言語です。\n\nクリップアート、ストックフォト、グラデーション、影、装飾要素など、一般的または過度にデザインされていると思われるものは避けてください。",
+        "ko": "YC가 지원하는 스타트업의 실제 시리즈 A 기금 모금 슬라이드처럼 느껴지는 **\"Market Opportunity\"**라는 제목의 피치덱 슬라이드를 만들어 보세요.\n\n깨끗한 흰색 배경, Inter와 같은 현대적인 산세리프 타이포그래피, 선명하고 최소한의 레이아웃을 사용하세요. 슬라이드에는 다음이 포함되어야 합니다.\n\n* 차분한 파란색과 회색의 TAM/SAM/SOM 동심원 다이어그램\n* 구체적이고 믿을 수 있는 시장 규모 수치:\n\n* **TAM:** $42B\n  * **SAM:** $8.7B\n  * **SOM:** $340M\n* 아래의 깔끔한 막대 차트는 **2021에서 2026**까지의 시장 성장과 미묘한 상승 추세를 보여줍니다.\n* 작은 각주: **\"AGI Research, 2024\"** 및 **\"Internal analysis\"**\n* 오른쪽 하단에 회사 로고 자리 표시자가 있습니다.\n\n디자인은 읽기 쉬운 텍스트, 명확한 데이터 계층 구조, 세련된 간격, 전문적인 스타트업 스타일의 시각적 언어 등 실제로 돈을 모은 데크에 속하는 것처럼 보여야 합니다.\n\n클립 아트, 스톡 사진, 그라데이션, 그림자, 장식 요소 등 일반적이거나 과도하게 디자인된 느낌을 주는 요소는 피하세요.",
+        "fr": "Créez une diapositive de pitch-deck intitulée **\"Market Opportunity\"** qui ressemble à une véritable diapositive de collecte de fonds de série A d'une startup soutenue par YC.\n\nUtilisez un fond blanc épuré, une typographie sans empattement moderne comme Inter et une mise en page nette et minimale. La diapositive doit inclure :\n\n* Un diagramme de cercles concentriques TAM/SAM/SOM en bleus et gris atténués\n* Chiffres précis et crédibles sur la taille du marché :\n\n* **TAM :** $42B\n  * **SAM :** $8.7B\n  * **SOM :** $340M\n* Un graphique à barres ci-dessous montre la croissance du marché de **2021 à 2026**, avec une subtile tendance à la hausse.\n* Petites notes de bas de page : **\"AGI Research, 2024\"** et **\"Internal analysis\"**\n* Un espace réservé au logo de l'entreprise dans le coin inférieur droit\n\nLa conception doit donner l'impression qu'elle appartient à un deck qui a réellement collecté des fonds : texte très lisible, hiérarchie de données claire, espacement soigné et langage visuel professionnel de style startup.\n\nÉvitez les images clipart, les photographies d'archives, les dégradés, les ombres, les éléments décoratifs ou tout ce qui semble générique ou surconçu.",
+        "de": "Erstellen Sie eine Pitch-Deck-Folie mit dem Titel „Market Opportunity“**, die sich wie eine echte Fundraising-Folie der Serie A eines von YC unterstützten Startups anfühlt.\n\nVerwenden Sie einen sauberen weißen Hintergrund, moderne serifenlose Typografie wie Inter und ein klares, minimalistisches Layout. Die Folie sollte Folgendes enthalten:\n\n* Ein konzentrisches Kreisdiagramm TAM/SAM/SOM in gedämpften Blau- und Grautönen\n* Spezifische, glaubwürdige Zahlen zur Marktgröße:\n\n* **TAM:** $42B\n  * **SAM:** $8.7B\n  * **SOM:** $340M\n* Ein übersichtliches Balkendiagramm unten zeigt das Marktwachstum von **2021 bis 2026**, mit einem subtilen Aufwärtstrend\n* Kleine Fußnoten: **\"AGI Research, 2024\"** und **\"Internal analysis\"**\n* Ein Platzhalter für das Firmenlogo in der unteren rechten Ecke\n\nDas Design sollte so aussehen, als gehöre es zu einem Deck, mit dem tatsächlich Geld gesammelt wurde: gut lesbarer Text, klare Datenhierarchie, ausgefeilte Abstände und eine professionelle visuelle Sprache im Startup-Stil.\n\nVermeiden Sie Cliparts, Stockfotos, Farbverläufe, Schatten, dekorative Elemente oder alles, was generisch oder überdesignt wirkt.",
+        "es": "Cree una diapositiva de presentación titulada **\"Market Opportunity\"** que parezca una diapositiva real de recaudación de fondos Serie A de una startup respaldada por YC.\n\nUtilice un fondo blanco limpio, una tipografía sans-serif moderna como Inter y un diseño minimalista y nítido. La diapositiva debe incluir:\n\n* Un diagrama de círculo concéntrico TAM/SAM/SOM en azules y grises apagados.\n* Cifras de dimensionamiento del mercado específicas y creíbles:\n\n* **TAM:** $42B\n  * **SAM:** $8.7B\n  * **SOM:** $340M\n* Un gráfico de barras limpio a continuación muestra el crecimiento del mercado de **2021 a 2026**, con una sutil tendencia ascendente\n* Pequeñas notas a pie de página: **\"AGI Research, 2024\"** y **\"Internal analysis\"**\n* Un marcador de posición del logotipo de la empresa en la esquina inferior derecha\n\nEl diseño debe verse como si perteneciera a una plataforma que realmente recaudó dinero: texto altamente legible, jerarquía de datos clara, espaciado pulido y lenguaje visual de estilo profesional de inicio.\n\nEvite las imágenes prediseñadas, las fotografías de archivo, los degradados, las sombras, los elementos decorativos o cualquier cosa que parezca genérica o sobrediseñada.",
+        "pt-BR": "Crie um slide de apresentação intitulado **\"Market Opportunity\"** que pareça um verdadeiro slide de arrecadação de fundos da Série A de uma startup apoiada pelo YC.\n\nUse um fundo branco limpo, tipografia moderna sem serifa, como Inter, e um layout minimalista e nítido. O slide deve incluir:\n\n* Um diagrama de círculo concêntrico TAM/SAM/SOM em azuis e cinzas suaves\n* Números de dimensionamento de mercado específicos e confiáveis:\n\n* **TAM:** $42B\n  * **SAM:** $8.7B\n  * **SOM:** $340M\n* Um gráfico de barras limpo abaixo mostrando o crescimento do mercado de **2021 a 2026**, com uma tendência ascendente sutil\n* Pequenas notas de rodapé: **\"AGI Research, 2024\"** e **\"Internal analysis\"**\n* Um espaço reservado para o logotipo da empresa no canto inferior direito\n\nO design deve parecer pertencer a um deck que realmente arrecadou dinheiro: texto altamente legível, hierarquia de dados clara, espaçamento refinado e linguagem visual profissional no estilo de startup.\n\nEvite clipart, banco de imagens, gradientes, sombras, elementos decorativos ou qualquer coisa que pareça genérica ou superdimensionada."
+      }
+    ],
+    "original_language": "en",
+    "original_steps": [
+      "Create one pitch-deck slide titled **\"Market Opportunity\"** that feels like a real Series A fundraising slide from a YC-backed startup.\n\nUse a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:\n\n* A TAM/SAM/SOM concentric-circle diagram in muted blues and grays\n* Specific, believable market sizing numbers:\n\n  * **TAM:** $42B\n  * **SAM:** $8.7B\n  * **SOM:** $340M\n* A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend\n* Small footnotes: **\"AGI Research, 2024\"** and **\"Internal analysis\"**\n* A company logo placeholder in the bottom-right corner\n\nThe design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.\n\nAvoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned."
+    ],
+    "preserved_literals": [
+      "Market Opportunity",
+      "TAM",
+      "SAM",
+      "SOM",
+      "$42B",
+      "$8.7B",
+      "$340M",
+      "2021",
+      "2026",
+      "AGI Research, 2024",
+      "Internal analysis"
+    ]
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "All market figures and citations in this source example are fictional design inputs. Replace them with verified data and actual sources before use. A generated image is not an editable slide or a fundraising result. The prompt gives no annual values for the growth chart, so do not treat that chart as data. Source settings: 1536x864, high quality. The example also invents a logo instead of leaving a placeholder.",
+      "zh-CN": "原示例中的市场数据和引用均为虚构的设计输入，使用前必须换成核实过的数据及真实来源。输出不是可编辑的幻灯片，也不代表融资成果。提示词未给出各年的市场数值，结果中的增长图不能作为数据使用。结果还自行生成了标志，没有保留占位符。原示例设置：1536x864、高质量。",
+      "zh-TW": "原示例中的市場數據和引用均為虛構的設計輸入，使用前必須換成覈實過的數據及真實來源。輸出不是可編輯的幻燈片，也不代表融資成果。提示詞未給出各年的市場數值，結果中的增長圖不能作為數據使用。結果還自行生成了標誌，沒有保留佔位符。原示例設置：1536x864、高質量。",
+      "ja": "このソース例内のすべての市場数値と引用は、架空の設計入力です。使用する前に検証済みのデータや実際のソースに置き換えてください。生成された画像は、編集可能なスライドや募金活動の結果ではありません。プロンプトには成長グラフの年次値が表示されないため、そのグラフをデータとして扱わないでください。ソース設定: 1536x864、高品質。この例では、プレースホルダーを残す代わりにロゴも作成します。",
+      "ko": "이 소스 예시의 모든 시장 수치와 인용은 가상의 설계 입력입니다. 검증된 데이터와 실제 소스로 교체한 후 사용하세요. 생성된 이미지는 편집 가능한 슬라이드나 모금 결과가 아닙니다. 프롬프트는 성장 차트에 대한 연간 값을 제공하지 않으므로 해당 차트를 데이터로 취급하지 마십시오. 소스 설정: 1536x864, 고품질. 또한 이 예에서는 자리 표시자를 남기는 대신 로고를 만들어냅니다.",
+      "fr": "Tous les chiffres du marché et les citations dans cet exemple source sont des entrées de conception fictives. Remplacez-les par des données vérifiées et des sources réelles avant utilisation. Une image générée n’est pas une diapositive modifiable ni un résultat de collecte de fonds. L'invite ne donne aucune valeur annuelle pour le graphique de croissance, ne traitez donc pas ce graphique comme des données. Paramètres source : 1536 x 864, haute qualité. L'exemple invente également un logo au lieu de laisser un espace réservé.",
+      "de": "Alle Marktzahlen und Zitate in diesem Quellbeispiel sind fiktive Designeingaben. Ersetzen Sie sie vor der Verwendung durch überprüfte Daten und tatsächliche Quellen. Ein generiertes Bild ist keine bearbeitbare Folie oder ein Fundraising-Ergebnis. Die Eingabeaufforderung gibt keine Jahreswerte für das Wachstumsdiagramm an. Behandeln Sie dieses Diagramm daher nicht als Daten. Quelleinstellungen: 1536x864, hohe Qualität. Das Beispiel erfindet auch ein Logo, anstatt einen Platzhalter zu hinterlassen.",
+      "es": "Todas las cifras y citas del mercado en este ejemplo de fuente son aportaciones de diseño ficticias. Reemplácelos con datos verificados y fuentes reales antes de usarlos. Una imagen generada no es una diapositiva editable ni un resultado de recaudación de fondos. El mensaje no proporciona valores anuales para el gráfico de crecimiento, por lo que no trate ese gráfico como datos. Configuración de fuente: 1536x864, alta calidad. El ejemplo también inventa un logotipo en lugar de dejar un marcador de posición.",
+      "pt-BR": "Todos os números de mercado e citações neste exemplo de fonte são dados de design fictícios. Substitua-os por dados verificados e fontes reais antes de usar. Uma imagem gerada não é um slide editável nem um resultado de arrecadação de fundos. O prompt não fornece valores anuais para o gráfico de crescimento, portanto, não trate esse gráfico como dados. Configurações de origem: 1536x864, alta qualidade. O exemplo também inventa um logotipo em vez de deixar um espaço reservado."
+    }
+  ],
+  "source": {
+    "platform": "documentation",
+    "author": "OpenAI",
+    "url": "https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts",
+    "prompt_url": "https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts",
+    "checked_at": "2026-09-13T17:54:27.409Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "post_language": "en"
+  },
+  "previews": [
+    {
+      "url": "https://developers.openai.com/images/platform/guides/image-prompting/market-opportunity-slide-gpt-image-2-5-sunburst.webp",
+      "kind": "source-result",
+      "credit": "OpenAI — source result",
+      "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts"
+    }
+  ],
+  "references": [],
+  "engagement": {
+    "likes": null,
+    "reposts": null,
+    "replies": null,
+    "bookmarks": null,
+    "views": null,
+    "observed_at": "2026-09-13T17:54:27.409Z",
+    "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts",
+    "method": "Official documentation has no social engagement counters."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and linked media remain subject to their source terms. Attribution does not grant a license to source inputs or results."
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T17:54:27.409Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 4,
+      "result": 2,
+      "usefulness": 4,
+      "clarity": 4,
+      "distinctiveness": 3
+    },
+    "rationale": "TAM/SAM/SOM figures and hierarchy are legible, but annual values and a logo are invented beyond the supplied brief. Clearly labeled fictional-input example; result score reduced."
+  },
+  "translation_meta": {
+    "source_digest": "8b8da7970546c14592bf50e0c8e1e012b8054a68eaa60c68fbdd4aa24454e55f",
+    "text_digests": {
+      "zh-CN": "83a1847554f394a1a874fc5e7c04bfdc078df91294b91b6591758223c7f2e027",
+      "zh-TW": "c553a62f65aa2e452127a8887ac59cbec32fac23927070e0c3657c9a9148f8eb",
+      "ja": "f61b676c67548b08a223d7ea507da571e3ecca56b42316a57aac292df44e6f14",
+      "ko": "c9397966965f322ee8cd12e81fd49710fcc85952327fa20a187ebae818b73849",
+      "fr": "06c304416f320316eb8d91cc557669b9d8afe3b6e60cb142b077f70efc147333",
+      "de": "d88a06a888c14c89cd539764efb1cfe3555c1be4e28846d9c44166cf3404c448",
+      "es": "9b404e8b613af8733896a1758972cdc58b341c823c01bbf68ff75a1676dc647a",
+      "pt-BR": "d669457c9c05703cac9beff6a18731bb20dd0269a38e84c08ccf301983a91a3b"
+    }
+  }
+}

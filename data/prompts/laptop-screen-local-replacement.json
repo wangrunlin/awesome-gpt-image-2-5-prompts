@@ -1,0 +1,149 @@
+{
+  "id": "laptop-screen-local-replacement",
+  "title": {
+    "en": "Replace only the content of a laptop screen",
+    "zh-CN": "仅替换笔记本屏幕内容",
+    "zh-TW": "僅替換筆電螢幕內容",
+    "ja": "ノートPC画面の内容だけを置き換える",
+    "ko": "노트북 화면 내용만 교체하기",
+    "fr": "Remplacer uniquement le contenu d’un écran d’ordinateur portable",
+    "de": "Nur den Inhalt eines Laptopbildschirms ersetzen",
+    "es": "Sustituir solo el contenido de la pantalla de un portátil",
+    "pt-BR": "Substituir apenas o conteúdo da tela de um notebook"
+  },
+  "summary": {
+    "en": "Target a screen while listing the surrounding objects that must remain unchanged.",
+    "zh-CN": "明确屏幕编辑区域，并列出周围必须保持不变的对象。",
+    "zh-TW": "明確屏幕編輯區域，並列出周圍必須保持不變的對象。",
+    "ja": "変更しない必要がある周囲のオブジェクトをリストしながら、画面をターゲットにします。",
+    "ko": "변경되지 않아야 하는 주변 객체를 나열하면서 화면을 타겟팅합니다.",
+    "fr": "Ciblez un écran tout en listant les objets environnants qui doivent rester inchangés.",
+    "de": "Zielen Sie auf einen Bildschirm und listen Sie dabei die umgebenden Objekte auf, die unverändert bleiben müssen.",
+    "es": "Apunte a una pantalla mientras enumera los objetos circundantes que deben permanecer sin cambios.",
+    "pt-BR": "Mire uma tela enquanto lista os objetos ao redor que devem permanecer inalterados."
+  },
+  "category": "editing",
+  "tags": [
+    "edit",
+    "reference-image",
+    "consistency"
+  ],
+  "mode": "edit",
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/ai_kairos_jp/status/2097679848475099159",
+    "evidence": "The creator explicitly attributes this result to GPT Image 2.5 in the linked primary source. This is source attribution, not an independent model test."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "Replace the spreadsheet with an automation workflow diagram. Do not change the desk, sticky notes, lighting or the nighttime view through the window.",
+        "zh-CN": "把电子表格替换为自动化工作流程图。不要改变桌子、便签、照明和窗外夜景。",
+        "zh-TW": "把試算表替換為自動化工作流程圖。不要改變桌子、便條紙、照明和窗外夜景。",
+        "ja": "表計算を自動化フロー図に。机・付箋・照明・窓の夜景は変えないで",
+        "ko": "스프레드시트를 자동화 작업 흐름도로 바꾸세요. 책상, 메모지, 조명과 창밖 야경은 바꾸지 마세요.",
+        "fr": "Remplacez le tableur par un diagramme de flux d’automatisation. Ne modifiez ni le bureau, ni les notes adhésives, ni l’éclairage, ni la vue nocturne par la fenêtre.",
+        "de": "Ersetze die Tabellenansicht durch ein Automatisierungs-Ablaufdiagramm. Verändere weder Schreibtisch, Haftnotizen und Beleuchtung noch den nächtlichen Ausblick aus dem Fenster.",
+        "es": "Sustituye la hoja de cálculo por un diagrama de flujo de automatización. No cambies el escritorio, las notas adhesivas, la iluminación ni la vista nocturna de la ventana.",
+        "pt-BR": "Substitua a planilha por um diagrama de fluxo de automação. Não altere a mesa, as notas adesivas, a iluminação nem a vista noturna pela janela."
+      }
+    ],
+    "original_language": "ja",
+    "original_steps": [
+      "表計算を自動化フロー図に。机・付箋・照明・窓の夜景は変えないで"
+    ]
+  },
+  "inputs": [
+    {
+      "en": "Upload a room photograph containing a laptop, then mark the laptop screen as the edit target.",
+      "zh-CN": "上传包含笔记本电脑的房间照片，然后将笔记本电脑屏幕标记为编辑目标。",
+      "zh-TW": "上傳包含筆記型電腦的房間照片，然後將筆記型電腦螢幕標記為編輯目標。",
+      "ja": "ノートパソコンが写っている部屋の写真をアップロードし、ノートパソコンの画面を編集対象としてマークします。",
+      "ko": "노트북이 포함된 방 사진을 업로드한 후 노트북 화면을 편집 대상으로 표시합니다.",
+      "fr": "Téléchargez une photo de pièce contenant un ordinateur portable, puis marquez l'écran de l'ordinateur portable comme cible de modification.",
+      "de": "Laden Sie ein Raumfoto mit einem Laptop hoch und markieren Sie dann den Laptop-Bildschirm als Bearbeitungsziel.",
+      "es": "Cargue una fotografía de una habitación que contenga una computadora portátil y luego marque la pantalla de la computadora portátil como destino de edición.",
+      "pt-BR": "Faça upload de uma fotografia da sala contendo um laptop e marque a tela do laptop como alvo de edição."
+    }
+  ],
+  "notes": [
+    {
+      "en": "The author marked the laptop screen before editing. Supply your own room photograph and mark the target area. The source reports small changes outside the screen; this is not a pixel-preservation guarantee or a repository measurement.",
+      "zh-CN": "作者在编辑前标记了笔记本屏幕。请上传自己的房间照片并标记目标区域。原帖报告屏幕外仍有少量变化；本仓库未测量这些变化，也不保证像素完全保留。",
+      "zh-TW": "作者在編輯前標記了筆記本屏幕。請上傳自己的房間照片並標記目標區域。原帖報告屏幕外仍有少量變化；本倉庫未測量這些變化，也不保證像素完全保留。",
+      "ja": "著者は編集前にノートパソコンの画面にマークを付けました。自分の部屋の写真を提供し、対象エリアにマークを付けます。情報源は画面外の小さな変化を報告しています。これは、ピクセルの保存の保証やリポジトリの測定ではありません。",
+      "ko": "작성자는 편집 전 노트북 화면을 표시해 두었습니다. 자신의 방 사진을 제공하고 대상 영역을 표시하십시오. 소스는 화면 외부의 작은 변화를 보고합니다. 이는 픽셀 보존 보장이나 저장소 측정이 아닙니다.",
+      "fr": "L'auteur a marqué l'écran de l'ordinateur portable avant de le modifier. Fournissez votre propre photo de pièce et marquez la zone cible. La source signale de petits changements en dehors de l'écran ; il ne s’agit pas d’une garantie de préservation des pixels ni d’une mesure de référentiel.",
+      "de": "Der Autor markierte vor der Bearbeitung den Laptop-Bildschirm. Stellen Sie Ihr eigenes Raumfoto zur Verfügung und markieren Sie den Zielbereich. Die Quelle berichtet von kleinen Änderungen außerhalb des Bildschirms; Hierbei handelt es sich nicht um eine Pixelerhaltungsgarantie oder eine Repository-Messung.",
+      "es": "El autor marcó la pantalla del portátil antes de editar. Proporcione la fotografía de su propia habitación y marque el área objetivo. La fuente informa pequeños cambios fuera de la pantalla; Esta no es una garantía de conservación de píxeles ni una medición del repositorio.",
+      "pt-BR": "O autor marcou a tela do laptop antes de editar. Forneça a fotografia do seu próprio quarto e marque a área alvo. A fonte relata pequenas mudanças fora da tela; esta não é uma garantia de preservação de pixels ou uma medição de repositório."
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "ai_kairos_jp",
+    "url": "https://x.com/ai_kairos_jp/status/2097679848475099159",
+    "prompt_url": "https://x.com/ai_kairos_jp/status/2097679848475099159",
+    "checked_at": "2026-09-13T17:54:27.409Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "post_language": "ja"
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRx0ef9aAAAW7Tv.jpg",
+      "kind": "source-result",
+      "credit": "ai_kairos_jp — source result",
+      "source_url": "https://x.com/ai_kairos_jp/status/2097679848475099159"
+    }
+  ],
+  "references": [],
+  "engagement": {
+    "likes": 1,
+    "reposts": null,
+    "replies": 0,
+    "bookmarks": null,
+    "views": null,
+    "observed_at": "2026-09-13T17:22:20.223812+00:00",
+    "source_url": "https://x.com/ai_kairos_jp/status/2097679848475099159",
+    "method": "X public embed counters; only available exact integers are recorded. Missing counters remain null."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and linked media remain subject to their source terms. Attribution does not grant a license to source inputs or results."
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T17:54:27.409Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 3,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 4,
+      "distinctiveness": 3
+    },
+    "rationale": "Before/after composite visibly replaces the screen while the desk composition remains similar. Author-reported pixel percentages are not repository measurements; no exact invariance claim."
+  },
+  "translation_meta": {
+    "source_digest": "b3b4a839f10c66f8e61b350698a584ce6050fa1627ca7adecd6189f9c62e0155",
+    "text_digests": {
+      "zh-CN": "a4ec37079b2262bbccc7cffe43b3801d02dfaee50c84f7dbbe2684c09df0451e",
+      "zh-TW": "cc7eb31f79bf3191cb14cd9884438c682001c927eaf67cc91ccea15b78ee5895",
+      "ja": "2d754615448ce3467e2d1b05213a59a8620bb068d25484b04280bd68a7182a64",
+      "ko": "cdbc12f7243a20350e40d96cdaca990e3d7eb752adb6a554ddb4c48519c7e10e",
+      "fr": "79a2e9164d0e5f9ad7988e9584c509e3a2cbf716a78f042986fc8065dede6fa8",
+      "de": "f620a1452d90bdae9411849d490975ecc4cbb7e530923b77a6cb25f085b9188e",
+      "es": "869358d7caa4fb0f5af17c53376310f08a7b9f07f65f18c3e3eaa155b6b8b826",
+      "pt-BR": "837cf51b6a3f3663a42e743828a9d2df783de8810d070266636c8447d5a539a7"
+    }
+  }
+}

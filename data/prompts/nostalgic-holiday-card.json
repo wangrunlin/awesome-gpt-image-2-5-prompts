@@ -1,0 +1,140 @@
+{
+  "id": "nostalgic-holiday-card",
+  "title": {
+    "en": "A holiday card with one exact message",
+    "zh-CN": "仅保留指定祝福语的节日贺卡",
+    "zh-TW": "一張包含一條確切訊息的節日賀卡",
+    "ja": "メッセージが 1 つだけ記載されたホリデー カード",
+    "ko": "정확한 메시지가 담긴 명절 카드",
+    "fr": "Une carte de vœux avec un message précis",
+    "de": "Eine Weihnachtskarte mit einer genauen Botschaft",
+    "es": "Una tarjeta navideña con un mensaje exacto",
+    "pt-BR": "Um cartão de Natal com uma mensagem exata"
+  },
+  "summary": {
+    "en": "Combine a material-led scene with an exact, exclusive line of greeting-card copy.",
+    "zh-CN": "通过材质与场景营造怀旧氛围，并限定唯一的贺卡祝福语。",
+    "zh-TW": "通過材質與場景營造懷舊氛圍，並限定唯一的賀卡祝福語。",
+    "ja": "マテリアル主導のシーンと、グリーティング カードのコピーの正確で独占的なラインを組み合わせます。",
+    "ko": "자료 중심의 장면을 정확하고 독점적인 인사말 카드 사본과 결합합니다.",
+    "fr": "Combinez une scène axée sur le matériel avec une ligne exacte et exclusive de copies de cartes de vœux.",
+    "de": "Kombinieren Sie eine materialbasierte Szene mit einer exakten, exklusiven Linie einer Grußkartenkopie.",
+    "es": "Combine una escena basada en materiales con una línea exacta y exclusiva de textos de tarjetas de felicitación.",
+    "pt-BR": "Combine uma cena baseada em material com uma linha exata e exclusiva de cópia de cartão comemorativo."
+  },
+  "category": "design",
+  "tags": [
+    "official-guide",
+    "print-design",
+    "typography"
+  ],
+  "mode": "generate",
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": "sunburst",
+    "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card",
+    "evidence": "The official guide labels this linked output GPT Image 2.5 Sunburst. It is not a repository generation."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "Create a Christmas holiday card illustration.\n\nScene:\na cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.\n\nMood:\nWarm, nostalgic, gentle, emotional.\n\nStyle:\nPremium holiday card photography, soft cinematic lighting,\nrealistic textures, shallow depth of field,\ntasteful bokeh lights, high print-quality composition.\n\nConstraints:\n- Original artwork only\n- No trademarks\n- No watermarks\n- No logos\n\nInclude ONLY this card text (verbatim):\n\"Merry Christmas — some memories never fade.\"",
+        "zh-CN": "创建圣诞假期卡片插图。\n\n场景：\n温馨的圣诞场景，一只旧泰迪熊坐在纪念品盒里，皮毛略有磨损，缝线柔软，放在窗边，窗外飘着雪。这个场景表明孩子已经长大了，但记忆仍然存在。\n\n心情：\n温暖、怀旧、温柔、感性。\n\n风格：\n高级节日贺卡摄影、柔和的电影灯光、\n逼真的纹理，浅景深，\n雅致的散景灯，高打印质量的构图。\n\n限制条件：\n- 仅限原创艺术品\n- 无商标\n- 无水印\n- 无标志\n\n仅包含此卡片文本（逐字）：\n“Merry Christmas — some memories never fade.”",
+        "zh-TW": "建立聖誕假期卡片插圖。\n\n場景：\n溫馨的聖誕場景，一隻舊泰迪熊坐在紀念品盒裡，皮毛略有磨損，縫線柔軟，放在窗邊，窗外飄著雪。這個場景表明孩子已經長大了，但記憶仍然存在。\n\n心情：\n溫暖、懷舊、溫柔、感性。\n\n風格：\n高級節慶賀卡攝影、柔和的電影燈光、\n逼真的紋理，淺景深，\n雅緻的散景燈，高列印品質的構圖。\n\n限制條件：\n- 限原創藝術品\n- 無商標\n- 無浮水印\n- 無標誌\n\n僅包含此卡片文字（逐字）：\n“Merry Christmas — some memories never fade.”",
+        "ja": "クリスマスカードのイラストを作成します。\n\nシーン:\n記念品の箱の中に座っている古いテディベア、わずかに摩耗した毛皮、柔らかいステッチの修理が施された居心地の良いクリスマスの風景が、外に雪が降っている窓の近くに置かれています。このシーンは子供が成長したことを示唆していますが、思い出は残っています。\n\n気分:\n温かくて、懐かしくて、優しくて、感動的。\n\nスタイル:\nプレミアムなホリデーカードの写真撮影、映画のような柔らかな照明、\nリアルなテクスチャ、浅い被写界深度、\n味わい深いボケ味、高品質のプリント構成。\n\n制約:\n- オリジナルアートワークのみ\n- 商標はありません\n- 透かしなし\n- ロゴなし\n\nこのカード テキストのみを含めます (逐語的に):\n「Merry Christmas — some memories never fade.」",
+        "ko": "크리스마스 휴일 카드 일러스트레이션을 만듭니다.\n\n장면:\n기념품 상자 안에 낡은 테디베어가 앉아 있고, 약간 낡은 모피, 부드러운 바느질 수리, 밖에 눈이 내리는 창문 근처에 놓여 있는 아늑한 크리스마스 장면. 그 장면은 아이가 성장했음을 암시하지만, 기억은 남아있습니다.\n\n기분:\n따뜻하고 향수를 불러일으키며 온화하고 감성적입니다.\n\n스타일:\n프리미엄 명절 카드 사진, 부드러운 영화 조명,\n사실적인 질감, 얕은 피사계 심도,\n세련된 보케 조명, 높은 인쇄 품질 구성.\n\n제약:\n- 원본 작품만 가능\n- 상표 없음\n- 워터마크 없음\n- 로고 없음\n\n다음 카드 텍스트(축어적)만 포함하세요.\n\"Merry Christmas — some memories never fade.\"",
+        "fr": "Créez une illustration de carte de vœux de Noël.\n\nScène :\nune scène de Noël chaleureuse avec un vieil ours en peluche assis dans une boîte à souvenirs, une fourrure légèrement usée, des coutures douces réparées, placé près d'une fenêtre avec de la neige qui tombe à l'extérieur. La scène suggère que l'enfant a grandi, mais les souvenirs demeurent.\n\nHumeur :\nChaleureux, nostalgique, doux, émouvant.\n\nStyle :\nPhotographie de cartes de vœux haut de gamme, éclairage cinématographique doux,\ntextures réalistes, faible profondeur de champ,\nlumières bokeh de bon goût, composition de haute qualité d'impression.\n\nContraintes :\n- Oeuvre originale uniquement\n- Aucune marque déposée\n- Pas de filigrane\n- Pas de logo\n\nIncluez UNIQUEMENT le texte de cette carte (textuellement) :\n\"Merry Christmas — some memories never fade.\"",
+        "de": "Erstellen Sie eine Illustration für eine Weihnachtskarte.\n\nSzene:\nEine gemütliche Weihnachtsszene mit einem alten Teddybären, der in einer Andenkenschachtel sitzt, leicht abgenutztes Fell, weiche Nähte repariert, neben einem Fenster platziert, während draußen Schnee fällt. Die Szene lässt vermuten, dass das Kind erwachsen ist, aber die Erinnerungen bleiben.\n\nStimmung:\nWarm, nostalgisch, sanft, emotional.\n\nStil:\nErstklassige Weihnachtskartenfotografie, sanfte Kinobeleuchtung,\nrealistische Texturen, geringe Schärfentiefe,\ngeschmackvolle Bokeh-Lichter, hochwertige Komposition in Druckqualität.\n\nEinschränkungen:\n- Nur Originalkunstwerke\n- Keine Marken\n- Keine Wasserzeichen\n- Keine Logos\n\nGeben Sie NUR diesen Kartentext (wörtlich) an:\n„Merry Christmas — some memories never fade.“",
+        "es": "Crea una ilustración de tarjeta navideña.\n\nEscena:\nuna acogedora escena navideña con un viejo osito de peluche sentado dentro de una caja de recuerdos, pelaje ligeramente desgastado, reparaciones de costuras suaves, colocado cerca de una ventana mientras cae nieve afuera. La escena sugiere que el niño ha crecido, pero los recuerdos permanecen.\n\nEstado de ánimo:\nCálido, nostálgico, gentil, emotivo.\n\nEstilo:\nFotografía de tarjetas navideñas de primera calidad, iluminación cinematográfica suave,\ntexturas realistas, poca profundidad de campo,\nluces bokeh de buen gusto, composición de alta calidad de impresión.\n\nRestricciones:\n- Solo ilustraciones originales\n- Sin marcas comerciales\n- Sin marcas de agua\n- Sin logotipos\n\nIncluya SÓLO el texto de esta tarjeta (textualmente):\n\"Merry Christmas — some memories never fade.\"",
+        "pt-BR": "Crie uma ilustração de cartão de Natal.\n\nCena:\numa aconchegante cena de Natal com um velho ursinho de pelúcia dentro de uma caixa de lembranças, pele levemente desgastada, costuras macias reparadas, colocado perto de uma janela com neve caindo do lado de fora. A cena sugere que a criança cresceu, mas as lembranças permanecem.\n\nHumor:\nCaloroso, nostálgico, gentil, emocional.\n\nEstilo:\nFotografia premium de cartão de Natal, iluminação cinematográfica suave,\ntexturas realistas, profundidade de campo rasa,\nluzes bokeh de bom gosto, composição de alta qualidade de impressão.\n\nRestrições:\n- Somente arte original\n- Sem marcas registradas\n- Sem marcas d'água\n- Sem logotipos\n\nInclua SOMENTE o texto deste cartão (literalmente):\n\"Merry Christmas — some memories never fade.\""
+      }
+    ],
+    "original_language": "en",
+    "original_steps": [
+      "Create a Christmas holiday card illustration.\n\nScene:\na cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.\n\nMood:\nWarm, nostalgic, gentle, emotional.\n\nStyle:\nPremium holiday card photography, soft cinematic lighting,\nrealistic textures, shallow depth of field,\ntasteful bokeh lights, high print-quality composition.\n\nConstraints:\n- Original artwork only\n- No trademarks\n- No watermarks\n- No logos\n\nInclude ONLY this card text (verbatim):\n\"Merry Christmas — some memories never fade.\""
+    ],
+    "preserved_literals": [
+      "Merry Christmas — some memories never fade."
+    ]
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "Keep the quoted card text unchanged when translating the prompt, or replace it deliberately for your audience. Check punctuation and output resolution before printing. The output is a flat image, not a print-ready folded-card file. Source settings: 1024x1536, medium quality. Extra small handwriting is visible on the box despite the ONLY-text instruction.",
+      "zh-CN": "翻译提示词时保留引号内的英文祝福语，或按受众需求明确替换。印刷前检查标点与分辨率。输出是平面图片，不是可直接印制的折叠贺卡文件。尽管要求只出现指定文字，结果中的盒子仍有细小手写字。原示例设置：1024x1536、中等质量。",
+      "zh-TW": "翻譯提示詞時保留引號內的英文祝福語，或按受眾需求明確替換。印刷前檢查標點與分辨率。輸出是平面圖片，不是可直接印制的折疊賀卡文件。儘管要求只出現指定文字，結果中的盒子仍有細小手寫字。原示例設置：1024x1536、中等質量。",
+      "ja": "プロンプトを翻訳するときは、引用されたカード テキストを変更しないでください。または、聴衆のために意図的に置き換えてください。印刷する前に句読点と出力解像度を確認してください。出力はフラット画像であり、印刷可能な二つ折りカード ファイルではありません。ソース設定: 1024x1536、中品質。説明書がテキストのみであるにもかかわらず、箱に非常に小さな手書きが見えます。",
+      "ko": "프롬프트를 번역할 때 인용된 카드 텍스트를 변경하지 않고 그대로 유지하거나 청중을 위해 의도적으로 교체하세요. 인쇄하기 전에 구두점과 출력 해상도를 확인하세요. 출력은 인쇄용 접이식 카드 파일이 아닌 평면 이미지입니다. 소스 설정: 1024x1536, 중간 품질. 텍스트만 표시된 지침에도 불구하고 상자에 아주 작은 손글씨가 표시됩니다.",
+      "fr": "Conservez le texte de la carte cité inchangé lors de la traduction de l'invite, ou remplacez-le délibérément pour votre public. Vérifiez la ponctuation et la résolution de sortie avant l’impression. Le résultat est une image plate et non un fichier de carte pliée prêt à imprimer. Paramètres source : 1024x1536, qualité moyenne. Une très petite écriture manuscrite est visible sur la boîte malgré les instructions en texte UNIQUEMENT.",
+      "de": "Lassen Sie den zitierten Kartentext bei der Übersetzung der Aufforderung unverändert oder ersetzen Sie ihn bewusst für Ihr Publikum. Überprüfen Sie vor dem Drucken die Zeichensetzung und die Ausgabeauflösung. Die Ausgabe ist ein flaches Bild und keine druckfertige Klappkartendatei. Quelleinstellungen: 1024x1536, mittlere Qualität. Trotz der NUR-Textanweisung ist auf dem Karton eine besonders kleine Handschrift zu erkennen.",
+      "es": "Mantenga el texto de la tarjeta citado sin cambios al traducir el mensaje o reemplácelo deliberadamente para su audiencia. Verifique la puntuación y la resolución de salida antes de imprimir. El resultado es una imagen plana, no un archivo de tarjeta plegada listo para imprimir. Configuración de fuente: 1024x1536, calidad media. Se ve una letra muy pequeña en la caja a pesar de las instrucciones de ÚNICO texto.",
+      "pt-BR": "Mantenha o texto do cartão citado inalterado ao traduzir a mensagem ou substitua-o deliberadamente para o seu público. Verifique a pontuação e a resolução de saída antes de imprimir. A saída é uma imagem plana, não um arquivo de cartão dobrado pronto para impressão. Configurações de origem: 1024x1536, qualidade média. Uma caligrafia extra pequena é visível na caixa, apesar das instruções de texto APENAS."
+    }
+  ],
+  "source": {
+    "platform": "documentation",
+    "author": "OpenAI",
+    "url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card",
+    "prompt_url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card",
+    "checked_at": "2026-09-13T17:54:27.409Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "post_language": "en"
+  },
+  "previews": [
+    {
+      "url": "https://developers.openai.com/images/platform/guides/image-prompting/christmas-holiday-card-teddy-gpt-image-2-5-sunburst.webp",
+      "kind": "source-result",
+      "credit": "OpenAI — source result",
+      "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card"
+    }
+  ],
+  "references": [],
+  "engagement": {
+    "likes": null,
+    "reposts": null,
+    "replies": null,
+    "bookmarks": null,
+    "views": null,
+    "observed_at": "2026-09-13T17:54:27.409Z",
+    "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card",
+    "method": "Official documentation has no social engagement counters."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and linked media remain subject to their source terms. Attribution does not grant a license to source inputs or results."
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T17:54:27.409Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 4,
+      "result": 2,
+      "usefulness": 4,
+      "clarity": 4,
+      "distinctiveness": 3
+    },
+    "rationale": "Requested greeting is readable above the teddy bear and keepsake box. Small additional handwriting appears on the box, so the ONLY-text requirement is not fully satisfied."
+  },
+  "translation_meta": {
+    "source_digest": "03859d4432289379df7b9fe550485cbfb231110f46badef0f1ef6c13e04b5564",
+    "text_digests": {
+      "zh-CN": "ad0af959cfe033afa8cdf5f76f862d4855791f5df8e6e7173cb004c7d417664f",
+      "zh-TW": "9f15774744298c7a0c07da181aaf96e009026a9fb0b8d1f612be251843c3fc7a",
+      "ja": "5d9ba9ad769b589aab9f42d0360fc9cfee77f872c27a1c73e4774bc6eda4c38e",
+      "ko": "1659d91bc04e04030ecf860fc01a626743a71cbbb31bf6a865dc16d207b3ae3a",
+      "fr": "6b6ac1ebb4de0a4d501111992eb50a95be12b92595f3556804a2d119116a8a4c",
+      "de": "0fec4cb42961a407759e5571494d269b62f57b6faa966e718dbcfdf345441d85",
+      "es": "0a1fc60632a0b0a8ccfc614e117cf0df71bcc6310dc372229482379edd65e1c8",
+      "pt-BR": "aaa91148f17621212bdd8a38977ff542bae22fd32f7f59d88bd4e4d1a7c4620d"
+    }
+  }
+}

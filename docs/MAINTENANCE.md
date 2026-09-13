@@ -23,7 +23,9 @@ more than hitting a fixed quota. The catalog remains the source of truth.
    separate. Missing metrics remain null.
 6. Run `npm run build` and `npm run check`. Review all generated language galleries, especially
    same-case language anchors, evidence, precise CTAs and images inside collapsed exploration.
-7. Stop after two consecutive search rounds yield no new qualifying recipe.
+7. Apply the 50-source batch stopping rule in CURATION.md after covering the task
+   matrix and author paths. Record blocked sources and incomplete batches; do not
+   mistake a few empty web queries for exhaustive X coverage.
 8. Prepare a small review package containing the diff, source URLs, validation,
    and publication-ready copy. A local passing check is not a public release.
 

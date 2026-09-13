@@ -1,0 +1,136 @@
+{
+  "id": "isometric-spatial-relations",
+  "title": {
+    "en": "An isometric spatial-relation test",
+    "zh-CN": "等距透视空间关系测试",
+    "zh-TW": "等距視圖空間關係測試",
+    "ja": "等角投影の空間関係テスト",
+    "ko": "등각 투영 공간 관계 테스트",
+    "fr": "Un test de relations spatiales en vue isométrique",
+    "de": "Ein Test räumlicher Beziehungen in isometrischer Ansicht",
+    "es": "Una prueba de relaciones espaciales en vista isométrica",
+    "pt-BR": "Um teste de relações espaciais em vista isométrica"
+  },
+  "summary": {
+    "en": "Specify inside, outside, near and far relationships in a transparent reference volume.",
+    "zh-CN": "在透明立方体中指定内外、前后、上下的空间关系。",
+    "zh-TW": "在透明立方體中指定內外、前後、上下的空間關係。",
+    "ja": "透明な参照ボリュームで内側、外側、近い、遠い関係を指定します。",
+    "ko": "투명한 참조 볼륨에 내부, 외부, 근거리 및 원거리 관계를 지정합니다.",
+    "fr": "Spécifiez les relations intérieures, extérieures, proches et lointaines dans un volume de référence transparent.",
+    "de": "Geben Sie Innen-, Außen-, Nah- und Fernbeziehungen in einem transparenten Referenzvolumen an.",
+    "es": "Especifique relaciones internas, externas, cercanas y lejanas en un volumen de referencia transparente.",
+    "pt-BR": "Especifique relacionamentos internos, externos, próximos e distantes em um volume de referência transparente."
+  },
+  "category": "design",
+  "tags": [
+    "generate",
+    "composition"
+  ],
+  "mode": "generate",
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": null,
+    "evidence_url": "https://x.com/Hyperouters/status/2097654503692443744",
+    "evidence": "The creator explicitly attributes this result to GPT Image 2.5 in the linked primary source. This is source attribution, not an independent model test."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "A transparent glass cube: place a red sphere inside at the upper back left, a blue sphere inside at the lower front right, a green sphere outside directly above it, and a yellow cylinder crossing from the lower left to the upper right. Use an isometric view.",
+        "zh-CN": "透明玻璃立方体：红球内部左后上，蓝球内部右前下，绿球外部正上方，黄柱从左下穿到右上。还要求等距透视。",
+        "zh-TW": "透明玻璃立方體：紅球在內部左後上方，藍球在內部右前下方，綠球在外部正上方，黃色圓柱從左下穿到右上。使用等距視圖。",
+        "ja": "透明なガラスの立方体。赤い球を内部の左奥上、青い球を内部の右手前下、緑の球を外部の真上に配置し、黄色い円柱を左下から右上へ貫通させてください。等角投影で描いてください。",
+        "ko": "투명한 유리 정육면체: 빨간 구는 내부 왼쪽 뒤 위에, 파란 구는 내부 오른쪽 앞 아래에, 초록 구는 외부 바로 위에 배치하세요. 노란 원기둥은 왼쪽 아래에서 오른쪽 위로 관통하게 하세요. 등각 투영을 사용하세요.",
+        "fr": "Un cube en verre transparent : placez une sphère rouge à l’intérieur en haut à gauche à l’arrière, une bleue à l’intérieur en bas à droite à l’avant, une verte à l’extérieur juste au-dessus, et un cylindre jaune traversant du bas gauche vers le haut droit. Utilisez une vue isométrique.",
+        "de": "Ein transparenter Glaswürfel: Eine rote Kugel liegt innen hinten links oben, eine blaue innen vorne rechts unten, eine grüne außen direkt darüber. Ein gelber Zylinder durchquert den Würfel von links unten nach rechts oben. Verwende eine isometrische Ansicht.",
+        "es": "Un cubo de vidrio transparente: coloca una esfera roja dentro, arriba a la izquierda y al fondo; una azul dentro, abajo a la derecha y delante; una verde fuera, justo encima; y un cilindro amarillo que lo atraviese desde abajo a la izquierda hasta arriba a la derecha. Usa una vista isométrica.",
+        "pt-BR": "Um cubo de vidro transparente: coloque uma esfera vermelha dentro, no alto à esquerda e atrás; uma azul dentro, embaixo à direita e à frente; uma verde fora, diretamente acima; e um cilindro amarelo atravessando de baixo à esquerda para cima à direita. Use uma vista isométrica."
+      }
+    ],
+    "original_language": "zh",
+    "original_steps": [
+      "透明玻璃立方体：红球内部左后上，蓝球内部右前下，绿球外部正上方，黄柱从左下穿到右上。还要求等距透视。"
+    ]
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "The source describes relative positions rather than numerical coordinates. Check each object and occlusion separately; do not infer physical or engineering correctness from the illustration.",
+      "zh-CN": "原帖描述相对位置，未提供数值坐标。分别核对每个物体的位置与遮挡；不能据此认定物理关系或工程精度正确。",
+      "zh-TW": "原帖描述相對位置，未提供數值坐標。分別核對每個物體的位置與遮擋；不能據此認定物理關係或工程精度正確。",
+      "ja": "ソースでは、数値座標ではなく相対位置が説明されています。各オブジェクトとオクルージョンを個別にチェックします。図から物理的または工学的な正確さを推測しないでください。",
+      "ko": "소스는 숫자 좌표가 아닌 상대 위치를 설명합니다. 각 개체와 폐색을 별도로 확인하세요. 그림에서 물리적 또는 공학적 정확성을 추론하지 마십시오.",
+      "fr": "La source décrit des positions relatives plutôt que des coordonnées numériques. Vérifiez chaque objet et occlusion séparément ; ne déduisez pas l’exactitude physique ou technique de l’illustration.",
+      "de": "Die Quelle beschreibt relative Positionen statt numerischer Koordinaten. Überprüfen Sie jedes Objekt und jede Okklusion separat; Schließen Sie aus der Abbildung nicht auf physikalische oder technische Korrektheit ab.",
+      "es": "La fuente describe posiciones relativas en lugar de coordenadas numéricas. Verifique cada objeto y oclusión por separado; no infiera la corrección física o de ingeniería de la ilustración.",
+      "pt-BR": "A fonte descreve posições relativas em vez de coordenadas numéricas. Verifique cada objeto e oclusão separadamente; não infira correção física ou de engenharia a partir da ilustração."
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "Hyperouters",
+    "url": "https://x.com/Hyperouters/status/2097654503692443744",
+    "prompt_url": "https://x.com/Hyperouters/status/2097654503692443744",
+    "checked_at": "2026-09-13T17:54:27.409Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "post_language": "zh"
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRxdlK0WAAAs0PG.jpg",
+      "kind": "source-result",
+      "credit": "Hyperouters — source result",
+      "source_url": "https://x.com/Hyperouters/status/2097654503692443744"
+    }
+  ],
+  "references": [],
+  "engagement": {
+    "likes": 2,
+    "reposts": null,
+    "replies": 0,
+    "bookmarks": null,
+    "views": null,
+    "observed_at": "2026-09-13T17:22:19.353485+00:00",
+    "source_url": "https://x.com/Hyperouters/status/2097654503692443744",
+    "method": "X public embed counters; only available exact integers are recorded. Missing counters remain null."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and linked media remain subject to their source terms. Attribution does not grant a license to source inputs or results."
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T17:54:27.409Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 3,
+      "result": 3,
+      "usefulness": 3,
+      "clarity": 4,
+      "distinctiveness": 4
+    },
+    "rationale": "Screenshot shows the red and blue spheres inside, green above and yellow cylinder crossing the cube. Useful relative-position exercise; no numerical geometry or independent measurement."
+  },
+  "translation_meta": {
+    "source_digest": "507ad12c7c2eb955e3610ff0c4f7db40066896193fb582c174ac851bf859892d",
+    "text_digests": {
+      "zh-CN": "be613c6ca846cd142fe3811f353ee9c8b54709a90f89dba0aa2cb92b64f6d2ec",
+      "zh-TW": "f01b06b356ffc6ca94a8487481a8cd719753f89c7fdd6dff40b6c99b391d532d",
+      "ja": "7149aa20d8350b223c6c44b9081c3fb769fa2bb47ae6042f55be63ec4e982bf7",
+      "ko": "e3aabd7312d036958246d729f4d0bb73fd9cda31438bc271cb8b7cf71f852915",
+      "fr": "04e35261343848b11ec275e4ce45a24bd19f253d5f28e767380b33631970b91e",
+      "de": "abc89423b0ebe7cef238ed3f70120ab7ae1be7cc8ead499dbe24673d4ba949ac",
+      "es": "569fb226c10d758bda5159fc961b9d565aa6df9bb28981ffc7b96008dace7c5d",
+      "pt-BR": "fd3eb8b8688e49d5676c810d232be27db37f0956918537107d37c0729ae7519b"
+    }
+  }
+}

@@ -7,15 +7,15 @@
 
 Des prompts GPT Image 2.5 pratiques, des exemples sourcés et des méthodes réutilisables. Parcourez les images et copiez les prompts complets.
 
-**56 cas · 9 langues** · [Parcourir la galerie en ligne](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=intro--fr) · Maintenu par: [Image 2.5](https://image-2-5.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=maintainer--fr)
+**70 cas · 9 langues** · [Parcourir la galerie en ligne](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=intro--fr) · Maintenu par: [Image 2.5](https://image-2-5.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=maintainer--fr)
 
 ## Commencer ici
 
+- [Une maquette complète de site d’agence en chinois](#case-chinese-agency-page-layout) — Définissez la hauteur des sections et les textes chinois d’une page complète d’agence.
 - [Remplacement d'un produit sur une affiche fixe](#case-fixed-template-product-swap) — Remplacer le produit principal d'une affiche tout en conservant sa mise en page, sa typographie et son arrière-plan.
-- [Publicité produit à trois références](#case-three-reference-product-ad) — Références distinctes pour l'identité du produit, l'éclairage et la mise en page, avec un ordre de priorité explicite.
 - [GIF d'autocollant détouré en mouvement](#case-bouncing-cutout-sticker) — Transformez un sujet en un autocollant transparent, puis animez ce détourage avec Python.
-- [Rendre réaliste un dessin de vallée](#case-drawing-to-realistic-valley) — Traduire les traits en matières et lumière tout en conservant disposition et perspective.
-- [Assembler deux références avec un éclairage cohérent](#case-reference-dog-composite) — Indiquer l’image source, la destination et la position avant une composition locale.
+- [Un croquis de camping à travers trois modifications](#case-campsite-sketch-three-edits) — Utilisez un croquis pour la mise en page, puis changez de lumière du jour et de vêtements à tour de rôle.
+- [Étalonner une photo de jardin en conservant sa composition](#case-garden-photo-color-grading) — Contrôlez les reflets du ciel, les détails des ombres et la couleur du feuillage tout en préservant la scène photographiée.
 
 Classement selon la qualité éditoriale, pas la popularité. Les scores évaluent les instructions et les exemples visibles, sans constituer un test indépendant du modèle. Les statistiques datées restent dans les panneaux de sources.
 
@@ -49,9 +49,11 @@ Les instructions localisées conservent la recette éditoriale source ou étique
 <a id="category-editing"></a>
 ### Édition et restauration
 
+- [Étalonner une photo de jardin en conservant sa composition](#case-garden-photo-color-grading)
 - [Assembler deux références avec un éclairage cohérent](#case-reference-dog-composite)
 - [Retirer un objet tenu en main](#case-remove-flower-local-edit)
 - [Remplacer les chaises en préservant la pièce](#case-wooden-chair-room-edit)
+- [Remplacer uniquement le contenu d’un écran d’ordinateur portable](#case-laptop-screen-local-replacement)
 - [Déplacer une lampe dans une pièce](#case-move-the-lamp)
 - [Restaurer une image basse résolution](#case-low-resolution-restoration)
 - [Un robot à travers neuf montages successifs](#case-robot-sequential-edits)
@@ -62,12 +64,14 @@ Les instructions localisées conservent la recette éditoriale source ou étique
 - [Remplacement d'un produit sur une affiche fixe](#case-fixed-template-product-swap)
 - [Rééclairage studio d'un produit transparent](#case-transparent-product-relighting)
 - [Décliner un panneau publicitaire en deux saisons](#case-billboard-seasonal-iteration)
+- [Un avion de collection sous blister](#case-collectible-airplane-packaging)
 - [Composition studio cohérente de plusieurs produits](#case-multi-product-studio-lineup)
 - [Personne tenant un produit de référence](#case-person-holding-reference-product)
 - [Essayage virtuel d'une chemise de référence](#case-reference-shirt-try-on)
 - [Campagne de mode en six couleurs](#case-six-color-fashion-campaign)
 - [Détourage de produit sur fond transparent](#case-transparent-product-cutout)
 - [Rendu de produit basé sur une géométrie imposée](#case-geometry-locked-product-render)
+- [Un lookbook mode annoté](#case-annotated-fashion-lookbook)
 - [Contenu généré par les utilisateurs (UGC) basé sur un style de référence pour un produit](#case-style-reference-product-ugc)
 - [Image publicitaire dans le style d'un téléachat rétro.](#case-retro-infomercial-frame)
 
@@ -80,15 +84,22 @@ Les instructions localisées conservent la recette éditoriale source ou étique
 <a id="category-design"></a>
 ### Affiches et design éditorial
 
+- [Une maquette complète de site d’agence en chinois](#case-chinese-agency-page-layout)
 - [Publicité produit à trois références](#case-three-reference-product-ad)
+- [Un logo de boulangerie avec des bords alpha nets](#case-bakery-logo-transparent)
 - [Infographie sur la préparation du café chinois](#case-chinese-coffee-brewing-infographic)
+- [Un document étiqueté sur la respiration cellulaire](#case-classroom-cellular-respiration)
 - [Interface utilisateur d'une application mobile de courses fraîches](#case-fresh-grocery-mobile-ui)
 - [Traduire une infographie sans la redessiner](#case-infographic-layout-translation)
 - [Réutilisation d'un modèle d'affiche longue](#case-long-copy-poster-template)
 - [Retouche couleur et finition d'une seule tasse.](#case-single-cup-material-edit)
+- [Une affiche de voyage sur un portail architectural](#case-architectural-portal-travel-poster)
 - [Modification d'une affiche pour un festival du café (cinq étapes)](#case-coffee-festival-poster-iterations)
+- [Une diapositive de taille de marché à partir d'entrées explicites](#case-market-opportunity-slide)
+- [Une carte de vœux avec un message précis](#case-nostalgic-holiday-card)
 - [Schéma technique pour manuel d'entretien de machine à expresso](#case-espresso-service-manual)
 - [Une page de magazine de voyage personnalisée](#case-travel-magazine-page)
+- [Un test de relations spatiales en vue isométrique](#case-isometric-spatial-relations)
 - [Miniature artisanale représentant un monument touristique](#case-miniature-travel-landmark)
 - [Carnet de voyage entre photo et estampe](#case-santorini-family-travel-diary)
 - [Panneau d'affichage de village avec typographie variée](#case-village-notice-board)
@@ -115,17 +126,28 @@ Les instructions localisées conservent la recette éditoriale source ou étique
 <a id="category-sketch"></a>
 ### Création guidée par esquisse
 
+- [Un croquis de camping à travers trois modifications](#case-campsite-sketch-three-edits)
 - [Rendre réaliste un dessin de vallée](#case-drawing-to-realistic-valley)
 - [Recomposer une scène à partir d'un croquis](#case-sketch-guided-composition)
+- [Un futur habitat d’inspiration méditerranéenne](#case-mediterranean-alien-settlement)
 
 <a id="mode-generate"></a>
 <details>
 <summary>Texte vers image</summary>
 
+- [Une maquette complète de site d’agence en chinois](#case-chinese-agency-page-layout)
+- [Un logo de boulangerie avec des bords alpha nets](#case-bakery-logo-transparent)
 - [Infographie sur la préparation du café chinois](#case-chinese-coffee-brewing-infographic)
+- [Un document étiqueté sur la respiration cellulaire](#case-classroom-cellular-respiration)
+- [Un avion de collection sous blister](#case-collectible-airplane-packaging)
 - [Interface utilisateur d'une application mobile de courses fraîches](#case-fresh-grocery-mobile-ui)
 - [Campagne de mode en six couleurs](#case-six-color-fashion-campaign)
+- [Une affiche de voyage sur un portail architectural](#case-architectural-portal-travel-poster)
+- [Un lookbook mode annoté](#case-annotated-fashion-lookbook)
+- [Une diapositive de taille de marché à partir d'entrées explicites](#case-market-opportunity-slide)
+- [Une carte de vœux avec un message précis](#case-nostalgic-holiday-card)
 - [Schéma technique pour manuel d'entretien de machine à expresso](#case-espresso-service-manual)
+- [Un test de relations spatiales en vue isométrique](#case-isometric-spatial-relations)
 - [Miniature artisanale représentant un monument touristique](#case-miniature-travel-landmark)
 - [Carnet de voyage entre photo et estampe](#case-santorini-family-travel-diary)
 - [Duel de Cel-animation sur sable volcanique](#case-cel-animation-duel)
@@ -134,6 +156,7 @@ Les instructions localisées conservent la recette éditoriale source ou étique
 - [Portrait de voyage spontané devant une abbaye côtière.](#case-coastal-abbey-travel-portrait)
 - [Tour mécanique modulaire](#case-modular-mechanical-tower)
 - [Affiche de marché d'automne avec contraintes sur le nombre d'objets](#case-autumn-market-count-constraints)
+- [Un futur habitat d’inspiration méditerranéenne](#case-mediterranean-alien-settlement)
 - [Une photo de téléphone franche dans un café](#case-candid-cafe-photo)
 
 </details>
@@ -146,6 +169,7 @@ Les instructions localisées conservent la recette éditoriale source ou étique
 - [Publicité produit à trois références](#case-three-reference-product-ad)
 - [Rééclairage studio d'un produit transparent](#case-transparent-product-relighting)
 - [Rendre réaliste un dessin de vallée](#case-drawing-to-realistic-valley)
+- [Étalonner une photo de jardin en conservant sa composition](#case-garden-photo-color-grading)
 - [Traduire une infographie sans la redessiner](#case-infographic-layout-translation)
 - [Réutilisation d'un modèle d'affiche longue](#case-long-copy-poster-template)
 - [Composition studio cohérente de plusieurs produits](#case-multi-product-studio-lineup)
@@ -158,6 +182,7 @@ Les instructions localisées conservent la recette éditoriale source ou étique
 - [Retirer un objet tenu en main](#case-remove-flower-local-edit)
 - [Remplacer les chaises en préservant la pièce](#case-wooden-chair-room-edit)
 - [Rendu de produit basé sur une géométrie imposée](#case-geometry-locked-product-render)
+- [Remplacer uniquement le contenu d’un écran d’ordinateur portable](#case-laptop-screen-local-replacement)
 - [Fiche de poses de danse axée sur le personnage](#case-dance-pose-keyframes)
 - [Recomposer une scène à partir d'un croquis](#case-sketch-guided-composition)
 - [Une page de magazine de voyage personnalisée](#case-travel-magazine-page)
@@ -174,6 +199,7 @@ Les instructions localisées conservent la recette éditoriale source ou étique
 
 - [Décliner un panneau publicitaire en deux saisons](#case-billboard-seasonal-iteration)
 - [GIF d'autocollant détouré en mouvement](#case-bouncing-cutout-sticker)
+- [Un croquis de camping à travers trois modifications](#case-campsite-sketch-three-edits)
 - [Modification d'une affiche pour un festival du café (cinq étapes)](#case-coffee-festival-poster-iterations)
 - [GIF animé en six images](#case-six-frame-expression-gif)
 - [Contenu généré par les utilisateurs (UGC) basé sur un style de référence pour un produit](#case-style-reference-product-ugc)
@@ -186,6 +212,101 @@ Les instructions localisées conservent la recette éditoriale source ou étique
 - [Un robot à travers neuf montages successifs](#case-robot-sequential-edits)
 
 </details>
+
+---
+
+<a id="case-chinese-agency-page-layout"></a><a id="user-content-case-chinese-agency-page-layout"></a>
+## Une maquette complète de site d’agence en chinois
+
+[English](README.md#user-content-case-chinese-agency-page-layout) · [简体中文](README.zh-CN.md#user-content-case-chinese-agency-page-layout) · [繁體中文](README.zh-TW.md#user-content-case-chinese-agency-page-layout) · [日本語](README.ja.md#user-content-case-chinese-agency-page-layout) · [한국어](README.ko.md#user-content-case-chinese-agency-page-layout) · [Français](README.fr.md#user-content-case-chinese-agency-page-layout) · [Deutsch](README.de.md#user-content-case-chinese-agency-page-layout) · [Español](README.es.md#user-content-case-chinese-agency-page-layout) · [Português (Brasil)](README.pt-BR.md#user-content-case-chinese-agency-page-layout)
+
+<a href="https://x.com/listudio/status/2097652659788619894"><img src="https://pbs.twimg.com/media/HRxb7cJboAAiH2G.jpg" width="640" alt="Une maquette complète de site d’agence en chinois — listudio — source result — Résultat de la source" loading="lazy"></a>
+
+Définissez la hauteur des sections et les textes chinois d’une page complète d’agence.
+
+**Prompt original · Texte vers image · Non testé indépendamment**
+
+### Entrées requises
+
+Aucune image de référence n'est spécifiée par la source.
+
+<details>
+<summary>Prompt</summary>
+
+
+
+```text
+Veuillez utiliser la dernière fonctionnalité de génération d'images GPT Image 2.5 de la version Web pour générer directement des images, et ne vous contentez pas de renvoyer le mot d'invite.
+
+Générez un dessin visuel complet du site officiel chinois d'une entreprise de design créatif, une longue capture d'écran de la page Web du bureau avec une vue frontale et sans perspective, au format vertical 9:16, avec une résolution aussi élevée que possible, et un affichage complet de la navigation au pied de page. Fond blanc, bleu cobalt, jaune vif, rouge corail et bleu ciel clair, espace blanc étroit, grille soignée, cartes à angle droit, collage géométrique en biseau gras. L’aspect général est jeune, vivant et donne un sentiment d’expérimentation en matière de design.
+
+Il y a une fine barre de navigation blanche en haut, avec le caractère chinois original en gras « 见造 » et le petit slogan « 以创意，让世界更有趣 » sur la gauche. La navigation à droite est « 关于我们、创意服务、精选作品、加入我们、最新动态 » et le bouton bleu « 联系我们 → » est à l'extrême droite.
+
+Le premier écran occupe environ 27% de l'image entière. Sur le côté gauche, il y a deux lignes de « 让有趣， » et « 改变世界。 » dans des caractères sans empattement gras bleu cobalt très accrocheuses. En bas à gauche se trouvent les petits caractères « 以自由的想象，连接人与品牌，让每一个好点子，成为真实的改变。 ». Sur le côté droit se trouve une femme chinoise âgée de 20 ans, clairement adulte. Les cheveux noirs mi-longs sont soufflés par la brise. Elle a un maquillage naturel et une vraie peau. Elle lève légèrement la tête et regarde en haut à droite. Portez un haut à manches courtes à col montant en coton et lin bleu cobalt avec une simple patte de boutonnage en biais et quelques boutons de la même couleur. Il s'adapte bien mais n'est pas serré. Le personnage est combiné avec un cube bleu, une sphère jaune, un anneau rouge corail et un piédestal géométrique blanc. L’arrière-plan est un ciel bleu clair et une lumière naturelle brillante. Les matériaux et ombres portées sont crédibles.
+
+La barre horizontale de concept blanc en bas du premier écran représente environ 8%, avec les petits caractères « 我们的理念 » à gauche, le titre noir en gras « 用创意，为社会留出想象。 » au milieu et le texte « 我们相信，好的设计不止解决问题，也让人与世界产生新的连接。 » et « 了解见造 → » à droite.
+
+La zone de service occupe environ 16%, avec un titre de colonne étroit « 创意服务 », une brève introduction et « 查看全部服务 → » à gauche ; trois cartes de largeur égale sur la droite : une carte à fond bleu avec une photographie d'ampoule portative comme "品牌创意", une carte à fond jaune avec des blocs de construction géométriques colorés comme "传播设计" et une carte à fond rouge corail avec un ordinateur portable ouvert comme "数字体验". Sous chaque carte se trouvent deux lignes de brève introduction en chinois et une flèche vers la droite.
+
+La zone d'œuvres occupe environ 17%, avec les titres « 精选作品 » et « 查看全部作品 → » à gauche, et quatre colonnes de vignettes des œuvres plates à droite, qui sont une affiche de portrait de femme chinoise d'un an 20 décorée de peintures colorées, une affiche d'installation géométrique urbaine, un design éditorial bleu, blanc et rouge et une affiche d'installation d'art de montagne. Les noms des quatre projets sont « 自在生长 », « 城市游乐场 », « 灵感发生地 » et « 山野之间 » dans l'ordre, et le texte visible dans les vignettes est tous en chinois.
+
+La zone de recrutement occupe environ 18%, avec toute la barre horizontale bleu cobalt, le titre blanc « 和有趣的人，一起创造新风景。 » à gauche, le texte « 让热爱成为日常，让灵感自由生长。 » et le bouton blanc « 查看开放职位 → ». À droite, trois femmes chinoises clairement adultes, âgées de 20, sont assises sur les marches géométriques jaune et rouge corail et communiquent naturellement. Ils portent des hauts bleus à col montant, des chemises en coton et lin blanc cassé, des hauts tricotés simples jaune clair, des pantalons amples et des chaussures plates propres. Ils ont de longs cheveux noirs ou des cheveux courts jusqu'aux épaules, un maquillage naturel clair, de la jeunesse, de la confiance et de la gentillesse. Ce ne sont pas des costumes anciens, ni des costumes professionnels, et ils n'ont pas d'accessoires exagérés.
+
+À propos de 6%, vous trouverez ci-dessous la colonne "最新动态" avec un fond blanc et les trois lignes de messages sont "2026.09.09 见造全新品牌网站正式上线", "2026.09.08 城市游乐场创意计划发布" et "2026.09.01 秋季创意伙伴招募开启". Le dernier environ 8% est un pied de page concis, avec le chinois "见造", la navigation et "© 2026 见造创意。保留所有权利。", laissant une marge inférieure confortable. Toutes les copies de l'interface sont en chinois simplifié lisible et précis, avec des niveaux de titre et de texte clairs. Pas de japonais, pas de caractères tronqués, pas de logos tiers, pas de filigrane, pas de bordures de navigateur, pas de coque d'appareil. Générez un dessin de conception Web complet.
+```
+
+[Parcourir la galerie en ligne](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--fr--chinese-agency-page-layout)
+
+</details>
+
+### Adapter à votre besoin
+
+Remplacez le sujet et le décor ; conservez la composition et le texte exact nécessaires.
+
+### Notes
+
+- Le résultat est une image de page Web, pas du HTML ni une application. Les hauteurs des sections totalisent 100%. Vérifiez les petits caractères chinois à taille réelle. Conservez les textes chinois cités lors de la traduction et vérifiez l’absence de filigrane.
+
+<details>
+<summary>Sources et statistiques datées</summary>
+
+**Révision éditoriale: 93.75/100 · 2026-09-13T17:54:27.409Z**
+
+[Révision éditoriale](docs/CURATION.md)
+
+[@listudio](https://x.com/listudio/status/2097652659788619894) · [Source du prompt ou du flux de travail](https://x.com/listudio/status/2097652659788619894) · [Déclaration du créateur sur le modèle](https://x.com/listudio/status/2097652659788619894)
+
+Langue source du prompt: **zh** · Langue de la publication: **zh**
+
+0 J'aime · — Enregistrements · — Repartages · — Vues
+
+Engagement observé: 2026-09-13T17:22:12.779229+00:00 · Source vérifiée: 2026-09-13T17:54:27.409Z
+
+### Voir le libellé source
+
+```text
+请使用网页版当前最新的 GPT Image 2.5 生图能力直接生成图片，不要仅返回提示词。
+
+生成一张完整的创意设计公司中文官网视觉设计图，正面平视、无透视的桌面网页长截图，9:16 竖幅，尽可能高分辨率，完整显示从导航到页脚。白底，钴蓝、明黄、珊瑚红和浅天蓝配色，细窄留白、整齐网格、直角卡片、大胆斜切几何拼贴。整体年轻、明快、有设计实验感。
+
+顶部为纤细白色导航栏，左侧原创中文粗体字标“见造”，小标语“以创意，让世界更有趣”。右侧导航依次为“关于我们、创意服务、精选作品、加入我们、最新动态”，最右是蓝色“联系我们 →”按钮。
+
+首屏占全图约 27%，左侧以非常醒目的钴蓝粗黑体排两行“让有趣，”“改变世界。”，左下小字“以自由的想象，连接人与品牌，让每一个好点子，成为真实的改变。”右侧是一名明确成年的 20 岁中国女性，黑色齐肩发被微风吹动，自然淡妆，真实皮肤，微仰头望向右上方。穿钴蓝棉麻立领短袖上衣，简洁斜襟与少量同色盘扣，合身但不紧绷。人物与蓝色立方体、黄色球体、珊瑚红圆环、白色几何台座组合，背景浅蓝天空，明亮自然日光，材质和投影可信。
+
+首屏下方白色理念横栏占约 8%，左侧小字“我们的理念”，中间黑色粗标题“用创意，为社会留出想象。”，右侧正文“我们相信，好的设计不止解决问题，也让人与世界产生新的连接。”及“了解见造 →”。
+
+服务区占约 16%，左侧窄栏标题“创意服务”、简短介绍和“查看全部服务 →”；右侧三张等宽卡片：蓝底卡片以手持灯泡摄影配“品牌创意”，黄底卡片以彩色几何积木配“传播设计”，珊瑚红底卡片以打开的笔记本电脑配“数字体验”。每张卡片下方有两行简短中文介绍和右箭头。
+
+作品区占约 17%，左侧标题“精选作品”和“查看全部作品 →”，右侧四列平面作品缩略图，分别为有彩色颜料点缀的 20 岁中国女性肖像海报、城市几何装置海报、蓝白红编辑设计、山野艺术装置海报。四个项目名称依次为“自在生长”“城市游乐场”“灵感发生地”“山野之间”，缩略图中的可见文字也全部使用中文。
+
+招聘区占约 18%，整幅钴蓝横栏，左侧白色大标题“和有趣的人，一起创造新风景。”，正文“让热爱成为日常，让灵感自由生长。”及白底按钮“查看开放职位 →”。右侧三名明确成年的 20 岁中国女性坐在黄色与珊瑚红几何台阶上自然交流，分别穿蓝色立领上衣、米白棉麻衬衫、浅黄色简约针织上衣，搭配宽松长裤与干净平底鞋，黑色长发或齐肩短发，自然淡妆，青春、自信、亲切，非古装、非职业套装、无夸张饰品。
+
+下方约 6% 为白底“最新动态”栏，三行消息为“2026.09.09 见造全新品牌网站正式上线”“2026.09.08 城市游乐场创意计划发布”“2026.09.01 秋季创意伙伴招募开启”。最后约 8% 为简洁页脚，中文“见造”、导航和“© 2026 见造创意。保留所有权利。”，留出舒适下边距。所有界面文案为可读、准确的简体中文，标题与正文层级鲜明。无日文、无乱码、无第三方标志、无水印、无浏览器边框、无设备外壳。输出一张完整网页设计图。
+```
+
+</details>
+
+[Retour à l'index de la galerie](#collection)
 
 ---
 
@@ -453,6 +574,75 @@ Engagement observé: 2026-09-11T18:20:40.729Z · Source vérifiée: 2026-09-11T1
 
 ---
 
+<a id="case-bakery-logo-transparent"></a><a id="user-content-case-bakery-logo-transparent"></a>
+## Un logo de boulangerie avec des bords alpha nets
+
+[English](README.md#user-content-case-bakery-logo-transparent) · [简体中文](README.zh-CN.md#user-content-case-bakery-logo-transparent) · [繁體中文](README.zh-TW.md#user-content-case-bakery-logo-transparent) · [日本語](README.ja.md#user-content-case-bakery-logo-transparent) · [한국어](README.ko.md#user-content-case-bakery-logo-transparent) · [Français](README.fr.md#user-content-case-bakery-logo-transparent) · [Deutsch](README.de.md#user-content-case-bakery-logo-transparent) · [Español](README.es.md#user-content-case-bakery-logo-transparent) · [Português (Brasil)](README.pt-BR.md#user-content-case-bakery-logo-transparent)
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo"><img src="https://developers.openai.com/images/platform/guides/image-prompting/logo-generation-1-gpt-image-2-5-sunburst.webp" width="640" alt="Un logo de boulangerie avec des bords alpha nets — OpenAI — source result — Résultat de la source" loading="lazy"></a>
+
+Concevez une marque simple qui reste lisible à différentes tailles.
+
+**Prompt original · Texte vers image · Non testé indépendamment**
+
+### Entrées requises
+
+Aucune image de référence n'est spécifiée par la source.
+
+<details>
+<summary>Prompt</summary>
+
+
+
+```text
+Créez un logo original et non contrefait pour une entreprise appelée Field & Flour, une boulangerie locale.
+Le logo doit être chaleureux, simple et intemporel. Utilisez des formes épurées et vectorielles, une silhouette forte et un espace négatif équilibré.
+Privilégiez la simplicité aux détails pour une lecture claire dans les petites et grandes tailles. Design plat, traits minimaux, pas de dégradés sauf si cela est essentiel.
+Fond entièrement transparent. Produisez un logo unique centré avec un rembourrage généreux, des bords alpha nets et sans fond, décor, damier ou filigrane uni.
+```
+
+[Parcourir la galerie en ligne](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--fr--bakery-logo-transparent)
+
+</details>
+
+### Adapter à votre besoin
+
+Remplacez le sujet et le décor ; conservez la composition et le texte exact nécessaires.
+
+### Notes
+
+- Remplacez le nom de la boulangerie et le bref ensemble. La sortie est une image raster et non un fichier vectoriel modifiable. Inspectez les bords alpha dans un éditeur ; l'attribution n'est pas une autorisation de marque. Paramètres source : 1024x1536, qualité moyenne, fond transparent, PNG.
+
+<details>
+<summary>Sources et statistiques datées</summary>
+
+**Révision éditoriale: 91.25/100 · 2026-09-13T17:54:27.409Z**
+
+[Révision éditoriale](docs/CURATION.md)
+
+[OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo) · [Source du prompt ou du flux de travail](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo) · [Déclaration du créateur sur le modèle](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo)
+
+Langue source du prompt: **en** · Langue de la publication: **en**
+
+— J'aime · — Enregistrements · — Repartages · — Vues
+
+Engagement observé: 2026-09-13T17:54:27.409Z · Source vérifiée: 2026-09-13T17:54:27.409Z
+
+### Voir le libellé source
+
+```text
+Create an original, non-infringing logo for a company called Field & Flour, a local bakery.
+The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.
+Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.
+Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
+```
+
+</details>
+
+[Retour à l'index de la galerie](#collection)
+
+---
+
 <a id="case-billboard-seasonal-iteration"></a><a id="user-content-case-billboard-seasonal-iteration"></a>
 ## Décliner un panneau publicitaire en deux saisons
 
@@ -668,6 +858,89 @@ Engagement observé: 2026-09-11T18:20:40.729Z · Source vérifiée: 2026-09-11T1
 
 ---
 
+<a id="case-campsite-sketch-three-edits"></a><a id="user-content-case-campsite-sketch-three-edits"></a>
+## Un croquis de camping à travers trois modifications
+
+[English](README.md#user-content-case-campsite-sketch-three-edits) · [简体中文](README.zh-CN.md#user-content-case-campsite-sketch-three-edits) · [繁體中文](README.zh-TW.md#user-content-case-campsite-sketch-three-edits) · [日本語](README.ja.md#user-content-case-campsite-sketch-three-edits) · [한국어](README.ko.md#user-content-case-campsite-sketch-three-edits) · [Français](README.fr.md#user-content-case-campsite-sketch-three-edits) · [Deutsch](README.de.md#user-content-case-campsite-sketch-three-edits) · [Español](README.es.md#user-content-case-campsite-sketch-three-edits) · [Português (Brasil)](README.pt-BR.md#user-content-case-campsite-sketch-three-edits)
+
+<a href="https://x.com/ezolog2026/status/2097698951696908595"><img src="https://pbs.twimg.com/media/HRyEoy-awAARHe5.jpg" width="640" alt="Un croquis de camping à travers trois modifications — ezolog2026 — source result — Résultat de la source" loading="lazy"></a>
+
+Utilisez un croquis pour la mise en page, puis changez de lumière du jour et de vêtements à tour de rôle.
+
+**Prompt original · Flux de travail en plusieurs étapes · Non testé indépendamment**
+
+### Entrées requises
+
+- Téléchargez un croquis du camping montrant la composition prévue. Gardez la même conversation et réutilisez chaque résultat pour la prochaine modification.
+
+<details>
+<summary>Prompt</summary>
+
+#### Étape 1
+
+```text
+Créez une image de camping nocturne évocatrice à partir de ce dessin à la main.
+```
+
+#### Étape 2
+
+```text
+Passez la scène en plein jour sans modifier la composition.
+```
+
+#### Étape 3
+
+```text
+Remplacez les vêtements du personnage par une salopette.
+```
+
+[Parcourir la galerie en ligne](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--fr--campsite-sketch-three-edits)
+
+</details>
+
+### Adapter à votre besoin
+
+Suivez les étapes dans l’ordre, réutilisez les sorties précédentes si nécessaire et vérifiez les outils externes avant de commencer.
+
+### Notes
+
+- Exécutez ces instructions dans l’ordre, en réutilisant la sortie précédente. La comparaison des sources combine le croquis et les résultats ; utilisez votre propre croquis ou recadrez le panneau de croquis avant de le télécharger. Il s'agit d'un flux de travail de scène visuelle, et non d'un plan de site mesuré.
+
+<details>
+<summary>Sources et statistiques datées</summary>
+
+**Révision éditoriale: 91.25/100 · 2026-09-13T17:54:27.409Z**
+
+[Révision éditoriale](docs/CURATION.md)
+
+[@ezolog2026](https://x.com/ezolog2026/status/2097698951696908595) · [Source du prompt ou du flux de travail](https://x.com/ezolog2026/status/2097698951696908595) · [Déclaration du créateur sur le modèle](https://x.com/ezolog2026/status/2097698951696908595)
+
+Langue source du prompt: **ja** · Langue de la publication: **ja**
+
+13 J'aime · — Enregistrements · — Repartages · — Vues
+
+Engagement observé: 2026-09-13T17:22:19.990392+00:00 · Source vérifiée: 2026-09-13T17:54:27.409Z
+
+### Voir le libellé source
+
+```text
+この手書きの絵をもとにムードのある夜のキャンプ場の画像を作って
+```
+
+```text
+構図は変えずに昼にして
+```
+
+```text
+人物の服装をオーバーオールにして
+```
+
+</details>
+
+[Retour à l'index de la galerie](#collection)
+
+---
+
 <a id="case-chinese-coffee-brewing-infographic"></a><a id="user-content-case-chinese-coffee-brewing-infographic"></a>
 ## Infographie sur la préparation du café chinois
 
@@ -746,6 +1019,182 @@ Engagement observé: 2026-09-11T18:28:44.380Z · Source vérifiée: 2026-09-11T1
 用四个编号模块自上而下排列，每个模块包含一个简洁图标。
 奶油白背景，深咖啡色文字，少量橙色强调。
 所有文字必须清晰可读，不得添加其他文字、品牌、Logo或水印。
+```
+
+</details>
+
+[Retour à l'index de la galerie](#collection)
+
+---
+
+<a id="case-classroom-cellular-respiration"></a><a id="user-content-case-classroom-cellular-respiration"></a>
+## Un document étiqueté sur la respiration cellulaire
+
+[English](README.md#user-content-case-classroom-cellular-respiration) · [简体中文](README.zh-CN.md#user-content-case-classroom-cellular-respiration) · [繁體中文](README.zh-TW.md#user-content-case-classroom-cellular-respiration) · [日本語](README.ja.md#user-content-case-classroom-cellular-respiration) · [한국어](README.ko.md#user-content-case-classroom-cellular-respiration) · [Français](README.fr.md#user-content-case-classroom-cellular-respiration) · [Deutsch](README.de.md#user-content-case-classroom-cellular-respiration) · [Español](README.es.md#user-content-case-classroom-cellular-respiration) · [Português (Brasil)](README.pt-BR.md#user-content-case-classroom-cellular-respiration)
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals"><img src="https://developers.openai.com/images/platform/guides/image-prompting/scientific-educational-cellular-respiration-gpt-image-2-5-sunburst.webp" width="640" alt="Un document étiqueté sur la respiration cellulaire — OpenAI — source result — Résultat de la source" loading="lazy"></a>
+
+Précisez la leçon, les molécules et la séquence visuelle avant de générer un diagramme de classe.
+
+**Prompt original · Texte vers image · Non testé indépendamment**
+
+### Entrées requises
+
+Aucune image de référence n'est spécifiée par la source.
+
+<details>
+<summary>Prompt</summary>
+
+
+
+```text
+Créez un diagramme de biologie simple intitulé "Cellular Respiration at a Glance" pour les élèves du secondaire.
+
+Montrez comment le glucose se transforme en énergie à l'intérieur d'une cellule. Incluez la glycolyse, le cycle de Krebs et la chaîne de transport d'électrons.
+Utilisez les flèches pour relier les étapes et étiquetez les molécules principales : glucose, pyruvate, ATP, NADH, FADH2, CO2, O2 et H2O.
+Donnez-lui l’apparence d’un document ou d’une diapositive propre en classe, avec un fond blanc, des icônes simples, des étiquettes claires et un texte facile à lire.
+
+Évitez les petits textes, les décorations supplémentaires ou tout ce qui rend le diagramme difficile à comprendre.
+```
+
+[Parcourir la galerie en ligne](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--fr--classroom-cellular-respiration)
+
+</details>
+
+### Adapter à votre besoin
+
+Remplacez le sujet et le décor ; conservez la composition et le texte exact nécessaires.
+
+### Notes
+
+- Demandez à un expert en la matière de vérifier les étiquettes des molécules, les flèches et les relations scientifiques avant d'enseigner. L'exemple est une illustration générée, et non une preuve scientifique. Paramètres source : 1536x1024, haute qualité.
+
+<details>
+<summary>Sources et statistiques datées</summary>
+
+**Révision éditoriale: 91.25/100 · 2026-09-13T17:54:27.409Z**
+
+[Révision éditoriale](docs/CURATION.md)
+
+[OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals) · [Source du prompt ou du flux de travail](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals) · [Déclaration du créateur sur le modèle](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals)
+
+Langue source du prompt: **en** · Langue de la publication: **en**
+
+— J'aime · — Enregistrements · — Repartages · — Vues
+
+Engagement observé: 2026-09-13T17:54:27.409Z · Source vérifiée: 2026-09-13T17:54:27.409Z
+
+### Voir le libellé source
+
+```text
+Create a simple biology diagram titled "Cellular Respiration at a Glance" for high school students.
+
+Show how glucose turns into energy inside a cell. Include glycolysis, the Krebs cycle, and the electron transport chain.
+Use arrows to connect the steps, and label the main molecules: glucose, pyruvate, ATP, NADH, FADH2, CO2, O2, and H2O.
+Make it look like a clean classroom handout or slide, with a white background, simple icons, clear labels, and easy-to-read text.
+
+Avoid tiny text, extra decoration, or anything that makes the diagram hard to understand.
+```
+
+</details>
+
+[Retour à l'index de la galerie](#collection)
+
+---
+
+<a id="case-collectible-airplane-packaging"></a><a id="user-content-case-collectible-airplane-packaging"></a>
+## Un avion de collection sous blister
+
+[English](README.md#user-content-case-collectible-airplane-packaging) · [简体中文](README.zh-CN.md#user-content-case-collectible-airplane-packaging) · [繁體中文](README.zh-TW.md#user-content-case-collectible-airplane-packaging) · [日本語](README.ja.md#user-content-case-collectible-airplane-packaging) · [한국어](README.ko.md#user-content-case-collectible-airplane-packaging) · [Français](README.fr.md#user-content-case-collectible-airplane-packaging) · [Deutsch](README.de.md#user-content-case-collectible-airplane-packaging) · [Español](README.es.md#user-content-case-collectible-airplane-packaging) · [Português (Brasil)](README.pt-BR.md#user-content-case-collectible-airplane-packaging)
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise"><img src="https://developers.openai.com/images/platform/guides/image-prompting/christmas-collectible-toy-airplane-gpt-image-2-5-sunburst.webp" width="640" alt="Un avion de collection sous blister — OpenAI — source result — Résultat de la source" loading="lazy"></a>
+
+Décrivez ensemble les matériaux du produit, l'emballage de vente au détail et une étiquette d'emballage autorisée.
+
+**Prompt original · Texte vers image · Non testé indépendamment**
+
+### Entrées requises
+
+Aucune image de référence n'est spécifiée par la source.
+
+<details>
+<summary>Prompt</summary>
+
+
+
+```text
+Créez une figurine de collection représentant un avion à hélice de style vintage avec des ailes arrondies, une hélice rotative montée à l'avant, des bords de peinture légèrement usés, des proportions classiques de l'enfance, conçue comme un objet de collection nostalgique des fêtes, dans un emballage blister.
+
+Concept :
+Une collection de vacances nostalgique inspirée des simples avions jouets.
+les enfants jouaient avec pendant les vacances d'hiver.
+Évoque la chaleur, l’imagination et l’émerveillement de l’enfance.
+
+Style :
+Photographie de jouets haut de gamme, textures réalistes en plastique et métal peint,
+éclairage de studio, faible profondeur de champ,
+impression d'étiquettes nettes, présentation au détail haut de gamme.
+
+Contraintes :
+- Conception originale uniquement
+- Aucune marque déposée
+- Pas de filigrane
+- Pas de logo
+
+Incluez UNIQUEMENT ce texte d’emballage (textuellement) :
+"Christmas Memories Edition"
+```
+
+[Parcourir la galerie en ligne](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--fr--collectible-airplane-packaging)
+
+</details>
+
+### Adapter à votre besoin
+
+Remplacez le sujet et le décor ; conservez la composition et le texte exact nécessaires.
+
+### Notes
+
+- Remplacez l'objet et la copie de l'emballage par votre propre produit. Il s'agit d'une visualisation d'emballage, pas d'une ligne de fabrication. Vérifiez le texte imprimé et les détails du matériau. Paramètres source : 1024x1536, qualité moyenne.
+
+<details>
+<summary>Sources et statistiques datées</summary>
+
+**Révision éditoriale: 91.25/100 · 2026-09-13T17:54:27.409Z**
+
+[Révision éditoriale](docs/CURATION.md)
+
+[OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise) · [Source du prompt ou du flux de travail](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise) · [Déclaration du créateur sur le modèle](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise)
+
+Langue source du prompt: **en** · Langue de la publication: **en**
+
+— J'aime · — Enregistrements · — Repartages · — Vues
+
+Engagement observé: 2026-09-13T17:54:27.409Z · Source vérifiée: 2026-09-13T17:54:27.409Z
+
+### Voir le libellé source
+
+```text
+Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.
+
+Concept:
+A nostalgic holiday collectible inspired by the simple toy airplanes
+children used to play with during winter holidays.
+Evokes warmth, imagination, and childhood wonder.
+
+Style:
+Premium toy photography, realistic plastic and painted metal textures,
+studio lighting, shallow depth of field,
+sharp label printing, high-end retail presentation.
+
+Constraints:
+- Original design only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this packaging text (verbatim):
+"Christmas Memories Edition"
 ```
 
 </details>
@@ -882,6 +1331,71 @@ Engagement observé: 2026-09-11T18:28:44.380Z · Source vérifiée: 2026-09-11T1
 
 ```text
 移动端UI设计，生鲜电商App首页界面，清新简洁风格，以白色为主色调，搭配绿色健康主题色。顶部包含状态栏、欢迎语“早上好，林小姐”及搜索框。页面中部设有横幅广告区，展示新鲜蔬果图片，并配有宣传文字。下方为“今日特惠”板块，横向排列番茄、上海青、香蕉等新鲜农产品，展示商品图片、名称及价格。底部为“附近商户”列表，包含店铺名称、距离和评分。界面最底部为标准导航栏，包含首页、分类、购物车、我的四个图标，UI布局规整，高保真设计，扁平化设计语言，专业界面交互设计，极简主义，清晰的排版，高分辨率，矢量图形风格。
+```
+
+</details>
+
+[Retour à l'index de la galerie](#collection)
+
+---
+
+<a id="case-garden-photo-color-grading"></a><a id="user-content-case-garden-photo-color-grading"></a>
+## Étalonner une photo de jardin en conservant sa composition
+
+[English](README.md#user-content-case-garden-photo-color-grading) · [简体中文](README.zh-CN.md#user-content-case-garden-photo-color-grading) · [繁體中文](README.zh-TW.md#user-content-case-garden-photo-color-grading) · [日本語](README.ja.md#user-content-case-garden-photo-color-grading) · [한국어](README.ko.md#user-content-case-garden-photo-color-grading) · [Français](README.fr.md#user-content-case-garden-photo-color-grading) · [Deutsch](README.de.md#user-content-case-garden-photo-color-grading) · [Español](README.es.md#user-content-case-garden-photo-color-grading) · [Português (Brasil)](README.pt-BR.md#user-content-case-garden-photo-color-grading)
+
+<a href="https://x.com/HoodyLiu/status/2099115784417251690"><img src="https://pbs.twimg.com/media/HSGOUDQbYAAFxpB.jpg" width="640" alt="Étalonner une photo de jardin en conservant sa composition — HoodyLiu — source result — Résultat de la source" loading="lazy"></a>
+
+Contrôlez les reflets du ciel, les détails des ombres et la couleur du feuillage tout en préservant la scène photographiée.
+
+**Prompt original · Modification avec référence · Non testé indépendamment**
+
+### Entrées requises
+
+- Téléchargez la deuxième image source ci-dessous ou votre propre photo de jardin.
+
+Images de référence de la source: [1](https://pbs.twimg.com/media/HSGOiw-a8AAd-1r.jpg)
+
+<details>
+<summary>Prompt</summary>
+
+
+
+```text
+Veuillez effectuer uniquement un étalonnage professionnel des couleurs et une optimisation de la lumière et des ombres sur les photos originales, conserver strictement la composition originale, la position des paysages, les fleurs de cerisier, les arbres, les reflets de l'eau et les proportions de l'écran, et ne pas ajouter, supprimer ou modifier des objets. Le style général est adapté à un style de film japonais haut de gamme, sobre et calme, présentant l'atmosphère calme d'un jardin japonais au début du printemps. Éclaircissez modérément les détails sombres des bois, des bords de mer et des étangs, et restaurez les couches de troncs d'arbres, d'arbustes et de surfaces d'eau, mais conservez les ombres profondes et ne transformez pas les zones noires en gris. Réduisez les hautes lumières du ciel et la saturation du bleu, et ajustez le ciel sur un gris-bleu transparent et calme pour éviter une luminosité excessive et des effets HDR. Mettez en valeur les fleurs de cerisier au centre de l'image, en leur donnant une couleur rose-blanc pâle naturelle pour ajouter une douce transparence au soleil et des couches délicates. Ne le transformez pas en blanc pur ou en rose fluo. Les plantes vertes sont ajustées au vert mousse peu saturé, au vert forêt et au vert olive léger, réduisant ainsi la sensation jaune-vert et numérique. La surface de l'eau conserve une couleur bleu-noir profond, rehaussant les reflets subtils et les couches de fleurs de cerisier tombées, rendant le reflet clair mais pas net. La conception globale utilise des reflets doux, des ombres profondes, un contraste moyen à fort et augmente légèrement le contraste entre la lumière chaude du soleil et les ombres froides. En ajoutant un léger brouillard de film, un halo naturel, un grain fin de film 35 mm et une netteté douce, la couleur fait référence au Kodak Portra 400 et à la photographie cinématographique japonaise, qui est réelle, naturelle, subtile, aérée et haut de gamme. Il est interdit de modifier la composition, d'ajouter des fleurs de cerisier, des nuages, des bâtiments, des personnes ou des lumières, de générer de nouvelles branches, de changer la saison, la surexposition, le noir mort, le HDR, la netteté excessive, le vert fluorescent, le ciel bleu brillant, les filtres lourds, la sensation de peinture à l'huile, la sensation d'illustration et la sensation de redessinage de l'IA. Le résultat final doit ressembler à une correction professionnelle des couleurs de la photo RAW originale, et non à une image régénérée.
+```
+
+[Parcourir la galerie en ligne](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--fr--garden-photo-color-grading)
+
+</details>
+
+### Adapter à votre besoin
+
+Fournissez vos références, précisez leur rôle et distinguez les éléments à modifier de ceux à préserver.
+
+### Notes
+
+- Le créateur remercie GPT6 Astra pour la rédaction de l'invite et GPT Image 2.5 pour la modification. L'image 1 est le résultat modifié ; l'image 2 est l'entrée. Inspectez les branches, les reflets et les objets pour les redessiner. Une requête de style RAW ne produit pas de fichier RAW modifiable et ne garantit pas la préservation des pixels.
+
+<details>
+<summary>Sources et statistiques datées</summary>
+
+**Révision éditoriale: 91.25/100 · 2026-09-13T17:54:27.409Z**
+
+[Révision éditoriale](docs/CURATION.md)
+
+[@HoodyLiu](https://x.com/HoodyLiu/status/2099115784417251690) · [Source du prompt ou du flux de travail](https://x.com/HoodyLiu/status/2099115784417251690) · [Déclaration du créateur sur le modèle](https://x.com/HoodyLiu/status/2099115784417251690)
+
+Langue source du prompt: **zh** · Langue de la publication: **zh**
+
+7 J'aime · — Enregistrements · — Repartages · — Vues
+
+Engagement observé: 2026-09-13T17:30:11.651392+00:00 · Source vérifiée: 2026-09-13T17:54:27.409Z
+
+### Voir le libellé source
+
+```text
+请仅对原照片进行专业调色和光影优化，严格保留原始构图、景物位置、樱花、树木、水面倒影及画面比例，不添加、删除或改变任何物体。整体调成高级、克制、安静的日系电影胶片风格，呈现早春日本庭园的清寂氛围。适度提亮树林、水岸和池塘中的暗部细节，恢复树干、灌木与水面层次，但保留幽深阴影，不要把黑色区域提成灰色。压低天空高光和蓝色饱和度，将天空调整为通透、沉静的灰蓝色，避免过度艳丽和HDR效果。突出画面中央樱花，使花朵呈自然的淡粉白色，增加柔和的阳光通透感和细腻层次，不要变成纯白或荧光粉。绿色植物调整为低饱和的苔藓绿、森林绿和轻微橄榄绿，减少黄绿色和数码感。水面维持深青黑色，增强细微反光和落樱的层次，让倒影清晰但不锐利。整体采用柔和高光、深邃阴影、中等偏强对比，略微增加暖色阳光与冷色阴影的冷暖对比。加入轻微胶片灰雾、自然光晕、细腻35mm胶片颗粒和柔和锐化，色彩参考 Kodak Portra 400 与日系电影摄影，真实、自然、含蓄、有空气感和高级感。禁止改变构图，禁止增加樱花、云朵、建筑、人物或灯光，禁止生成新的树枝，禁止改变季节，禁止过曝、死黑、HDR、过度锐化、荧光绿、艳蓝天空、浓重滤镜、油画感、插画感和AI重绘感。最终效果必须像对原始RAW照片进行专业调色，而不是重新生成一张图片。
 ```
 
 </details>
@@ -1710,6 +2224,107 @@ Do not restyle the product; remove the background and preserve clean alpha trans
 
 ---
 
+<a id="case-architectural-portal-travel-poster"></a><a id="user-content-case-architectural-portal-travel-poster"></a>
+## Une affiche de voyage sur un portail architectural
+
+[English](README.md#user-content-case-architectural-portal-travel-poster) · [简体中文](README.zh-CN.md#user-content-case-architectural-portal-travel-poster) · [繁體中文](README.zh-TW.md#user-content-case-architectural-portal-travel-poster) · [日本語](README.ja.md#user-content-case-architectural-portal-travel-poster) · [한국어](README.ko.md#user-content-case-architectural-portal-travel-poster) · [Français](README.fr.md#user-content-case-architectural-portal-travel-poster) · [Deutsch](README.de.md#user-content-case-architectural-portal-travel-poster) · [Español](README.es.md#user-content-case-architectural-portal-travel-poster) · [Português (Brasil)](README.pt-BR.md#user-content-case-architectural-portal-travel-poster)
+
+<a href="https://x.com/Naiknelofar788/status/2097920025617399875"><img src="https://pbs.twimg.com/media/HR1PFgUasAAJbTM.jpg" width="640" alt="Une affiche de voyage sur un portail architectural — Naiknelofar788 — source result — Résultat de la source" loading="lazy"></a>
+
+Utilisez l'architecture locale comme cadre de premier plan, avec une palette sobre et des étiquettes de lieu intégrées.
+
+**Prompt original · Texte vers image · Non testé indépendamment**
+
+### Entrées requises
+
+Aucune image de référence n'est spécifiée par la source.
+
+<details>
+<summary>Prompt</summary>
+
+
+
+```text
+Créez une affiche de voyage moderne haut de gamme pour [CITY, COUNTRY], inspirée d'une sérigraphie vintage audacieuse et d'un design graphique du milieu du siècle, mais avec une composition de portail architectural originale.
+
+Placez un grand [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH] distinctif au premier plan, faisant office de fenêtre sur la destination. À travers l'ouverture, révélez une scène stylisée en couches mettant en vedette [ICONIC LANDMARK], [FAMOUS NATURAL FEATURE], des toits simplifiés, des rues locales, des arbres, des transports et quelques détails culturels subtils.
+
+Ajoutez un grand soleil/lune/cercle géométrique audacieux derrière le point de repère principal, en utilisant une forme et un emplacement qui semblent visuellement frappants plutôt que traditionnels. Incluez naturellement les symboles locaux reconnaissables 2–3 dans la scène au lieu de les présenter comme des objets distincts.
+
+Utilisez une palette de couleurs sophistiquée et limitée inspirée de la destination : [2–5 COLORS]. Formes géométriques plates, silhouettes fortes, bords nets, couches superposées subtiles, légère texture sérigraphiée et espace négatif élégant.
+
+Ajoutez une grande enseigne intégrée ou un panneau architectural comprenant :
+
+[CITY]
+[LOCAL SCRIPT]
+
+Incluez une petite typographie éditoriale raffinée en bas :
+
+[COUNTRY]
+[CITY] • [COORDINATES]
+[SHORT DESTINATION PHRASE]
+
+Esthétique minimale, artistique, cohérente, d'affiche de voyage de collection, non photoréaliste, pas de collage, pas de détails excessifs, composition sophistiquée, forte hiérarchie visuelle, asymétrie équilibrée, fond de papier chaud, subtiles imperfections d'impression, format vertical 4:5.
+```
+
+[Parcourir la galerie en ligne](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--fr--architectural-portal-travel-poster)
+
+</details>
+
+### Adapter à votre besoin
+
+Remplacez le sujet et le décor ; conservez la composition et le texte exact nécessaires.
+
+### Notes
+
+- Remplissez chaque variable entre parenthèses avec une destination cohérente. Vérifiez vous-même les coordonnées, l'écriture locale et les choix de points de repère. Les quatre destinations sources sont des variantes d'une recette et non quatre entrées.
+
+<details>
+<summary>Sources et statistiques datées</summary>
+
+**Révision éditoriale: 88.75/100 · 2026-09-13T17:54:27.409Z**
+
+[Révision éditoriale](docs/CURATION.md)
+
+[@Naiknelofar788](https://x.com/Naiknelofar788/status/2097920025617399875) · [Source du prompt ou du flux de travail](https://x.com/Naiknelofar788/status/2097920025617399875) · [Déclaration du créateur sur le modèle](https://x.com/Naiknelofar788/status/2097920025617399875)
+
+Langue source du prompt: **en** · Langue de la publication: **en**
+
+47 J'aime · — Enregistrements · — Repartages · — Vues
+
+Engagement observé: 2026-09-13T17:23:24.288043+00:00 · Source vérifiée: 2026-09-13T17:54:27.409Z
+
+### Voir le libellé source
+
+```text
+Create a premium modern travel poster for [CITY, COUNTRY], inspired by bold vintage screen-print and mid-century graphic design, but with an original architectural portal composition.
+
+Place a large distinctive [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH] in the foreground, acting as a window into the destination. Through the opening, reveal a stylized layered scene featuring [ICONIC LANDMARK], [FAMOUS NATURAL FEATURE], simplified rooftops, local streets, trees, transportation, and a few subtle cultural details.
+
+Add one large bold geometric sun / moon / circle behind the main landmark, using a shape and placement that feels visually striking rather than traditional. Include 2–3 recognizable local symbols naturally within the scene instead of presenting them as separate objects.
+
+Use a limited sophisticated color palette inspired by the destination: [2–5 COLORS]. Flat geometric shapes, strong silhouettes, clean edges, subtle overlapping layers, slight screen-print texture, and elegant negative space.
+
+Add a tall integrated sign or architectural panel featuring:
+
+[CITY]
+[LOCAL SCRIPT]
+
+Include small refined editorial typography at the bottom:
+
+[COUNTRY]
+[CITY] • [COORDINATES]
+[SHORT DESTINATION PHRASE]
+
+Minimal, artistic, cohesive, collectible travel-poster aesthetic, not photorealistic, not a collage, no excessive details, sophisticated composition, strong visual hierarchy, balanced asymmetry, warm paper background, subtle print imperfections, 4:5 vertical format.
+```
+
+</details>
+
+[Retour à l'index de la galerie](#collection)
+
+---
+
 <a id="case-remove-flower-local-edit"></a><a id="user-content-case-remove-flower-local-edit"></a>
 ## Retirer un objet tenu en main
 
@@ -2031,6 +2646,356 @@ Engagement observé: 2026-09-10T16:37:42.009Z · Source vérifiée: 2026-09-10T1
 ### Voir le libellé source
 
 Le libellé source exact n'est pas archivé pour cette adaptation de l'éditeur. Consultez le lien vers le flux de travail original.
+
+</details>
+
+[Retour à l'index de la galerie](#collection)
+
+---
+
+<a id="case-annotated-fashion-lookbook"></a><a id="user-content-case-annotated-fashion-lookbook"></a>
+## Un lookbook mode annoté
+
+[English](README.md#user-content-case-annotated-fashion-lookbook) · [简体中文](README.zh-CN.md#user-content-case-annotated-fashion-lookbook) · [繁體中文](README.zh-TW.md#user-content-case-annotated-fashion-lookbook) · [日本語](README.ja.md#user-content-case-annotated-fashion-lookbook) · [한국어](README.ko.md#user-content-case-annotated-fashion-lookbook) · [Français](README.fr.md#user-content-case-annotated-fashion-lookbook) · [Deutsch](README.de.md#user-content-case-annotated-fashion-lookbook) · [Español](README.es.md#user-content-case-annotated-fashion-lookbook) · [Português (Brasil)](README.pt-BR.md#user-content-case-annotated-fashion-lookbook)
+
+<a href="https://x.com/LiEvanna85716/status/2097663816339427547"><img src="https://pbs.twimg.com/media/HRxjvncaQAAIuVQ.jpg" width="640" alt="Un lookbook mode annoté — LiEvanna85716 — source result — Résultat de la source" loading="lazy"></a>
+
+Placez des étiquettes de vêtements lisibles autour d'une tenue complète avec une hiérarchie de catalogue claire.
+
+**Prompt original · Texte vers image · Non testé indépendamment**
+
+### Entrées requises
+
+Aucune image de référence n'est spécifiée par la source.
+
+<details>
+<summary>Prompt</summary>
+
+
+
+```text
+Créez une affiche lookbook e-commerce de mode épurée mettant en vedette une jeune mannequin féminine dans une tenue d'automne simple et mignonne.
+Utilisez un fond dégradé rose pastel, bleu et lavande. Gardez le design général minimal, épuré et légèrement ludique, comme un catalogue de mode coréen/japonais moderne.
+
+Montrez le modèle complet du corps comme objectif principal, avec une peau réaliste, des proportions naturelles et des détails vestimentaires clairs. La tenue doit être simple et portable : cardigan ou sweat à capuche, haut ajusté, short ou jupe plissée, chaussettes et baskets/chaussures Mary Jane.
+
+Ajoutez des annotations manuscrites en anglais avec de fines flèches pointant vers des vêtements individuels, telles que « Cardigan », « Polo Shirt », « Shorts », « Sneakers » et « Bag ».
+
+Ajoutez un titre de mode anglais audacieux en haut : « AUTUMN DAILY OUTFIT », ainsi que quelques petites phrases anglaises décoratives telles que « NEW SEASON 2026 », « SIMPLE · COMFY · BETTER ME » et « OUTFIT IDEAS FOR A BRIGHTER YOU ».
+
+Utilisez un cadre rectangulaire structuré autour du contenu principal, des coins arrondis subtils, beaucoup d'espace négatif et seulement quelques gribouillages minimes en forme de cœur/étoile.
+
+L'image finale doit ressembler à une affiche de campagne de commerce électronique de mode soignée : typographie minimale, jeune, réaliste et très lisible, présentation du produit propre, non encombrée, avec la tenue comme point visuel.
+
+Composition verticale 3:4, photographie de mode commerciale haute résolution.
+```
+
+[Parcourir la galerie en ligne](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--fr--annotated-fashion-lookbook)
+
+</details>
+
+### Adapter à votre besoin
+
+Remplacez le sujet et le décor ; conservez la composition et le texte exact nécessaires.
+
+### Notes
+
+- Remplacez les noms des vêtements et les détails de la tenue afin que les flèches correspondent aux vêtements réels. Conservez la copie anglaise citée si vous souhaitez le design original. Examinez chaque étiquette et chaque flèche ; l'exemple n'établit pas l'exactitude du produit. Le premier résultat montre deux chiffres et modifie certaines formulations de titres demandées.
+
+<details>
+<summary>Sources et statistiques datées</summary>
+
+**Révision éditoriale: 85/100 · 2026-09-13T17:54:27.409Z**
+
+[Révision éditoriale](docs/CURATION.md)
+
+[@LiEvanna85716](https://x.com/LiEvanna85716/status/2097663816339427547) · [Source du prompt ou du flux de travail](https://x.com/LiEvanna85716/status/2097663816339427547) · [Déclaration du créateur sur le modèle](https://x.com/LiEvanna85716/status/2097663816339427547)
+
+Langue source du prompt: **en** · Langue de la publication: **zh**
+
+4 J'aime · — Enregistrements · — Repartages · — Vues
+
+Engagement observé: 2026-09-13T17:22:12.769876+00:00 · Source vérifiée: 2026-09-13T17:54:27.409Z
+
+### Voir le libellé source
+
+```text
+Create a clean fashion e-commerce lookbook poster featuring a young female model in a cute, simple autumn outfit.
+Use a soft pastel pink, blue and lavender gradient background. Keep the overall design minimal, clean and slightly playful, like a modern Korean/Japanese fashion catalog.
+
+Show the full-body model as the main focus, with realistic skin, natural proportions and clear clothing details. The outfit should be simple and wearable: cardigan or hoodie, fitted top, shorts or pleated skirt, socks and sneakers/Mary Jane shoes.
+
+Add handwritten English annotations with thin arrows pointing to individual clothing pieces, such as “Cardigan”, “Polo Shirt”, “Shorts”, “Sneakers” and “Bag”.
+
+Add a bold English fashion headline at the top: “AUTUMN DAILY OUTFIT”, plus a few small decorative English phrases such as “NEW SEASON 2026”, “SIMPLE · COMFY · BETTER ME” and “OUTFIT IDEAS FOR A BRIGHTER YOU”.
+
+Use a structured rectangular frame around the main content, subtle rounded corners, plenty of negative space, and only a few minimal heart/star doodles.
+
+The final image should feel like a polished fashion e-commerce campaign poster — minimal, youthful, realistic, highly readable typography, clean product presentation, not cluttered, with the outfit as the visual focus.
+
+Vertical 3:4 composition, high-resolution commercial fashion photography.
+```
+
+</details>
+
+[Retour à l'index de la galerie](#collection)
+
+---
+
+<a id="case-market-opportunity-slide"></a><a id="user-content-case-market-opportunity-slide"></a>
+## Une diapositive de taille de marché à partir d'entrées explicites
+
+[English](README.md#user-content-case-market-opportunity-slide) · [简体中文](README.zh-CN.md#user-content-case-market-opportunity-slide) · [繁體中文](README.zh-TW.md#user-content-case-market-opportunity-slide) · [日本語](README.ja.md#user-content-case-market-opportunity-slide) · [한국어](README.ko.md#user-content-case-market-opportunity-slide) · [Français](README.fr.md#user-content-case-market-opportunity-slide) · [Deutsch](README.de.md#user-content-case-market-opportunity-slide) · [Español](README.es.md#user-content-case-market-opportunity-slide) · [Português (Brasil)](README.pt-BR.md#user-content-case-market-opportunity-slide)
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts"><img src="https://developers.openai.com/images/platform/guides/image-prompting/market-opportunity-slide-gpt-image-2-5-sunburst.webp" width="640" alt="Une diapositive de taille de marché à partir d'entrées explicites — OpenAI — source result — Résultat de la source" loading="lazy"></a>
+
+Contrôlez la hiérarchie des diapositives avec des diagrammes nommés, des figures fixes, des étiquettes et des notes de bas de page.
+
+**Prompt original · Texte vers image · Non testé indépendamment**
+
+### Entrées requises
+
+Aucune image de référence n'est spécifiée par la source.
+
+<details>
+<summary>Prompt</summary>
+
+
+
+```text
+Créez une diapositive de pitch-deck intitulée **"Market Opportunity"** qui ressemble à une véritable diapositive de collecte de fonds de série A d'une startup soutenue par YC.
+
+Utilisez un fond blanc épuré, une typographie sans empattement moderne comme Inter et une mise en page nette et minimale. La diapositive doit inclure :
+
+* Un diagramme de cercles concentriques TAM/SAM/SOM en bleus et gris atténués
+* Chiffres précis et crédibles sur la taille du marché :
+
+* **TAM :** $42B
+  * **SAM :** $8.7B
+  * **SOM :** $340M
+* Un graphique à barres ci-dessous montre la croissance du marché de **2021 à 2026**, avec une subtile tendance à la hausse.
+* Petites notes de bas de page : **"AGI Research, 2024"** et **"Internal analysis"**
+* Un espace réservé au logo de l'entreprise dans le coin inférieur droit
+
+La conception doit donner l'impression qu'elle appartient à un deck qui a réellement collecté des fonds : texte très lisible, hiérarchie de données claire, espacement soigné et langage visuel professionnel de style startup.
+
+Évitez les images clipart, les photographies d'archives, les dégradés, les ombres, les éléments décoratifs ou tout ce qui semble générique ou surconçu.
+```
+
+[Parcourir la galerie en ligne](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--fr--market-opportunity-slide)
+
+</details>
+
+### Adapter à votre besoin
+
+Remplacez le sujet et le décor ; conservez la composition et le texte exact nécessaires.
+
+### Notes
+
+- Tous les chiffres du marché et les citations dans cet exemple source sont des entrées de conception fictives. Remplacez-les par des données vérifiées et des sources réelles avant utilisation. Une image générée n’est pas une diapositive modifiable ni un résultat de collecte de fonds. L'invite ne donne aucune valeur annuelle pour le graphique de croissance, ne traitez donc pas ce graphique comme des données. Paramètres source : 1536 x 864, haute qualité. L'exemple invente également un logo au lieu de laisser un espace réservé.
+
+<details>
+<summary>Sources et statistiques datées</summary>
+
+**Révision éditoriale: 85/100 · 2026-09-13T17:54:27.409Z**
+
+[Révision éditoriale](docs/CURATION.md)
+
+[OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts) · [Source du prompt ou du flux de travail](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts) · [Déclaration du créateur sur le modèle](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts)
+
+Langue source du prompt: **en** · Langue de la publication: **en**
+
+— J'aime · — Enregistrements · — Repartages · — Vues
+
+Engagement observé: 2026-09-13T17:54:27.409Z · Source vérifiée: 2026-09-13T17:54:27.409Z
+
+### Voir le libellé source
+
+```text
+Create one pitch-deck slide titled **"Market Opportunity"** that feels like a real Series A fundraising slide from a YC-backed startup.
+
+Use a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:
+
+* A TAM/SAM/SOM concentric-circle diagram in muted blues and grays
+* Specific, believable market sizing numbers:
+
+  * **TAM:** $42B
+  * **SAM:** $8.7B
+  * **SOM:** $340M
+* A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend
+* Small footnotes: **"AGI Research, 2024"** and **"Internal analysis"**
+* A company logo placeholder in the bottom-right corner
+
+The design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.
+
+Avoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.
+```
+
+</details>
+
+[Retour à l'index de la galerie](#collection)
+
+---
+
+<a id="case-nostalgic-holiday-card"></a><a id="user-content-case-nostalgic-holiday-card"></a>
+## Une carte de vœux avec un message précis
+
+[English](README.md#user-content-case-nostalgic-holiday-card) · [简体中文](README.zh-CN.md#user-content-case-nostalgic-holiday-card) · [繁體中文](README.zh-TW.md#user-content-case-nostalgic-holiday-card) · [日本語](README.ja.md#user-content-case-nostalgic-holiday-card) · [한국어](README.ko.md#user-content-case-nostalgic-holiday-card) · [Français](README.fr.md#user-content-case-nostalgic-holiday-card) · [Deutsch](README.de.md#user-content-case-nostalgic-holiday-card) · [Español](README.es.md#user-content-case-nostalgic-holiday-card) · [Português (Brasil)](README.pt-BR.md#user-content-case-nostalgic-holiday-card)
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card"><img src="https://developers.openai.com/images/platform/guides/image-prompting/christmas-holiday-card-teddy-gpt-image-2-5-sunburst.webp" width="640" alt="Une carte de vœux avec un message précis — OpenAI — source result — Résultat de la source" loading="lazy"></a>
+
+Combinez une scène axée sur le matériel avec une ligne exacte et exclusive de copies de cartes de vœux.
+
+**Prompt original · Texte vers image · Non testé indépendamment**
+
+### Entrées requises
+
+Aucune image de référence n'est spécifiée par la source.
+
+<details>
+<summary>Prompt</summary>
+
+
+
+```text
+Créez une illustration de carte de vœux de Noël.
+
+Scène :
+une scène de Noël chaleureuse avec un vieil ours en peluche assis dans une boîte à souvenirs, une fourrure légèrement usée, des coutures douces réparées, placé près d'une fenêtre avec de la neige qui tombe à l'extérieur. La scène suggère que l'enfant a grandi, mais les souvenirs demeurent.
+
+Humeur :
+Chaleureux, nostalgique, doux, émouvant.
+
+Style :
+Photographie de cartes de vœux haut de gamme, éclairage cinématographique doux,
+textures réalistes, faible profondeur de champ,
+lumières bokeh de bon goût, composition de haute qualité d'impression.
+
+Contraintes :
+- Oeuvre originale uniquement
+- Aucune marque déposée
+- Pas de filigrane
+- Pas de logo
+
+Incluez UNIQUEMENT le texte de cette carte (textuellement) :
+"Merry Christmas — some memories never fade."
+```
+
+[Parcourir la galerie en ligne](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--fr--nostalgic-holiday-card)
+
+</details>
+
+### Adapter à votre besoin
+
+Remplacez le sujet et le décor ; conservez la composition et le texte exact nécessaires.
+
+### Notes
+
+- Conservez le texte de la carte cité inchangé lors de la traduction de l'invite, ou remplacez-le délibérément pour votre public. Vérifiez la ponctuation et la résolution de sortie avant l’impression. Le résultat est une image plate et non un fichier de carte pliée prêt à imprimer. Paramètres source : 1024x1536, qualité moyenne. Une très petite écriture manuscrite est visible sur la boîte malgré les instructions en texte UNIQUEMENT.
+
+<details>
+<summary>Sources et statistiques datées</summary>
+
+**Révision éditoriale: 85/100 · 2026-09-13T17:54:27.409Z**
+
+[Révision éditoriale](docs/CURATION.md)
+
+[OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card) · [Source du prompt ou du flux de travail](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card) · [Déclaration du créateur sur le modèle](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card)
+
+Langue source du prompt: **en** · Langue de la publication: **en**
+
+— J'aime · — Enregistrements · — Repartages · — Vues
+
+Engagement observé: 2026-09-13T17:54:27.409Z · Source vérifiée: 2026-09-13T17:54:27.409Z
+
+### Voir le libellé source
+
+```text
+Create a Christmas holiday card illustration.
+
+Scene:
+a cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.
+
+Mood:
+Warm, nostalgic, gentle, emotional.
+
+Style:
+Premium holiday card photography, soft cinematic lighting,
+realistic textures, shallow depth of field,
+tasteful bokeh lights, high print-quality composition.
+
+Constraints:
+- Original artwork only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this card text (verbatim):
+"Merry Christmas — some memories never fade."
+```
+
+</details>
+
+[Retour à l'index de la galerie](#collection)
+
+---
+
+<a id="case-laptop-screen-local-replacement"></a><a id="user-content-case-laptop-screen-local-replacement"></a>
+## Remplacer uniquement le contenu d’un écran d’ordinateur portable
+
+[English](README.md#user-content-case-laptop-screen-local-replacement) · [简体中文](README.zh-CN.md#user-content-case-laptop-screen-local-replacement) · [繁體中文](README.zh-TW.md#user-content-case-laptop-screen-local-replacement) · [日本語](README.ja.md#user-content-case-laptop-screen-local-replacement) · [한국어](README.ko.md#user-content-case-laptop-screen-local-replacement) · [Français](README.fr.md#user-content-case-laptop-screen-local-replacement) · [Deutsch](README.de.md#user-content-case-laptop-screen-local-replacement) · [Español](README.es.md#user-content-case-laptop-screen-local-replacement) · [Português (Brasil)](README.pt-BR.md#user-content-case-laptop-screen-local-replacement)
+
+<a href="https://x.com/ai_kairos_jp/status/2097679848475099159"><img src="https://pbs.twimg.com/media/HRx0ef9aAAAW7Tv.jpg" width="640" alt="Remplacer uniquement le contenu d’un écran d’ordinateur portable — ai_kairos_jp — source result — Résultat de la source" loading="lazy"></a>
+
+Ciblez un écran tout en listant les objets environnants qui doivent rester inchangés.
+
+**Prompt original · Modification avec référence · Non testé indépendamment**
+
+### Entrées requises
+
+- Téléchargez une photo de pièce contenant un ordinateur portable, puis marquez l'écran de l'ordinateur portable comme cible de modification.
+
+<details>
+<summary>Prompt</summary>
+
+
+
+```text
+Remplacez le tableur par un diagramme de flux d’automatisation. Ne modifiez ni le bureau, ni les notes adhésives, ni l’éclairage, ni la vue nocturne par la fenêtre.
+```
+
+[Parcourir la galerie en ligne](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--fr--laptop-screen-local-replacement)
+
+</details>
+
+### Adapter à votre besoin
+
+Fournissez vos références, précisez leur rôle et distinguez les éléments à modifier de ceux à préserver.
+
+### Notes
+
+- L'auteur a marqué l'écran de l'ordinateur portable avant de le modifier. Fournissez votre propre photo de pièce et marquez la zone cible. La source signale de petits changements en dehors de l'écran ; il ne s’agit pas d’une garantie de préservation des pixels ni d’une mesure de référentiel.
+
+<details>
+<summary>Sources et statistiques datées</summary>
+
+**Révision éditoriale: 83.75/100 · 2026-09-13T17:54:27.409Z**
+
+[Révision éditoriale](docs/CURATION.md)
+
+[@ai_kairos_jp](https://x.com/ai_kairos_jp/status/2097679848475099159) · [Source du prompt ou du flux de travail](https://x.com/ai_kairos_jp/status/2097679848475099159) · [Déclaration du créateur sur le modèle](https://x.com/ai_kairos_jp/status/2097679848475099159)
+
+Langue source du prompt: **ja** · Langue de la publication: **ja**
+
+1 J'aime · — Enregistrements · — Repartages · — Vues
+
+Engagement observé: 2026-09-13T17:22:20.223812+00:00 · Source vérifiée: 2026-09-13T17:54:27.409Z
+
+### Voir le libellé source
+
+```text
+表計算を自動化フロー図に。机・付箋・照明・窓の夜景は変えないで
+```
 
 </details>
 
@@ -2758,6 +3723,69 @@ Engagement observé: 2026-09-10T15:24:57.746Z · Source vérifiée: 2026-09-10T1
 ### Voir le libellé source
 
 Le libellé source exact n'est pas archivé pour cette adaptation de l'éditeur. Consultez le lien vers le flux de travail original.
+
+</details>
+
+[Retour à l'index de la galerie](#collection)
+
+---
+
+<a id="case-isometric-spatial-relations"></a><a id="user-content-case-isometric-spatial-relations"></a>
+## Un test de relations spatiales en vue isométrique
+
+[English](README.md#user-content-case-isometric-spatial-relations) · [简体中文](README.zh-CN.md#user-content-case-isometric-spatial-relations) · [繁體中文](README.zh-TW.md#user-content-case-isometric-spatial-relations) · [日本語](README.ja.md#user-content-case-isometric-spatial-relations) · [한국어](README.ko.md#user-content-case-isometric-spatial-relations) · [Français](README.fr.md#user-content-case-isometric-spatial-relations) · [Deutsch](README.de.md#user-content-case-isometric-spatial-relations) · [Español](README.es.md#user-content-case-isometric-spatial-relations) · [Português (Brasil)](README.pt-BR.md#user-content-case-isometric-spatial-relations)
+
+<a href="https://x.com/Hyperouters/status/2097654503692443744"><img src="https://pbs.twimg.com/media/HRxdlK0WAAAs0PG.jpg" width="640" alt="Un test de relations spatiales en vue isométrique — Hyperouters — source result — Résultat de la source" loading="lazy"></a>
+
+Spécifiez les relations intérieures, extérieures, proches et lointaines dans un volume de référence transparent.
+
+**Prompt original · Texte vers image · Non testé indépendamment**
+
+### Entrées requises
+
+Aucune image de référence n'est spécifiée par la source.
+
+<details>
+<summary>Prompt</summary>
+
+
+
+```text
+Un cube en verre transparent : placez une sphère rouge à l’intérieur en haut à gauche à l’arrière, une bleue à l’intérieur en bas à droite à l’avant, une verte à l’extérieur juste au-dessus, et un cylindre jaune traversant du bas gauche vers le haut droit. Utilisez une vue isométrique.
+```
+
+[Parcourir la galerie en ligne](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--fr--isometric-spatial-relations)
+
+</details>
+
+### Adapter à votre besoin
+
+Remplacez le sujet et le décor ; conservez la composition et le texte exact nécessaires.
+
+### Notes
+
+- La source décrit des positions relatives plutôt que des coordonnées numériques. Vérifiez chaque objet et occlusion séparément ; ne déduisez pas l’exactitude physique ou technique de l’illustration.
+
+<details>
+<summary>Sources et statistiques datées</summary>
+
+**Révision éditoriale: 81.25/100 · 2026-09-13T17:54:27.409Z**
+
+[Révision éditoriale](docs/CURATION.md)
+
+[@Hyperouters](https://x.com/Hyperouters/status/2097654503692443744) · [Source du prompt ou du flux de travail](https://x.com/Hyperouters/status/2097654503692443744) · [Déclaration du créateur sur le modèle](https://x.com/Hyperouters/status/2097654503692443744)
+
+Langue source du prompt: **zh** · Langue de la publication: **zh**
+
+2 J'aime · — Enregistrements · — Repartages · — Vues
+
+Engagement observé: 2026-09-13T17:22:19.353485+00:00 · Source vérifiée: 2026-09-13T17:54:27.409Z
+
+### Voir le libellé source
+
+```text
+透明玻璃立方体：红球内部左后上，蓝球内部右前下，绿球外部正上方，黄柱从左下穿到右上。还要求等距透视。
+```
 
 </details>
 
@@ -4638,6 +5666,69 @@ If your environment cannot create or attach an animated GIF or ZIP, clearly stat
 
 ---
 
+<a id="case-mediterranean-alien-settlement"></a><a id="user-content-case-mediterranean-alien-settlement"></a>
+## Un futur habitat d’inspiration méditerranéenne
+
+[English](README.md#user-content-case-mediterranean-alien-settlement) · [简体中文](README.zh-CN.md#user-content-case-mediterranean-alien-settlement) · [繁體中文](README.zh-TW.md#user-content-case-mediterranean-alien-settlement) · [日本語](README.ja.md#user-content-case-mediterranean-alien-settlement) · [한국어](README.ko.md#user-content-case-mediterranean-alien-settlement) · [Français](README.fr.md#user-content-case-mediterranean-alien-settlement) · [Deutsch](README.de.md#user-content-case-mediterranean-alien-settlement) · [Español](README.es.md#user-content-case-mediterranean-alien-settlement) · [Português (Brasil)](README.pt-BR.md#user-content-case-mediterranean-alien-settlement)
+
+<a href="https://x.com/wonder_villas/status/2097869977890017784"><img src="https://pbs.twimg.com/media/HR0hm_uWsAAbl8I.jpg" width="640" alt="Un futur habitat d’inspiration méditerranéenne — wonder_villas — source result — Résultat de la source" loading="lazy"></a>
+
+Combinez une tradition architecturale avec un cadre sobre du futur pour l’exploration de concepts.
+
+**Prompt original · Texte vers image · Non testé indépendamment**
+
+### Entrées requises
+
+Aucune image de référence n'est spécifiée par la source.
+
+<details>
+<summary>Prompt</summary>
+
+
+
+```text
+Un monde extraterrestre lointain, dans un siècle, où les humains se sont installés et ont construit une nouvelle civilisation mêlant une architecture d'inspiration méditerranéenne à une subtile esthétique rétro-futuriste.
+```
+
+[Parcourir la galerie en ligne](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--fr--mediterranean-alien-settlement)
+
+</details>
+
+### Adapter à votre besoin
+
+Remplacez le sujet et le décor ; conservez la composition et le texte exact nécessaires.
+
+### Notes
+
+- Ce court mémoire laisse les dispositions et les matériaux du bâtiment ouverts au modèle. Utilisez-le pour explorer l’ambiance architecturale ; il ne fournit pas de dimensions, de plans d'étage ou de conception constructible.
+
+<details>
+<summary>Sources et statistiques datées</summary>
+
+**Révision éditoriale: 67.5/100 · 2026-09-13T17:54:27.409Z**
+
+[Révision éditoriale](docs/CURATION.md)
+
+[@wonder_villas](https://x.com/wonder_villas/status/2097869977890017784) · [Source du prompt ou du flux de travail](https://x.com/wonder_villas/status/2097869977890017784) · [Déclaration du créateur sur le modèle](https://x.com/wonder_villas/status/2097869977890017784)
+
+Langue source du prompt: **en** · Langue de la publication: **en**
+
+1 J'aime · — Enregistrements · — Repartages · — Vues
+
+Engagement observé: 2026-09-13T17:23:13.356247+00:00 · Source vérifiée: 2026-09-13T17:54:27.409Z
+
+### Voir le libellé source
+
+```text
+A distant alien world, a century from now, where humans have settled and built a new civilisation blending Mediterranean-inspired architecture with a subtle retro-futurist aesthetic.
+```
+
+</details>
+
+[Retour à l'index de la galerie](#collection)
+
+---
+
 <a id="case-robot-sequential-edits"></a><a id="user-content-case-robot-sequential-edits"></a>
 ## Un robot à travers neuf montages successifs
 
@@ -5192,6 +6283,74 @@ Engagement observé: 2026-09-10T15:31:42.777Z · Source vérifiée: 2026-09-10T1
 
 ```text
 turn it into a future building
+```
+
+</details>
+
+</details>
+
+[Retour à l'index de la galerie](#collection)
+
+---
+
+<a id="case-personal-enamel-pin-set"></a><a id="user-content-case-personal-enamel-pin-set"></a>
+## Huit pins demandés, dix dans le résultat
+
+[English](README.md#user-content-case-personal-enamel-pin-set) · [简体中文](README.zh-CN.md#user-content-case-personal-enamel-pin-set) · [繁體中文](README.zh-TW.md#user-content-case-personal-enamel-pin-set) · [日本語](README.ja.md#user-content-case-personal-enamel-pin-set) · [한국어](README.ko.md#user-content-case-personal-enamel-pin-set) · [Français](README.fr.md#user-content-case-personal-enamel-pin-set) · [Deutsch](README.de.md#user-content-case-personal-enamel-pin-set) · [Español](README.es.md#user-content-case-personal-enamel-pin-set) · [Português (Brasil)](README.pt-BR.md#user-content-case-personal-enamel-pin-set)
+
+<details>
+<summary>Exemple pédagogique — Exemples à contextualiser</summary>
+
+<a href="https://x.com/miratechtool/status/2097710852413497646"><img src="https://pbs.twimg.com/media/HRyQ5SpXgAA9LW9.jpg" width="640" alt="Huit pins demandés, dix dans le résultat — miratechtool — source result — Résultat de la source" loading="lazy"></a>
+
+Attribuez un nombre d’éléments fixe à un portrait, deux épingles de texte et cinq objets symboliques.
+
+**Prompt original · Modification avec référence · Non testé indépendamment**
+
+### Entrées requises
+
+- Téléchargez une référence de portrait claire et indiquez le nom du personnage, le mot de personnalité et cinq centres d'intérêt.
+
+<details>
+<summary>Prompt</summary>
+
+
+
+```text
+Créez une collection d'épingles en émail hyperréaliste dans une composition verticale 4:5 sur un fond texturé sombre.Concevez exactement des épingles premium séparées 8 avec des contours en métal doré poli, des surfaces brillantes en émail dur, des bords subtilement surélevés, des reflets réalistes et des ombres douces.L'épingle centrale principale de taille moyenne est un portrait de [CHARACTER], préservant le visage, la coiffure, le teint, l'expression, les vêtements et les caractéristiques clés reconnaissables de l'image de référence tout en les traduisant en une illustration détaillée en émail de qualité supérieure.Ajoutez une petite épinglette de nom 1 indiquant « [NAME] » et une petite épinglette de mot de personnalité 1 indiquant « [WORD] ».Les épinglettes 5 restantes doivent représenter les intérêts et le style de vie de [CHARACTER], tels que le travail créatif, l'IA/la technologie, la création visuelle, la photographie, les voyages, l'amitié, les loisirs ou les objets du quotidien, en utilisant des illustrations symboliques intelligentes plutôt qu'un texte excessif.Disposez tout de manière organique autour du portrait avec des formes et des tailles d'épingles variées, un espacement généreux et aucune grille rigide.Utilisez des couleurs vives, plates et vives avec un contraste sophistiqué, des détails nets, une profondeur métallique réaliste et un éclairage de produits commerciaux haut de gamme.Donnez-lui l'impression d'être un ensemble de broches de créateur en édition limitée photographié dans un studio : moderne, dynamique, personnel, à collectionner et instantanément accrocheur.Pas de noms de villes ou de points de repère spécifiques, pas d'épingles en double, pas de fouillis, pas de texte aléatoire, pas de fautes d'orthographe, pas de dessin animé bon marché ou d'apparence plastique.
+```
+
+[Parcourir la galerie en ligne](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--fr--personal-enamel-pin-set)
+
+</details>
+
+### Adapter à votre besoin
+
+Fournissez vos références, précisez leur rôle et distinguez les éléments à modifier de ceux à préserver.
+
+### Notes
+
+- Un échec instructif : le résultat contient 10 pins au lieu de 8, ainsi que du texte supplémentaire et des monuments reconnaissables pourtant interdits. Exercez-vous à compter les objets et à vérifier les exclusions. Importez un portrait que vous avez le droit d’utiliser et remplacez [CHARACTER], [NAME] et [WORD]. Il s’agit d’un concept visuel, pas d’un fichier de fabrication.
+
+<details>
+<summary>Sources et statistiques datées</summary>
+
+**Révision éditoriale: 62.5/100 · 2026-09-13T17:54:27.409Z**
+
+[Révision éditoriale](docs/CURATION.md)
+
+[@miratechtool](https://x.com/miratechtool/status/2097710852413497646) · [Source du prompt ou du flux de travail](https://x.com/miratechtool/status/2097710852413497646) · [Déclaration du créateur sur le modèle](https://x.com/miratechtool/status/2097710852413497646)
+
+Langue source du prompt: **en** · Langue de la publication: **en**
+
+28 J'aime · — Enregistrements · — Repartages · — Vues
+
+Engagement observé: 2026-09-13T17:22:11.067443+00:00 · Source vérifiée: 2026-09-13T17:54:27.409Z
+
+### Voir le libellé source
+
+```text
+Create a hyper-realistic enamel pin collection in a vertical 4:5 composition on a dark textured background. Design exactly 8 separate premium pins with polished gold-metal outlines, glossy hard-enamel surfaces, subtle raised edges, realistic reflections, and soft shadows. The main medium-sized center pin is a portrait of [CHARACTER], preserving the reference image’s recognizable face, hairstyle, skin tone, expression, clothing, and key features while translating them into a detailed premium enamel illustration. Add 1 small name pin reading “[NAME]” and 1 small personality-word pin reading “[WORD]”. The remaining 5 pins should represent [CHARACTER]’s interests and lifestyle, such as creative work, AI/technology, visual creation, photography, travel, friendship, hobbies, or everyday objects, using clever symbolic illustrations rather than excessive text. Arrange everything organically around the portrait with varied pin shapes and sizes, generous spacing, and no rigid grid. Use bold, flat, bright colors with sophisticated contrast, crisp details, realistic metallic depth, and high-end commercial product lighting. Make it feel like a limited-edition designer pin set photographed in a studio—modern, vibrant, personal, collectible, and instantly eye-catching. No city names or specific landmarks, no duplicated pins, no clutter, no random text, no misspellings, no cheap cartoon or plastic appearance.
 ```
 
 </details>

@@ -1,0 +1,140 @@
+{
+  "id": "bakery-logo-transparent",
+  "title": {
+    "en": "A bakery logo with clean alpha edges",
+    "zh-CN": "烘焙品牌透明背景标志",
+    "zh-TW": "帶有乾淨 Alpha 邊緣的麵包店徽標",
+    "ja": "きれいなアルファエッジを持つベーカリーのロゴ",
+    "ko": "깔끔한 알파 가장자리가 있는 베이커리 로고",
+    "fr": "Un logo de boulangerie avec des bords alpha nets",
+    "de": "Ein Bäckerei-Logo mit sauberen Alpha-Kanten",
+    "es": "Un logotipo de panadería con bordes alfa limpios",
+    "pt-BR": "Um logotipo de padaria com bordas alfa limpas"
+  },
+  "summary": {
+    "en": "Design a simple brand mark that remains legible at different sizes.",
+    "zh-CN": "设计简洁的烘焙品牌标志，兼顾大小尺寸下的辨识度。",
+    "zh-TW": "設計簡潔的烘焙品牌標誌，兼顧大小尺寸下的辨識度。",
+    "ja": "さまざまなサイズで読みやすい、シンプルなブランド マークをデザインします。",
+    "ko": "다양한 크기에서도 쉽게 읽을 수 있는 간단한 브랜드 마크를 디자인하세요.",
+    "fr": "Concevez une marque simple qui reste lisible à différentes tailles.",
+    "de": "Entwerfen Sie ein einfaches Markenzeichen, das in verschiedenen Größen lesbar bleibt.",
+    "es": "Diseñe una marca de marca sencilla que permanezca legible en diferentes tamaños.",
+    "pt-BR": "Crie uma marca de marca simples que permaneça legível em diferentes tamanhos."
+  },
+  "category": "design",
+  "tags": [
+    "official-guide",
+    "design",
+    "transparency"
+  ],
+  "mode": "generate",
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": "sunburst",
+    "evidence_url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo",
+    "evidence": "The official guide labels this linked output GPT Image 2.5 Sunburst. It is not a repository generation."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "Create an original, non-infringing logo for a company called Field & Flour, a local bakery.\nThe logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.\nFavor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.\nFully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.",
+        "zh-CN": "为一家名为 Field & Flour 的当地面包店创建一个原创的非侵权徽标。\n标志应该给人温暖、简单和永恒的感觉。使用干净的矢量形状、鲜明的轮廓和平衡的负空间。\n注重简单而不是细节，这样在小尺寸和大尺寸下都可以清晰辨认。扁平化设计，最少的笔画，除非必要，否则没有渐变。\n完全透明的背景。提供单一居中徽标，具有充足的留白、干净的 Alpha 边缘，并且没有纯色背景、风景、棋盘或水印。",
+        "zh-TW": "為一家名為 Field & Flour 的當地麵包店創建一個原創的非侵權徽標。\n標誌應該給人溫暖、簡單和永恆的感覺。使用乾淨的矢量形狀、鮮明的輪廓和平衡的負空間。\n注重簡單而不是細節，這樣在小尺寸和大尺寸下都可以清晰辨認。扁平化設計，最少的筆畫，除非必要，否則沒有漸變。\n完全透明的背景。提供單一居中徽標，具有充足的留白、乾淨的 Alpha 邊緣，並且沒有純色背景、風景、棋盤或水印。",
+        "ja": "地元のパン屋である Field & Flour という会社のオリジナルの非侵害ロゴを作成します。\nロゴは温かみがあり、シンプルで、時代を超越したものでなければなりません。きれいなベクターのような形状、力強いシルエット、バランスの取れたネガティブ スペースを使用します。\n小さいサイズでも大きいサイズでもはっきりと読めるように、詳細よりもシンプルさを優先します。フラットなデザイン、最小限のストローク、必須でない限りグラデーションなし。\n完全に透明な背景。十分なパディング、きれいなアルファエッジを備え、無地の背景、風景、チェッカーボード、または透かしを含まない、中央に配置された単一のロゴを提供します。",
+        "ko": "지역 빵집인 Field & Flour라는 회사의 독창적이고 침해하지 않는 로고를 만듭니다.\n로고는 따뜻하고 단순하며 시대를 초월한 느낌을 주어야 합니다. 깔끔하고 벡터 같은 모양, 강한 실루엣, 균형 잡힌 네거티브 공간을 사용하세요.\n작은 크기와 큰 크기 모두에서 명확하게 읽을 수 있도록 세부 사항보다 단순성을 선호합니다. 평면 디자인, 최소한의 스트로크, 꼭 필요한 경우를 제외하고는 그라데이션이 없습니다.\n완전히 투명한 배경. 넉넉한 패딩, 깔끔한 알파 가장자리, 단색 배경, 풍경, 체커보드 또는 워터마크가 없는 단일 중앙 로고를 제공하세요.",
+        "fr": "Créez un logo original et non contrefait pour une entreprise appelée Field & Flour, une boulangerie locale.\nLe logo doit être chaleureux, simple et intemporel. Utilisez des formes épurées et vectorielles, une silhouette forte et un espace négatif équilibré.\nPrivilégiez la simplicité aux détails pour une lecture claire dans les petites et grandes tailles. Design plat, traits minimaux, pas de dégradés sauf si cela est essentiel.\nFond entièrement transparent. Produisez un logo unique centré avec un rembourrage généreux, des bords alpha nets et sans fond, décor, damier ou filigrane uni.",
+        "de": "Erstellen Sie ein originelles, nicht rechtsverletzendes Logo für ein Unternehmen namens Field & Flour, eine örtliche Bäckerei.\nDas Logo sollte warm, schlicht und zeitlos wirken. Verwenden Sie klare, vektorähnliche Formen, eine starke Silhouette und einen ausgewogenen Negativraum.\nBevorzugen Sie Einfachheit gegenüber Details, damit es sowohl in kleinen als auch großen Größen deutlich lesbar ist. Flaches Design, minimale Striche, keine Farbverläufe, sofern nicht unbedingt erforderlich.\nVollständig transparenter Hintergrund. Liefern Sie ein einzelnes zentriertes Logo mit großzügiger Polsterung, sauberen Alpha-Kanten und ohne festen Hintergrund, Szenerie, Schachbrettmuster oder Wasserzeichen.",
+        "es": "Cree un logotipo original y no infractor para una empresa llamada Field & Flour, una panadería local.\nEl logo debe resultar cálido, simple y atemporal. Utilice formas limpias similares a vectores, una silueta fuerte y un espacio negativo equilibrado.\nFavorezca la simplicidad sobre los detalles para que se lea claramente en tamaños pequeños y grandes. Diseño plano, trazos mínimos, sin degradados a menos que sea esencial.\nFondo totalmente transparente. Ofrezca un logotipo único centrado con un relleno generoso, bordes alfa limpios y sin fondo sólido, escenario, tablero de ajedrez ni marca de agua.",
+        "pt-BR": "Crie um logotipo original e não infrator para uma empresa chamada Field & Flour, uma padaria local.\nO logotipo deve ser aconchegante, simples e atemporal. Use formas limpas semelhantes a vetores, uma silhueta forte e espaço negativo equilibrado.\nPrefira a simplicidade aos detalhes para que seja legível em tamanhos pequenos e grandes. Design plano, traços mínimos, sem gradientes, a menos que seja essencial.\nFundo totalmente transparente. Forneça um logotipo único centralizado com preenchimento generoso, bordas alfa limpas e sem fundo sólido, cenário, tabuleiro de xadrez ou marca d'água."
+      }
+    ],
+    "original_language": "en",
+    "original_steps": [
+      "Create an original, non-infringing logo for a company called Field & Flour, a local bakery.\nThe logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.\nFavor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.\nFully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark."
+    ],
+    "preserved_literals": [
+      "Field & Flour"
+    ]
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "Replace the bakery name and brief together. The output is a raster image, not an editable vector file. Inspect the alpha edges in an editor; attribution is not trademark clearance. Source settings: 1024x1536, medium quality, transparent background, PNG.",
+      "zh-CN": "将品牌名称与设计要求一起替换。输出为栅格图像，不是可编辑的矢量文件。请在图片编辑器中检查透明通道和边缘；注明来源不等于获得商标许可。原示例设置：1024x1536、中等质量、透明背景、PNG。",
+      "zh-TW": "將品牌名稱與設計要求一起替換。輸出為柵格圖像，不是可編輯的矢量文件。請在圖片編輯器中檢查透明通道和邊緣；注明來源不等於獲得商標許可。原示例設置：1024x1536、中等質量、透明背景、PNG。",
+      "ja": "ベーカリー名と概要を一緒に置き換えます。出力はラスター イメージであり、編集可能なベクター ファイルではありません。エディターでアルファ エッジを検査します。帰属は商標の許可ではありません。ソース設定: 1024x1536、中品質、透明背景、PNG。",
+      "ko": "베이커리 이름과 브리핑을 함께 바꿔보세요. 출력은 편집 가능한 벡터 파일이 아닌 래스터 이미지입니다. 편집기에서 알파 가장자리를 검사합니다. 귀속은 상표 허가가 아닙니다. 소스 설정: 1024x1536, 중간 품질, 투명 배경, PNG.",
+      "fr": "Remplacez le nom de la boulangerie et le bref ensemble. La sortie est une image raster et non un fichier vectoriel modifiable. Inspectez les bords alpha dans un éditeur ; l'attribution n'est pas une autorisation de marque. Paramètres source : 1024x1536, qualité moyenne, fond transparent, PNG.",
+      "de": "Ersetzen Sie den Namen und die Kurzbeschreibung der Bäckerei durcheinander. Die Ausgabe ist ein Rasterbild, keine bearbeitbare Vektordatei. Überprüfen Sie die Alpha-Kanten in einem Editor. Namensnennung ist keine Markenfreigabe. Quelleinstellungen: 1024 x 1536, mittlere Qualität, transparenter Hintergrund, PNG.",
+      "es": "Reemplace el nombre de la panadería y el informe juntos. El resultado es una imagen rasterizada, no un archivo vectorial editable. Inspeccione los bordes alfa en un editor; la atribución no es autorización de marca. Configuración de origen: 1024x1536, calidad media, fondo transparente, PNG.",
+      "pt-BR": "Substitua o nome da padaria e faça resumos juntos. A saída é uma imagem rasterizada, não um arquivo vetorial editável. Inspecione as arestas alfa em um editor; atribuição não é autorização de marca registrada. Configurações de origem: 1024x1536, qualidade média, fundo transparente, PNG."
+    }
+  ],
+  "source": {
+    "platform": "documentation",
+    "author": "OpenAI",
+    "url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo",
+    "prompt_url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo",
+    "checked_at": "2026-09-13T17:54:27.409Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "post_language": "en"
+  },
+  "previews": [
+    {
+      "url": "https://developers.openai.com/images/platform/guides/image-prompting/logo-generation-1-gpt-image-2-5-sunburst.webp",
+      "kind": "source-result",
+      "credit": "OpenAI — source result",
+      "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo"
+    }
+  ],
+  "references": [],
+  "engagement": {
+    "likes": null,
+    "reposts": null,
+    "replies": null,
+    "bookmarks": null,
+    "views": null,
+    "observed_at": "2026-09-13T17:54:27.409Z",
+    "source_url": "https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo",
+    "method": "Official documentation has no social engagement counters."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and linked media remain subject to their source terms. Attribution does not grant a license to source inputs or results."
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T17:54:27.409Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 4,
+      "result": 3,
+      "usefulness": 4,
+      "clarity": 4,
+      "distinctiveness": 3
+    },
+    "rationale": "Readable bakery wordmark and simple wheat/bread silhouette at thumbnail scale. Alpha correctness and vector editability cannot be established from this preview."
+  },
+  "translation_meta": {
+    "source_digest": "5b4ba6ddf97ff79696b7173b94e13a2faf462a2aa7241cf1f67c3985a018fc88",
+    "text_digests": {
+      "zh-CN": "ebc6e9caa4deef1aef05cef7dbe88dd0abee391dbfe9c634eba82b8ae871efc1",
+      "zh-TW": "afb6c541d98343122a3c8d08e0dd4c79788d27ba58e7e508648f07f81dd13082",
+      "ja": "23e82526c2f8a5c6fb2f4e34da93868f96274264da44e9cc0c342f8379625da6",
+      "ko": "c304f11a9b01f0324bf271b7168081bde42a882164c3555521273742e2521829",
+      "fr": "d3dac1ecf8f191565f3be3cabe41a082465b2033cf927b1d70120bca8eab8962",
+      "de": "151efc190e292dd95dc82875bb2533ec8602750818161f8306f6538bd0435fbd",
+      "es": "6fa068621d68d01d4de115fca19fd2a5a3cd946d0a196582623cbb4848e98c31",
+      "pt-BR": "7b1cf773ef023c5a450595ebc070b5831b8b717eb43f4e08b1b575345858356a"
+    }
+  }
+}

@@ -7,15 +7,15 @@
 
 實用的 GPT Image 2.5 提示詞、來源範例與可重用工作流程。在本頁看圖並複製完整提示詞。
 
-**56 案例 · 9 語言** · [瀏覽線上圖庫](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=intro--zh-TW) · 維護者: [Image 2.5](https://image-2-5.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=maintainer--zh-TW)
+**70 案例 · 9 語言** · [瀏覽線上圖庫](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=intro--zh-TW) · 維護者: [Image 2.5](https://image-2-5.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=maintainer--zh-TW)
 
 ## 從這裡開始
 
+- [中文創意公司完整長頁視覺](#case-chinese-agency-page-layout) — 按比例分配各區塊高度，並為完整創意公司網頁指定中文界面文案。
 - [固定海報中的產品替換](#case-fixed-template-product-swap) — 在保留海報佈局、字體和背景的前提下，替換海報上的主要產品。
-- [三圖產品廣告參考圖](#case-three-reference-product-ad) — 產品識別、燈光和佈局參考圖需分別列出，並明確優先順序。
 - [彈跳摳圖貼紙 GIF](#case-bouncing-cutout-sticker) — 將物件轉換為透明貼紙，然後使用 Python 為該摳圖製作動畫。
-- [山谷線稿轉寫實圖](#case-drawing-to-realistic-valley) — 將線條轉化為材質和光照，同時保留布局與透視。
-- [雙參考圖合成並匹配光線](#case-reference-dog-composite) — 局部合成前明確指定主體來源圖、目標圖及放置位置。
+- [經過三次編輯的露營地草圖](#case-campsite-sketch-three-edits) — 先用草圖控制佈局，再分別調整晝夜與人物服裝。
+- [保留構圖的庭園照片調色](#case-garden-photo-color-grading) — 控制天空高光、暗部細節與植被顏色，同時要求保留原始場景。
 
 依編輯品質評估排序，不依熱度排序。分數反映資料可用性與可見範例，不代表獨立模型實測。有日期的互動資料保留在證據面板中。
 
@@ -49,9 +49,11 @@
 <a id="category-editing"></a>
 ### 編輯與修復
 
+- [保留構圖的庭園照片調色](#case-garden-photo-color-grading)
 - [雙參考圖合成並匹配光線](#case-reference-dog-composite)
 - [移除手中物體](#case-remove-flower-local-edit)
 - [保留房間布局並替換椅子](#case-wooden-chair-room-edit)
+- [僅替換筆電螢幕內容](#case-laptop-screen-local-replacement)
 - [移動房間中的一盞燈。](#case-move-the-lamp)
 - [修復低解析度影像](#case-low-resolution-restoration)
 - [一個機器人經過九個連續剪輯](#case-robot-sequential-edits)
@@ -62,12 +64,14 @@
 - [固定海報中的產品替換](#case-fixed-template-product-swap)
 - [透明產品工作室重新佈光](#case-transparent-product-relighting)
 - [廣告看板跨季節迭代](#case-billboard-seasonal-iteration)
+- [吸塑包裝的可收藏飛機](#case-collectible-airplane-packaging)
 - [協調的多產品攝影棚拍攝場景](#case-multi-product-studio-lineup)
 - [人物手持參考產品](#case-person-holding-reference-product)
 - [參考襯衫虛擬試穿](#case-reference-shirt-try-on)
 - [六色時尚廣告](#case-six-color-fashion-campaign)
 - [透明背景產品去背](#case-transparent-product-cutout)
 - [幾何體鎖定產品渲染圖](#case-geometry-locked-product-render)
+- [附註解的時尚造型手冊](#case-annotated-fashion-lookbook)
 - [風格參考產品使用者生成內容 (UGC)](#case-style-reference-product-ugc)
 - [復古電視購物廣告畫面](#case-retro-infomercial-frame)
 
@@ -80,15 +84,22 @@
 <a id="category-design"></a>
 ### 海報與編輯設計
 
+- [中文創意公司完整長頁視覺](#case-chinese-agency-page-layout)
 - [三圖產品廣告參考圖](#case-three-reference-product-ad)
+- [帶有乾淨 Alpha 邊緣的麵包店徽標](#case-bakery-logo-transparent)
 - [中式咖啡沖泡步驟圖](#case-chinese-coffee-brewing-infographic)
+- [帶有標籤的細胞呼吸講義](#case-classroom-cellular-respiration)
 - [生鮮食品行動應用使用者介面](#case-fresh-grocery-mobile-ui)
 - [資訊圖翻譯並保留版式](#case-infographic-layout-translation)
 - [長文案海報範本重用](#case-long-copy-poster-template)
 - [單一杯子的顏色和表面處理調整](#case-single-cup-material-edit)
+- [建築門戶旅行海報](#case-architectural-portal-travel-poster)
 - [五輪咖啡節海報編輯](#case-coffee-festival-poster-iterations)
+- [來自明確投入的市場規模幻燈片](#case-market-opportunity-slide)
+- [一張包含一條確切訊息的節日賀卡](#case-nostalgic-holiday-card)
 - [義式咖啡機維修手冊圖解](#case-espresso-service-manual)
 - [個性化旅遊雜誌頁面](#case-travel-magazine-page)
+- [等距視圖空間關係測試](#case-isometric-spatial-relations)
 - [手工製作的微型旅行地標](#case-miniature-travel-landmark)
 - [攝影與版畫融合旅行手帳](#case-santorini-family-travel-diary)
 - [混合字體的鄉村公告板](#case-village-notice-board)
@@ -115,17 +126,28 @@
 <a id="category-sketch"></a>
 ### 草圖引導式創作
 
+- [經過三次編輯的露營地草圖](#case-campsite-sketch-three-edits)
 - [山谷線稿轉寫實圖](#case-drawing-to-realistic-valley)
 - [根據草圖重新構圖](#case-sketch-guided-composition)
+- [地中海風格的未來定居點](#case-mediterranean-alien-settlement)
 
 <a id="mode-generate"></a>
 <details>
 <summary>文字轉圖片</summary>
 
+- [中文創意公司完整長頁視覺](#case-chinese-agency-page-layout)
+- [帶有乾淨 Alpha 邊緣的麵包店徽標](#case-bakery-logo-transparent)
 - [中式咖啡沖泡步驟圖](#case-chinese-coffee-brewing-infographic)
+- [帶有標籤的細胞呼吸講義](#case-classroom-cellular-respiration)
+- [吸塑包裝的可收藏飛機](#case-collectible-airplane-packaging)
 - [生鮮食品行動應用使用者介面](#case-fresh-grocery-mobile-ui)
 - [六色時尚廣告](#case-six-color-fashion-campaign)
+- [建築門戶旅行海報](#case-architectural-portal-travel-poster)
+- [附註解的時尚造型手冊](#case-annotated-fashion-lookbook)
+- [來自明確投入的市場規模幻燈片](#case-market-opportunity-slide)
+- [一張包含一條確切訊息的節日賀卡](#case-nostalgic-holiday-card)
 - [義式咖啡機維修手冊圖解](#case-espresso-service-manual)
+- [等距視圖空間關係測試](#case-isometric-spatial-relations)
 - [手工製作的微型旅行地標](#case-miniature-travel-landmark)
 - [攝影與版畫融合旅行手帳](#case-santorini-family-travel-diary)
 - [火山沙上的賽璐璐動畫決鬥](#case-cel-animation-duel)
@@ -134,6 +156,7 @@
 - [海濱修道院旅行寫真](#case-coastal-abbey-travel-portrait)
 - [模組機械塔](#case-modular-mechanical-tower)
 - [秋季市集海報，包含物件數量限制](#case-autumn-market-count-constraints)
+- [地中海風格的未來定居點](#case-mediterranean-alien-settlement)
 - [一張咖啡館裡的手機抓拍照片](#case-candid-cafe-photo)
 
 </details>
@@ -146,6 +169,7 @@
 - [三圖產品廣告參考圖](#case-three-reference-product-ad)
 - [透明產品工作室重新佈光](#case-transparent-product-relighting)
 - [山谷線稿轉寫實圖](#case-drawing-to-realistic-valley)
+- [保留構圖的庭園照片調色](#case-garden-photo-color-grading)
 - [資訊圖翻譯並保留版式](#case-infographic-layout-translation)
 - [長文案海報範本重用](#case-long-copy-poster-template)
 - [協調的多產品攝影棚拍攝場景](#case-multi-product-studio-lineup)
@@ -158,6 +182,7 @@
 - [移除手中物體](#case-remove-flower-local-edit)
 - [保留房間布局並替換椅子](#case-wooden-chair-room-edit)
 - [幾何體鎖定產品渲染圖](#case-geometry-locked-product-render)
+- [僅替換筆電螢幕內容](#case-laptop-screen-local-replacement)
 - [角色驅動型舞蹈姿勢圖](#case-dance-pose-keyframes)
 - [根據草圖重新構圖](#case-sketch-guided-composition)
 - [個性化旅遊雜誌頁面](#case-travel-magazine-page)
@@ -174,6 +199,7 @@
 
 - [廣告看板跨季節迭代](#case-billboard-seasonal-iteration)
 - [彈跳摳圖貼紙 GIF](#case-bouncing-cutout-sticker)
+- [經過三次編輯的露營地草圖](#case-campsite-sketch-three-edits)
 - [五輪咖啡節海報編輯](#case-coffee-festival-poster-iterations)
 - [六幀表情表演 GIF](#case-six-frame-expression-gif)
 - [風格參考產品使用者生成內容 (UGC)](#case-style-reference-product-ugc)
@@ -186,6 +212,101 @@
 - [一個機器人經過九個連續剪輯](#case-robot-sequential-edits)
 
 </details>
+
+---
+
+<a id="case-chinese-agency-page-layout"></a><a id="user-content-case-chinese-agency-page-layout"></a>
+## 中文創意公司完整長頁視覺
+
+[English](README.md#user-content-case-chinese-agency-page-layout) · [简体中文](README.zh-CN.md#user-content-case-chinese-agency-page-layout) · [繁體中文](README.zh-TW.md#user-content-case-chinese-agency-page-layout) · [日本語](README.ja.md#user-content-case-chinese-agency-page-layout) · [한국어](README.ko.md#user-content-case-chinese-agency-page-layout) · [Français](README.fr.md#user-content-case-chinese-agency-page-layout) · [Deutsch](README.de.md#user-content-case-chinese-agency-page-layout) · [Español](README.es.md#user-content-case-chinese-agency-page-layout) · [Português (Brasil)](README.pt-BR.md#user-content-case-chinese-agency-page-layout)
+
+<a href="https://x.com/listudio/status/2097652659788619894"><img src="https://pbs.twimg.com/media/HRxb7cJboAAiH2G.jpg" width="640" alt="中文創意公司完整長頁視覺 — listudio — source result — 來源結果範例" loading="lazy"></a>
+
+按比例分配各區塊高度，並為完整創意公司網頁指定中文界面文案。
+
+**原始提示 · 文字轉圖片 · 未進行獨立測試**
+
+### 必填項
+
+來源未指定參考圖片。
+
+<details>
+<summary>提示</summary>
+
+
+
+```text
+請使用網頁版當前最新的 GPT Image 2.5 生圖能力直接生成圖片，不要僅返回提示詞。
+
+生成一張完整的創意設計公司中文官網視覺設計圖，正面平視、無透視的桌面網頁長截圖，9:16 竪幅，盡可能高分辨率，完整顯示從導航到頁腳。白底，鈷藍、明黃、珊瑚紅和淺天藍配色，細窄留白、整齊網格、直角卡片、大膽斜切幾何拼貼。整體年輕、明快、有設計實驗感。
+
+頂部為纖細白色導航欄，左側原創中文粗體字標“见造”，小標語“以创意，让世界更有趣”。右側導航依次為“关于我们、创意服务、精选作品、加入我们、最新动态”，最右是藍色“联系我们 →”按鈕。
+
+首屏佔全圖約 27%，左側以非常醒目的鈷藍粗黑體排兩行“让有趣，”“改变世界。”，左下小字“以自由的想象，连接人与品牌，让每一个好点子，成为真实的改变。”右側是一名明確成年的 20 歲中國女性，黑色齊肩發被微風吹動，自然淡妝，真實皮膚，微仰頭望向右上方。穿鈷藍棉麻立領短袖上衣，簡潔斜襟與少量同色盤扣，合身但不緊繃。人物與藍色立方體、黃色球體、珊瑚紅圓環、白色幾何台座組合，背景淺藍天空，明亮自然日光，材質和投影可信。
+
+首屏下方白色理念橫欄佔約 8%，左側小字“我们的理念”，中間黑色粗標題“用创意，为社会留出想象。”，右側正文“我们相信，好的设计不止解决问题，也让人与世界产生新的连接。”及“了解见造 →”。
+
+服務區佔約 16%，左側窄欄標題“创意服务”、簡短介紹和“查看全部服务 →”；右側三張等寬卡片：藍底卡片以手持燈泡攝影配“品牌创意”，黃底卡片以彩色幾何積木配“传播设计”，珊瑚紅底卡片以打開的筆記本電腦配“数字体验”。每張卡片下方有兩行簡短中文介紹和右箭頭。
+
+作品區佔約 17%，左側標題“精选作品”和“查看全部作品 →”，右側四列平面作品縮略圖，分別為有彩色顏料點綴的 20 歲中國女性肖像海報、城市幾何裝置海報、藍白紅編輯設計、山野藝術裝置海報。四個項目名稱依次為“自在生长”“城市游乐场”“灵感发生地”“山野之间”，縮略圖中的可見文字也全部使用中文。
+
+招聘區佔約 18%，整幅鈷藍橫欄，左側白色大標題“和有趣的人，一起创造新风景。”，正文“让热爱成为日常，让灵感自由生长。”及白底按鈕“查看开放职位 →”。右側三名明確成年的 20 歲中國女性坐在黃色與珊瑚紅幾何台階上自然交流，分別穿藍色立領上衣、米白棉麻襯衫、淺黃色簡約針織上衣，搭配寬松長褲與乾淨平底鞋，黑色長髮或齊肩短髮，自然淡妝，青春、自信、親切，非古裝、非職業套裝、無誇張飾品。
+
+下方約 6% 為白底“最新动态”欄，三行消息為“2026.09.09 见造全新品牌网站正式上线”“2026.09.08 城市游乐场创意计划发布”“2026.09.01 秋季创意伙伴招募开启”。最後約 8% 為簡潔頁腳，中文“见造”、導航和“© 2026 见造创意。保留所有权利。”，留出舒適下邊距。所有界面文案為可讀、準確的簡體中文，標題與正文層級鮮明。無日文、無亂碼、無第三方標誌、無水印、無瀏覽器邊框、無設備外殼。輸出一張完整網頁設計圖。
+```
+
+[瀏覽線上圖庫](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--zh-TW--chinese-agency-page-layout)
+
+</details>
+
+### 改成你的需求
+
+替換主體和場景，保留需要的構圖以及圖片中的準確文字。
+
+### 備註
+
+- 原帖要求生成網頁設計圖片，不是 HTML 或可運行的應用。各區塊高度佔比合計100%；請放大校對細小中文。翻譯時保留引號中的中文界面文案，並檢查結果是否滿足無水印要求。
+
+<details>
+<summary>來源與有日期的互動資料</summary>
+
+**編輯審核: 93.75/100 · 2026-09-13T17:54:27.409Z**
+
+[編輯審核](docs/CURATION.md)
+
+[@listudio](https://x.com/listudio/status/2097652659788619894) · [提示或工作流程來源](https://x.com/listudio/status/2097652659788619894) · [創作者模型聲明](https://x.com/listudio/status/2097652659788619894)
+
+提示來源語言: **zh** · 貼文語言: **zh**
+
+0 讚 · — 收藏 · — 轉發 · — 瀏覽量
+
+觀察到的互動: 2026-09-13T17:22:12.779229+00:00 · 來源已核實: 2026-09-13T17:54:27.409Z
+
+### 看原文
+
+```text
+请使用网页版当前最新的 GPT Image 2.5 生图能力直接生成图片，不要仅返回提示词。
+
+生成一张完整的创意设计公司中文官网视觉设计图，正面平视、无透视的桌面网页长截图，9:16 竖幅，尽可能高分辨率，完整显示从导航到页脚。白底，钴蓝、明黄、珊瑚红和浅天蓝配色，细窄留白、整齐网格、直角卡片、大胆斜切几何拼贴。整体年轻、明快、有设计实验感。
+
+顶部为纤细白色导航栏，左侧原创中文粗体字标“见造”，小标语“以创意，让世界更有趣”。右侧导航依次为“关于我们、创意服务、精选作品、加入我们、最新动态”，最右是蓝色“联系我们 →”按钮。
+
+首屏占全图约 27%，左侧以非常醒目的钴蓝粗黑体排两行“让有趣，”“改变世界。”，左下小字“以自由的想象，连接人与品牌，让每一个好点子，成为真实的改变。”右侧是一名明确成年的 20 岁中国女性，黑色齐肩发被微风吹动，自然淡妆，真实皮肤，微仰头望向右上方。穿钴蓝棉麻立领短袖上衣，简洁斜襟与少量同色盘扣，合身但不紧绷。人物与蓝色立方体、黄色球体、珊瑚红圆环、白色几何台座组合，背景浅蓝天空，明亮自然日光，材质和投影可信。
+
+首屏下方白色理念横栏占约 8%，左侧小字“我们的理念”，中间黑色粗标题“用创意，为社会留出想象。”，右侧正文“我们相信，好的设计不止解决问题，也让人与世界产生新的连接。”及“了解见造 →”。
+
+服务区占约 16%，左侧窄栏标题“创意服务”、简短介绍和“查看全部服务 →”；右侧三张等宽卡片：蓝底卡片以手持灯泡摄影配“品牌创意”，黄底卡片以彩色几何积木配“传播设计”，珊瑚红底卡片以打开的笔记本电脑配“数字体验”。每张卡片下方有两行简短中文介绍和右箭头。
+
+作品区占约 17%，左侧标题“精选作品”和“查看全部作品 →”，右侧四列平面作品缩略图，分别为有彩色颜料点缀的 20 岁中国女性肖像海报、城市几何装置海报、蓝白红编辑设计、山野艺术装置海报。四个项目名称依次为“自在生长”“城市游乐场”“灵感发生地”“山野之间”，缩略图中的可见文字也全部使用中文。
+
+招聘区占约 18%，整幅钴蓝横栏，左侧白色大标题“和有趣的人，一起创造新风景。”，正文“让热爱成为日常，让灵感自由生长。”及白底按钮“查看开放职位 →”。右侧三名明确成年的 20 岁中国女性坐在黄色与珊瑚红几何台阶上自然交流，分别穿蓝色立领上衣、米白棉麻衬衫、浅黄色简约针织上衣，搭配宽松长裤与干净平底鞋，黑色长发或齐肩短发，自然淡妆，青春、自信、亲切，非古装、非职业套装、无夸张饰品。
+
+下方约 6% 为白底“最新动态”栏，三行消息为“2026.09.09 见造全新品牌网站正式上线”“2026.09.08 城市游乐场创意计划发布”“2026.09.01 秋季创意伙伴招募开启”。最后约 8% 为简洁页脚，中文“见造”、导航和“© 2026 见造创意。保留所有权利。”，留出舒适下边距。所有界面文案为可读、准确的简体中文，标题与正文层级鲜明。无日文、无乱码、无第三方标志、无水印、无浏览器边框、无设备外壳。输出一张完整网页设计图。
+```
+
+</details>
+
+[返回圖庫索引](#collection)
 
 ---
 
@@ -456,6 +577,75 @@
 
 ---
 
+<a id="case-bakery-logo-transparent"></a><a id="user-content-case-bakery-logo-transparent"></a>
+## 帶有乾淨 Alpha 邊緣的麵包店徽標
+
+[English](README.md#user-content-case-bakery-logo-transparent) · [简体中文](README.zh-CN.md#user-content-case-bakery-logo-transparent) · [繁體中文](README.zh-TW.md#user-content-case-bakery-logo-transparent) · [日本語](README.ja.md#user-content-case-bakery-logo-transparent) · [한국어](README.ko.md#user-content-case-bakery-logo-transparent) · [Français](README.fr.md#user-content-case-bakery-logo-transparent) · [Deutsch](README.de.md#user-content-case-bakery-logo-transparent) · [Español](README.es.md#user-content-case-bakery-logo-transparent) · [Português (Brasil)](README.pt-BR.md#user-content-case-bakery-logo-transparent)
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo"><img src="https://developers.openai.com/images/platform/guides/image-prompting/logo-generation-1-gpt-image-2-5-sunburst.webp" width="640" alt="帶有乾淨 Alpha 邊緣的麵包店徽標 — OpenAI — source result — 來源結果範例" loading="lazy"></a>
+
+設計簡潔的烘焙品牌標誌，兼顧大小尺寸下的辨識度。
+
+**原始提示 · 文字轉圖片 · 未進行獨立測試**
+
+### 必填項
+
+來源未指定參考圖片。
+
+<details>
+<summary>提示</summary>
+
+
+
+```text
+為一家名為 Field & Flour 的當地麵包店創建一個原創的非侵權徽標。
+標誌應該給人溫暖、簡單和永恆的感覺。使用乾淨的矢量形狀、鮮明的輪廓和平衡的負空間。
+注重簡單而不是細節，這樣在小尺寸和大尺寸下都可以清晰辨認。扁平化設計，最少的筆畫，除非必要，否則沒有漸變。
+完全透明的背景。提供單一居中徽標，具有充足的留白、乾淨的 Alpha 邊緣，並且沒有純色背景、風景、棋盤或水印。
+```
+
+[瀏覽線上圖庫](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--zh-TW--bakery-logo-transparent)
+
+</details>
+
+### 改成你的需求
+
+替換主體和場景，保留需要的構圖以及圖片中的準確文字。
+
+### 備註
+
+- 將品牌名稱與設計要求一起替換。輸出為柵格圖像，不是可編輯的矢量文件。請在圖片編輯器中檢查透明通道和邊緣；注明來源不等於獲得商標許可。原示例設置：1024x1536、中等質量、透明背景、PNG。
+
+<details>
+<summary>來源與有日期的互動資料</summary>
+
+**編輯審核: 91.25/100 · 2026-09-13T17:54:27.409Z**
+
+[編輯審核](docs/CURATION.md)
+
+[OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo) · [提示或工作流程來源](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo) · [創作者模型聲明](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo)
+
+提示來源語言: **en** · 貼文語言: **en**
+
+— 讚 · — 收藏 · — 轉發 · — 瀏覽量
+
+觀察到的互動: 2026-09-13T17:54:27.409Z · 來源已核實: 2026-09-13T17:54:27.409Z
+
+### 看原文
+
+```text
+Create an original, non-infringing logo for a company called Field & Flour, a local bakery.
+The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.
+Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.
+Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
+```
+
+</details>
+
+[返回圖庫索引](#collection)
+
+---
+
 <a id="case-billboard-seasonal-iteration"></a><a id="user-content-case-billboard-seasonal-iteration"></a>
 ## 廣告看板跨季節迭代
 
@@ -676,6 +866,89 @@ Make it look like a winter evening with snowfall.
 
 ---
 
+<a id="case-campsite-sketch-three-edits"></a><a id="user-content-case-campsite-sketch-three-edits"></a>
+## 經過三次編輯的露營地草圖
+
+[English](README.md#user-content-case-campsite-sketch-three-edits) · [简体中文](README.zh-CN.md#user-content-case-campsite-sketch-three-edits) · [繁體中文](README.zh-TW.md#user-content-case-campsite-sketch-three-edits) · [日本語](README.ja.md#user-content-case-campsite-sketch-three-edits) · [한국어](README.ko.md#user-content-case-campsite-sketch-three-edits) · [Français](README.fr.md#user-content-case-campsite-sketch-three-edits) · [Deutsch](README.de.md#user-content-case-campsite-sketch-three-edits) · [Español](README.es.md#user-content-case-campsite-sketch-three-edits) · [Português (Brasil)](README.pt-BR.md#user-content-case-campsite-sketch-three-edits)
+
+<a href="https://x.com/ezolog2026/status/2097698951696908595"><img src="https://pbs.twimg.com/media/HRyEoy-awAARHe5.jpg" width="640" alt="經過三次編輯的露營地草圖 — ezolog2026 — source result — 來源結果範例" loading="lazy"></a>
+
+先用草圖控制佈局，再分別調整晝夜與人物服裝。
+
+**原始提示 · 多步驟工作流程 · 未進行獨立測試**
+
+### 必填項
+
+- 上傳顯示預期構圖的露營地草圖。保持相同的對話並在下一次編輯中重複使用每個結果。
+
+<details>
+<summary>提示</summary>
+
+#### 步驟 1
+
+```text
+根據這張手繪草圖，生成一張有氛圍感的夜間露營地圖片。
+```
+
+#### 步驟 2
+
+```text
+改為白天，不要改變構圖。
+```
+
+#### 步驟 3
+
+```text
+把人物的服裝改成吊帶工作褲。
+```
+
+[瀏覽線上圖庫](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--zh-TW--campsite-sketch-three-edits)
+
+</details>
+
+### 改成你的需求
+
+依序執行步驟，按要求重用先前結果，開始前確認外部處理工具可用。
+
+### 備註
+
+- 按順序執行，每一步使用上一步的結果。原帖對比圖將草圖與多個結果拼在一起；請使用自己的草圖，或先在圖片編輯器中裁出草圖區再上傳。這是視覺場景工作流，不是帶測量數據的場地平面圖。
+
+<details>
+<summary>來源與有日期的互動資料</summary>
+
+**編輯審核: 91.25/100 · 2026-09-13T17:54:27.409Z**
+
+[編輯審核](docs/CURATION.md)
+
+[@ezolog2026](https://x.com/ezolog2026/status/2097698951696908595) · [提示或工作流程來源](https://x.com/ezolog2026/status/2097698951696908595) · [創作者模型聲明](https://x.com/ezolog2026/status/2097698951696908595)
+
+提示來源語言: **ja** · 貼文語言: **ja**
+
+13 讚 · — 收藏 · — 轉發 · — 瀏覽量
+
+觀察到的互動: 2026-09-13T17:22:19.990392+00:00 · 來源已核實: 2026-09-13T17:54:27.409Z
+
+### 看原文
+
+```text
+この手書きの絵をもとにムードのある夜のキャンプ場の画像を作って
+```
+
+```text
+構図は変えずに昼にして
+```
+
+```text
+人物の服装をオーバーオールにして
+```
+
+</details>
+
+[返回圖庫索引](#collection)
+
+---
+
 <a id="case-chinese-coffee-brewing-infographic"></a><a id="user-content-case-chinese-coffee-brewing-infographic"></a>
 ## 中式咖啡沖泡步驟圖
 
@@ -750,6 +1023,182 @@ Make it look like a winter evening with snowfall.
 用四个编号模块自上而下排列，每个模块包含一个简洁图标。
 奶油白背景，深咖啡色文字，少量橙色强调。
 所有文字必须清晰可读，不得添加其他文字、品牌、Logo或水印。
+```
+
+</details>
+
+[返回圖庫索引](#collection)
+
+---
+
+<a id="case-classroom-cellular-respiration"></a><a id="user-content-case-classroom-cellular-respiration"></a>
+## 帶有標籤的細胞呼吸講義
+
+[English](README.md#user-content-case-classroom-cellular-respiration) · [简体中文](README.zh-CN.md#user-content-case-classroom-cellular-respiration) · [繁體中文](README.zh-TW.md#user-content-case-classroom-cellular-respiration) · [日本語](README.ja.md#user-content-case-classroom-cellular-respiration) · [한국어](README.ko.md#user-content-case-classroom-cellular-respiration) · [Français](README.fr.md#user-content-case-classroom-cellular-respiration) · [Deutsch](README.de.md#user-content-case-classroom-cellular-respiration) · [Español](README.es.md#user-content-case-classroom-cellular-respiration) · [Português (Brasil)](README.pt-BR.md#user-content-case-classroom-cellular-respiration)
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals"><img src="https://developers.openai.com/images/platform/guides/image-prompting/scientific-educational-cellular-respiration-gpt-image-2-5-sunburst.webp" width="640" alt="帶有標籤的細胞呼吸講義 — OpenAI — source result — 來源結果範例" loading="lazy"></a>
+
+先指定教學內容、分子標籤與步驟順序，再生成課堂圖解。
+
+**原始提示 · 文字轉圖片 · 未進行獨立測試**
+
+### 必填項
+
+來源未指定參考圖片。
+
+<details>
+<summary>提示</summary>
+
+
+
+```text
+為高中生創建一個名為「Cellular Respiration at a Glance」的簡單生物圖。
+
+展示葡萄糖如何在細胞內轉化為能量。包括糖解作用、克雷布斯循環和電子傳遞鏈。
+使用箭頭連接步驟，並標記主要分子：葡萄糖、丙酮酸、ATP、NADH、FADH2、CO2、O2 和 H2O。
+使其看起來像乾淨的課堂講義或幻燈片，具有白色背景、簡單的圖標、清晰的標籤和易於閱讀的文字。
+
+避免微小的文字、額外的裝飾或任何使圖表難以理解的東西。
+```
+
+[瀏覽線上圖庫](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--zh-TW--classroom-cellular-respiration)
+
+</details>
+
+### 改成你的需求
+
+替換主體和場景，保留需要的構圖以及圖片中的準確文字。
+
+### 備註
+
+- 用於教學前，請讓學科專家核對分子標籤、箭頭和科學關係。該示例是生成的示意圖，不是科學證據。原示例設置：1536x1024、高質量。
+
+<details>
+<summary>來源與有日期的互動資料</summary>
+
+**編輯審核: 91.25/100 · 2026-09-13T17:54:27.409Z**
+
+[編輯審核](docs/CURATION.md)
+
+[OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals) · [提示或工作流程來源](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals) · [創作者模型聲明](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals)
+
+提示來源語言: **en** · 貼文語言: **en**
+
+— 讚 · — 收藏 · — 轉發 · — 瀏覽量
+
+觀察到的互動: 2026-09-13T17:54:27.409Z · 來源已核實: 2026-09-13T17:54:27.409Z
+
+### 看原文
+
+```text
+Create a simple biology diagram titled "Cellular Respiration at a Glance" for high school students.
+
+Show how glucose turns into energy inside a cell. Include glycolysis, the Krebs cycle, and the electron transport chain.
+Use arrows to connect the steps, and label the main molecules: glucose, pyruvate, ATP, NADH, FADH2, CO2, O2, and H2O.
+Make it look like a clean classroom handout or slide, with a white background, simple icons, clear labels, and easy-to-read text.
+
+Avoid tiny text, extra decoration, or anything that makes the diagram hard to understand.
+```
+
+</details>
+
+[返回圖庫索引](#collection)
+
+---
+
+<a id="case-collectible-airplane-packaging"></a><a id="user-content-case-collectible-airplane-packaging"></a>
+## 吸塑包裝的可收藏飛機
+
+[English](README.md#user-content-case-collectible-airplane-packaging) · [简体中文](README.zh-CN.md#user-content-case-collectible-airplane-packaging) · [繁體中文](README.zh-TW.md#user-content-case-collectible-airplane-packaging) · [日本語](README.ja.md#user-content-case-collectible-airplane-packaging) · [한국어](README.ko.md#user-content-case-collectible-airplane-packaging) · [Français](README.fr.md#user-content-case-collectible-airplane-packaging) · [Deutsch](README.de.md#user-content-case-collectible-airplane-packaging) · [Español](README.es.md#user-content-case-collectible-airplane-packaging) · [Português (Brasil)](README.pt-BR.md#user-content-case-collectible-airplane-packaging)
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise"><img src="https://developers.openai.com/images/platform/guides/image-prompting/christmas-collectible-toy-airplane-gpt-image-2-5-sunburst.webp" width="640" alt="吸塑包裝的可收藏飛機 — OpenAI — source result — 來源結果範例" loading="lazy"></a>
+
+同時指定產品材質、零售包裝與唯一允許出現的包裝文字。
+
+**原始提示 · 文字轉圖片 · 未進行獨立測試**
+
+### 必填項
+
+來源未指定參考圖片。
+
+<details>
+<summary>提示</summary>
+
+
+
+```text
+打造一款具有收藏價值的復古風格玩具螺旋槳飛機動作人偶，帶有圓形機翼、前置旋轉螺旋槳、輕微磨損的油漆邊緣、經典的童年比例，設計為懷舊節日收藏品，採用吸塑包裝。
+
+概念：
+靈感來自簡單玩具飛機的懷舊節日收藏品
+孩子們過去常常在寒假期間玩耍。
+喚起溫暖、想像和童年的奇蹟。
+
+風格：
+優質玩具攝影，逼真的塑膠和彩繪金屬紋理，
+攝影棚燈光，淺景深，
+銳利的標籤列印，高端零售展示。
+
+限制條件：
+- 限原創設計
+- 無商標
+- 無浮水印
+- 無標誌
+
+僅包含此包裝文字（逐字）：
+“Christmas Memories Edition”
+```
+
+[瀏覽線上圖庫](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--zh-TW--collectible-airplane-packaging)
+
+</details>
+
+### 改成你的需求
+
+替換主體和場景，保留需要的構圖以及圖片中的準確文字。
+
+### 備註
+
+- 將產品對象和包裝文案一起替換成自己的內容。這是包裝效果圖，不是用於製造的刀模圖。檢查文字與材質細節。原示例設置：1024x1536、中等質量。
+
+<details>
+<summary>來源與有日期的互動資料</summary>
+
+**編輯審核: 91.25/100 · 2026-09-13T17:54:27.409Z**
+
+[編輯審核](docs/CURATION.md)
+
+[OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise) · [提示或工作流程來源](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise) · [創作者模型聲明](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise)
+
+提示來源語言: **en** · 貼文語言: **en**
+
+— 讚 · — 收藏 · — 轉發 · — 瀏覽量
+
+觀察到的互動: 2026-09-13T17:54:27.409Z · 來源已核實: 2026-09-13T17:54:27.409Z
+
+### 看原文
+
+```text
+Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.
+
+Concept:
+A nostalgic holiday collectible inspired by the simple toy airplanes
+children used to play with during winter holidays.
+Evokes warmth, imagination, and childhood wonder.
+
+Style:
+Premium toy photography, realistic plastic and painted metal textures,
+studio lighting, shallow depth of field,
+sharp label printing, high-end retail presentation.
+
+Constraints:
+- Original design only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this packaging text (verbatim):
+"Christmas Memories Edition"
 ```
 
 </details>
@@ -886,6 +1335,71 @@ Do not add new elements or text.
 
 ```text
 移动端UI设计，生鲜电商App首页界面，清新简洁风格，以白色为主色调，搭配绿色健康主题色。顶部包含状态栏、欢迎语“早上好，林小姐”及搜索框。页面中部设有横幅广告区，展示新鲜蔬果图片，并配有宣传文字。下方为“今日特惠”板块，横向排列番茄、上海青、香蕉等新鲜农产品，展示商品图片、名称及价格。底部为“附近商户”列表，包含店铺名称、距离和评分。界面最底部为标准导航栏，包含首页、分类、购物车、我的四个图标，UI布局规整，高保真设计，扁平化设计语言，专业界面交互设计，极简主义，清晰的排版，高分辨率，矢量图形风格。
+```
+
+</details>
+
+[返回圖庫索引](#collection)
+
+---
+
+<a id="case-garden-photo-color-grading"></a><a id="user-content-case-garden-photo-color-grading"></a>
+## 保留構圖的庭園照片調色
+
+[English](README.md#user-content-case-garden-photo-color-grading) · [简体中文](README.zh-CN.md#user-content-case-garden-photo-color-grading) · [繁體中文](README.zh-TW.md#user-content-case-garden-photo-color-grading) · [日本語](README.ja.md#user-content-case-garden-photo-color-grading) · [한국어](README.ko.md#user-content-case-garden-photo-color-grading) · [Français](README.fr.md#user-content-case-garden-photo-color-grading) · [Deutsch](README.de.md#user-content-case-garden-photo-color-grading) · [Español](README.es.md#user-content-case-garden-photo-color-grading) · [Português (Brasil)](README.pt-BR.md#user-content-case-garden-photo-color-grading)
+
+<a href="https://x.com/HoodyLiu/status/2099115784417251690"><img src="https://pbs.twimg.com/media/HSGOUDQbYAAFxpB.jpg" width="640" alt="保留構圖的庭園照片調色 — HoodyLiu — source result — 來源結果範例" loading="lazy"></a>
+
+控制天空高光、暗部細節與植被顏色，同時要求保留原始場景。
+
+**原始提示 · 參考編輯 · 未進行獨立測試**
+
+### 必填項
+
+- 上傳下面的第二張來源圖片，或您自己的花園照片。
+
+來源參考圖: [1](https://pbs.twimg.com/media/HSGOiw-a8AAd-1r.jpg)
+
+<details>
+<summary>提示</summary>
+
+
+
+```text
+請僅對原始照片進行專業調色和光影優化，嚴格保留原始構圖、景物位置、櫻花、樹木、水面倒影及畫面比例，不添加、刪除或改變任何物體。整體調成高級、克制、安靜的日系電影膠卷風格，呈現早春日本庭園的清寂氛圍。適度提亮樹林、水岸和池塘中的暗部細節，恢復樹幹、灌木與水面層次，但保留幽深陰影，不要把黑色區域提成灰色。壓低天空高光和藍色飽和度，將天空調整為通透、沉靜的灰藍色，避免過度艷麗和HDR效果。突出畫面中央櫻花，使花朵呈現自然的淡粉白色，增加柔和的陽光通透感和細膩層次，不要變成純白或螢光粉。綠色植物調整為低飽和的苔蘚綠、森林綠和輕微橄欖綠，減少黃綠色和數位感。水面維持深青黑色，增強細微反光和落櫻的層次，讓倒影清晰但不銳利。整體採用柔和高光、深邃陰影、中等偏強對比，略微增加暖色陽光與冷色陰影的冷暖對比。加入輕微膠卷灰霧、自然光暈、細膩35mm膠卷顆粒和柔和銳化，色彩參考 Kodak Portra 400 與日系電影攝影，真實、自然、含蓄、有空氣感和高級感。禁止改變構圖，禁止增加櫻花、雲朵、建築、人物或燈光，禁止生成新的樹枝，禁止改變季節，禁止過曝、死黑、HDR、過度銳利化、螢光綠、艷藍天空、濃重濾鏡、油畫感、插畫感和AI重繪感。最終效果必須像對原始RAW照片進行專業調色，而不是重新生成一張圖片。
+```
+
+[瀏覽線上圖庫](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--zh-TW--garden-photo-color-grading)
+
+</details>
+
+### 改成你的需求
+
+提供自己的參考圖，說明每張圖的用途，並分清要修改與要保留的部分。
+
+### 備註
+
+- 作者說明提示詞由 GPT6 Astra 編寫，圖片由 GPT Image 2.5 編輯。原帖第一張為結果，第二張為輸入。請核對樹枝、倒影與物體是否被重繪。要求 RAW 照片調色質感，不等於輸出可編輯的 RAW 文件，也不保證像素完全保留。
+
+<details>
+<summary>來源與有日期的互動資料</summary>
+
+**編輯審核: 91.25/100 · 2026-09-13T17:54:27.409Z**
+
+[編輯審核](docs/CURATION.md)
+
+[@HoodyLiu](https://x.com/HoodyLiu/status/2099115784417251690) · [提示或工作流程來源](https://x.com/HoodyLiu/status/2099115784417251690) · [創作者模型聲明](https://x.com/HoodyLiu/status/2099115784417251690)
+
+提示來源語言: **zh** · 貼文語言: **zh**
+
+7 讚 · — 收藏 · — 轉發 · — 瀏覽量
+
+觀察到的互動: 2026-09-13T17:30:11.651392+00:00 · 來源已核實: 2026-09-13T17:54:27.409Z
+
+### 看原文
+
+```text
+请仅对原照片进行专业调色和光影优化，严格保留原始构图、景物位置、樱花、树木、水面倒影及画面比例，不添加、删除或改变任何物体。整体调成高级、克制、安静的日系电影胶片风格，呈现早春日本庭园的清寂氛围。适度提亮树林、水岸和池塘中的暗部细节，恢复树干、灌木与水面层次，但保留幽深阴影，不要把黑色区域提成灰色。压低天空高光和蓝色饱和度，将天空调整为通透、沉静的灰蓝色，避免过度艳丽和HDR效果。突出画面中央樱花，使花朵呈自然的淡粉白色，增加柔和的阳光通透感和细腻层次，不要变成纯白或荧光粉。绿色植物调整为低饱和的苔藓绿、森林绿和轻微橄榄绿，减少黄绿色和数码感。水面维持深青黑色，增强细微反光和落樱的层次，让倒影清晰但不锐利。整体采用柔和高光、深邃阴影、中等偏强对比，略微增加暖色阳光与冷色阴影的冷暖对比。加入轻微胶片灰雾、自然光晕、细腻35mm胶片颗粒和柔和锐化，色彩参考 Kodak Portra 400 与日系电影摄影，真实、自然、含蓄、有空气感和高级感。禁止改变构图，禁止增加樱花、云朵、建筑、人物或灯光，禁止生成新的树枝，禁止改变季节，禁止过曝、死黑、HDR、过度锐化、荧光绿、艳蓝天空、浓重滤镜、油画感、插画感和AI重绘感。最终效果必须像对原始RAW照片进行专业调色，而不是重新生成一张图片。
 ```
 
 </details>
@@ -1716,6 +2230,107 @@ Do not restyle the product; remove the background and preserve clean alpha trans
 
 ---
 
+<a id="case-architectural-portal-travel-poster"></a><a id="user-content-case-architectural-portal-travel-poster"></a>
+## 建築門戶旅行海報
+
+[English](README.md#user-content-case-architectural-portal-travel-poster) · [简体中文](README.zh-CN.md#user-content-case-architectural-portal-travel-poster) · [繁體中文](README.zh-TW.md#user-content-case-architectural-portal-travel-poster) · [日本語](README.ja.md#user-content-case-architectural-portal-travel-poster) · [한국어](README.ko.md#user-content-case-architectural-portal-travel-poster) · [Français](README.fr.md#user-content-case-architectural-portal-travel-poster) · [Deutsch](README.de.md#user-content-case-architectural-portal-travel-poster) · [Español](README.es.md#user-content-case-architectural-portal-travel-poster) · [Português (Brasil)](README.pt-BR.md#user-content-case-architectural-portal-travel-poster)
+
+<a href="https://x.com/Naiknelofar788/status/2097920025617399875"><img src="https://pbs.twimg.com/media/HR1PFgUasAAJbTM.jpg" width="640" alt="建築門戶旅行海報 — Naiknelofar788 — source result — 來源結果範例" loading="lazy"></a>
+
+用當地建築門洞框住目的地景觀，搭配有限配色與融入建築的地點標牌。
+
+**原始提示 · 文字轉圖片 · 未進行獨立測試**
+
+### 必填項
+
+來源未指定參考圖片。
+
+<details>
+<summary>提示</summary>
+
+
+
+```text
+為 [CITY, COUNTRY] 製作優質現代旅行海報，其靈感來自大膽的復古絲網印刷和20世紀中期平面設計，但具有原創的建築門戶構圖。
+
+在前景放置一個巨大的獨特的 [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH]，作為目的地的窗口。通過開口，展現出一個風格化的分層場景，包括 [ICONIC LANDMARK]、[FAMOUS NATURAL FEATURE]、簡化的屋頂、當地街道、樹木、交通和一些微妙的文化細節。
+
+在主要地標後面添加一個大的大膽的幾何太陽/月亮/圓圈，使用一種視覺上引人注目的形狀和位置，而不是傳統的。在場景中自然地包含 2–3 個可辨識的當地文化符號，而不是將它們呈現為單獨的對象。
+
+使用受目的地啓發而設計的有限精緻調色板：[2–5 COLORS]。平坦的幾何形狀、強烈的輪廓、乾淨的邊緣、微妙的重疊層、輕微的絲網印刷紋理和優雅的負空間。
+
+添加一個高大的集成標誌或建築面板，具有以下特點：
+
+[CITY]
+[LOCAL SCRIPT]
+
+在底部添加小型精緻的編輯排版：
+
+[COUNTRY]
+[CITY] • [COORDINATES]
+[SHORT DESTINATION PHRASE]
+
+簡約、藝術、有凝聚力、具有收藏價值的旅行海報美學，不寫實，不是拼貼，沒有過多的細節，精心設計的構圖，強烈的視覺層次，平衡的不對稱，溫暖的紙張背景，微妙的印刷缺陷，4:5 垂直格式。
+```
+
+[瀏覽線上圖庫](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--zh-TW--architectural-portal-travel-poster)
+
+</details>
+
+### 改成你的需求
+
+替換主體和場景，保留需要的構圖以及圖片中的準確文字。
+
+### 備註
+
+- 所有方括號變量應圍繞同一目的地填寫。請自行覈實坐標、當地文字與地標。原帖的四個目的地是同一配方的變體，合併收錄為一條。
+
+<details>
+<summary>來源與有日期的互動資料</summary>
+
+**編輯審核: 88.75/100 · 2026-09-13T17:54:27.409Z**
+
+[編輯審核](docs/CURATION.md)
+
+[@Naiknelofar788](https://x.com/Naiknelofar788/status/2097920025617399875) · [提示或工作流程來源](https://x.com/Naiknelofar788/status/2097920025617399875) · [創作者模型聲明](https://x.com/Naiknelofar788/status/2097920025617399875)
+
+提示來源語言: **en** · 貼文語言: **en**
+
+47 讚 · — 收藏 · — 轉發 · — 瀏覽量
+
+觀察到的互動: 2026-09-13T17:23:24.288043+00:00 · 來源已核實: 2026-09-13T17:54:27.409Z
+
+### 看原文
+
+```text
+Create a premium modern travel poster for [CITY, COUNTRY], inspired by bold vintage screen-print and mid-century graphic design, but with an original architectural portal composition.
+
+Place a large distinctive [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH] in the foreground, acting as a window into the destination. Through the opening, reveal a stylized layered scene featuring [ICONIC LANDMARK], [FAMOUS NATURAL FEATURE], simplified rooftops, local streets, trees, transportation, and a few subtle cultural details.
+
+Add one large bold geometric sun / moon / circle behind the main landmark, using a shape and placement that feels visually striking rather than traditional. Include 2–3 recognizable local symbols naturally within the scene instead of presenting them as separate objects.
+
+Use a limited sophisticated color palette inspired by the destination: [2–5 COLORS]. Flat geometric shapes, strong silhouettes, clean edges, subtle overlapping layers, slight screen-print texture, and elegant negative space.
+
+Add a tall integrated sign or architectural panel featuring:
+
+[CITY]
+[LOCAL SCRIPT]
+
+Include small refined editorial typography at the bottom:
+
+[COUNTRY]
+[CITY] • [COORDINATES]
+[SHORT DESTINATION PHRASE]
+
+Minimal, artistic, cohesive, collectible travel-poster aesthetic, not photorealistic, not a collage, no excessive details, sophisticated composition, strong visual hierarchy, balanced asymmetry, warm paper background, subtle print imperfections, 4:5 vertical format.
+```
+
+</details>
+
+[返回圖庫索引](#collection)
+
+---
+
 <a id="case-remove-flower-local-edit"></a><a id="user-content-case-remove-flower-local-edit"></a>
 ## 移除手中物體
 
@@ -2030,6 +2645,356 @@ Photorealistic contact shadows and fabric texture.
 ### 看原文
 
 本次編輯改編未存檔原文。請參閱原始工作流程連結。
+
+</details>
+
+[返回圖庫索引](#collection)
+
+---
+
+<a id="case-annotated-fashion-lookbook"></a><a id="user-content-case-annotated-fashion-lookbook"></a>
+## 附註解的時尚造型手冊
+
+[English](README.md#user-content-case-annotated-fashion-lookbook) · [简体中文](README.zh-CN.md#user-content-case-annotated-fashion-lookbook) · [繁體中文](README.zh-TW.md#user-content-case-annotated-fashion-lookbook) · [日本語](README.ja.md#user-content-case-annotated-fashion-lookbook) · [한국어](README.ko.md#user-content-case-annotated-fashion-lookbook) · [Français](README.fr.md#user-content-case-annotated-fashion-lookbook) · [Deutsch](README.de.md#user-content-case-annotated-fashion-lookbook) · [Español](README.es.md#user-content-case-annotated-fashion-lookbook) · [Português (Brasil)](README.pt-BR.md#user-content-case-annotated-fashion-lookbook)
+
+<a href="https://x.com/LiEvanna85716/status/2097663816339427547"><img src="https://pbs.twimg.com/media/HRxjvncaQAAIuVQ.jpg" width="640" alt="附註解的時尚造型手冊 — LiEvanna85716 — source result — 來源結果範例" loading="lazy"></a>
+
+在全身穿搭周圍添加清晰的服裝標籤與箭頭，建立畫冊信息層級。
+
+**原始提示 · 文字轉圖片 · 未進行獨立測試**
+
+### 必填項
+
+來源未指定參考圖片。
+
+<details>
+<summary>提示</summary>
+
+
+
+```text
+創建一個乾淨的時尚電子商務畫冊海報，其中有一位穿著可愛、簡單的秋季服裝的年輕女模特。
+使用柔和的粉色、藍色和淡紫色漸變背景。保持整體設計簡約、乾淨且略帶俏皮，就像現代韓國/日本時裝目錄一樣。
+
+以全身模特為主，皮膚逼真，比例自然，服裝細節清晰。服裝應簡單且適合日常穿著：開衫或連帽衫、合身上衣、短褲或百褶裙、襪子和運動鞋/瑪麗珍鞋。
+
+添加手寫英文注釋，細箭頭指向單件衣服，例如“Cardigan”、“Polo Shirt”、“Shorts”、“Sneakers”和“Bag”。
+
+在頂部添加一個大膽的英文時尚標題：“AUTUMN DAILY OUTFIT”，再加上一些小的裝飾性英文短語，例如“NEW SEASON 2026”、“SIMPLE · COMFY · BETTER ME”和“OUTFIT IDEAS FOR A BRIGHTER YOU”。
+
+在主要內容周圍使用結構化的矩形框架、微妙的圓角、大量的負空間以及一些最小的心形/星形塗鴉。
+
+最終的圖像應該感覺像一張精美的時尚電子商務活動海報——簡約、年輕、真實、高度可讀的排版、乾淨的產品展示、不凌亂、以服裝為視覺焦點。
+
+3:4垂直構圖，高分辨率商業時尚攝影。
+```
+
+[瀏覽線上圖庫](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--zh-TW--annotated-fashion-lookbook)
+
+</details>
+
+### 改成你的需求
+
+替換主體和場景，保留需要的構圖以及圖片中的準確文字。
+
+### 備註
+
+- 同步替換服裝名稱與款式細節，使箭頭對應實際衣物。如需復用原版文字，請保留引號內英文。逐個核對標籤和箭頭；該示例不證明商品還原準確。首張結果出現兩個人物，並改寫了部分指定標題。
+
+<details>
+<summary>來源與有日期的互動資料</summary>
+
+**編輯審核: 85/100 · 2026-09-13T17:54:27.409Z**
+
+[編輯審核](docs/CURATION.md)
+
+[@LiEvanna85716](https://x.com/LiEvanna85716/status/2097663816339427547) · [提示或工作流程來源](https://x.com/LiEvanna85716/status/2097663816339427547) · [創作者模型聲明](https://x.com/LiEvanna85716/status/2097663816339427547)
+
+提示來源語言: **en** · 貼文語言: **zh**
+
+4 讚 · — 收藏 · — 轉發 · — 瀏覽量
+
+觀察到的互動: 2026-09-13T17:22:12.769876+00:00 · 來源已核實: 2026-09-13T17:54:27.409Z
+
+### 看原文
+
+```text
+Create a clean fashion e-commerce lookbook poster featuring a young female model in a cute, simple autumn outfit.
+Use a soft pastel pink, blue and lavender gradient background. Keep the overall design minimal, clean and slightly playful, like a modern Korean/Japanese fashion catalog.
+
+Show the full-body model as the main focus, with realistic skin, natural proportions and clear clothing details. The outfit should be simple and wearable: cardigan or hoodie, fitted top, shorts or pleated skirt, socks and sneakers/Mary Jane shoes.
+
+Add handwritten English annotations with thin arrows pointing to individual clothing pieces, such as “Cardigan”, “Polo Shirt”, “Shorts”, “Sneakers” and “Bag”.
+
+Add a bold English fashion headline at the top: “AUTUMN DAILY OUTFIT”, plus a few small decorative English phrases such as “NEW SEASON 2026”, “SIMPLE · COMFY · BETTER ME” and “OUTFIT IDEAS FOR A BRIGHTER YOU”.
+
+Use a structured rectangular frame around the main content, subtle rounded corners, plenty of negative space, and only a few minimal heart/star doodles.
+
+The final image should feel like a polished fashion e-commerce campaign poster — minimal, youthful, realistic, highly readable typography, clean product presentation, not cluttered, with the outfit as the visual focus.
+
+Vertical 3:4 composition, high-resolution commercial fashion photography.
+```
+
+</details>
+
+[返回圖庫索引](#collection)
+
+---
+
+<a id="case-market-opportunity-slide"></a><a id="user-content-case-market-opportunity-slide"></a>
+## 來自明確投入的市場規模幻燈片
+
+[English](README.md#user-content-case-market-opportunity-slide) · [简体中文](README.zh-CN.md#user-content-case-market-opportunity-slide) · [繁體中文](README.zh-TW.md#user-content-case-market-opportunity-slide) · [日本語](README.ja.md#user-content-case-market-opportunity-slide) · [한국어](README.ko.md#user-content-case-market-opportunity-slide) · [Français](README.fr.md#user-content-case-market-opportunity-slide) · [Deutsch](README.de.md#user-content-case-market-opportunity-slide) · [Español](README.es.md#user-content-case-market-opportunity-slide) · [Português (Brasil)](README.pt-BR.md#user-content-case-market-opportunity-slide)
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts"><img src="https://developers.openai.com/images/platform/guides/image-prompting/market-opportunity-slide-gpt-image-2-5-sunburst.webp" width="640" alt="來自明確投入的市場規模幻燈片 — OpenAI — source result — 來源結果範例" loading="lazy"></a>
+
+用指定的圖表、固定數值、標籤和腳注控制幻燈片的信息層級。
+
+**原始提示 · 文字轉圖片 · 未進行獨立測試**
+
+### 必填項
+
+來源未指定參考圖片。
+
+<details>
+<summary>提示</summary>
+
+
+
+```text
+創建一張標題為 **“Market Opportunity”** 的融資幻燈片，感覺就像 YC 支持的初創公司真正的 A 輪融資幻燈片。
+
+使用乾淨的白色背景、像Inter這樣的現代無襯線字體以及清晰、簡約的佈局。幻燈片應包括：
+
+* TAM/SAM/SOM 同心圓圖，採用柔和的藍色和灰色
+* 具體、可信的市場規模數字：
+
+* **TAM:** $42B
+  * **SAM:** $8.7B
+  * **SOM:** $340M
+* 下面清晰的條形圖顯示了從 **2021 到 2026** 的市場增長，並呈現微妙的上升趨勢
+* 小腳注：**“AGI Research, 2024”** 和 **“Internal analysis”**
+* 右下角有公司徽標佔位符
+
+該設計應該看起來像是屬於真實融資演示文稿：高度可讀的文本、清晰的數據層次結構、優美的間距以及專業的初創公司風格的視覺語言。
+
+避免使用剪貼畫、圖庫攝影、漸變、陰影、裝飾元素或任何感覺通用或過度設計的東西。
+```
+
+[瀏覽線上圖庫](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--zh-TW--market-opportunity-slide)
+
+</details>
+
+### 改成你的需求
+
+替換主體和場景，保留需要的構圖以及圖片中的準確文字。
+
+### 備註
+
+- 原示例中的市場數據和引用均為虛構的設計輸入，使用前必須換成覈實過的數據及真實來源。輸出不是可編輯的幻燈片，也不代表融資成果。提示詞未給出各年的市場數值，結果中的增長圖不能作為數據使用。結果還自行生成了標誌，沒有保留佔位符。原示例設置：1536x864、高質量。
+
+<details>
+<summary>來源與有日期的互動資料</summary>
+
+**編輯審核: 85/100 · 2026-09-13T17:54:27.409Z**
+
+[編輯審核](docs/CURATION.md)
+
+[OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts) · [提示或工作流程來源](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts) · [創作者模型聲明](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts)
+
+提示來源語言: **en** · 貼文語言: **en**
+
+— 讚 · — 收藏 · — 轉發 · — 瀏覽量
+
+觀察到的互動: 2026-09-13T17:54:27.409Z · 來源已核實: 2026-09-13T17:54:27.409Z
+
+### 看原文
+
+```text
+Create one pitch-deck slide titled **"Market Opportunity"** that feels like a real Series A fundraising slide from a YC-backed startup.
+
+Use a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:
+
+* A TAM/SAM/SOM concentric-circle diagram in muted blues and grays
+* Specific, believable market sizing numbers:
+
+  * **TAM:** $42B
+  * **SAM:** $8.7B
+  * **SOM:** $340M
+* A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend
+* Small footnotes: **"AGI Research, 2024"** and **"Internal analysis"**
+* A company logo placeholder in the bottom-right corner
+
+The design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.
+
+Avoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.
+```
+
+</details>
+
+[返回圖庫索引](#collection)
+
+---
+
+<a id="case-nostalgic-holiday-card"></a><a id="user-content-case-nostalgic-holiday-card"></a>
+## 一張包含一條確切訊息的節日賀卡
+
+[English](README.md#user-content-case-nostalgic-holiday-card) · [简体中文](README.zh-CN.md#user-content-case-nostalgic-holiday-card) · [繁體中文](README.zh-TW.md#user-content-case-nostalgic-holiday-card) · [日本語](README.ja.md#user-content-case-nostalgic-holiday-card) · [한국어](README.ko.md#user-content-case-nostalgic-holiday-card) · [Français](README.fr.md#user-content-case-nostalgic-holiday-card) · [Deutsch](README.de.md#user-content-case-nostalgic-holiday-card) · [Español](README.es.md#user-content-case-nostalgic-holiday-card) · [Português (Brasil)](README.pt-BR.md#user-content-case-nostalgic-holiday-card)
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card"><img src="https://developers.openai.com/images/platform/guides/image-prompting/christmas-holiday-card-teddy-gpt-image-2-5-sunburst.webp" width="640" alt="一張包含一條確切訊息的節日賀卡 — OpenAI — source result — 來源結果範例" loading="lazy"></a>
+
+通過材質與場景營造懷舊氛圍，並限定唯一的賀卡祝福語。
+
+**原始提示 · 文字轉圖片 · 未進行獨立測試**
+
+### 必填項
+
+來源未指定參考圖片。
+
+<details>
+<summary>提示</summary>
+
+
+
+```text
+建立聖誕假期卡片插圖。
+
+場景：
+溫馨的聖誕場景，一隻舊泰迪熊坐在紀念品盒裡，皮毛略有磨損，縫線柔軟，放在窗邊，窗外飄著雪。這個場景表明孩子已經長大了，但記憶仍然存在。
+
+心情：
+溫暖、懷舊、溫柔、感性。
+
+風格：
+高級節慶賀卡攝影、柔和的電影燈光、
+逼真的紋理，淺景深，
+雅緻的散景燈，高列印品質的構圖。
+
+限制條件：
+- 限原創藝術品
+- 無商標
+- 無浮水印
+- 無標誌
+
+僅包含此卡片文字（逐字）：
+“Merry Christmas — some memories never fade.”
+```
+
+[瀏覽線上圖庫](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--zh-TW--nostalgic-holiday-card)
+
+</details>
+
+### 改成你的需求
+
+替換主體和場景，保留需要的構圖以及圖片中的準確文字。
+
+### 備註
+
+- 翻譯提示詞時保留引號內的英文祝福語，或按受眾需求明確替換。印刷前檢查標點與分辨率。輸出是平面圖片，不是可直接印制的折疊賀卡文件。儘管要求只出現指定文字，結果中的盒子仍有細小手寫字。原示例設置：1024x1536、中等質量。
+
+<details>
+<summary>來源與有日期的互動資料</summary>
+
+**編輯審核: 85/100 · 2026-09-13T17:54:27.409Z**
+
+[編輯審核](docs/CURATION.md)
+
+[OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card) · [提示或工作流程來源](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card) · [創作者模型聲明](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card)
+
+提示來源語言: **en** · 貼文語言: **en**
+
+— 讚 · — 收藏 · — 轉發 · — 瀏覽量
+
+觀察到的互動: 2026-09-13T17:54:27.409Z · 來源已核實: 2026-09-13T17:54:27.409Z
+
+### 看原文
+
+```text
+Create a Christmas holiday card illustration.
+
+Scene:
+a cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.
+
+Mood:
+Warm, nostalgic, gentle, emotional.
+
+Style:
+Premium holiday card photography, soft cinematic lighting,
+realistic textures, shallow depth of field,
+tasteful bokeh lights, high print-quality composition.
+
+Constraints:
+- Original artwork only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this card text (verbatim):
+"Merry Christmas — some memories never fade."
+```
+
+</details>
+
+[返回圖庫索引](#collection)
+
+---
+
+<a id="case-laptop-screen-local-replacement"></a><a id="user-content-case-laptop-screen-local-replacement"></a>
+## 僅替換筆電螢幕內容
+
+[English](README.md#user-content-case-laptop-screen-local-replacement) · [简体中文](README.zh-CN.md#user-content-case-laptop-screen-local-replacement) · [繁體中文](README.zh-TW.md#user-content-case-laptop-screen-local-replacement) · [日本語](README.ja.md#user-content-case-laptop-screen-local-replacement) · [한국어](README.ko.md#user-content-case-laptop-screen-local-replacement) · [Français](README.fr.md#user-content-case-laptop-screen-local-replacement) · [Deutsch](README.de.md#user-content-case-laptop-screen-local-replacement) · [Español](README.es.md#user-content-case-laptop-screen-local-replacement) · [Português (Brasil)](README.pt-BR.md#user-content-case-laptop-screen-local-replacement)
+
+<a href="https://x.com/ai_kairos_jp/status/2097679848475099159"><img src="https://pbs.twimg.com/media/HRx0ef9aAAAW7Tv.jpg" width="640" alt="僅替換筆電螢幕內容 — ai_kairos_jp — source result — 來源結果範例" loading="lazy"></a>
+
+明確屏幕編輯區域，並列出周圍必須保持不變的對象。
+
+**原始提示 · 參考編輯 · 未進行獨立測試**
+
+### 必填項
+
+- 上傳包含筆記型電腦的房間照片，然後將筆記型電腦螢幕標記為編輯目標。
+
+<details>
+<summary>提示</summary>
+
+
+
+```text
+把試算表替換為自動化工作流程圖。不要改變桌子、便條紙、照明和窗外夜景。
+```
+
+[瀏覽線上圖庫](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--zh-TW--laptop-screen-local-replacement)
+
+</details>
+
+### 改成你的需求
+
+提供自己的參考圖，說明每張圖的用途，並分清要修改與要保留的部分。
+
+### 備註
+
+- 作者在編輯前標記了筆記本屏幕。請上傳自己的房間照片並標記目標區域。原帖報告屏幕外仍有少量變化；本倉庫未測量這些變化，也不保證像素完全保留。
+
+<details>
+<summary>來源與有日期的互動資料</summary>
+
+**編輯審核: 83.75/100 · 2026-09-13T17:54:27.409Z**
+
+[編輯審核](docs/CURATION.md)
+
+[@ai_kairos_jp](https://x.com/ai_kairos_jp/status/2097679848475099159) · [提示或工作流程來源](https://x.com/ai_kairos_jp/status/2097679848475099159) · [創作者模型聲明](https://x.com/ai_kairos_jp/status/2097679848475099159)
+
+提示來源語言: **ja** · 貼文語言: **ja**
+
+1 讚 · — 收藏 · — 轉發 · — 瀏覽量
+
+觀察到的互動: 2026-09-13T17:22:20.223812+00:00 · 來源已核實: 2026-09-13T17:54:27.409Z
+
+### 看原文
+
+```text
+表計算を自動化フロー図に。机・付箋・照明・窓の夜景は変えないで
+```
 
 </details>
 
@@ -2753,6 +3718,69 @@ change the composition to this
 ### 看原文
 
 本次編輯改編未存檔原文。請參閱原始工作流程連結。
+
+</details>
+
+[返回圖庫索引](#collection)
+
+---
+
+<a id="case-isometric-spatial-relations"></a><a id="user-content-case-isometric-spatial-relations"></a>
+## 等距視圖空間關係測試
+
+[English](README.md#user-content-case-isometric-spatial-relations) · [简体中文](README.zh-CN.md#user-content-case-isometric-spatial-relations) · [繁體中文](README.zh-TW.md#user-content-case-isometric-spatial-relations) · [日本語](README.ja.md#user-content-case-isometric-spatial-relations) · [한국어](README.ko.md#user-content-case-isometric-spatial-relations) · [Français](README.fr.md#user-content-case-isometric-spatial-relations) · [Deutsch](README.de.md#user-content-case-isometric-spatial-relations) · [Español](README.es.md#user-content-case-isometric-spatial-relations) · [Português (Brasil)](README.pt-BR.md#user-content-case-isometric-spatial-relations)
+
+<a href="https://x.com/Hyperouters/status/2097654503692443744"><img src="https://pbs.twimg.com/media/HRxdlK0WAAAs0PG.jpg" width="640" alt="等距視圖空間關係測試 — Hyperouters — source result — 來源結果範例" loading="lazy"></a>
+
+在透明立方體中指定內外、前後、上下的空間關係。
+
+**原始提示 · 文字轉圖片 · 未進行獨立測試**
+
+### 必填項
+
+來源未指定參考圖片。
+
+<details>
+<summary>提示</summary>
+
+
+
+```text
+透明玻璃立方體：紅球在內部左後上方，藍球在內部右前下方，綠球在外部正上方，黃色圓柱從左下穿到右上。使用等距視圖。
+```
+
+[瀏覽線上圖庫](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--zh-TW--isometric-spatial-relations)
+
+</details>
+
+### 改成你的需求
+
+替換主體和場景，保留需要的構圖以及圖片中的準確文字。
+
+### 備註
+
+- 原帖描述相對位置，未提供數值坐標。分別核對每個物體的位置與遮擋；不能據此認定物理關係或工程精度正確。
+
+<details>
+<summary>來源與有日期的互動資料</summary>
+
+**編輯審核: 81.25/100 · 2026-09-13T17:54:27.409Z**
+
+[編輯審核](docs/CURATION.md)
+
+[@Hyperouters](https://x.com/Hyperouters/status/2097654503692443744) · [提示或工作流程來源](https://x.com/Hyperouters/status/2097654503692443744) · [創作者模型聲明](https://x.com/Hyperouters/status/2097654503692443744)
+
+提示來源語言: **zh** · 貼文語言: **zh**
+
+2 讚 · — 收藏 · — 轉發 · — 瀏覽量
+
+觀察到的互動: 2026-09-13T17:22:19.353485+00:00 · 來源已核實: 2026-09-13T17:54:27.409Z
+
+### 看原文
+
+```text
+透明玻璃立方体：红球内部左后上，蓝球内部右前下，绿球外部正上方，黄柱从左下穿到右上。还要求等距透视。
+```
 
 </details>
 
@@ -4646,6 +5674,69 @@ If your environment cannot create or attach an animated GIF or ZIP, clearly stat
 
 ---
 
+<a id="case-mediterranean-alien-settlement"></a><a id="user-content-case-mediterranean-alien-settlement"></a>
+## 地中海風格的未來定居點
+
+[English](README.md#user-content-case-mediterranean-alien-settlement) · [简体中文](README.zh-CN.md#user-content-case-mediterranean-alien-settlement) · [繁體中文](README.zh-TW.md#user-content-case-mediterranean-alien-settlement) · [日本語](README.ja.md#user-content-case-mediterranean-alien-settlement) · [한국어](README.ko.md#user-content-case-mediterranean-alien-settlement) · [Français](README.fr.md#user-content-case-mediterranean-alien-settlement) · [Deutsch](README.de.md#user-content-case-mediterranean-alien-settlement) · [Español](README.es.md#user-content-case-mediterranean-alien-settlement) · [Português (Brasil)](README.pt-BR.md#user-content-case-mediterranean-alien-settlement)
+
+<a href="https://x.com/wonder_villas/status/2097869977890017784"><img src="https://pbs.twimg.com/media/HR0hm_uWsAAbl8I.jpg" width="640" alt="地中海風格的未來定居點 — wonder_villas — source result — 來源結果範例" loading="lazy"></a>
+
+將地中海建築語言與未來殖民地設定結合，探索空間概念。
+
+**原始提示 · 文字轉圖片 · 未進行獨立測試**
+
+### 必填項
+
+來源未指定參考圖片。
+
+<details>
+<summary>提示</summary>
+
+
+
+```text
+一個世紀後，一個遙遠的外星世界，人類在那裡定居並建立了一種新的文明，將地中海風格的建築與微妙的復古未來主義美學融為一體。
+```
+
+[瀏覽線上圖庫](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--zh-TW--mediterranean-alien-settlement)
+
+</details>
+
+### 改成你的需求
+
+替換主體和場景，保留需要的構圖以及圖片中的準確文字。
+
+### 備註
+
+- 這段簡短原文未約束建築佈局與具體材質，可用於探索建築氛圍。它不提供尺寸、平面圖或可施工的設計。
+
+<details>
+<summary>來源與有日期的互動資料</summary>
+
+**編輯審核: 67.5/100 · 2026-09-13T17:54:27.409Z**
+
+[編輯審核](docs/CURATION.md)
+
+[@wonder_villas](https://x.com/wonder_villas/status/2097869977890017784) · [提示或工作流程來源](https://x.com/wonder_villas/status/2097869977890017784) · [創作者模型聲明](https://x.com/wonder_villas/status/2097869977890017784)
+
+提示來源語言: **en** · 貼文語言: **en**
+
+1 讚 · — 收藏 · — 轉發 · — 瀏覽量
+
+觀察到的互動: 2026-09-13T17:23:13.356247+00:00 · 來源已核實: 2026-09-13T17:54:27.409Z
+
+### 看原文
+
+```text
+A distant alien world, a century from now, where humans have settled and built a new civilisation blending Mediterranean-inspired architecture with a subtle retro-futurist aesthetic.
+```
+
+</details>
+
+[返回圖庫索引](#collection)
+
+---
+
 <a id="case-robot-sequential-edits"></a><a id="user-content-case-robot-sequential-edits"></a>
 ## 一個機器人經過九個連續剪輯
 
@@ -5204,6 +6295,74 @@ a 1960s Sunday newspaper comic strip on yellowed newsprint, six panels in two ro
 
 ```text
 turn it into a future building
+```
+
+</details>
+
+</details>
+
+[返回圖庫索引](#collection)
+
+---
+
+<a id="case-personal-enamel-pin-set"></a><a id="user-content-case-personal-enamel-pin-set"></a>
+## 要求八枚徽章，結果生成十枚
+
+[English](README.md#user-content-case-personal-enamel-pin-set) · [简体中文](README.zh-CN.md#user-content-case-personal-enamel-pin-set) · [繁體中文](README.zh-TW.md#user-content-case-personal-enamel-pin-set) · [日本語](README.ja.md#user-content-case-personal-enamel-pin-set) · [한국어](README.ko.md#user-content-case-personal-enamel-pin-set) · [Français](README.fr.md#user-content-case-personal-enamel-pin-set) · [Deutsch](README.de.md#user-content-case-personal-enamel-pin-set) · [Español](README.es.md#user-content-case-personal-enamel-pin-set) · [Português (Brasil)](README.pt-BR.md#user-content-case-personal-enamel-pin-set)
+
+<details>
+<summary>學習案例 — 探索與限制</summary>
+
+<a href="https://x.com/miratechtool/status/2097710852413497646"><img src="https://pbs.twimg.com/media/HRyQ5SpXgAA9LW9.jpg" width="640" alt="要求八枚徽章，結果生成十枚 — miratechtool — source result — 來源結果範例" loading="lazy"></a>
+
+將八枚徽章分配為一枚肖像、兩枚文字與五枚興趣主題圖案。
+
+**原始提示 · 參考編輯 · 未進行獨立測試**
+
+### 必填項
+
+- 上傳清晰的肖像參考，並提供人物姓名、個性詞彙和五個興趣。
+
+<details>
+<summary>提示</summary>
+
+
+
+```text
+在深色紋理背景上以垂直 4:5 構圖創建超逼真的琺瑯徽章系列。嚴格設計 8 枚獨立的高品質琺瑯徽章，具有拋光的金色金屬輪廓、光滑的硬琺瑯表面、微妙的凸起邊緣、逼真的反射和柔和的陰影。主要的中型中心徽章是 [CHARACTER] 的肖像，保留了參考圖像可識別的臉部、髮型、膚色、表情、服裝和主要特徵，同時將它們轉化為詳細的高級琺瑯插圖。添加 1 枚小型姓名徽章“[NAME]”和 1 枚小型個性詞徽章“[WORD]”。其餘的 5 枚徽章應代表 [CHARACTER] 的興趣和生活方式，例如創意工作、人工智能/技術、視覺創作、攝影、旅行、友誼、愛好或日常用品，使用巧妙的象徵性插圖而不是過多的文字。使用不同的徽章形狀和大小、寬敞的間距和沒有嚴格的網格，將所有內容有機地排列在肖像周圍。使用大膽、平坦、明亮的顏色，具有複雜的對比度、清晰的細節、逼真的金屬深度和高端商業產品照明。讓它感覺就像在工作室拍攝的限量版設計師徽章套裝——現代、充滿活力、個性化、具有收藏價值，並且立即引人注目。沒有城市名稱或特定地標，沒有重復的徽章，沒有混亂，沒有隨機文本，沒有拼寫錯誤，沒有廉價的卡通或塑料外觀。
+```
+
+[瀏覽線上圖庫](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--zh-TW--personal-enamel-pin-set)
+
+</details>
+
+### 改成你的需求
+
+提供自己的參考圖，說明每張圖的用途，並分清要修改與要保留的部分。
+
+### 備註
+
+- 失敗教學案例：要求8枚，預覽卻有10枚，還出現了明令排除的額外文字與可辨識地標。可用來練習清點物體與檢查否定約束。請上傳有權使用的人像，並替換 [CHARACTER]、[NAME] 和 [WORD]。這是概念效果圖，不是可直接生產的製版文件。
+
+<details>
+<summary>來源與有日期的互動資料</summary>
+
+**編輯審核: 62.5/100 · 2026-09-13T17:54:27.409Z**
+
+[編輯審核](docs/CURATION.md)
+
+[@miratechtool](https://x.com/miratechtool/status/2097710852413497646) · [提示或工作流程來源](https://x.com/miratechtool/status/2097710852413497646) · [創作者模型聲明](https://x.com/miratechtool/status/2097710852413497646)
+
+提示來源語言: **en** · 貼文語言: **en**
+
+28 讚 · — 收藏 · — 轉發 · — 瀏覽量
+
+觀察到的互動: 2026-09-13T17:22:11.067443+00:00 · 來源已核實: 2026-09-13T17:54:27.409Z
+
+### 看原文
+
+```text
+Create a hyper-realistic enamel pin collection in a vertical 4:5 composition on a dark textured background. Design exactly 8 separate premium pins with polished gold-metal outlines, glossy hard-enamel surfaces, subtle raised edges, realistic reflections, and soft shadows. The main medium-sized center pin is a portrait of [CHARACTER], preserving the reference image’s recognizable face, hairstyle, skin tone, expression, clothing, and key features while translating them into a detailed premium enamel illustration. Add 1 small name pin reading “[NAME]” and 1 small personality-word pin reading “[WORD]”. The remaining 5 pins should represent [CHARACTER]’s interests and lifestyle, such as creative work, AI/technology, visual creation, photography, travel, friendship, hobbies, or everyday objects, using clever symbolic illustrations rather than excessive text. Arrange everything organically around the portrait with varied pin shapes and sizes, generous spacing, and no rigid grid. Use bold, flat, bright colors with sophisticated contrast, crisp details, realistic metallic depth, and high-end commercial product lighting. Make it feel like a limited-edition designer pin set photographed in a studio—modern, vibrant, personal, collectible, and instantly eye-catching. No city names or specific landmarks, no duplicated pins, no clutter, no random text, no misspellings, no cheap cartoon or plastic appearance.
 ```
 
 </details>

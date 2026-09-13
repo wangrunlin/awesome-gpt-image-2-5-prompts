@@ -7,15 +7,15 @@
 
 実用的なGPT Image 2.5のプロンプト、出典付きの作例、再利用できるワークフロー。画像を見て完全なプロンプトをコピーできます。
 
-**56 事例 · 9 言語** · [オンラインギャラリーを見る](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=intro--ja) · 管理・運営: [Image 2.5](https://image-2-5.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=maintainer--ja)
+**70 事例 · 9 言語** · [オンラインギャラリーを見る](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=intro--ja) · 管理・運営: [Image 2.5](https://image-2-5.com/?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=maintainer--ja)
 
 ## ここから始める
 
+- [中国語の制作会社サイト全体のモックアップ](#case-chinese-agency-page-layout) — セクションごとの高さの比率と中国語の表示文言を指定し、制作会社サイト全体を描きます。
 - [固定ポスター内の製品の置き換え](#case-fixed-template-product-swap) — ポスターのレイアウト、タイポグラフィ、背景はそのままに、メインの商品を差し替えてください。
-- [3つの参考資料を用いた商品広告](#case-three-reference-product-ad) — 商品識別情報、照明、レイアウトの参考資料を、優先順位を明確に示して個別に作成してください。
 - [跳ねる切り抜きステッカーGIF](#case-bouncing-cutout-sticker) — 被写体を透明なステッカーに変換し、Pythonでその切り抜きをアニメーション化します。
-- [渓谷の線画を写実的に描く](#case-drawing-to-realistic-valley) — 線画を素材と光に置き換えながら配置と遠近法を保つ。
-- [光を合わせて2枚の参照画像を合成](#case-reference-dog-composite) — 部分合成の前に、移す対象の画像、配置先、位置を指定する。
+- [3 つの編集を経たキャンプ場のスケッチ](#case-campsite-sketch-three-edits) — レイアウトにスケッチを使用し、日光と衣服を別々のターンに変更します。
+- [構図を保った庭園写真の色調補正](#case-garden-photo-color-grading) — 撮影したシーンを維持しながら、空のハイライト、影の詳細、葉の色を制御します。
 
 人気ではなく編集上の品質評価で並べています。評価は資料の使いやすさと掲載作例に基づき、モデルの独立検証ではありません。日付付き反応数は出典欄に残しています。
 
@@ -49,9 +49,11 @@
 <a id="category-editing"></a>
 ### 編集と復元
 
+- [構図を保った庭園写真の色調補正](#case-garden-photo-color-grading)
 - [光を合わせて2枚の参照画像を合成](#case-reference-dog-composite)
 - [手に持つ物を除去](#case-remove-flower-local-edit)
 - [部屋を保って椅子だけを交換](#case-wooden-chair-room-edit)
+- [ノートPC画面の内容だけを置き換える](#case-laptop-screen-local-replacement)
 - [部屋にあるランプを移動させる](#case-move-the-lamp)
 - [低解像度の画像を復元する](#case-low-resolution-restoration)
 - [9つの連続した編集工程を経るロボットの描写](#case-robot-sequential-edits)
@@ -62,12 +64,14 @@
 - [固定ポスター内の製品の置き換え](#case-fixed-template-product-swap)
 - [透明製品のスタジオ照明の再調整](#case-transparent-product-relighting)
 - [看板を2つの季節で展開](#case-billboard-seasonal-iteration)
+- [ブリスターパッケージに入った収集価値のある飛行機](#case-collectible-airplane-packaging)
 - [一貫性のある複数製品のスタジオ撮影レイアウト](#case-multi-product-studio-lineup)
 - [参考製品を持っている人物](#case-person-holding-reference-product)
 - [参照シャツのバーチャル試着](#case-reference-shirt-try-on)
 - [6色展開のファッションキャンペーン](#case-six-color-fashion-campaign)
 - [商品を透明背景で切り抜く](#case-transparent-product-cutout)
 - [形状（ジオメトリ）を固定した製品レンダリング](#case-geometry-locked-product-render)
+- [注釈付きのファッション ルックブック](#case-annotated-fashion-lookbook)
 - [スタイル参照を用いた製品UGC（ユーザー生成コンテンツ）](#case-style-reference-product-ugc)
 - [レトロなインフォマーシャル（通販番組）風の広告フレーム。](#case-retro-infomercial-frame)
 
@@ -80,15 +84,22 @@
 <a id="category-design"></a>
 ### ポスターとエディトリアルデザイン
 
+- [中国語の制作会社サイト全体のモックアップ](#case-chinese-agency-page-layout)
 - [3つの参考資料を用いた商品広告](#case-three-reference-product-ad)
+- [きれいなアルファエッジを持つベーカリーのロゴ](#case-bakery-logo-transparent)
 - [中国式コーヒーの淹れ方インフォグラフィック](#case-chinese-coffee-brewing-infographic)
+- [ラベル付き細胞呼吸ハンドアウト](#case-classroom-cellular-respiration)
 - [生鮮食品モバイルアプリのUI](#case-fresh-grocery-mobile-ui)
 - [レイアウトを保って図解を翻訳](#case-infographic-layout-translation)
 - [長文ポスターテンプレートの再利用](#case-long-copy-poster-template)
 - [カップ1個の色と仕上げの編集](#case-single-cup-material-edit)
+- [建築ポータルの旅行ポスター](#case-architectural-portal-travel-poster)
 - [コーヒーフェスティバルポスター編集（5ラウンド）](#case-coffee-festival-poster-iterations)
+- [明示的なインプットによる市場規模のスライド](#case-market-opportunity-slide)
+- [メッセージが 1 つだけ記載されたホリデー カード](#case-nostalgic-holiday-card)
 - [エスプレッソマシンのサービスマニュアル用図面](#case-espresso-service-manual)
 - [パーソナライズされた旅行雑誌のページ](#case-travel-magazine-page)
+- [等角投影の空間関係テスト](#case-isometric-spatial-relations)
 - [手作りのミニチュア旅行用ランドマーク](#case-miniature-travel-landmark)
 - [写真と版画を融合した旅日記](#case-santorini-family-travel-diary)
 - [様々な書体が混在する村の掲示板](#case-village-notice-board)
@@ -115,17 +126,28 @@
 <a id="category-sketch"></a>
 ### スケッチをガイドとした生成
 
+- [3 つの編集を経たキャンプ場のスケッチ](#case-campsite-sketch-three-edits)
 - [渓谷の線画を写実的に描く](#case-drawing-to-realistic-valley)
 - [スケッチからシーンを再構成する](#case-sketch-guided-composition)
+- [地中海にインスピレーションを得た未来の定住地](#case-mediterranean-alien-settlement)
 
 <a id="mode-generate"></a>
 <details>
 <summary>テキストから画像生成</summary>
 
+- [中国語の制作会社サイト全体のモックアップ](#case-chinese-agency-page-layout)
+- [きれいなアルファエッジを持つベーカリーのロゴ](#case-bakery-logo-transparent)
 - [中国式コーヒーの淹れ方インフォグラフィック](#case-chinese-coffee-brewing-infographic)
+- [ラベル付き細胞呼吸ハンドアウト](#case-classroom-cellular-respiration)
+- [ブリスターパッケージに入った収集価値のある飛行機](#case-collectible-airplane-packaging)
 - [生鮮食品モバイルアプリのUI](#case-fresh-grocery-mobile-ui)
 - [6色展開のファッションキャンペーン](#case-six-color-fashion-campaign)
+- [建築ポータルの旅行ポスター](#case-architectural-portal-travel-poster)
+- [注釈付きのファッション ルックブック](#case-annotated-fashion-lookbook)
+- [明示的なインプットによる市場規模のスライド](#case-market-opportunity-slide)
+- [メッセージが 1 つだけ記載されたホリデー カード](#case-nostalgic-holiday-card)
 - [エスプレッソマシンのサービスマニュアル用図面](#case-espresso-service-manual)
+- [等角投影の空間関係テスト](#case-isometric-spatial-relations)
 - [手作りのミニチュア旅行用ランドマーク](#case-miniature-travel-landmark)
 - [写真と版画を融合した旅日記](#case-santorini-family-travel-diary)
 - [火山砂の上でのセルアニメーション風の決闘](#case-cel-animation-duel)
@@ -134,6 +156,7 @@
 - [海岸沿いの修道院を背景にした、自然な雰囲気の旅行ポートレート](#case-coastal-abbey-travel-portrait)
 - [モジュール式機械タワー](#case-modular-mechanical-tower)
 - [オブジェクト数制限付き秋市ポスター](#case-autumn-market-count-constraints)
+- [地中海にインスピレーションを得た未来の定住地](#case-mediterranean-alien-settlement)
 - [カフェで撮影した自然な雰囲気のスマホ写真](#case-candid-cafe-photo)
 
 </details>
@@ -146,6 +169,7 @@
 - [3つの参考資料を用いた商品広告](#case-three-reference-product-ad)
 - [透明製品のスタジオ照明の再調整](#case-transparent-product-relighting)
 - [渓谷の線画を写実的に描く](#case-drawing-to-realistic-valley)
+- [構図を保った庭園写真の色調補正](#case-garden-photo-color-grading)
 - [レイアウトを保って図解を翻訳](#case-infographic-layout-translation)
 - [長文ポスターテンプレートの再利用](#case-long-copy-poster-template)
 - [一貫性のある複数製品のスタジオ撮影レイアウト](#case-multi-product-studio-lineup)
@@ -158,6 +182,7 @@
 - [手に持つ物を除去](#case-remove-flower-local-edit)
 - [部屋を保って椅子だけを交換](#case-wooden-chair-room-edit)
 - [形状（ジオメトリ）を固定した製品レンダリング](#case-geometry-locked-product-render)
+- [ノートPC画面の内容だけを置き換える](#case-laptop-screen-local-replacement)
 - [キャラクター主導のダンスポーズシート](#case-dance-pose-keyframes)
 - [スケッチからシーンを再構成する](#case-sketch-guided-composition)
 - [パーソナライズされた旅行雑誌のページ](#case-travel-magazine-page)
@@ -174,6 +199,7 @@
 
 - [看板を2つの季節で展開](#case-billboard-seasonal-iteration)
 - [跳ねる切り抜きステッカーGIF](#case-bouncing-cutout-sticker)
+- [3 つの編集を経たキャンプ場のスケッチ](#case-campsite-sketch-three-edits)
 - [コーヒーフェスティバルポスター編集（5ラウンド）](#case-coffee-festival-poster-iterations)
 - [6コマの表情パフォーマンスGIF](#case-six-frame-expression-gif)
 - [スタイル参照を用いた製品UGC（ユーザー生成コンテンツ）](#case-style-reference-product-ugc)
@@ -186,6 +212,101 @@
 - [9つの連続した編集工程を経るロボットの描写](#case-robot-sequential-edits)
 
 </details>
+
+---
+
+<a id="case-chinese-agency-page-layout"></a><a id="user-content-case-chinese-agency-page-layout"></a>
+## 中国語の制作会社サイト全体のモックアップ
+
+[English](README.md#user-content-case-chinese-agency-page-layout) · [简体中文](README.zh-CN.md#user-content-case-chinese-agency-page-layout) · [繁體中文](README.zh-TW.md#user-content-case-chinese-agency-page-layout) · [日本語](README.ja.md#user-content-case-chinese-agency-page-layout) · [한국어](README.ko.md#user-content-case-chinese-agency-page-layout) · [Français](README.fr.md#user-content-case-chinese-agency-page-layout) · [Deutsch](README.de.md#user-content-case-chinese-agency-page-layout) · [Español](README.es.md#user-content-case-chinese-agency-page-layout) · [Português (Brasil)](README.pt-BR.md#user-content-case-chinese-agency-page-layout)
+
+<a href="https://x.com/listudio/status/2097652659788619894"><img src="https://pbs.twimg.com/media/HRxb7cJboAAiH2G.jpg" width="640" alt="中国語の制作会社サイト全体のモックアップ — listudio — source result — 出典の結果例" loading="lazy"></a>
+
+セクションごとの高さの比率と中国語の表示文言を指定し、制作会社サイト全体を描きます。
+
+**元のプロンプト · テキストから画像生成 · 独立したテストは未実施**
+
+### 必要な入力
+
+ソースによる参照画像の指定はありません。
+
+<details>
+<summary>プロンプト</summary>
+
+
+
+```text
+Web バージョンの最新の GPT イメージ 2.5 イメージ生成機能を使用して、イメージを直接生成してください。プロンプト ワードを返すだけではありません。
+
+クリエイティブ デザイン会社の中国の公式 Web サイトの完全なビジュアル デザイン図面、正面図で遠近感のないデスクトップ Web ページの長いスクリーンショット、9:16 垂直形式、可能な限り高い解像度、およびナビゲーションからフッターまでの完全な表示を生成します。白の背景、コバルトブルー、明るい黄色、コーラルレッド、ライトスカイブルーの色、狭い空白、きちんとしたグリッド、直角のカード、大胆なベベル幾何学コラージュ。全体的な外観は若々しく、活気があり、デザインの実験的な感覚があります。
+
+上部にはスリムな白いナビゲーションバーがあり、左側にオリジナルの太字の漢字マーク「见造」と小さなスローガン「以创意，让世界更有趣」が表示されます。右側のナビゲーションは「关于我们、创意服务、精选作品、加入我们、最新动态」、青い「联系我们 →」ボタンは一番右にあります。
+
+最初の画面は画像全体の約 27% を占めます。左側にはコバルトブルーの太いゴシック体がとても目を引く「让有趣，」と「改变世界。」の2行がございます。左下に小さく「以自由的想象，连接人与品牌，让每一个好点子，成为真实的改变。」の文字があります。右側には明らかに成人した20歳の中国人女性がいます。肩まで伸びた黒い髪が風になびく。彼女はナチュラルな薄化粧と本物の肌を持っています。彼女は少し頭を上げて右上を見た。コバルトブルーのコットンとリネンのスタンドカラー半袖トップスを着て、シンプルな斜めの前立てと同色のボタンがいくつか付いています。ぴったりフィットしますが、きつくはありません。キャラクターには、青い立方体、黄色の球体、コーラルレッドのリング、白い幾何学模様の台座が組み合わされています。背景は水色の空と明るい自然光です。質感と落ち影は信頼できるものです。
+
+最初の画面の下部にある白いコンセプトの水平バーは約 8% を占め、左側に小さな文字「我们的理念」、中央に太字の黒いタイトル「用创意，为社会留出想象。」、右側に「我们相信，好的设计不止解决问题，也让人与世界产生新的连接。」と「了解见造 →」のテキストが表示されます。
+
+サービスエリアは約 16% を占め、狭い列タイトル「创意服务」、簡単な紹介、左側に「查看全部服务 →」が表示されます。右側に同じ幅のカードが 3 枚あります。手持ちの電球の写真が描かれた青色の背景カード「品牌创意」、カラフルな幾何学的な構成要素が描かれた黄色の背景カード「传播设计」、開いたラップトップが描かれたコーラルレッドの背景カード「数字体验」です。各カードの下には 2 行の簡単な中国語の紹介と右矢印があります。
+
+作品エリアは約17%を占め、左側に「精选作品」と「查看全部作品 →」というタイトルがあり、右側にはカラフルな絵の具で装飾された20歳の中国女性のポートレートポスター、都会的な幾何学模様のインスタレーションポスター、青、白、赤のエディトリアルデザイン、マウンテンアートのインスタレーションポスターなど、平面作品のサムネイルが4列並んでいる。 4 つのプロジェクトの名前は順に「自在生长」、「城市游乐场」、「灵感发生地」、「山野之间」であり、サムネイルに表示されるテキストはすべて中国語です。
+
+募集エリアは18%程度を占め、全体がコバルトブルーの横棒、左側に白いタイトル「和有趣的人，一起创造新风景。」、文字「让热爱成为日常，让灵感自由生长。」、白いボタン「查看开放职位 →」が配置されています。右側では、明らかに成人した20歳の中国人女性3人が、黄色とコーラルレッドの幾何学的な階段に座り、自然にコミュニケーションをとっています。彼らは、青いスタンドカラーのトップス、オフホワイトのコットンとリネンのシャツ、薄黄色のシンプルなニットトップス、ゆったりしたズボン、清潔なフラットシューズを着ています。黒髪のロングヘアか肩にかかるくらいのショートヘア、ナチュラルな薄化粧、若々しさ、自信、優しさが特徴です。古代の衣装でも、プロ仕様のスーツでも、大げさなアクセサリーもありません。
+
+以下の6%については背景が白の「最新动态」列で、メッセージの3行は「2026.09.09 见造全新品牌网站正式上线」「2026.09.08 城市游乐场创意计划发布」「2026.09.01 秋季创意伙伴招募开启」です。最後の約 8% は簡潔なフッターで、中国語の「见造」、ナビゲーション、「© 2026 见造创意。保留所有权利。」があり、快適な下マージンが残されています。すべてのインターフェイスのコピーは読みやすく正確な簡体字中国語で書かれており、タイトルとテキストが明確なレベルで表示されています。日本語なし、文字化けなし、サードパーティのロゴなし、透かしなし、ブラウザの境界線なし、デバイスケースなし。完全な Web デザイン図面を出力します。
+```
+
+[オンラインギャラリーを見る](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ja--chinese-agency-page-layout)
+
+</details>
+
+### 自分の用途に合わせる
+
+被写体と背景を置き換え、必要な構図と画像内の正確な文字を維持します。
+
+### 備考
+
+- 生成されるのはWebページの画像であり、HTMLや動作するアプリではありません。各セクションの高さの比率は合計100%です。小さな中国語を原寸で確認してください。翻訳時も引用された中国語の表示文言を保持し、透かし禁止の条件も確認してください。
+
+<details>
+<summary>出典と日付付き反応数</summary>
+
+**編集レビュー: 93.75/100 · 2026-09-13T17:54:27.409Z**
+
+[編集レビュー](docs/CURATION.md)
+
+[@listudio](https://x.com/listudio/status/2097652659788619894) · [プロンプトまたはワークフローのソース](https://x.com/listudio/status/2097652659788619894) · [作成者によるモデルの明記](https://x.com/listudio/status/2097652659788619894)
+
+プロンプトのソース言語: **zh** · 投稿の言語: **zh**
+
+0 いいね · — ブックマーク · — リポスト · — 閲覧数
+
+反応（エンゲージメント）あり: 2026-09-13T17:22:12.779229+00:00 · ソース確認済み: 2026-09-13T17:54:27.409Z
+
+### 元の文言を表示
+
+```text
+请使用网页版当前最新的 GPT Image 2.5 生图能力直接生成图片，不要仅返回提示词。
+
+生成一张完整的创意设计公司中文官网视觉设计图，正面平视、无透视的桌面网页长截图，9:16 竖幅，尽可能高分辨率，完整显示从导航到页脚。白底，钴蓝、明黄、珊瑚红和浅天蓝配色，细窄留白、整齐网格、直角卡片、大胆斜切几何拼贴。整体年轻、明快、有设计实验感。
+
+顶部为纤细白色导航栏，左侧原创中文粗体字标“见造”，小标语“以创意，让世界更有趣”。右侧导航依次为“关于我们、创意服务、精选作品、加入我们、最新动态”，最右是蓝色“联系我们 →”按钮。
+
+首屏占全图约 27%，左侧以非常醒目的钴蓝粗黑体排两行“让有趣，”“改变世界。”，左下小字“以自由的想象，连接人与品牌，让每一个好点子，成为真实的改变。”右侧是一名明确成年的 20 岁中国女性，黑色齐肩发被微风吹动，自然淡妆，真实皮肤，微仰头望向右上方。穿钴蓝棉麻立领短袖上衣，简洁斜襟与少量同色盘扣，合身但不紧绷。人物与蓝色立方体、黄色球体、珊瑚红圆环、白色几何台座组合，背景浅蓝天空，明亮自然日光，材质和投影可信。
+
+首屏下方白色理念横栏占约 8%，左侧小字“我们的理念”，中间黑色粗标题“用创意，为社会留出想象。”，右侧正文“我们相信，好的设计不止解决问题，也让人与世界产生新的连接。”及“了解见造 →”。
+
+服务区占约 16%，左侧窄栏标题“创意服务”、简短介绍和“查看全部服务 →”；右侧三张等宽卡片：蓝底卡片以手持灯泡摄影配“品牌创意”，黄底卡片以彩色几何积木配“传播设计”，珊瑚红底卡片以打开的笔记本电脑配“数字体验”。每张卡片下方有两行简短中文介绍和右箭头。
+
+作品区占约 17%，左侧标题“精选作品”和“查看全部作品 →”，右侧四列平面作品缩略图，分别为有彩色颜料点缀的 20 岁中国女性肖像海报、城市几何装置海报、蓝白红编辑设计、山野艺术装置海报。四个项目名称依次为“自在生长”“城市游乐场”“灵感发生地”“山野之间”，缩略图中的可见文字也全部使用中文。
+
+招聘区占约 18%，整幅钴蓝横栏，左侧白色大标题“和有趣的人，一起创造新风景。”，正文“让热爱成为日常，让灵感自由生长。”及白底按钮“查看开放职位 →”。右侧三名明确成年的 20 岁中国女性坐在黄色与珊瑚红几何台阶上自然交流，分别穿蓝色立领上衣、米白棉麻衬衫、浅黄色简约针织上衣，搭配宽松长裤与干净平底鞋，黑色长发或齐肩短发，自然淡妆，青春、自信、亲切，非古装、非职业套装、无夸张饰品。
+
+下方约 6% 为白底“最新动态”栏，三行消息为“2026.09.09 见造全新品牌网站正式上线”“2026.09.08 城市游乐场创意计划发布”“2026.09.01 秋季创意伙伴招募开启”。最后约 8% 为简洁页脚，中文“见造”、导航和“© 2026 见造创意。保留所有权利。”，留出舒适下边距。所有界面文案为可读、准确的简体中文，标题与正文层级鲜明。无日文、无乱码、无第三方标志、无水印、无浏览器边框、无设备外壳。输出一张完整网页设计图。
+```
+
+</details>
+
+[ギャラリー一覧に戻る](#collection)
 
 ---
 
@@ -452,6 +573,75 @@
 
 ---
 
+<a id="case-bakery-logo-transparent"></a><a id="user-content-case-bakery-logo-transparent"></a>
+## きれいなアルファエッジを持つベーカリーのロゴ
+
+[English](README.md#user-content-case-bakery-logo-transparent) · [简体中文](README.zh-CN.md#user-content-case-bakery-logo-transparent) · [繁體中文](README.zh-TW.md#user-content-case-bakery-logo-transparent) · [日本語](README.ja.md#user-content-case-bakery-logo-transparent) · [한국어](README.ko.md#user-content-case-bakery-logo-transparent) · [Français](README.fr.md#user-content-case-bakery-logo-transparent) · [Deutsch](README.de.md#user-content-case-bakery-logo-transparent) · [Español](README.es.md#user-content-case-bakery-logo-transparent) · [Português (Brasil)](README.pt-BR.md#user-content-case-bakery-logo-transparent)
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo"><img src="https://developers.openai.com/images/platform/guides/image-prompting/logo-generation-1-gpt-image-2-5-sunburst.webp" width="640" alt="きれいなアルファエッジを持つベーカリーのロゴ — OpenAI — source result — 出典の結果例" loading="lazy"></a>
+
+さまざまなサイズで読みやすい、シンプルなブランド マークをデザインします。
+
+**元のプロンプト · テキストから画像生成 · 独立したテストは未実施**
+
+### 必要な入力
+
+ソースによる参照画像の指定はありません。
+
+<details>
+<summary>プロンプト</summary>
+
+
+
+```text
+地元のパン屋である Field & Flour という会社のオリジナルの非侵害ロゴを作成します。
+ロゴは温かみがあり、シンプルで、時代を超越したものでなければなりません。きれいなベクターのような形状、力強いシルエット、バランスの取れたネガティブ スペースを使用します。
+小さいサイズでも大きいサイズでもはっきりと読めるように、詳細よりもシンプルさを優先します。フラットなデザイン、最小限のストローク、必須でない限りグラデーションなし。
+完全に透明な背景。十分なパディング、きれいなアルファエッジを備え、無地の背景、風景、チェッカーボード、または透かしを含まない、中央に配置された単一のロゴを提供します。
+```
+
+[オンラインギャラリーを見る](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ja--bakery-logo-transparent)
+
+</details>
+
+### 自分の用途に合わせる
+
+被写体と背景を置き換え、必要な構図と画像内の正確な文字を維持します。
+
+### 備考
+
+- ベーカリー名と概要を一緒に置き換えます。出力はラスター イメージであり、編集可能なベクター ファイルではありません。エディターでアルファ エッジを検査します。帰属は商標の許可ではありません。ソース設定: 1024x1536、中品質、透明背景、PNG。
+
+<details>
+<summary>出典と日付付き反応数</summary>
+
+**編集レビュー: 91.25/100 · 2026-09-13T17:54:27.409Z**
+
+[編集レビュー](docs/CURATION.md)
+
+[OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo) · [プロンプトまたはワークフローのソース](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo) · [作成者によるモデルの明記](https://developers.openai.com/api/docs/guides/image-prompting#design-a-reusable-logo)
+
+プロンプトのソース言語: **en** · 投稿の言語: **en**
+
+— いいね · — ブックマーク · — リポスト · — 閲覧数
+
+反応（エンゲージメント）あり: 2026-09-13T17:54:27.409Z · ソース確認済み: 2026-09-13T17:54:27.409Z
+
+### 元の文言を表示
+
+```text
+Create an original, non-infringing logo for a company called Field & Flour, a local bakery.
+The logo should feel warm, simple, and timeless. Use clean, vector-like shapes, a strong silhouette, and balanced negative space.
+Favor simplicity over detail so it reads clearly at small and large sizes. Flat design, minimal strokes, no gradients unless essential.
+Fully transparent background. Deliver a single centered logo with generous padding, clean alpha edges, and no solid backdrop, scenery, checkerboard, or watermark.
+```
+
+</details>
+
+[ギャラリー一覧に戻る](#collection)
+
+---
+
 <a id="case-billboard-seasonal-iteration"></a><a id="user-content-case-billboard-seasonal-iteration"></a>
 ## 看板を2つの季節で展開
 
@@ -669,6 +859,89 @@ Make it look like a winter evening with snowfall.
 
 ---
 
+<a id="case-campsite-sketch-three-edits"></a><a id="user-content-case-campsite-sketch-three-edits"></a>
+## 3 つの編集を経たキャンプ場のスケッチ
+
+[English](README.md#user-content-case-campsite-sketch-three-edits) · [简体中文](README.zh-CN.md#user-content-case-campsite-sketch-three-edits) · [繁體中文](README.zh-TW.md#user-content-case-campsite-sketch-three-edits) · [日本語](README.ja.md#user-content-case-campsite-sketch-three-edits) · [한국어](README.ko.md#user-content-case-campsite-sketch-three-edits) · [Français](README.fr.md#user-content-case-campsite-sketch-three-edits) · [Deutsch](README.de.md#user-content-case-campsite-sketch-three-edits) · [Español](README.es.md#user-content-case-campsite-sketch-three-edits) · [Português (Brasil)](README.pt-BR.md#user-content-case-campsite-sketch-three-edits)
+
+<a href="https://x.com/ezolog2026/status/2097698951696908595"><img src="https://pbs.twimg.com/media/HRyEoy-awAARHe5.jpg" width="640" alt="3 つの編集を経たキャンプ場のスケッチ — ezolog2026 — source result — 出典の結果例" loading="lazy"></a>
+
+レイアウトにスケッチを使用し、日光と衣服を別々のターンに変更します。
+
+**元のプロンプト · 多段階ワークフロー · 独立したテストは未実施**
+
+### 必要な入力
+
+- 意図した構成を示すキャンプ場のスケッチをアップロードします。同じ会話を維持し、各結果を次の編集で再利用します。
+
+<details>
+<summary>プロンプト</summary>
+
+#### ステップ 1
+
+```text
+この手書きの絵をもとにムードのある夜のキャンプ場の画像を作って
+```
+
+#### ステップ 2
+
+```text
+構図は変えずに昼にして
+```
+
+#### ステップ 3
+
+```text
+人物の服装をオーバーオールにして
+```
+
+[オンラインギャラリーを見る](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ja--campsite-sketch-three-edits)
+
+</details>
+
+### 自分の用途に合わせる
+
+順番に実行し、必要に応じて前の出力を再利用してください。開始前に外部処理ツールを確認します。
+
+### 備考
+
+- 前の出力を再利用して、これらの手順を順番に実行します。ソース比較では、スケッチと結果が結合されます。独自のスケッチを使用するか、アップロードする前にスケッチ パネルをトリミングしてください。これは視覚的なシーンのワークフローであり、測定された敷地計画ではありません。
+
+<details>
+<summary>出典と日付付き反応数</summary>
+
+**編集レビュー: 91.25/100 · 2026-09-13T17:54:27.409Z**
+
+[編集レビュー](docs/CURATION.md)
+
+[@ezolog2026](https://x.com/ezolog2026/status/2097698951696908595) · [プロンプトまたはワークフローのソース](https://x.com/ezolog2026/status/2097698951696908595) · [作成者によるモデルの明記](https://x.com/ezolog2026/status/2097698951696908595)
+
+プロンプトのソース言語: **ja** · 投稿の言語: **ja**
+
+13 いいね · — ブックマーク · — リポスト · — 閲覧数
+
+反応（エンゲージメント）あり: 2026-09-13T17:22:19.990392+00:00 · ソース確認済み: 2026-09-13T17:54:27.409Z
+
+### 元の文言を表示
+
+```text
+この手書きの絵をもとにムードのある夜のキャンプ場の画像を作って
+```
+
+```text
+構図は変えずに昼にして
+```
+
+```text
+人物の服装をオーバーオールにして
+```
+
+</details>
+
+[ギャラリー一覧に戻る](#collection)
+
+---
+
 <a id="case-chinese-coffee-brewing-infographic"></a><a id="user-content-case-chinese-coffee-brewing-infographic"></a>
 ## 中国式コーヒーの淹れ方インフォグラフィック
 
@@ -743,6 +1016,182 @@ Make it look like a winter evening with snowfall.
 用四个编号模块自上而下排列，每个模块包含一个简洁图标。
 奶油白背景，深咖啡色文字，少量橙色强调。
 所有文字必须清晰可读，不得添加其他文字、品牌、Logo或水印。
+```
+
+</details>
+
+[ギャラリー一覧に戻る](#collection)
+
+---
+
+<a id="case-classroom-cellular-respiration"></a><a id="user-content-case-classroom-cellular-respiration"></a>
+## ラベル付き細胞呼吸ハンドアウト
+
+[English](README.md#user-content-case-classroom-cellular-respiration) · [简体中文](README.zh-CN.md#user-content-case-classroom-cellular-respiration) · [繁體中文](README.zh-TW.md#user-content-case-classroom-cellular-respiration) · [日本語](README.ja.md#user-content-case-classroom-cellular-respiration) · [한국어](README.ko.md#user-content-case-classroom-cellular-respiration) · [Français](README.fr.md#user-content-case-classroom-cellular-respiration) · [Deutsch](README.de.md#user-content-case-classroom-cellular-respiration) · [Español](README.es.md#user-content-case-classroom-cellular-respiration) · [Português (Brasil)](README.pt-BR.md#user-content-case-classroom-cellular-respiration)
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals"><img src="https://developers.openai.com/images/platform/guides/image-prompting/scientific-educational-cellular-respiration-gpt-image-2-5-sunburst.webp" width="640" alt="ラベル付き細胞呼吸ハンドアウト — OpenAI — source result — 出典の結果例" loading="lazy"></a>
+
+教室図を生成する前に、レッスン、分子、視覚的なシーケンスを指定します。
+
+**元のプロンプト · テキストから画像生成 · 独立したテストは未実施**
+
+### 必要な入力
+
+ソースによる参照画像の指定はありません。
+
+<details>
+<summary>プロンプト</summary>
+
+
+
+```text
+高校生向けに「Cellular Respiration at a Glance」というタイトルの簡単な生物学図を作成します。
+
+グルコースが細胞内でどのようにエネルギーに変わるかを示します。解糖系、クレブス回路、電子伝達系が含まれます。
+矢印を使用してステップを接続し、主要な分子にラベルを付けます: グルコース、ピルビン酸、ATP、NADH、FADH2、CO2、O2、および H2O。
+白い背景、シンプルなアイコン、明確なラベル、読みやすいテキストを使用して、きれいな教室の配布物やスライドのように見せます。
+
+小さなテキスト、余分な装飾、または図を理解しにくくするものは避けてください。
+```
+
+[オンラインギャラリーを見る](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ja--classroom-cellular-respiration)
+
+</details>
+
+### 自分の用途に合わせる
+
+被写体と背景を置き換え、必要な構図と画像内の正確な文字を維持します。
+
+### 備考
+
+- 教える前に、その科目の専門家に分子ラベル、矢印、科学的関係を確認してもらいます。この例は生成された図であり、科学的証拠ではありません。ソース設定: 1536x1024、高品質。
+
+<details>
+<summary>出典と日付付き反応数</summary>
+
+**編集レビュー: 91.25/100 · 2026-09-13T17:54:27.409Z**
+
+[編集レビュー](docs/CURATION.md)
+
+[OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals) · [プロンプトまたはワークフローのソース](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals) · [作成者によるモデルの明記](https://developers.openai.com/api/docs/guides/image-prompting#create-scientific-and-educational-visuals)
+
+プロンプトのソース言語: **en** · 投稿の言語: **en**
+
+— いいね · — ブックマーク · — リポスト · — 閲覧数
+
+反応（エンゲージメント）あり: 2026-09-13T17:54:27.409Z · ソース確認済み: 2026-09-13T17:54:27.409Z
+
+### 元の文言を表示
+
+```text
+Create a simple biology diagram titled "Cellular Respiration at a Glance" for high school students.
+
+Show how glucose turns into energy inside a cell. Include glycolysis, the Krebs cycle, and the electron transport chain.
+Use arrows to connect the steps, and label the main molecules: glucose, pyruvate, ATP, NADH, FADH2, CO2, O2, and H2O.
+Make it look like a clean classroom handout or slide, with a white background, simple icons, clear labels, and easy-to-read text.
+
+Avoid tiny text, extra decoration, or anything that makes the diagram hard to understand.
+```
+
+</details>
+
+[ギャラリー一覧に戻る](#collection)
+
+---
+
+<a id="case-collectible-airplane-packaging"></a><a id="user-content-case-collectible-airplane-packaging"></a>
+## ブリスターパッケージに入った収集価値のある飛行機
+
+[English](README.md#user-content-case-collectible-airplane-packaging) · [简体中文](README.zh-CN.md#user-content-case-collectible-airplane-packaging) · [繁體中文](README.zh-TW.md#user-content-case-collectible-airplane-packaging) · [日本語](README.ja.md#user-content-case-collectible-airplane-packaging) · [한국어](README.ko.md#user-content-case-collectible-airplane-packaging) · [Français](README.fr.md#user-content-case-collectible-airplane-packaging) · [Deutsch](README.de.md#user-content-case-collectible-airplane-packaging) · [Español](README.es.md#user-content-case-collectible-airplane-packaging) · [Português (Brasil)](README.pt-BR.md#user-content-case-collectible-airplane-packaging)
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise"><img src="https://developers.openai.com/images/platform/guides/image-prompting/christmas-collectible-toy-airplane-gpt-image-2-5-sunburst.webp" width="640" alt="ブリスターパッケージに入った収集価値のある飛行機 — OpenAI — source result — 出典の結果例" loading="lazy"></a>
+
+製品の材料、小売パッケージ、および許可されている 1 つのパッケージラベルを一緒に説明します。
+
+**元のプロンプト · テキストから画像生成 · 独立したテストは未実施**
+
+### 必要な入力
+
+ソースによる参照画像の指定はありません。
+
+<details>
+<summary>プロンプト</summary>
+
+
+
+```text
+丸い翼、前部に取り付けられた回転プロペラ、わずかに磨耗したペイントエッジ、古典的な子供時代のプロポーションを備えたビンテージスタイルのおもちゃのプロペラ飛行機の収集価値のあるアクションフィギュアを、ノスタルジックなホリデーコレクションとしてデザインされ、ブリスターパッケージで作成します。
+
+コンセプト:
+シンプルなおもちゃの飛行機からインスピレーションを得た、ノスタルジックなホリデーコレクションアイテム
+冬休みの間、子どもたちはよく遊んでいた。
+温かさ、想像力、そして子供の頃の驚きを呼び起こします。
+
+スタイル:
+プレミアムなおもちゃの写真、リアルなプラスチックと塗装された金属のテクスチャ、
+スタジオの照明、浅い被写界深度、
+シャープなラベル印刷、高級小売店向けプレゼンテーション。
+
+制約:
+- オリジナルデザインのみ
+- 商標はありません
+- 透かしなし
+- ロゴなし
+
+このパッケージ化テキストのみを含めてください (逐語的に)。
+「Christmas Memories Edition」
+```
+
+[オンラインギャラリーを見る](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ja--collectible-airplane-packaging)
+
+</details>
+
+### 自分の用途に合わせる
+
+被写体と背景を置き換え、必要な構図と画像内の正確な文字を維持します。
+
+### 備考
+
+- オブジェクトとパッケージのコピーを独自の製品に置き換えます。これはパッケージングの視覚化であり、製造ダイラインではありません。印刷された文字や素材の詳細を確認してください。ソース設定: 1024x1536、中品質。
+
+<details>
+<summary>出典と日付付き反応数</summary>
+
+**編集レビュー: 91.25/100 · 2026-09-13T17:54:27.409Z**
+
+[編集レビュー](docs/CURATION.md)
+
+[OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise) · [プロンプトまたはワークフローのソース](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise) · [作成者によるモデルの明記](https://developers.openai.com/api/docs/guides/image-prompting#design-collectible-merchandise)
+
+プロンプトのソース言語: **en** · 投稿の言語: **en**
+
+— いいね · — ブックマーク · — リポスト · — 閲覧数
+
+反応（エンゲージメント）あり: 2026-09-13T17:54:27.409Z · ソース確認済み: 2026-09-13T17:54:27.409Z
+
+### 元の文言を表示
+
+```text
+Create a collectible action figure of a vintage-style toy propeller airplane with rounded wings, a front-mounted spinning propeller, slightly worn paint edges, classic childhood proportions, designed as a nostalgic holiday collectible, in blister packaging.
+
+Concept:
+A nostalgic holiday collectible inspired by the simple toy airplanes
+children used to play with during winter holidays.
+Evokes warmth, imagination, and childhood wonder.
+
+Style:
+Premium toy photography, realistic plastic and painted metal textures,
+studio lighting, shallow depth of field,
+sharp label printing, high-end retail presentation.
+
+Constraints:
+- Original design only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this packaging text (verbatim):
+"Christmas Memories Edition"
 ```
 
 </details>
@@ -879,6 +1328,71 @@ Do not add new elements or text.
 
 ```text
 移动端UI设计，生鲜电商App首页界面，清新简洁风格，以白色为主色调，搭配绿色健康主题色。顶部包含状态栏、欢迎语“早上好，林小姐”及搜索框。页面中部设有横幅广告区，展示新鲜蔬果图片，并配有宣传文字。下方为“今日特惠”板块，横向排列番茄、上海青、香蕉等新鲜农产品，展示商品图片、名称及价格。底部为“附近商户”列表，包含店铺名称、距离和评分。界面最底部为标准导航栏，包含首页、分类、购物车、我的四个图标，UI布局规整，高保真设计，扁平化设计语言，专业界面交互设计，极简主义，清晰的排版，高分辨率，矢量图形风格。
+```
+
+</details>
+
+[ギャラリー一覧に戻る](#collection)
+
+---
+
+<a id="case-garden-photo-color-grading"></a><a id="user-content-case-garden-photo-color-grading"></a>
+## 構図を保った庭園写真の色調補正
+
+[English](README.md#user-content-case-garden-photo-color-grading) · [简体中文](README.zh-CN.md#user-content-case-garden-photo-color-grading) · [繁體中文](README.zh-TW.md#user-content-case-garden-photo-color-grading) · [日本語](README.ja.md#user-content-case-garden-photo-color-grading) · [한국어](README.ko.md#user-content-case-garden-photo-color-grading) · [Français](README.fr.md#user-content-case-garden-photo-color-grading) · [Deutsch](README.de.md#user-content-case-garden-photo-color-grading) · [Español](README.es.md#user-content-case-garden-photo-color-grading) · [Português (Brasil)](README.pt-BR.md#user-content-case-garden-photo-color-grading)
+
+<a href="https://x.com/HoodyLiu/status/2099115784417251690"><img src="https://pbs.twimg.com/media/HSGOUDQbYAAFxpB.jpg" width="640" alt="構図を保った庭園写真の色調補正 — HoodyLiu — source result — 出典の結果例" loading="lazy"></a>
+
+撮影したシーンを維持しながら、空のハイライト、影の詳細、葉の色を制御します。
+
+**元のプロンプト · 参照編集 · 独立したテストは未実施**
+
+### 必要な入力
+
+- 以下の 2 番目のソース画像、またはご自身の庭の写真をアップロードしてください。
+
+出典の参照画像: [1](https://pbs.twimg.com/media/HSGOiw-a8AAd-1r.jpg)
+
+<details>
+<summary>プロンプト</summary>
+
+
+
+```text
+元の写真に対してプロによるカラー グレーディングと光と影の最適化のみを実行し、元の構図、風景の位置、桜、木、水の反射、画面の比率を厳密に保持し、オブジェクトを追加、削除、変更しないでください。全体のスタイルは高級感があり、控えめで静かな日本映画のスタイルに調整されており、早春の日本庭園の静かな雰囲気を表現しています。森、水辺、池の暗い部分を適度に明るくし、木の幹、低木、水面のレイヤーを復元しますが、深い影は保持し、黒い部分をグレーに変えません。空のハイライトと青の彩度を減らし、空を透明で落ち着いた灰青色に調整して、過剰な明るさと HDR 効果を避けます。写真の中央にある桜を強調表示し、花を自然な淡いピンクホワイト色にして、柔らかな日差しの透明感と繊細なレイヤーを追加します。真っ白や蛍光ピンクにしないでください。草木の緑は彩度の低いモスグリーン、フォレストグリーン、ほんのりオリーブグリーンに調整し、黄緑感やデジタル感を抑えています。水面は深い青黒色を保ち、散り桜の微妙な反射と層を強調し、鮮明ではありますが反射を強調します。全体的なデザインは、柔らかいハイライト、深い影、中程度から強いコントラストを使用し、暖かい日差しと冷たい影の間のコントラストをわずかに高めます。わずかなフィルムフォグ、自然なハロー、細かい 35mm フィルムグレイン、およびソフトシャープニングを加えたこの色は、Kodak Portra 400 と日本のフィルム写真を指しており、リアルで自然、繊細、風通しが良く、ハイエンドです。構図の変更、桜、雲、建物、人物、光の追加、枝の新規生成、季節の変更、白飛び、真っ黒、HDR、シャープかけ、蛍光緑、真っ青な空、重いフィルター、油絵感、イラスト感、AI描き直し感は禁止です。最終結果は、再生成された画像ではなく、元の RAW 写真のプロによる色補正のようなものでなければなりません。
+```
+
+[オンラインギャラリーを見る](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ja--garden-photo-color-grading)
+
+</details>
+
+### 自分の用途に合わせる
+
+自分の参照画像を用意し、それぞれの役割と、変更する部分・残す部分を明記します。
+
+### 備考
+
+- 作成者は、プロンプトの作成には GPT6 Astra が、編集には GPT Image 2.5 がクレジットされています。画像 1 は編集結果です。画像 2 が入力です。ブランチ、リフレクション、オブジェクトの再描画を検査します。 RAW スタイルのリクエストでは、編集可能な RAW ファイルが生成されず、ピクセルの保持も保証されません。
+
+<details>
+<summary>出典と日付付き反応数</summary>
+
+**編集レビュー: 91.25/100 · 2026-09-13T17:54:27.409Z**
+
+[編集レビュー](docs/CURATION.md)
+
+[@HoodyLiu](https://x.com/HoodyLiu/status/2099115784417251690) · [プロンプトまたはワークフローのソース](https://x.com/HoodyLiu/status/2099115784417251690) · [作成者によるモデルの明記](https://x.com/HoodyLiu/status/2099115784417251690)
+
+プロンプトのソース言語: **zh** · 投稿の言語: **zh**
+
+7 いいね · — ブックマーク · — リポスト · — 閲覧数
+
+反応（エンゲージメント）あり: 2026-09-13T17:30:11.651392+00:00 · ソース確認済み: 2026-09-13T17:54:27.409Z
+
+### 元の文言を表示
+
+```text
+请仅对原照片进行专业调色和光影优化，严格保留原始构图、景物位置、樱花、树木、水面倒影及画面比例，不添加、删除或改变任何物体。整体调成高级、克制、安静的日系电影胶片风格，呈现早春日本庭园的清寂氛围。适度提亮树林、水岸和池塘中的暗部细节，恢复树干、灌木与水面层次，但保留幽深阴影，不要把黑色区域提成灰色。压低天空高光和蓝色饱和度，将天空调整为通透、沉静的灰蓝色，避免过度艳丽和HDR效果。突出画面中央樱花，使花朵呈自然的淡粉白色，增加柔和的阳光通透感和细腻层次，不要变成纯白或荧光粉。绿色植物调整为低饱和的苔藓绿、森林绿和轻微橄榄绿，减少黄绿色和数码感。水面维持深青黑色，增强细微反光和落樱的层次，让倒影清晰但不锐利。整体采用柔和高光、深邃阴影、中等偏强对比，略微增加暖色阳光与冷色阴影的冷暖对比。加入轻微胶片灰雾、自然光晕、细腻35mm胶片颗粒和柔和锐化，色彩参考 Kodak Portra 400 与日系电影摄影，真实、自然、含蓄、有空气感和高级感。禁止改变构图，禁止增加樱花、云朵、建筑、人物或灯光，禁止生成新的树枝，禁止改变季节，禁止过曝、死黑、HDR、过度锐化、荧光绿、艳蓝天空、浓重滤镜、油画感、插画感和AI重绘感。最终效果必须像对原始RAW照片进行专业调色，而不是重新生成一张图片。
 ```
 
 </details>
@@ -1709,6 +2223,107 @@ Do not restyle the product; remove the background and preserve clean alpha trans
 
 ---
 
+<a id="case-architectural-portal-travel-poster"></a><a id="user-content-case-architectural-portal-travel-poster"></a>
+## 建築ポータルの旅行ポスター
+
+[English](README.md#user-content-case-architectural-portal-travel-poster) · [简体中文](README.zh-CN.md#user-content-case-architectural-portal-travel-poster) · [繁體中文](README.zh-TW.md#user-content-case-architectural-portal-travel-poster) · [日本語](README.ja.md#user-content-case-architectural-portal-travel-poster) · [한국어](README.ko.md#user-content-case-architectural-portal-travel-poster) · [Français](README.fr.md#user-content-case-architectural-portal-travel-poster) · [Deutsch](README.de.md#user-content-case-architectural-portal-travel-poster) · [Español](README.es.md#user-content-case-architectural-portal-travel-poster) · [Português (Brasil)](README.pt-BR.md#user-content-case-architectural-portal-travel-poster)
+
+<a href="https://x.com/Naiknelofar788/status/2097920025617399875"><img src="https://pbs.twimg.com/media/HR1PFgUasAAJbTM.jpg" width="640" alt="建築ポータルの旅行ポスター — Naiknelofar788 — source result — 出典の結果例" loading="lazy"></a>
+
+ローカル アーキテクチャを前景フレームとして使用し、抑制されたパレットと統合された場所ラベルを使用します。
+
+**元のプロンプト · テキストから画像生成 · 独立したテストは未実施**
+
+### 必要な入力
+
+ソースによる参照画像の指定はありません。
+
+<details>
+<summary>プロンプト</summary>
+
+
+
+```text
+[CITY, COUNTRY] 用のプレミアム モダン トラベル ポスターを作成します。このポスターは、大胆なビンテージ スクリーン プリントとミッドセンチュリーのグラフィック デザインにインスピレーションを受け、オリジナルの建築ポータル構成を備えています。
+
+大きく特徴的な [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH] を前景に配置し、目的地への窓として機能します。オープニングを通して、[ICONIC LANDMARK]、[FAMOUS NATURAL FEATURE]、簡略化された屋根、地元の街路、樹木、交通機関、およびいくつかの微妙な文化的詳細を特徴とする様式化されたレイヤード シーンが表示されます。
+
+メインのランドマークの後ろに、伝統的ではなく視覚的に印象的な形状と配置を使用して、大きな大胆な幾何学的な太陽 / 月 / 円を 1 つ追加します。 2 ～ 3 の認識可能なローカル シンボルを、別個のオブジェクトとして表示するのではなく、シーン内に自然に含めます。
+
+目的地からインスピレーションを得た限定された洗練されたカラー パレットを使用します: [2–5 COLORS]。平坦な幾何学的形状、力強いシルエット、すっきりとしたエッジ、微妙に重なり合うレイヤー、わずかなスクリーンプリントのテクスチャー、エレガントなネガティブスペース。
+
+以下の機能を備えた背の高い一体型サインまたは建築パネルを追加します。
+
+[CITY]
+[LOCAL SCRIPT]
+
+下部に小さな洗練された編集用タイポグラフィを含めます。
+
+[COUNTRY]
+[CITY] • [COORDINATES]
+[SHORT DESTINATION PHRASE]
+
+ミニマル、芸術的、一貫性のある、収集価値のある旅行ポスターの美学、フォトリアリスティックではなく、コラージュではなく、過剰なディテールなし、洗練された構成、強力な視覚的階層、バランスの取れた非対称性、温かみのある紙の背景、微妙な印刷の欠陥、4:5 縦型フォーマット。
+```
+
+[オンラインギャラリーを見る](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ja--architectural-portal-travel-poster)
+
+</details>
+
+### 自分の用途に合わせる
+
+被写体と背景を置き換え、必要な構図と画像内の正確な文字を維持します。
+
+### 備考
+
+- 括弧で囲まれたすべての変数に一貫した宛先を入力します。座標、現地の文字、ランドマークの選択を自分で確認してください。 4 つのソース宛先は 1 つのレシピのバリエーションであり、4 つのエントリではありません。
+
+<details>
+<summary>出典と日付付き反応数</summary>
+
+**編集レビュー: 88.75/100 · 2026-09-13T17:54:27.409Z**
+
+[編集レビュー](docs/CURATION.md)
+
+[@Naiknelofar788](https://x.com/Naiknelofar788/status/2097920025617399875) · [プロンプトまたはワークフローのソース](https://x.com/Naiknelofar788/status/2097920025617399875) · [作成者によるモデルの明記](https://x.com/Naiknelofar788/status/2097920025617399875)
+
+プロンプトのソース言語: **en** · 投稿の言語: **en**
+
+47 いいね · — ブックマーク · — リポスト · — 閲覧数
+
+反応（エンゲージメント）あり: 2026-09-13T17:23:24.288043+00:00 · ソース確認済み: 2026-09-13T17:54:27.409Z
+
+### 元の文言を表示
+
+```text
+Create a premium modern travel poster for [CITY, COUNTRY], inspired by bold vintage screen-print and mid-century graphic design, but with an original architectural portal composition.
+
+Place a large distinctive [LOCAL ARCHITECTURAL ELEMENT / GATE / ARCH] in the foreground, acting as a window into the destination. Through the opening, reveal a stylized layered scene featuring [ICONIC LANDMARK], [FAMOUS NATURAL FEATURE], simplified rooftops, local streets, trees, transportation, and a few subtle cultural details.
+
+Add one large bold geometric sun / moon / circle behind the main landmark, using a shape and placement that feels visually striking rather than traditional. Include 2–3 recognizable local symbols naturally within the scene instead of presenting them as separate objects.
+
+Use a limited sophisticated color palette inspired by the destination: [2–5 COLORS]. Flat geometric shapes, strong silhouettes, clean edges, subtle overlapping layers, slight screen-print texture, and elegant negative space.
+
+Add a tall integrated sign or architectural panel featuring:
+
+[CITY]
+[LOCAL SCRIPT]
+
+Include small refined editorial typography at the bottom:
+
+[COUNTRY]
+[CITY] • [COORDINATES]
+[SHORT DESTINATION PHRASE]
+
+Minimal, artistic, cohesive, collectible travel-poster aesthetic, not photorealistic, not a collage, no excessive details, sophisticated composition, strong visual hierarchy, balanced asymmetry, warm paper background, subtle print imperfections, 4:5 vertical format.
+```
+
+</details>
+
+[ギャラリー一覧に戻る](#collection)
+
+---
+
 <a id="case-remove-flower-local-edit"></a><a id="user-content-case-remove-flower-local-edit"></a>
 ## 手に持つ物を除去
 
@@ -2031,6 +2646,356 @@ Photorealistic contact shadows and fabric texture.
 ### 元の文言を表示
 
 この編集者による改訂版では、元の正確な文言はアーカイブされていません。元のワークフローのリンクを参照してください。
+
+</details>
+
+[ギャラリー一覧に戻る](#collection)
+
+---
+
+<a id="case-annotated-fashion-lookbook"></a><a id="user-content-case-annotated-fashion-lookbook"></a>
+## 注釈付きのファッション ルックブック
+
+[English](README.md#user-content-case-annotated-fashion-lookbook) · [简体中文](README.zh-CN.md#user-content-case-annotated-fashion-lookbook) · [繁體中文](README.zh-TW.md#user-content-case-annotated-fashion-lookbook) · [日本語](README.ja.md#user-content-case-annotated-fashion-lookbook) · [한국어](README.ko.md#user-content-case-annotated-fashion-lookbook) · [Français](README.fr.md#user-content-case-annotated-fashion-lookbook) · [Deutsch](README.de.md#user-content-case-annotated-fashion-lookbook) · [Español](README.es.md#user-content-case-annotated-fashion-lookbook) · [Português (Brasil)](README.pt-BR.md#user-content-case-annotated-fashion-lookbook)
+
+<a href="https://x.com/LiEvanna85716/status/2097663816339427547"><img src="https://pbs.twimg.com/media/HRxjvncaQAAIuVQ.jpg" width="640" alt="注釈付きのファッション ルックブック — LiEvanna85716 — source result — 出典の結果例" loading="lazy"></a>
+
+明確なカタログ階層を使用して、全身服の周囲に読みやすい衣類ラベルを配置します。
+
+**元のプロンプト · テキストから画像生成 · 独立したテストは未実施**
+
+### 必要な入力
+
+ソースによる参照画像の指定はありません。
+
+<details>
+<summary>プロンプト</summary>
+
+
+
+```text
+キュートでシンプルな秋の衣装を着た若い女性モデルをフィーチャーしたクリーンなファッション e コマース ルックブック ポスターを作成します。
+柔らかいパステル ピンク、ブルー、ラベンダーのグラデーション背景を使用します。全体的なデザインは、モダンな韓国/日本のファッションカタログのように、ミニマルでクリーン、そして少し遊び心のあるデザインに保ちます。
+
+リアルな肌、自然なプロポーション、明確な衣服の詳細を備えた全身モデルを主な焦点として表示します。服装はシンプルで着やすいものでなければなりません：カーディガンまたはパーカー、フィットしたトップス、ショートパンツまたはプリーツスカート、靴下とスニーカー/メリージェーンシューズ。
+
+「Cardigan」、「Polo Shirt」、「Shorts」、「Sneakers」、「Bag」など、個々の衣類を指す細い矢印が付いた手書きの英語の注釈を追加します。
+
+上部に大胆な英語のファッション見出し「AUTUMN DAILY OUTFIT」を追加し、さらに「NEW SEASON 2026」、「SIMPLE · COMFY · BETTER ME」、「OUTFIT IDEAS FOR A BRIGHTER YOU」などの小さな装飾的な英語のフレーズをいくつか追加します。
+
+メインコンテンツの周囲には構造化された長方形のフレームを使用し、微妙に丸みを帯びた角、十分なネガティブスペースを使用し、ハートや星の落書きは最小限に抑えます。
+
+最終的な画像は、洗練されたファッション e コマース キャンペーン ポスターのように感じられるはずです。ミニマルで、若々しく、リアルで、可読性の高いタイポグラフィー、すっきりとした商品のプレゼンテーション、乱雑ではなく、服装が視覚的な焦点になっています。
+
+縦型 3:4 構図、高解像度の商業ファッション写真。
+```
+
+[オンラインギャラリーを見る](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ja--annotated-fashion-lookbook)
+
+</details>
+
+### 自分の用途に合わせる
+
+被写体と背景を置き換え、必要な構図と画像内の正確な文字を維持します。
+
+### 備考
+
+- 矢印が実際の衣服と一致するように、衣服の名前と衣装の詳細を一緒に置き換えます。オリジナルのデザインが必要な場合は、引用された英語のコピーを保存してください。すべてのラベルと矢印を確認してください。この例は製品の精度を確立するものではありません。最初の結果には 2 つの図が表示され、要求された見出しの文言が一部変更されています。
+
+<details>
+<summary>出典と日付付き反応数</summary>
+
+**編集レビュー: 85/100 · 2026-09-13T17:54:27.409Z**
+
+[編集レビュー](docs/CURATION.md)
+
+[@LiEvanna85716](https://x.com/LiEvanna85716/status/2097663816339427547) · [プロンプトまたはワークフローのソース](https://x.com/LiEvanna85716/status/2097663816339427547) · [作成者によるモデルの明記](https://x.com/LiEvanna85716/status/2097663816339427547)
+
+プロンプトのソース言語: **en** · 投稿の言語: **zh**
+
+4 いいね · — ブックマーク · — リポスト · — 閲覧数
+
+反応（エンゲージメント）あり: 2026-09-13T17:22:12.769876+00:00 · ソース確認済み: 2026-09-13T17:54:27.409Z
+
+### 元の文言を表示
+
+```text
+Create a clean fashion e-commerce lookbook poster featuring a young female model in a cute, simple autumn outfit.
+Use a soft pastel pink, blue and lavender gradient background. Keep the overall design minimal, clean and slightly playful, like a modern Korean/Japanese fashion catalog.
+
+Show the full-body model as the main focus, with realistic skin, natural proportions and clear clothing details. The outfit should be simple and wearable: cardigan or hoodie, fitted top, shorts or pleated skirt, socks and sneakers/Mary Jane shoes.
+
+Add handwritten English annotations with thin arrows pointing to individual clothing pieces, such as “Cardigan”, “Polo Shirt”, “Shorts”, “Sneakers” and “Bag”.
+
+Add a bold English fashion headline at the top: “AUTUMN DAILY OUTFIT”, plus a few small decorative English phrases such as “NEW SEASON 2026”, “SIMPLE · COMFY · BETTER ME” and “OUTFIT IDEAS FOR A BRIGHTER YOU”.
+
+Use a structured rectangular frame around the main content, subtle rounded corners, plenty of negative space, and only a few minimal heart/star doodles.
+
+The final image should feel like a polished fashion e-commerce campaign poster — minimal, youthful, realistic, highly readable typography, clean product presentation, not cluttered, with the outfit as the visual focus.
+
+Vertical 3:4 composition, high-resolution commercial fashion photography.
+```
+
+</details>
+
+[ギャラリー一覧に戻る](#collection)
+
+---
+
+<a id="case-market-opportunity-slide"></a><a id="user-content-case-market-opportunity-slide"></a>
+## 明示的なインプットによる市場規模のスライド
+
+[English](README.md#user-content-case-market-opportunity-slide) · [简体中文](README.zh-CN.md#user-content-case-market-opportunity-slide) · [繁體中文](README.zh-TW.md#user-content-case-market-opportunity-slide) · [日本語](README.ja.md#user-content-case-market-opportunity-slide) · [한국어](README.ko.md#user-content-case-market-opportunity-slide) · [Français](README.fr.md#user-content-case-market-opportunity-slide) · [Deutsch](README.de.md#user-content-case-market-opportunity-slide) · [Español](README.es.md#user-content-case-market-opportunity-slide) · [Português (Brasil)](README.pt-BR.md#user-content-case-market-opportunity-slide)
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts"><img src="https://developers.openai.com/images/platform/guides/image-prompting/market-opportunity-slide-gpt-image-2-5-sunburst.webp" width="640" alt="明示的なインプットによる市場規模のスライド — OpenAI — source result — 出典の結果例" loading="lazy"></a>
+
+名前付き図、固定図、ラベル、脚注を使用してスライド階層を制御します。
+
+**元のプロンプト · テキストから画像生成 · 独立したテストは未実施**
+
+### 必要な入力
+
+ソースによる参照画像の指定はありません。
+
+<details>
+<summary>プロンプト</summary>
+
+
+
+```text
+**「Market Opportunity」** というタイトルのピッチデッキ スライドを 1 つ作成します。これは、YC が支援するスタートアップによる本物のシリーズ A 資金調達スライドのようなものです。
+
+きれいな白の背景、Inter のようなモダンなサンセリフ タイポグラフィ、鮮明で最小限のレイアウトを使用します。スライドには次の内容を含める必要があります。
+
+* 落ち着いたブルーとグレーの TAM/SAM/SOM 同心円図
+* 具体的で信頼できる市場規模の数値:
+
+* **TAM:** $42B
+  * **SAM:** $8.7B
+  * **SOM:** $340M
+* 以下のきれいな棒グラフは、**2021 から 2026** までの市場の成長を示しており、微妙な上昇傾向を示しています
+* 小さな脚注: **「AGI Research, 2024」** および **「Internal analysis」**
+* 右下隅の会社ロゴのプレースホルダー
+
+デザインは、実際に資金を集めたデッキに属するものであるかのように見える必要があります。可読性の高いテキスト、明確なデータ階層、洗練された間隔、プロのスタートアップスタイルのビジュアル言語です。
+
+クリップアート、ストックフォト、グラデーション、影、装飾要素など、一般的または過度にデザインされていると思われるものは避けてください。
+```
+
+[オンラインギャラリーを見る](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ja--market-opportunity-slide)
+
+</details>
+
+### 自分の用途に合わせる
+
+被写体と背景を置き換え、必要な構図と画像内の正確な文字を維持します。
+
+### 備考
+
+- このソース例内のすべての市場数値と引用は、架空の設計入力です。使用する前に検証済みのデータや実際のソースに置き換えてください。生成された画像は、編集可能なスライドや募金活動の結果ではありません。プロンプトには成長グラフの年次値が表示されないため、そのグラフをデータとして扱わないでください。ソース設定: 1536x864、高品質。この例では、プレースホルダーを残す代わりにロゴも作成します。
+
+<details>
+<summary>出典と日付付き反応数</summary>
+
+**編集レビュー: 85/100 · 2026-09-13T17:54:27.409Z**
+
+[編集レビュー](docs/CURATION.md)
+
+[OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts) · [プロンプトまたはワークフローのソース](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts) · [作成者によるモデルの明記](https://developers.openai.com/api/docs/guides/image-prompting#build-slides-diagrams-and-charts)
+
+プロンプトのソース言語: **en** · 投稿の言語: **en**
+
+— いいね · — ブックマーク · — リポスト · — 閲覧数
+
+反応（エンゲージメント）あり: 2026-09-13T17:54:27.409Z · ソース確認済み: 2026-09-13T17:54:27.409Z
+
+### 元の文言を表示
+
+```text
+Create one pitch-deck slide titled **"Market Opportunity"** that feels like a real Series A fundraising slide from a YC-backed startup.
+
+Use a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:
+
+* A TAM/SAM/SOM concentric-circle diagram in muted blues and grays
+* Specific, believable market sizing numbers:
+
+  * **TAM:** $42B
+  * **SAM:** $8.7B
+  * **SOM:** $340M
+* A clean bar chart below showing market growth from **2021 to 2026**, with a subtle upward trend
+* Small footnotes: **"AGI Research, 2024"** and **"Internal analysis"**
+* A company logo placeholder in the bottom-right corner
+
+The design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.
+
+Avoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.
+```
+
+</details>
+
+[ギャラリー一覧に戻る](#collection)
+
+---
+
+<a id="case-nostalgic-holiday-card"></a><a id="user-content-case-nostalgic-holiday-card"></a>
+## メッセージが 1 つだけ記載されたホリデー カード
+
+[English](README.md#user-content-case-nostalgic-holiday-card) · [简体中文](README.zh-CN.md#user-content-case-nostalgic-holiday-card) · [繁體中文](README.zh-TW.md#user-content-case-nostalgic-holiday-card) · [日本語](README.ja.md#user-content-case-nostalgic-holiday-card) · [한국어](README.ko.md#user-content-case-nostalgic-holiday-card) · [Français](README.fr.md#user-content-case-nostalgic-holiday-card) · [Deutsch](README.de.md#user-content-case-nostalgic-holiday-card) · [Español](README.es.md#user-content-case-nostalgic-holiday-card) · [Português (Brasil)](README.pt-BR.md#user-content-case-nostalgic-holiday-card)
+
+<a href="https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card"><img src="https://developers.openai.com/images/platform/guides/image-prompting/christmas-holiday-card-teddy-gpt-image-2-5-sunburst.webp" width="640" alt="メッセージが 1 つだけ記載されたホリデー カード — OpenAI — source result — 出典の結果例" loading="lazy"></a>
+
+マテリアル主導のシーンと、グリーティング カードのコピーの正確で独占的なラインを組み合わせます。
+
+**元のプロンプト · テキストから画像生成 · 独立したテストは未実施**
+
+### 必要な入力
+
+ソースによる参照画像の指定はありません。
+
+<details>
+<summary>プロンプト</summary>
+
+
+
+```text
+クリスマスカードのイラストを作成します。
+
+シーン:
+記念品の箱の中に座っている古いテディベア、わずかに摩耗した毛皮、柔らかいステッチの修理が施された居心地の良いクリスマスの風景が、外に雪が降っている窓の近くに置かれています。このシーンは子供が成長したことを示唆していますが、思い出は残っています。
+
+気分:
+温かくて、懐かしくて、優しくて、感動的。
+
+スタイル:
+プレミアムなホリデーカードの写真撮影、映画のような柔らかな照明、
+リアルなテクスチャ、浅い被写界深度、
+味わい深いボケ味、高品質のプリント構成。
+
+制約:
+- オリジナルアートワークのみ
+- 商標はありません
+- 透かしなし
+- ロゴなし
+
+このカード テキストのみを含めます (逐語的に):
+「Merry Christmas — some memories never fade.」
+```
+
+[オンラインギャラリーを見る](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ja--nostalgic-holiday-card)
+
+</details>
+
+### 自分の用途に合わせる
+
+被写体と背景を置き換え、必要な構図と画像内の正確な文字を維持します。
+
+### 備考
+
+- プロンプトを翻訳するときは、引用されたカード テキストを変更しないでください。または、聴衆のために意図的に置き換えてください。印刷する前に句読点と出力解像度を確認してください。出力はフラット画像であり、印刷可能な二つ折りカード ファイルではありません。ソース設定: 1024x1536、中品質。説明書がテキストのみであるにもかかわらず、箱に非常に小さな手書きが見えます。
+
+<details>
+<summary>出典と日付付き反応数</summary>
+
+**編集レビュー: 85/100 · 2026-09-13T17:54:27.409Z**
+
+[編集レビュー](docs/CURATION.md)
+
+[OpenAI](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card) · [プロンプトまたはワークフローのソース](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card) · [作成者によるモデルの明記](https://developers.openai.com/api/docs/guides/image-prompting#design-a-holiday-card)
+
+プロンプトのソース言語: **en** · 投稿の言語: **en**
+
+— いいね · — ブックマーク · — リポスト · — 閲覧数
+
+反応（エンゲージメント）あり: 2026-09-13T17:54:27.409Z · ソース確認済み: 2026-09-13T17:54:27.409Z
+
+### 元の文言を表示
+
+```text
+Create a Christmas holiday card illustration.
+
+Scene:
+a cozy Christmas scene with an old teddy bear sitting inside a keepsake box, slightly worn fur, soft stitching repairs, placed near a window with falling snow outside. The scene suggests the child has grown up, but the memories remain.
+
+Mood:
+Warm, nostalgic, gentle, emotional.
+
+Style:
+Premium holiday card photography, soft cinematic lighting,
+realistic textures, shallow depth of field,
+tasteful bokeh lights, high print-quality composition.
+
+Constraints:
+- Original artwork only
+- No trademarks
+- No watermarks
+- No logos
+
+Include ONLY this card text (verbatim):
+"Merry Christmas — some memories never fade."
+```
+
+</details>
+
+[ギャラリー一覧に戻る](#collection)
+
+---
+
+<a id="case-laptop-screen-local-replacement"></a><a id="user-content-case-laptop-screen-local-replacement"></a>
+## ノートPC画面の内容だけを置き換える
+
+[English](README.md#user-content-case-laptop-screen-local-replacement) · [简体中文](README.zh-CN.md#user-content-case-laptop-screen-local-replacement) · [繁體中文](README.zh-TW.md#user-content-case-laptop-screen-local-replacement) · [日本語](README.ja.md#user-content-case-laptop-screen-local-replacement) · [한국어](README.ko.md#user-content-case-laptop-screen-local-replacement) · [Français](README.fr.md#user-content-case-laptop-screen-local-replacement) · [Deutsch](README.de.md#user-content-case-laptop-screen-local-replacement) · [Español](README.es.md#user-content-case-laptop-screen-local-replacement) · [Português (Brasil)](README.pt-BR.md#user-content-case-laptop-screen-local-replacement)
+
+<a href="https://x.com/ai_kairos_jp/status/2097679848475099159"><img src="https://pbs.twimg.com/media/HRx0ef9aAAAW7Tv.jpg" width="640" alt="ノートPC画面の内容だけを置き換える — ai_kairos_jp — source result — 出典の結果例" loading="lazy"></a>
+
+変更しない必要がある周囲のオブジェクトをリストしながら、画面をターゲットにします。
+
+**元のプロンプト · 参照編集 · 独立したテストは未実施**
+
+### 必要な入力
+
+- ノートパソコンが写っている部屋の写真をアップロードし、ノートパソコンの画面を編集対象としてマークします。
+
+<details>
+<summary>プロンプト</summary>
+
+
+
+```text
+表計算を自動化フロー図に。机・付箋・照明・窓の夜景は変えないで
+```
+
+[オンラインギャラリーを見る](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ja--laptop-screen-local-replacement)
+
+</details>
+
+### 自分の用途に合わせる
+
+自分の参照画像を用意し、それぞれの役割と、変更する部分・残す部分を明記します。
+
+### 備考
+
+- 著者は編集前にノートパソコンの画面にマークを付けました。自分の部屋の写真を提供し、対象エリアにマークを付けます。情報源は画面外の小さな変化を報告しています。これは、ピクセルの保存の保証やリポジトリの測定ではありません。
+
+<details>
+<summary>出典と日付付き反応数</summary>
+
+**編集レビュー: 83.75/100 · 2026-09-13T17:54:27.409Z**
+
+[編集レビュー](docs/CURATION.md)
+
+[@ai_kairos_jp](https://x.com/ai_kairos_jp/status/2097679848475099159) · [プロンプトまたはワークフローのソース](https://x.com/ai_kairos_jp/status/2097679848475099159) · [作成者によるモデルの明記](https://x.com/ai_kairos_jp/status/2097679848475099159)
+
+プロンプトのソース言語: **ja** · 投稿の言語: **ja**
+
+1 いいね · — ブックマーク · — リポスト · — 閲覧数
+
+反応（エンゲージメント）あり: 2026-09-13T17:22:20.223812+00:00 · ソース確認済み: 2026-09-13T17:54:27.409Z
+
+### 元の文言を表示
+
+```text
+表計算を自動化フロー図に。机・付箋・照明・窓の夜景は変えないで
+```
 
 </details>
 
@@ -2764,6 +3729,69 @@ change the composition to this
 ### 元の文言を表示
 
 この編集者による改訂版では、元の正確な文言はアーカイブされていません。元のワークフローのリンクを参照してください。
+
+</details>
+
+[ギャラリー一覧に戻る](#collection)
+
+---
+
+<a id="case-isometric-spatial-relations"></a><a id="user-content-case-isometric-spatial-relations"></a>
+## 等角投影の空間関係テスト
+
+[English](README.md#user-content-case-isometric-spatial-relations) · [简体中文](README.zh-CN.md#user-content-case-isometric-spatial-relations) · [繁體中文](README.zh-TW.md#user-content-case-isometric-spatial-relations) · [日本語](README.ja.md#user-content-case-isometric-spatial-relations) · [한국어](README.ko.md#user-content-case-isometric-spatial-relations) · [Français](README.fr.md#user-content-case-isometric-spatial-relations) · [Deutsch](README.de.md#user-content-case-isometric-spatial-relations) · [Español](README.es.md#user-content-case-isometric-spatial-relations) · [Português (Brasil)](README.pt-BR.md#user-content-case-isometric-spatial-relations)
+
+<a href="https://x.com/Hyperouters/status/2097654503692443744"><img src="https://pbs.twimg.com/media/HRxdlK0WAAAs0PG.jpg" width="640" alt="等角投影の空間関係テスト — Hyperouters — source result — 出典の結果例" loading="lazy"></a>
+
+透明な参照ボリュームで内側、外側、近い、遠い関係を指定します。
+
+**元のプロンプト · テキストから画像生成 · 独立したテストは未実施**
+
+### 必要な入力
+
+ソースによる参照画像の指定はありません。
+
+<details>
+<summary>プロンプト</summary>
+
+
+
+```text
+透明なガラスの立方体。赤い球を内部の左奥上、青い球を内部の右手前下、緑の球を外部の真上に配置し、黄色い円柱を左下から右上へ貫通させてください。等角投影で描いてください。
+```
+
+[オンラインギャラリーを見る](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ja--isometric-spatial-relations)
+
+</details>
+
+### 自分の用途に合わせる
+
+被写体と背景を置き換え、必要な構図と画像内の正確な文字を維持します。
+
+### 備考
+
+- ソースでは、数値座標ではなく相対位置が説明されています。各オブジェクトとオクルージョンを個別にチェックします。図から物理的または工学的な正確さを推測しないでください。
+
+<details>
+<summary>出典と日付付き反応数</summary>
+
+**編集レビュー: 81.25/100 · 2026-09-13T17:54:27.409Z**
+
+[編集レビュー](docs/CURATION.md)
+
+[@Hyperouters](https://x.com/Hyperouters/status/2097654503692443744) · [プロンプトまたはワークフローのソース](https://x.com/Hyperouters/status/2097654503692443744) · [作成者によるモデルの明記](https://x.com/Hyperouters/status/2097654503692443744)
+
+プロンプトのソース言語: **zh** · 投稿の言語: **zh**
+
+2 いいね · — ブックマーク · — リポスト · — 閲覧数
+
+反応（エンゲージメント）あり: 2026-09-13T17:22:19.353485+00:00 · ソース確認済み: 2026-09-13T17:54:27.409Z
+
+### 元の文言を表示
+
+```text
+透明玻璃立方体：红球内部左后上，蓝球内部右前下，绿球外部正上方，黄柱从左下穿到右上。还要求等距透视。
+```
 
 </details>
 
@@ -4646,6 +5674,69 @@ If your environment cannot create or attach an animated GIF or ZIP, clearly stat
 
 ---
 
+<a id="case-mediterranean-alien-settlement"></a><a id="user-content-case-mediterranean-alien-settlement"></a>
+## 地中海にインスピレーションを得た未来の定住地
+
+[English](README.md#user-content-case-mediterranean-alien-settlement) · [简体中文](README.zh-CN.md#user-content-case-mediterranean-alien-settlement) · [繁體中文](README.zh-TW.md#user-content-case-mediterranean-alien-settlement) · [日本語](README.ja.md#user-content-case-mediterranean-alien-settlement) · [한국어](README.ko.md#user-content-case-mediterranean-alien-settlement) · [Français](README.fr.md#user-content-case-mediterranean-alien-settlement) · [Deutsch](README.de.md#user-content-case-mediterranean-alien-settlement) · [Español](README.es.md#user-content-case-mediterranean-alien-settlement) · [Português (Brasil)](README.pt-BR.md#user-content-case-mediterranean-alien-settlement)
+
+<a href="https://x.com/wonder_villas/status/2097869977890017784"><img src="https://pbs.twimg.com/media/HR0hm_uWsAAbl8I.jpg" width="640" alt="地中海にインスピレーションを得た未来の定住地 — wonder_villas — source result — 出典の結果例" loading="lazy"></a>
+
+建築の伝統と抑制された未来世界の設定を組み合わせて、コンセプトを探求します。
+
+**元のプロンプト · テキストから画像生成 · 独立したテストは未実施**
+
+### 必要な入力
+
+ソースによる参照画像の指定はありません。
+
+<details>
+<summary>プロンプト</summary>
+
+
+
+```text
+今から 1 世紀後の遠い異世界。そこでは人類が定住し、地中海風の建築と微妙なレトロフューチャーな美学が融合した新しい文明を築いています。
+```
+
+[オンラインギャラリーを見る](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ja--mediterranean-alien-settlement)
+
+</details>
+
+### 自分の用途に合わせる
+
+被写体と背景を置き換え、必要な構図と画像内の正確な文字を維持します。
+
+### 備考
+
+- この短いソース概要では、建物のレイアウトとマテリアルがモデルに公開されています。建築の雰囲気を探るために使用してください。寸法、間取り図、または建設可能な設計は提供されません。
+
+<details>
+<summary>出典と日付付き反応数</summary>
+
+**編集レビュー: 67.5/100 · 2026-09-13T17:54:27.409Z**
+
+[編集レビュー](docs/CURATION.md)
+
+[@wonder_villas](https://x.com/wonder_villas/status/2097869977890017784) · [プロンプトまたはワークフローのソース](https://x.com/wonder_villas/status/2097869977890017784) · [作成者によるモデルの明記](https://x.com/wonder_villas/status/2097869977890017784)
+
+プロンプトのソース言語: **en** · 投稿の言語: **en**
+
+1 いいね · — ブックマーク · — リポスト · — 閲覧数
+
+反応（エンゲージメント）あり: 2026-09-13T17:23:13.356247+00:00 · ソース確認済み: 2026-09-13T17:54:27.409Z
+
+### 元の文言を表示
+
+```text
+A distant alien world, a century from now, where humans have settled and built a new civilisation blending Mediterranean-inspired architecture with a subtle retro-futurist aesthetic.
+```
+
+</details>
+
+[ギャラリー一覧に戻る](#collection)
+
+---
+
 <a id="case-robot-sequential-edits"></a><a id="user-content-case-robot-sequential-edits"></a>
 ## 9つの連続した編集工程を経るロボットの描写
 
@@ -5206,6 +6297,74 @@ a 1960s Sunday newspaper comic strip on yellowed newsprint, six panels in two ro
 
 ```text
 turn it into a future building
+```
+
+</details>
+
+</details>
+
+[ギャラリー一覧に戻る](#collection)
+
+---
+
+<a id="case-personal-enamel-pin-set"></a><a id="user-content-case-personal-enamel-pin-set"></a>
+## 8個の指定に対して10個になったピンバッジ
+
+[English](README.md#user-content-case-personal-enamel-pin-set) · [简体中文](README.zh-CN.md#user-content-case-personal-enamel-pin-set) · [繁體中文](README.zh-TW.md#user-content-case-personal-enamel-pin-set) · [日本語](README.ja.md#user-content-case-personal-enamel-pin-set) · [한국어](README.ko.md#user-content-case-personal-enamel-pin-set) · [Français](README.fr.md#user-content-case-personal-enamel-pin-set) · [Deutsch](README.de.md#user-content-case-personal-enamel-pin-set) · [Español](README.es.md#user-content-case-personal-enamel-pin-set) · [Português (Brasil)](README.pt-BR.md#user-content-case-personal-enamel-pin-set)
+
+<details>
+<summary>学習用の作例 — 注意点のある作例</summary>
+
+<a href="https://x.com/miratechtool/status/2097710852413497646"><img src="https://pbs.twimg.com/media/HRyQ5SpXgAA9LW9.jpg" width="640" alt="8個の指定に対して10個になったピンバッジ — miratechtool — source result — 出典の結果例" loading="lazy"></a>
+
+ポートレート全体に固定アイテム数、2 つのテキスト ピン、5 つのシンボル オブジェクトを割り当てます。
+
+**元のプロンプト · 参照編集 · 独立したテストは未実施**
+
+### 必要な入力
+
+- 明確なポートレートのリファレンスをアップロードし、キャラクターの名前、性格の単語、および 5 つの興味を提供します。
+
+<details>
+<summary>プロンプト</summary>
+
+
+
+```text
+暗いテクスチャ背景に垂直方向の 4:5 構成で超リアルなエナメル ピン コレクションを作成します。磨かれたゴールドメタルの輪郭、光沢のあるハードエナメル表面、微妙に隆起したエッジ、リアルな反射、ソフトシャドウを備えた、8 の個別のプレミアム ピンを正確にデザインします。メインの中型センター ピンは [CHARACTER] のポートレートで、参照画像の認識可能な顔、髪型、肌の色、表情、服装、主要な特徴を維持しながら、それらを詳細なプレミアム エナメル イラストに変換します。1 の小さな名前のピン (「[NAME]」) と 1 の小さな個性の単語のピン (「[WORD]」) を追加します。残りの 5 ピンは、過剰なテキストではなく、巧妙な象徴的なイラストを使用して、クリエイティブな仕事、AI/テクノロジー、ビジュアルクリエーション、写真、旅行、友情、趣味、日常の物など、[CHARACTER] の興味やライフスタイルを表現する必要があります。さまざまなピンの形状とサイズ、十分な間隔を使用し、厳密なグリッドを使用せずに、ポートレートの周りにすべてを有機的に配置します。洗練されたコントラスト、鮮明なディテール、リアルな金属の深み、およびハイエンドの商用製品の照明を備えた、大胆でフラットな明るい色を使用します。スタジオで撮影された限定版のデザイナー ピン セットのような雰囲気を演出できます。モダンで、活気に満ち、個性的で、収集価値があり、すぐに人目を引くものになります。都市名や特定のランドマーク、ピンの重複、乱雑なテキスト、スペルミス、安っぽい漫画やプラスチックのような外観はありません。
+```
+
+[オンラインギャラリーを見る](https://image-2-5.com/gpt-image-2-5-prompts?utm_source=github&utm_medium=referral&utm_campaign=awesome-gpt-image-2-5-prompts&utm_content=case--ja--personal-enamel-pin-set)
+
+</details>
+
+### 自分の用途に合わせる
+
+自分の参照画像を用意し、それぞれの役割と、変更する部分・残す部分を明記します。
+
+### 備考
+
+- 失敗から学ぶ例です。8個の指定に対し、結果には10個のピンバッジがあり、禁止した追加文字と識別可能なランドマークも見られます。個数と禁止事項の確認に使ってください。使用許可のある肖像をアップロードし、[CHARACTER]、[NAME]、[WORD] を置き換えてください。製造用データではなくコンセプト画像です。
+
+<details>
+<summary>出典と日付付き反応数</summary>
+
+**編集レビュー: 62.5/100 · 2026-09-13T17:54:27.409Z**
+
+[編集レビュー](docs/CURATION.md)
+
+[@miratechtool](https://x.com/miratechtool/status/2097710852413497646) · [プロンプトまたはワークフローのソース](https://x.com/miratechtool/status/2097710852413497646) · [作成者によるモデルの明記](https://x.com/miratechtool/status/2097710852413497646)
+
+プロンプトのソース言語: **en** · 投稿の言語: **en**
+
+28 いいね · — ブックマーク · — リポスト · — 閲覧数
+
+反応（エンゲージメント）あり: 2026-09-13T17:22:11.067443+00:00 · ソース確認済み: 2026-09-13T17:54:27.409Z
+
+### 元の文言を表示
+
+```text
+Create a hyper-realistic enamel pin collection in a vertical 4:5 composition on a dark textured background. Design exactly 8 separate premium pins with polished gold-metal outlines, glossy hard-enamel surfaces, subtle raised edges, realistic reflections, and soft shadows. The main medium-sized center pin is a portrait of [CHARACTER], preserving the reference image’s recognizable face, hairstyle, skin tone, expression, clothing, and key features while translating them into a detailed premium enamel illustration. Add 1 small name pin reading “[NAME]” and 1 small personality-word pin reading “[WORD]”. The remaining 5 pins should represent [CHARACTER]’s interests and lifestyle, such as creative work, AI/technology, visual creation, photography, travel, friendship, hobbies, or everyday objects, using clever symbolic illustrations rather than excessive text. Arrange everything organically around the portrait with varied pin shapes and sizes, generous spacing, and no rigid grid. Use bold, flat, bright colors with sophisticated contrast, crisp details, realistic metallic depth, and high-end commercial product lighting. Make it feel like a limited-edition designer pin set photographed in a studio—modern, vibrant, personal, collectible, and instantly eye-catching. No city names or specific landmarks, no duplicated pins, no clutter, no random text, no misspellings, no cheap cartoon or plastic appearance.
 ```
 
 </details>

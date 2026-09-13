@@ -1,0 +1,149 @@
+{
+  "id": "annotated-fashion-lookbook",
+  "title": {
+    "en": "An annotated fashion lookbook",
+    "zh-CN": "服装单品箭头标注画册",
+    "zh-TW": "附註解的時尚造型手冊",
+    "ja": "注釈付きのファッション ルックブック",
+    "ko": "주석이 달린 패션 룩북",
+    "fr": "Un lookbook mode annoté",
+    "de": "Ein kommentiertes Mode-Lookbook",
+    "es": "Un lookbook de moda comentado",
+    "pt-BR": "Um lookbook de moda anotado"
+  },
+  "summary": {
+    "en": "Place readable garment labels around a full-body outfit with a clear catalog hierarchy.",
+    "zh-CN": "在全身穿搭周围添加清晰的服装标签与箭头，建立画册信息层级。",
+    "zh-TW": "在全身穿搭周圍添加清晰的服裝標籤與箭頭，建立畫冊信息層級。",
+    "ja": "明確なカタログ階層を使用して、全身服の周囲に読みやすい衣類ラベルを配置します。",
+    "ko": "명확한 카탈로그 계층 구조를 통해 전신 의상 주위에 판독 가능한 의류 라벨을 배치합니다.",
+    "fr": "Placez des étiquettes de vêtements lisibles autour d'une tenue complète avec une hiérarchie de catalogue claire.",
+    "de": "Platzieren Sie lesbare Kleidungsetiketten mit einer klaren Kataloghierarchie rund um ein Ganzkörperoutfit.",
+    "es": "Coloque etiquetas de prendas legibles alrededor de un conjunto de cuerpo completo con una jerarquía de catálogo clara.",
+    "pt-BR": "Coloque etiquetas de roupas legíveis em torno de uma roupa de corpo inteiro com uma hierarquia de catálogo clara."
+  },
+  "category": "products",
+  "tags": [
+    "design",
+    "fashion",
+    "layout",
+    "typography"
+  ],
+  "mode": "generate",
+  "model": {
+    "family": "GPT Image 2.5",
+    "variant": "sunburst",
+    "evidence_url": "https://x.com/LiEvanna85716/status/2097663816339427547",
+    "evidence": "The creator explicitly attributes this result to GPT Image 2.5 in the linked primary source. This is source attribution, not an independent model test."
+  },
+  "prompt": {
+    "kind": "original",
+    "steps": [
+      {
+        "en": "Create a clean fashion e-commerce lookbook poster featuring a young female model in a cute, simple autumn outfit.\nUse a soft pastel pink, blue and lavender gradient background. Keep the overall design minimal, clean and slightly playful, like a modern Korean/Japanese fashion catalog.\n\nShow the full-body model as the main focus, with realistic skin, natural proportions and clear clothing details. The outfit should be simple and wearable: cardigan or hoodie, fitted top, shorts or pleated skirt, socks and sneakers/Mary Jane shoes.\n\nAdd handwritten English annotations with thin arrows pointing to individual clothing pieces, such as “Cardigan”, “Polo Shirt”, “Shorts”, “Sneakers” and “Bag”.\n\nAdd a bold English fashion headline at the top: “AUTUMN DAILY OUTFIT”, plus a few small decorative English phrases such as “NEW SEASON 2026”, “SIMPLE · COMFY · BETTER ME” and “OUTFIT IDEAS FOR A BRIGHTER YOU”.\n\nUse a structured rectangular frame around the main content, subtle rounded corners, plenty of negative space, and only a few minimal heart/star doodles.\n\nThe final image should feel like a polished fashion e-commerce campaign poster — minimal, youthful, realistic, highly readable typography, clean product presentation, not cluttered, with the outfit as the visual focus.\n\nVertical 3:4 composition, high-resolution commercial fashion photography.",
+        "zh-CN": "创建一个干净的时尚电子商务画册海报，其中有一位穿着可爱、简单的秋季服装的年轻女模特。\n使用柔和的粉色、蓝色和淡紫色渐变背景。保持整体设计简约、干净且略带俏皮，就像现代韩国/日本时装目录一样。\n\n以全身模特为主，皮肤逼真，比例自然，服装细节清晰。服装应简单且适合日常穿着：开衫或连帽衫、合身上衣、短裤或百褶裙、袜子和运动鞋/玛丽珍鞋。\n\n添加手写英文注释，细箭头指向单件衣服，例如“Cardigan”、“Polo Shirt”、“Shorts”、“Sneakers”和“Bag”。\n\n在顶部添加一个大胆的英文时尚标题：“AUTUMN DAILY OUTFIT”，再加上一些小的装饰性英文短语，例如“NEW SEASON 2026”、“SIMPLE · COMFY · BETTER ME”和“OUTFIT IDEAS FOR A BRIGHTER YOU”。\n\n在主要内容周围使用结构化的矩形框架、微妙的圆角、大量的负空间以及一些最小的心形/星形涂鸦。\n\n最终的图像应该感觉像一张精美的时尚电子商务活动海报——简约、年轻、真实、高度可读的排版、干净的产品展示、不凌乱、以服装为视觉焦点。\n\n3:4垂直构图，高分辨率商业时尚摄影。",
+        "zh-TW": "創建一個乾淨的時尚電子商務畫冊海報，其中有一位穿著可愛、簡單的秋季服裝的年輕女模特。\n使用柔和的粉色、藍色和淡紫色漸變背景。保持整體設計簡約、乾淨且略帶俏皮，就像現代韓國/日本時裝目錄一樣。\n\n以全身模特為主，皮膚逼真，比例自然，服裝細節清晰。服裝應簡單且適合日常穿著：開衫或連帽衫、合身上衣、短褲或百褶裙、襪子和運動鞋/瑪麗珍鞋。\n\n添加手寫英文注釋，細箭頭指向單件衣服，例如“Cardigan”、“Polo Shirt”、“Shorts”、“Sneakers”和“Bag”。\n\n在頂部添加一個大膽的英文時尚標題：“AUTUMN DAILY OUTFIT”，再加上一些小的裝飾性英文短語，例如“NEW SEASON 2026”、“SIMPLE · COMFY · BETTER ME”和“OUTFIT IDEAS FOR A BRIGHTER YOU”。\n\n在主要內容周圍使用結構化的矩形框架、微妙的圓角、大量的負空間以及一些最小的心形/星形塗鴉。\n\n最終的圖像應該感覺像一張精美的時尚電子商務活動海報——簡約、年輕、真實、高度可讀的排版、乾淨的產品展示、不凌亂、以服裝為視覺焦點。\n\n3:4垂直構圖，高分辨率商業時尚攝影。",
+        "ja": "キュートでシンプルな秋の衣装を着た若い女性モデルをフィーチャーしたクリーンなファッション e コマース ルックブック ポスターを作成します。\n柔らかいパステル ピンク、ブルー、ラベンダーのグラデーション背景を使用します。全体的なデザインは、モダンな韓国/日本のファッションカタログのように、ミニマルでクリーン、そして少し遊び心のあるデザインに保ちます。\n\nリアルな肌、自然なプロポーション、明確な衣服の詳細を備えた全身モデルを主な焦点として表示します。服装はシンプルで着やすいものでなければなりません：カーディガンまたはパーカー、フィットしたトップス、ショートパンツまたはプリーツスカート、靴下とスニーカー/メリージェーンシューズ。\n\n「Cardigan」、「Polo Shirt」、「Shorts」、「Sneakers」、「Bag」など、個々の衣類を指す細い矢印が付いた手書きの英語の注釈を追加します。\n\n上部に大胆な英語のファッション見出し「AUTUMN DAILY OUTFIT」を追加し、さらに「NEW SEASON 2026」、「SIMPLE · COMFY · BETTER ME」、「OUTFIT IDEAS FOR A BRIGHTER YOU」などの小さな装飾的な英語のフレーズをいくつか追加します。\n\nメインコンテンツの周囲には構造化された長方形のフレームを使用し、微妙に丸みを帯びた角、十分なネガティブスペースを使用し、ハートや星の落書きは最小限に抑えます。\n\n最終的な画像は、洗練されたファッション e コマース キャンペーン ポスターのように感じられるはずです。ミニマルで、若々しく、リアルで、可読性の高いタイポグラフィー、すっきりとした商品のプレゼンテーション、乱雑ではなく、服装が視覚的な焦点になっています。\n\n縦型 3:4 構図、高解像度の商業ファッション写真。",
+        "ko": "귀엽고 심플한 가을 의상을 입은 젊은 여성 모델이 등장하는 깔끔한 패션 전자상거래 룩북 포스터를 만들어보세요.\n부드러운 파스텔 핑크, 블루, 라벤더 그라데이션 배경을 사용하세요. 현대 한국/일본 패션 카탈로그처럼 전체 디자인을 최소화하고 깔끔하고 약간 유쾌하게 유지하세요.\n\n사실적인 피부, 자연스러운 비율, 선명한 의상 디테일을 갖춘 전신 모델을 주요 초점으로 보여줍니다. 복장은 단순하고 착용 가능해야 합니다. 카디건 또는 후드티, 꼭 맞는 상의, 반바지 또는 주름 치마, 양말 및 운동화/메리 제인 신발.\n\n\"Cardigan\", \"Polo Shirt\", \"Shorts\", \"Sneakers\" 및 \"Bag\"와 같이 개별 의류를 가리키는 얇은 화살표가 있는 손으로 쓴 영어 주석을 추가합니다.\n\n상단에 굵은 영어 패션 헤드라인 \"AUTUMN DAILY OUTFIT\"를 추가하고 \"NEW SEASON 2026\", \"SIMPLE · COMFY · BETTER ME\" 및 \"OUTFIT IDEAS FOR A BRIGHTER YOU\"와 같은 몇 가지 작은 장식 영어 문구를 추가합니다.\n\n기본 콘텐츠 주위에 구조화된 직사각형 프레임, 은은하게 둥근 모서리, 충분한 여백, 최소한의 하트/별 기념일 로고를 사용하세요.\n\n최종 이미지는 세련된 패션 전자 상거래 캠페인 포스터처럼 느껴져야 합니다. 미니멀하고, 젊고, 현실적이며, 읽기 쉬운 타이포그래피, 깔끔한 제품 프레젠테이션, 시각적 초점이 의상에 포함되어 있어야 합니다.\n\n수직형 3:4 구도, 고해상도 상업 패션 사진.",
+        "fr": "Créez une affiche lookbook e-commerce de mode épurée mettant en vedette une jeune mannequin féminine dans une tenue d'automne simple et mignonne.\nUtilisez un fond dégradé rose pastel, bleu et lavande. Gardez le design général minimal, épuré et légèrement ludique, comme un catalogue de mode coréen/japonais moderne.\n\nMontrez le modèle complet du corps comme objectif principal, avec une peau réaliste, des proportions naturelles et des détails vestimentaires clairs. La tenue doit être simple et portable : cardigan ou sweat à capuche, haut ajusté, short ou jupe plissée, chaussettes et baskets/chaussures Mary Jane.\n\nAjoutez des annotations manuscrites en anglais avec de fines flèches pointant vers des vêtements individuels, telles que « Cardigan », « Polo Shirt », « Shorts », « Sneakers » et « Bag ».\n\nAjoutez un titre de mode anglais audacieux en haut : « AUTUMN DAILY OUTFIT », ainsi que quelques petites phrases anglaises décoratives telles que « NEW SEASON 2026 », « SIMPLE · COMFY · BETTER ME » et « OUTFIT IDEAS FOR A BRIGHTER YOU ».\n\nUtilisez un cadre rectangulaire structuré autour du contenu principal, des coins arrondis subtils, beaucoup d'espace négatif et seulement quelques gribouillages minimes en forme de cœur/étoile.\n\nL'image finale doit ressembler à une affiche de campagne de commerce électronique de mode soignée : typographie minimale, jeune, réaliste et très lisible, présentation du produit propre, non encombrée, avec la tenue comme point visuel.\n\nComposition verticale 3:4, photographie de mode commerciale haute résolution.",
+        "de": "Erstellen Sie ein klares Mode-E-Commerce-Lookbook-Poster mit einem jungen weiblichen Model in einem süßen, einfachen Herbstoutfit.\nVerwenden Sie einen sanften Hintergrund mit Farbverlauf in Pastellrosa, Blau und Lavendel. Halten Sie das Gesamtdesign minimal, klar und leicht verspielt, wie ein moderner koreanisch-japanischer Modekatalog.\n\nZeigen Sie das Ganzkörpermodell im Mittelpunkt, mit realistischer Haut, natürlichen Proportionen und klaren Kleidungsdetails. Das Outfit sollte schlicht und tragbar sein: Strickjacke oder Kapuzenpullover, figurbetontes Oberteil, Shorts oder Faltenrock, Socken und Turnschuhe/Mary-Jane-Schuhe.\n\nFügen Sie handgeschriebene englische Anmerkungen mit dünnen Pfeilen hinzu, die auf einzelne Kleidungsstücke zeigen, z. B. „Cardigan“, „Polo Shirt“, „Shorts“, „Sneakers“ und „Bag“.\n\nFügen Sie oben eine fette englische Modeüberschrift hinzu: „AUTUMN DAILY OUTFIT“ sowie ein paar kleine dekorative englische Phrasen wie „NEW SEASON 2026“, „SIMPLE · COMFY · BETTER ME“ und „OUTFIT IDEAS FOR A BRIGHTER YOU“.\n\nVerwenden Sie einen strukturierten rechteckigen Rahmen um den Hauptinhalt, dezent abgerundete Ecken, viel Negativraum und nur ein paar minimale Herz-/Sternkritzeleien.\n\nDas endgültige Bild sollte sich wie ein elegantes Poster für eine E-Commerce-Modekampagne anfühlen – minimalistisch, jugendlich, realistisch, gut lesbare Typografie, klare Produktpräsentation, nicht überladen, mit dem Outfit als visuellem Schwerpunkt.\n\nVertikale 3:4-Komposition, hochauflösende kommerzielle Modefotografie.",
+        "es": "Crea un póster de lookbook de comercio electrónico de moda limpio que muestre a una joven modelo con un lindo y sencillo atuendo otoñal.\nUtilice un fondo degradado suave en rosa pastel, azul y lavanda. Mantenga el diseño general minimalista, limpio y ligeramente divertido, como un catálogo de moda coreano/japonés moderno.\n\nMuestre el modelo de cuerpo completo como foco principal, con piel realista, proporciones naturales y detalles claros de la ropa. El conjunto debe ser sencillo y ponible: cárdigan o sudadera con capucha, top ajustado, pantalones cortos o falda plisada, calcetines y zapatillas deportivas/zapatos Mary Jane.\n\nAgregue anotaciones escritas a mano en inglés con flechas finas que apunten a prendas individuales, como “Cardigan”, “Polo Shirt”, “Shorts”, “Sneakers” y “Bag”.\n\nAñade un título de moda en inglés en negrita en la parte superior: “AUTUMN DAILY OUTFIT”, además de algunas pequeñas frases decorativas en inglés como “NEW SEASON 2026”, “SIMPLE · COMFY · BETTER ME” y “OUTFIT IDEAS FOR A BRIGHTER YOU”.\n\nUtilice un marco rectangular estructurado alrededor del contenido principal, esquinas redondeadas sutiles, mucho espacio negativo y solo unos pocos garabatos mínimos de corazones o estrellas.\n\nLa imagen final debe parecer un póster pulido de una campaña de comercio electrónico de moda: tipografía minimalista, juvenil, realista y muy legible, presentación del producto limpia, no abarrotada, con el atuendo como foco visual.\n\nComposición vertical 3:4, fotografía de moda comercial de alta resolución.",
+        "pt-BR": "Crie um pôster de lookbook de comércio eletrônico de moda limpa apresentando uma jovem modelo em uma roupa de outono simples e fofa.\nUse um fundo gradiente suave de rosa pastel, azul e lavanda. Mantenha o design geral mínimo, limpo e ligeiramente divertido, como um catálogo de moda coreano/japonês moderno.\n\nMostre o modelo de corpo inteiro como foco principal, com pele realista, proporções naturais e detalhes claros das roupas. O look deve ser simples e usável: cardigã ou moletom, top justo, shorts ou saia plissada, meias e tênis/sapatos Mary Jane.\n\nAdicione anotações manuscritas em inglês com setas finas apontando para peças de roupa individuais, como “Cardigan”, “Polo Shirt”, “Shorts”, “Sneakers” e “Bag”.\n\nAdicione um título de moda em inglês no topo: “AUTUMN DAILY OUTFIT”, além de algumas pequenas frases decorativas em inglês, como “NEW SEASON 2026”, “SIMPLE · COMFY · BETTER ME” e “OUTFIT IDEAS FOR A BRIGHTER YOU”.\n\nUse uma moldura retangular estruturada em torno do conteúdo principal, cantos arredondados sutis, bastante espaço negativo e apenas alguns rabiscos mínimos de coração/estrela.\n\nA imagem final deve parecer um pôster de campanha de comércio eletrônico de moda sofisticado - tipografia minimalista, jovem, realista e altamente legível, apresentação de produto limpa, desordenada, com a roupa como foco visual.\n\nComposição vertical 3:4, fotografia de moda comercial de alta resolução."
+      }
+    ],
+    "original_language": "en",
+    "original_steps": [
+      "Create a clean fashion e-commerce lookbook poster featuring a young female model in a cute, simple autumn outfit.\nUse a soft pastel pink, blue and lavender gradient background. Keep the overall design minimal, clean and slightly playful, like a modern Korean/Japanese fashion catalog.\n\nShow the full-body model as the main focus, with realistic skin, natural proportions and clear clothing details. The outfit should be simple and wearable: cardigan or hoodie, fitted top, shorts or pleated skirt, socks and sneakers/Mary Jane shoes.\n\nAdd handwritten English annotations with thin arrows pointing to individual clothing pieces, such as “Cardigan”, “Polo Shirt”, “Shorts”, “Sneakers” and “Bag”.\n\nAdd a bold English fashion headline at the top: “AUTUMN DAILY OUTFIT”, plus a few small decorative English phrases such as “NEW SEASON 2026”, “SIMPLE · COMFY · BETTER ME” and “OUTFIT IDEAS FOR A BRIGHTER YOU”.\n\nUse a structured rectangular frame around the main content, subtle rounded corners, plenty of negative space, and only a few minimal heart/star doodles.\n\nThe final image should feel like a polished fashion e-commerce campaign poster — minimal, youthful, realistic, highly readable typography, clean product presentation, not cluttered, with the outfit as the visual focus.\n\nVertical 3:4 composition, high-resolution commercial fashion photography."
+    ],
+    "preserved_literals": [
+      "Cardigan",
+      "Polo Shirt",
+      "Shorts",
+      "Sneakers",
+      "Bag",
+      "AUTUMN DAILY OUTFIT",
+      "NEW SEASON 2026",
+      "SIMPLE · COMFY · BETTER ME",
+      "OUTFIT IDEAS FOR A BRIGHTER YOU"
+    ]
+  },
+  "inputs": [],
+  "notes": [
+    {
+      "en": "Replace garment names and outfit details together so arrows match the actual clothing. Preserve the quoted English copy if you want the original design. Review every label and arrow; the example does not establish product accuracy. The first result shows two figures and changes some requested headline wording.",
+      "zh-CN": "同步替换服装名称与款式细节，使箭头对应实际衣物。如需复用原版文字，请保留引号内英文。逐个核对标签和箭头；该示例不证明商品还原准确。首张结果出现两个人物，并改写了部分指定标题。",
+      "zh-TW": "同步替換服裝名稱與款式細節，使箭頭對應實際衣物。如需復用原版文字，請保留引號內英文。逐個核對標籤和箭頭；該示例不證明商品還原準確。首張結果出現兩個人物，並改寫了部分指定標題。",
+      "ja": "矢印が実際の衣服と一致するように、衣服の名前と衣装の詳細を一緒に置き換えます。オリジナルのデザインが必要な場合は、引用された英語のコピーを保存してください。すべてのラベルと矢印を確認してください。この例は製品の精度を確立するものではありません。最初の結果には 2 つの図が表示され、要求された見出しの文言が一部変更されています。",
+      "ko": "화살표가 실제 의복과 일치하도록 의복 이름과 의상 세부 정보를 함께 바꾸십시오. 원본 디자인을 원하시면 인용된 영문 사본을 보존하세요. 모든 라벨과 화살표를 검토하세요. 이 예는 제품의 정확성을 확립하지 않습니다. 첫 번째 결과에는 두 개의 숫자가 표시되고 일부 요청된 헤드라인 문구가 변경되었습니다.",
+      "fr": "Remplacez les noms des vêtements et les détails de la tenue afin que les flèches correspondent aux vêtements réels. Conservez la copie anglaise citée si vous souhaitez le design original. Examinez chaque étiquette et chaque flèche ; l'exemple n'établit pas l'exactitude du produit. Le premier résultat montre deux chiffres et modifie certaines formulations de titres demandées.",
+      "de": "Ersetzen Sie Kleidungsstücknamen und Outfitdetails miteinander, sodass die Pfeile mit der tatsächlichen Kleidung übereinstimmen. Bewahren Sie die zitierte englische Kopie auf, wenn Sie das Originaldesign wünschen. Überprüfen Sie jedes Etikett und jeden Pfeil. Das Beispiel stellt keine Produktgenauigkeit dar. Das erste Ergebnis zeigt zwei Zahlen und ändert einige gewünschte Überschriftenformulierungen.",
+      "es": "Reemplace los nombres de las prendas y los detalles de la vestimenta para que las flechas coincidan con la ropa real. Conserve la copia en inglés citada si desea el diseño original. Revise cada etiqueta y flecha; el ejemplo no establece la precisión del producto. El primer resultado muestra dos cifras y cambia algunas palabras solicitadas del titular.",
+      "pt-BR": "Substitua os nomes das roupas e os detalhes das roupas para que as setas correspondam às roupas reais. Preserve a cópia citada em inglês se desejar o design original. Revise cada rótulo e seta; o exemplo não estabelece a precisão do produto. O primeiro resultado mostra duas figuras e altera algumas palavras solicitadas do título."
+    }
+  ],
+  "source": {
+    "platform": "x",
+    "author": "LiEvanna85716",
+    "url": "https://x.com/LiEvanna85716/status/2097663816339427547",
+    "prompt_url": "https://x.com/LiEvanna85716/status/2097663816339427547",
+    "checked_at": "2026-09-13T17:54:27.409Z",
+    "status": "source-checked",
+    "disclosure": null,
+    "post_language": "zh"
+  },
+  "previews": [
+    {
+      "url": "https://pbs.twimg.com/media/HRxjvncaQAAIuVQ.jpg",
+      "kind": "source-result",
+      "credit": "LiEvanna85716 — source result",
+      "source_url": "https://x.com/LiEvanna85716/status/2097663816339427547"
+    }
+  ],
+  "references": [],
+  "engagement": {
+    "likes": 4,
+    "reposts": null,
+    "replies": 0,
+    "bookmarks": null,
+    "views": null,
+    "observed_at": "2026-09-13T17:22:12.769876+00:00",
+    "source_url": "https://x.com/LiEvanna85716/status/2097663816339427547",
+    "method": "X public embed counters; only available exact integers are recorded. Missing counters remain null."
+  },
+  "verification": {
+    "independently_tested": false,
+    "test_url": null
+  },
+  "rights": {
+    "status": "third-party-terms",
+    "note": "Original prompts and linked media remain subject to their source terms. Attribution does not grant a license to source inputs or results."
+  },
+  "curation": {
+    "version": 1,
+    "reviewed_at": "2026-09-13T17:54:27.409Z",
+    "decision": "publish",
+    "content_flags": [],
+    "educational": false,
+    "ratings": {
+      "reuse": 4,
+      "result": 2,
+      "usefulness": 4,
+      "clarity": 4,
+      "distinctiveness": 3
+    },
+    "rationale": "Garment arrows and catalog hierarchy are visible, but the first source output shows two figures and does not reproduce every requested headline phrase exactly. Result score reduced; no guaranteed product-label fidelity."
+  },
+  "translation_meta": {
+    "source_digest": "df3297844514dff6792b7cc8c393f826f9f8039019cdb8f3d6f9881acac5acfe",
+    "text_digests": {
+      "zh-CN": "7de133e4e66974cf00bad7f6eae7e30c32a49be39607ef6d02c9056e488ebf7f",
+      "zh-TW": "b84aa4992b3e641c40e92bcdc94bc98e3a0e221353a5a91bc2a009c9adecd12a",
+      "ja": "09ab7b000f51ab9a44fa81871d94ee5f121ac3a89ed22812110b3c4d70d2f044",
+      "ko": "cadfdfeb238b7b6d6958e8b511e2d528c2fc726b1d23ff0c1f49c776a53326fb",
+      "fr": "3da1a28c413506a6bf3e748bf44ea3f55f9be98b525244b1497774c177cbc766",
+      "de": "5720b20db407847703f623fe4d67771f222880aa99ccf805c1684462e8648cf7",
+      "es": "b8bdd226f4d242ab2a033dea4de5fd808744beca80db87ebcace3062f98e8a6c",
+      "pt-BR": "6bdaa9f6c48956f2382273f933d936e3cd01c733cc29375a2efb223e18750392"
+    }
+  }
+}
